@@ -1,0 +1,137 @@
+{
+  "recipes": [
+    {
+      "id": "tofu-champuru",
+      "name": "豆腐チャンプルー",
+      "description": "沖縄風の炒め物。豆腐でたんぱく質たっぷり",
+      "mainCategories": ["tofu", "egg", "vegetable"],
+      "cookingTime": 15,
+      "difficulty": "easy",
+      "costLevel": 1,
+      "nutrition": { "protein": "high", "fiber": "medium" },
+      "tags": ["節約", "時短", "高たんぱく"]
+    },
+    {
+      "id": "natto-pasta",
+      "name": "納豆パスタ",
+      "description": "和風パスタ。納豆で手軽にたんぱく質補給",
+      "mainCategories": ["tofu", "noodle"],
+      "cookingTime": 15,
+      "difficulty": "easy",
+      "costLevel": 1,
+      "nutrition": { "protein": "high", "fiber": "high" },
+      "tags": ["節約", "時短", "発酵食品"]
+    },
+    {
+      "id": "mapo-tofu",
+      "name": "麻婆豆腐",
+      "description": "ご飯がすすむ中華の定番",
+      "mainCategories": ["tofu", "meat"],
+      "cookingTime": 20,
+      "difficulty": "easy",
+      "costLevel": 2,
+      "nutrition": { "protein": "high" },
+      "tags": ["ご飯に合う", "ピリ辛"]
+    },
+    {
+      "id": "vegetable-soup",
+      "name": "野菜たっぷりスープ",
+      "description": "冷蔵庫の野菜を使い切り",
+      "mainCategories": ["vegetable", "canned"],
+      "cookingTime": 25,
+      "difficulty": "easy",
+      "costLevel": 1,
+      "nutrition": { "fiber": "high", "vitamin": "high" },
+      "tags": ["節約", "ヘルシー", "作り置き"]
+    },
+    {
+      "id": "tuna-salad",
+      "name": "ツナサラダ",
+      "description": "缶詰で手軽に。野菜もたっぷり",
+      "mainCategories": ["canned", "vegetable"],
+      "cookingTime": 10,
+      "difficulty": "easy",
+      "costLevel": 1,
+      "nutrition": { "protein": "medium", "fiber": "high" },
+      "tags": ["時短", "ヘルシー"]
+    },
+    {
+      "id": "udon-nabe",
+      "name": "鍋焼きうどん",
+      "description": "一人鍋で手軽に温まる",
+      "mainCategories": ["noodle", "vegetable", "egg"],
+      "cookingTime": 20,
+      "difficulty": "easy",
+      "costLevel": 2,
+      "nutrition": { "carbs": "high", "protein": "medium" },
+      "tags": ["温まる", "一人ご飯"]
+    },
+    {
+      "id": "frozen-vegetable-stir-fry",
+      "name": "冷凍野菜の中華炒め",
+      "description": "冷凍野菜で時短＆節約",
+      "mainCategories": ["frozen", "meat"],
+      "cookingTime": 15,
+      "difficulty": "easy",
+      "costLevel": 2,
+      "nutrition": { "fiber": "medium", "protein": "medium" },
+      "tags": ["時短", "節約"]
+    },
+    {
+      "id": "egg-rice",
+      "name": "卵かけご飯",
+      "description": "究極の時短＆節約メニュー",
+      "mainCategories": ["egg", "rice"],
+      "cookingTime": 3,
+      "difficulty": "easy",
+      "costLevel": 1,
+      "nutrition": { "protein": "medium", "carbs": "high" },
+      "tags": ["超時短", "節約", "朝ごはん"]
+    },
+    {
+      "id": "miso-soup",
+      "name": "具だくさん味噌汁",
+      "description": "野菜と豆腐で栄養満点",
+      "mainCategories": ["tofu", "vegetable", "seasoning"],
+      "cookingTime": 15,
+      "difficulty": "easy",
+      "costLevel": 1,
+      "nutrition": { "protein": "medium", "fiber": "high" },
+      "tags": ["定番", "ヘルシー", "発酵食品"]
+    },
+    {
+      "id": "canned-curry",
+      "name": "缶詰カレー",
+      "description": "サバ缶やツナ缶でヘルシーカレー",
+      "mainCategories": ["canned", "vegetable", "rice"],
+      "cookingTime": 25,
+      "difficulty": "easy",
+      "costLevel": 2,
+      "nutrition": { "protein": "high", "fiber": "medium" },
+      "tags": ["作り置き", "アレンジ自在"]
+    },
+    {
+      "id": "cold-tofu",
+      "name": "冷奴",
+      "description": "夏の定番。トッピングでアレンジ",
+      "mainCategories": ["tofu"],
+      "cookingTime": 5,
+      "difficulty": "easy",
+      "costLevel": 1,
+      "nutrition": { "protein": "high" },
+      "tags": ["超時短", "節約", "夏向き"]
+    },
+    {
+      "id": "vegetable-omelette",
+      "name": "野菜オムレツ",
+      "description": "余り野菜を卵で包んで",
+      "mainCategories": ["egg", "vegetable"],
+      "cookingTime": 15,
+      "difficulty": "medium",
+      "costLevel": 1,
+      "nutrition": { "protein": "high", "fiber": "medium" },
+      "tags": ["朝ごはん", "お弁当"]
+    }
+  ],
+  "generatedAt": "2026-03-16T00:00:00.000Z"
+}

@@ -1,0 +1,104 @@
+{
+  "chains": [
+    {
+      "id": "seven",
+      "name": "セブンイレブン",
+      "type": "convenience",
+      "icon": "🏪",
+      "officialUrl": "https://www.sej.co.jp/",
+      "campaignPageUrl": "https://www.sej.co.jp/cmp/",
+      "availablePrefectures": ["26", "27", "28", "29"]
+    },
+    {
+      "id": "lawson",
+      "name": "ローソン",
+      "type": "convenience",
+      "icon": "🏪",
+      "officialUrl": "https://www.lawson.co.jp/",
+      "campaignPageUrl": "https://www.lawson.co.jp/recommend/",
+      "availablePrefectures": ["26", "27", "28", "29"]
+    },
+    {
+      "id": "familymart",
+      "name": "ファミリーマート",
+      "type": "convenience",
+      "icon": "🏪",
+      "officialUrl": "https://www.family.co.jp/",
+      "campaignPageUrl": "https://www.family.co.jp/campaign.html",
+      "availablePrefectures": ["26", "27", "28", "29"]
+    },
+    {
+      "id": "aeon",
+      "name": "イオン",
+      "type": "supermarket",
+      "icon": "🛒",
+      "officialUrl": "https://www.aeon.com/",
+      "salePageUrl": "https://chirashi.otoku.aeonsquare.net/",
+      "availablePrefectures": ["26", "27", "28", "29"]
+    },
+    {
+      "id": "life",
+      "name": "ライフ",
+      "type": "supermarket",
+      "icon": "🛒",
+      "officialUrl": "https://www.lifecorp.jp/",
+      "salePageUrl": "https://www.lifecorp.jp/store/",
+      "availablePrefectures": ["26", "27", "28", "29"]
+    },
+    {
+      "id": "hankyu_oasis",
+      "name": "阪急オアシス",
+      "type": "supermarket",
+      "icon": "🛒",
+      "officialUrl": "https://www.hankyu-oasis.com/",
+      "salePageUrl": "https://www.hankyu-oasis.com/store/",
+      "availablePrefectures": ["26", "27", "28"]
+    },
+    {
+      "id": "fresco",
+      "name": "フレスコ",
+      "type": "supermarket",
+      "icon": "🛒",
+      "officialUrl": "https://www.super-fresco.co.jp/",
+      "salePageUrl": "https://www.super-fresco.co.jp/store/",
+      "availablePrefectures": ["26", "27", "28"]
+    },
+    {
+      "id": "kohyo",
+      "name": "KOHYO",
+      "type": "supermarket",
+      "icon": "🛒",
+      "officialUrl": "https://www.kohyo.co.jp/",
+      "salePageUrl": "https://www.kohyo.co.jp/store/",
+      "availablePrefectures": ["26", "27", "28", "29"]
+    },
+    {
+      "id": "mandai",
+      "name": "万代",
+      "type": "supermarket",
+      "icon": "🛒",
+      "officialUrl": "https://www.mandai-net.co.jp/",
+      "salePageUrl": "https://www.mandai-net.co.jp/store/",
+      "availablePrefectures": ["26", "27", "28", "29"]
+    },
+    {
+      "id": "trial",
+      "name": "トライアル",
+      "type": "discount",
+      "icon": "🏷️",
+      "officialUrl": "https://www.trial-net.co.jp/",
+      "salePageUrl": "https://www.trial-net.co.jp/store/",
+      "availablePrefectures": ["26", "27", "28", "29"]
+    },
+    {
+      "id": "gyomu",
+      "name": "業務スーパー",
+      "type": "discount",
+      "icon": "🏷️",
+      "officialUrl": "https://www.gyomusuper.jp/",
+      "salePageUrl": "https://www.gyomusuper.jp/shop/",
+      "availablePrefectures": ["26", "27", "28", "29"]
+    }
+  ],
+  "updatedAt": "2025-03-01T00:00:00Z"
+}

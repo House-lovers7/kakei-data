@@ -1,0 +1,280 @@
+{
+  "categories": [
+    {
+      "id": "rice",
+      "name": "米",
+      "icon": "🍚",
+      "description": "白米・玄米・パックご飯",
+      "products": [
+        { "name": "白米（5kg）", "defaultQuantity": 5000, "unit": "g" },
+        { "name": "白米（10kg）", "defaultQuantity": 10000, "unit": "g" },
+        { "name": "無洗米（5kg）", "defaultQuantity": 5000, "unit": "g" },
+        { "name": "玄米（5kg）", "defaultQuantity": 5000, "unit": "g" },
+        { "name": "もち米", "defaultQuantity": 1000, "unit": "g" },
+        { "name": "パックご飯（3食）", "defaultQuantity": 600, "unit": "g" },
+        { "name": "パックご飯（10食）", "defaultQuantity": 2000, "unit": "g" },
+        { "name": "おかゆパック", "defaultQuantity": 250, "unit": "g" },
+        { "name": "雑穀米", "defaultQuantity": 500, "unit": "g" },
+        { "name": "オートミール（1kg）", "defaultQuantity": 1000, "unit": "g" }
+      ]
+    },
+    {
+      "id": "bread",
+      "name": "パン",
+      "icon": "🍞",
+      "description": "食パン・ロールパン",
+      "products": [
+        { "name": "食パン（6枚切）", "defaultQuantity": 360, "unit": "g" },
+        { "name": "食パン（8枚切）", "defaultQuantity": 360, "unit": "g" },
+        { "name": "ロールパン（6個）", "defaultQuantity": 180, "unit": "g" },
+        { "name": "フランスパン", "defaultQuantity": 250, "unit": "g" },
+        { "name": "クロワッサン（4個）", "defaultQuantity": 160, "unit": "g" },
+        { "name": "ベーグル（4個）", "defaultQuantity": 280, "unit": "g" },
+        { "name": "全粒粉パン", "defaultQuantity": 360, "unit": "g" },
+        { "name": "ライ麦パン", "defaultQuantity": 360, "unit": "g" },
+        { "name": "イングリッシュマフィン（4個）", "defaultQuantity": 240, "unit": "g" },
+        { "name": "強力粉（1kg）", "defaultQuantity": 1000, "unit": "g" }
+      ]
+    },
+    {
+      "id": "noodle",
+      "name": "麺",
+      "icon": "🍜",
+      "description": "うどん・そば・パスタ",
+      "products": [
+        { "name": "うどん（乾麺）", "defaultQuantity": 400, "unit": "g" },
+        { "name": "そば（乾麺）", "defaultQuantity": 400, "unit": "g" },
+        { "name": "パスタ（乾麺）", "defaultQuantity": 500, "unit": "g" },
+        { "name": "中華麺（生）", "defaultQuantity": 300, "unit": "g" },
+        { "name": "冷凍うどん（5食）", "defaultQuantity": 1000, "unit": "g" },
+        { "name": "冷凍パスタ", "defaultQuantity": 300, "unit": "g" },
+        { "name": "カップ麺", "defaultQuantity": 100, "unit": "g" },
+        { "name": "袋麺（5食）", "defaultQuantity": 500, "unit": "g" },
+        { "name": "そうめん", "defaultQuantity": 400, "unit": "g" },
+        { "name": "ビーフン", "defaultQuantity": 150, "unit": "g" }
+      ]
+    },
+    {
+      "id": "egg",
+      "name": "卵",
+      "icon": "🥚",
+      "description": "鶏卵・うずら卵",
+      "products": [
+        { "name": "卵（10個）", "defaultQuantity": 10, "unit": "piece" },
+        { "name": "卵（6個）", "defaultQuantity": 6, "unit": "piece" },
+        { "name": "うずら卵（10個）", "defaultQuantity": 10, "unit": "piece" },
+        { "name": "温泉卵（4個）", "defaultQuantity": 4, "unit": "piece" },
+        { "name": "卵豆腐（3個）", "defaultQuantity": 3, "unit": "piece" },
+        { "name": "厚焼き卵", "defaultQuantity": 200, "unit": "g" },
+        { "name": "半熟卵（2個）", "defaultQuantity": 2, "unit": "piece" },
+        { "name": "卵（20個）", "defaultQuantity": 20, "unit": "piece" }
+      ]
+    },
+    {
+      "id": "dairy",
+      "name": "乳製品",
+      "icon": "🥛",
+      "description": "牛乳・ヨーグルト・チーズ",
+      "products": [
+        { "name": "牛乳（1L）", "defaultQuantity": 1000, "unit": "ml" },
+        { "name": "低脂肪乳（1L）", "defaultQuantity": 1000, "unit": "ml" },
+        { "name": "ヨーグルト（400g）", "defaultQuantity": 400, "unit": "g" },
+        { "name": "飲むヨーグルト", "defaultQuantity": 900, "unit": "ml" },
+        { "name": "スライスチーズ（7枚）", "defaultQuantity": 126, "unit": "g" },
+        { "name": "とろけるチーズ", "defaultQuantity": 130, "unit": "g" },
+        { "name": "バター（200g）", "defaultQuantity": 200, "unit": "g" },
+        { "name": "マーガリン（300g）", "defaultQuantity": 300, "unit": "g" },
+        { "name": "生クリーム", "defaultQuantity": 200, "unit": "ml" },
+        { "name": "クリームチーズ", "defaultQuantity": 200, "unit": "g" }
+      ]
+    },
+    {
+      "id": "meat",
+      "name": "肉",
+      "icon": "🍖",
+      "description": "鶏・豚・牛・加工肉",
+      "products": [
+        { "name": "鶏むね肉", "defaultQuantity": 300, "unit": "g" },
+        { "name": "鶏もも肉", "defaultQuantity": 300, "unit": "g" },
+        { "name": "鶏ささみ", "defaultQuantity": 200, "unit": "g" },
+        { "name": "鶏ひき肉", "defaultQuantity": 250, "unit": "g" },
+        { "name": "豚こま切れ", "defaultQuantity": 300, "unit": "g" },
+        { "name": "豚ロース", "defaultQuantity": 250, "unit": "g" },
+        { "name": "豚バラ", "defaultQuantity": 250, "unit": "g" },
+        { "name": "豚ひき肉", "defaultQuantity": 250, "unit": "g" },
+        { "name": "牛切り落とし", "defaultQuantity": 200, "unit": "g" },
+        { "name": "合挽き肉", "defaultQuantity": 250, "unit": "g" },
+        { "name": "ハム（4枚）", "defaultQuantity": 60, "unit": "g" },
+        { "name": "ベーコン（4枚）", "defaultQuantity": 70, "unit": "g" },
+        { "name": "ウインナー（6本）", "defaultQuantity": 120, "unit": "g" },
+        { "name": "サラダチキン", "defaultQuantity": 110, "unit": "g" }
+      ]
+    },
+    {
+      "id": "fish",
+      "name": "魚介",
+      "icon": "🐟",
+      "description": "鮮魚・干物・缶詰",
+      "products": [
+        { "name": "鮭（切り身）", "defaultQuantity": 80, "unit": "g" },
+        { "name": "サバ（切り身）", "defaultQuantity": 100, "unit": "g" },
+        { "name": "アジ（開き）", "defaultQuantity": 100, "unit": "g" },
+        { "name": "ブリ（切り身）", "defaultQuantity": 100, "unit": "g" },
+        { "name": "たら（切り身）", "defaultQuantity": 100, "unit": "g" },
+        { "name": "刺身盛り合わせ", "defaultQuantity": 150, "unit": "g" },
+        { "name": "冷凍えび", "defaultQuantity": 200, "unit": "g" },
+        { "name": "冷凍いか", "defaultQuantity": 200, "unit": "g" },
+        { "name": "しらす", "defaultQuantity": 100, "unit": "g" },
+        { "name": "ちくわ（5本）", "defaultQuantity": 150, "unit": "g" },
+        { "name": "かまぼこ", "defaultQuantity": 120, "unit": "g" },
+        { "name": "ツナ缶", "defaultQuantity": 70, "unit": "g" },
+        { "name": "サバ缶", "defaultQuantity": 190, "unit": "g" }
+      ]
+    },
+    {
+      "id": "tofu",
+      "name": "豆腐・大豆",
+      "icon": "🫘",
+      "description": "豆腐・納豆・油揚げ",
+      "products": [
+        { "name": "木綿豆腐", "defaultQuantity": 350, "unit": "g" },
+        { "name": "絹ごし豆腐", "defaultQuantity": 350, "unit": "g" },
+        { "name": "納豆（3パック）", "defaultQuantity": 150, "unit": "g" },
+        { "name": "油揚げ（3枚）", "defaultQuantity": 60, "unit": "g" },
+        { "name": "厚揚げ", "defaultQuantity": 200, "unit": "g" },
+        { "name": "がんもどき（3個）", "defaultQuantity": 150, "unit": "g" },
+        { "name": "豆乳（1L）", "defaultQuantity": 1000, "unit": "ml" },
+        { "name": "おから", "defaultQuantity": 200, "unit": "g" },
+        { "name": "高野豆腐（5個）", "defaultQuantity": 80, "unit": "g" }
+      ]
+    },
+    {
+      "id": "vegetable",
+      "name": "野菜",
+      "icon": "🥬",
+      "description": "葉物・根菜・常備野菜",
+      "products": [
+        { "name": "キャベツ", "defaultQuantity": 1000, "unit": "g" },
+        { "name": "白菜", "defaultQuantity": 2000, "unit": "g" },
+        { "name": "レタス", "defaultQuantity": 300, "unit": "g" },
+        { "name": "ほうれん草", "defaultQuantity": 200, "unit": "g" },
+        { "name": "小松菜", "defaultQuantity": 200, "unit": "g" },
+        { "name": "もやし", "defaultQuantity": 200, "unit": "g" },
+        { "name": "玉ねぎ（3個）", "defaultQuantity": 600, "unit": "g" },
+        { "name": "にんじん（3本）", "defaultQuantity": 450, "unit": "g" },
+        { "name": "じゃがいも（4個）", "defaultQuantity": 500, "unit": "g" },
+        { "name": "大根", "defaultQuantity": 1000, "unit": "g" },
+        { "name": "トマト（3個）", "defaultQuantity": 450, "unit": "g" },
+        { "name": "ミニトマト", "defaultQuantity": 150, "unit": "g" },
+        { "name": "きゅうり（3本）", "defaultQuantity": 300, "unit": "g" },
+        { "name": "なす（3本）", "defaultQuantity": 250, "unit": "g" },
+        { "name": "ピーマン（5個）", "defaultQuantity": 150, "unit": "g" },
+        { "name": "ブロッコリー", "defaultQuantity": 250, "unit": "g" },
+        { "name": "長ねぎ（2本）", "defaultQuantity": 200, "unit": "g" },
+        { "name": "にんにく", "defaultQuantity": 50, "unit": "g" },
+        { "name": "しょうが", "defaultQuantity": 100, "unit": "g" },
+        { "name": "しめじ", "defaultQuantity": 100, "unit": "g" },
+        { "name": "えのき", "defaultQuantity": 200, "unit": "g" },
+        { "name": "しいたけ（6個）", "defaultQuantity": 100, "unit": "g" }
+      ]
+    },
+    {
+      "id": "fruit",
+      "name": "果物",
+      "icon": "🍎",
+      "description": "生鮮果物・ドライフルーツ",
+      "products": [
+        { "name": "バナナ（4本）", "defaultQuantity": 400, "unit": "g" },
+        { "name": "りんご（2個）", "defaultQuantity": 500, "unit": "g" },
+        { "name": "みかん（1kg）", "defaultQuantity": 1000, "unit": "g" },
+        { "name": "オレンジ（3個）", "defaultQuantity": 600, "unit": "g" },
+        { "name": "キウイ（4個）", "defaultQuantity": 400, "unit": "g" },
+        { "name": "いちご（1パック）", "defaultQuantity": 300, "unit": "g" },
+        { "name": "ぶどう", "defaultQuantity": 350, "unit": "g" },
+        { "name": "グレープフルーツ", "defaultQuantity": 400, "unit": "g" },
+        { "name": "レモン（3個）", "defaultQuantity": 300, "unit": "g" },
+        { "name": "冷凍ミックスベリー", "defaultQuantity": 300, "unit": "g" }
+      ]
+    },
+    {
+      "id": "seasoning",
+      "name": "調味料",
+      "icon": "🧂",
+      "description": "醤油・味噌・油・塩・砂糖",
+      "products": [
+        { "name": "醤油（1L）", "defaultQuantity": 1000, "unit": "ml" },
+        { "name": "味噌（750g）", "defaultQuantity": 750, "unit": "g" },
+        { "name": "サラダ油（1L）", "defaultQuantity": 1000, "unit": "ml" },
+        { "name": "ごま油", "defaultQuantity": 200, "unit": "ml" },
+        { "name": "オリーブオイル", "defaultQuantity": 400, "unit": "ml" },
+        { "name": "塩（1kg）", "defaultQuantity": 1000, "unit": "g" },
+        { "name": "砂糖（1kg）", "defaultQuantity": 1000, "unit": "g" },
+        { "name": "酢（500ml）", "defaultQuantity": 500, "unit": "ml" },
+        { "name": "みりん（500ml）", "defaultQuantity": 500, "unit": "ml" },
+        { "name": "料理酒（500ml）", "defaultQuantity": 500, "unit": "ml" },
+        { "name": "マヨネーズ", "defaultQuantity": 450, "unit": "g" },
+        { "name": "ケチャップ", "defaultQuantity": 500, "unit": "g" },
+        { "name": "ソース", "defaultQuantity": 500, "unit": "ml" },
+        { "name": "めんつゆ", "defaultQuantity": 500, "unit": "ml" },
+        { "name": "ポン酢", "defaultQuantity": 360, "unit": "ml" },
+        { "name": "だしの素", "defaultQuantity": 100, "unit": "g" },
+        { "name": "コンソメ", "defaultQuantity": 100, "unit": "g" },
+        { "name": "鶏ガラスープの素", "defaultQuantity": 100, "unit": "g" }
+      ]
+    },
+    {
+      "id": "canned",
+      "name": "乾物・缶詰",
+      "icon": "🥫",
+      "description": "乾燥食品・缶詰・レトルト",
+      "products": [
+        { "name": "トマト缶", "defaultQuantity": 400, "unit": "g" },
+        { "name": "コーン缶", "defaultQuantity": 200, "unit": "g" },
+        { "name": "ひじき（乾燥）", "defaultQuantity": 30, "unit": "g" },
+        { "name": "切り干し大根", "defaultQuantity": 50, "unit": "g" },
+        { "name": "乾燥わかめ", "defaultQuantity": 50, "unit": "g" },
+        { "name": "春雨", "defaultQuantity": 100, "unit": "g" },
+        { "name": "カレールウ", "defaultQuantity": 200, "unit": "g" },
+        { "name": "シチュールウ", "defaultQuantity": 160, "unit": "g" },
+        { "name": "レトルトカレー", "defaultQuantity": 200, "unit": "g" },
+        { "name": "焼き海苔（10枚）", "defaultQuantity": 30, "unit": "g" }
+      ]
+    },
+    {
+      "id": "frozen",
+      "name": "冷凍食品",
+      "icon": "🧊",
+      "description": "冷凍野菜・冷凍おかず",
+      "products": [
+        { "name": "冷凍ブロッコリー", "defaultQuantity": 300, "unit": "g" },
+        { "name": "冷凍ほうれん草", "defaultQuantity": 300, "unit": "g" },
+        { "name": "冷凍ミックスベジタブル", "defaultQuantity": 300, "unit": "g" },
+        { "name": "冷凍枝豆", "defaultQuantity": 400, "unit": "g" },
+        { "name": "冷凍餃子（12個）", "defaultQuantity": 240, "unit": "g" },
+        { "name": "冷凍唐揚げ", "defaultQuantity": 280, "unit": "g" },
+        { "name": "冷凍コロッケ（4個）", "defaultQuantity": 200, "unit": "g" },
+        { "name": "冷凍チャーハン", "defaultQuantity": 450, "unit": "g" },
+        { "name": "冷凍ピザ", "defaultQuantity": 300, "unit": "g" },
+        { "name": "アイスクリーム", "defaultQuantity": 450, "unit": "ml" }
+      ]
+    },
+    {
+      "id": "beverage",
+      "name": "飲料",
+      "icon": "🍵",
+      "description": "お茶・コーヒー・ジュース",
+      "products": [
+        { "name": "緑茶（ティーバッグ50袋）", "defaultQuantity": 100, "unit": "g" },
+        { "name": "麦茶パック（30袋）", "defaultQuantity": 300, "unit": "g" },
+        { "name": "インスタントコーヒー", "defaultQuantity": 80, "unit": "g" },
+        { "name": "ドリップコーヒー（10袋）", "defaultQuantity": 80, "unit": "g" },
+        { "name": "紅茶（ティーバッグ25袋）", "defaultQuantity": 50, "unit": "g" },
+        { "name": "オレンジジュース（1L）", "defaultQuantity": 1000, "unit": "ml" },
+        { "name": "野菜ジュース（1L）", "defaultQuantity": 1000, "unit": "ml" },
+        { "name": "ペットボトル水（2L）", "defaultQuantity": 2000, "unit": "ml" },
+        { "name": "炭酸水（500ml）", "defaultQuantity": 500, "unit": "ml" }
+      ]
+    }
+  ],
+  "updatedAt": "2025-02-25T00:00:00Z"
+}

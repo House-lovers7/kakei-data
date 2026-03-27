@@ -1,0 +1,155 @@
+{
+  "rules": [
+    {
+      "id": "aeon-tuesday",
+      "chainId": "aeon",
+      "ruleName": "火曜市",
+      "ruleType": "weekly",
+      "dayOfWeek": 2,
+      "targetCategories": ["meat", "fish", "vegetable", "fruit"],
+      "discountPercent": 10,
+      "description": "毎週火曜日は生鮮食品がお得",
+      "officialUrl": "https://www.aeon.com/"
+    },
+    {
+      "id": "aeon-thanks-20",
+      "chainId": "aeon",
+      "ruleName": "お客さま感謝デー",
+      "ruleType": "monthly",
+      "daysOfMonth": [20, 30],
+      "discountPercent": 5,
+      "description": "毎月20日・30日は5%OFF（WAON POINTカード/イオンカード）",
+      "officialUrl": "https://www.aeon.com/"
+    },
+    {
+      "id": "aeon-gogo-55",
+      "chainId": "aeon",
+      "ruleName": "G.G感謝デー",
+      "ruleType": "monthly",
+      "dayOfMonth": 15,
+      "discountPercent": 5,
+      "description": "毎月15日は55歳以上5%OFF",
+      "officialUrl": "https://www.aeon.com/"
+    },
+    {
+      "id": "life-wednesday",
+      "chainId": "life",
+      "ruleName": "水曜日得売",
+      "ruleType": "weekly",
+      "dayOfWeek": 3,
+      "description": "毎週水曜日は特売品がお得",
+      "officialUrl": "https://www.lifecorp.jp/"
+    },
+    {
+      "id": "life-sunday",
+      "chainId": "life",
+      "ruleName": "日曜朝市",
+      "ruleType": "weekly",
+      "dayOfWeek": 0,
+      "targetCategories": ["vegetable", "fruit"],
+      "description": "毎週日曜日の朝は青果がお得",
+      "officialUrl": "https://www.lifecorp.jp/"
+    },
+    {
+      "id": "hankyu-tuesday",
+      "chainId": "hankyu_oasis",
+      "ruleName": "火曜得々市",
+      "ruleType": "weekly",
+      "dayOfWeek": 2,
+      "description": "毎週火曜日は特売品多数",
+      "officialUrl": "https://www.hankyu-oasis.com/"
+    },
+    {
+      "id": "hankyu-saturday",
+      "chainId": "hankyu_oasis",
+      "ruleName": "土曜ワクワクデー",
+      "ruleType": "weekly",
+      "dayOfWeek": 6,
+      "description": "毎週土曜日はポイント2倍",
+      "officialUrl": "https://www.hankyu-oasis.com/"
+    },
+    {
+      "id": "kohyo-thursday",
+      "chainId": "kohyo",
+      "ruleName": "木曜の市",
+      "ruleType": "weekly",
+      "dayOfWeek": 4,
+      "description": "毎週木曜日は特売",
+      "officialUrl": "https://www.kohyo.co.jp/"
+    },
+    {
+      "id": "mandai-monday",
+      "chainId": "mandai",
+      "ruleName": "月曜朝市",
+      "ruleType": "weekly",
+      "dayOfWeek": 1,
+      "targetCategories": ["vegetable", "fruit"],
+      "description": "毎週月曜日は青果市",
+      "officialUrl": "https://www.mandai-net.co.jp/"
+    },
+    {
+      "id": "mandai-friday",
+      "chainId": "mandai",
+      "ruleName": "金曜ポイント2倍",
+      "ruleType": "weekly",
+      "dayOfWeek": 5,
+      "description": "毎週金曜日はポイント2倍",
+      "officialUrl": "https://www.mandai-net.co.jp/"
+    },
+    {
+      "id": "fresco-everyday",
+      "chainId": "fresco",
+      "ruleName": "毎日お買い得",
+      "ruleType": "weekly",
+      "dayOfWeek": 0,
+      "description": "日替わり特売あり（詳細は店舗へ）",
+      "officialUrl": "https://www.super-fresco.co.jp/"
+    },
+    {
+      "id": "trial-everyday",
+      "chainId": "trial",
+      "ruleName": "毎日激安",
+      "ruleType": "weekly",
+      "dayOfWeek": 0,
+      "description": "EDLP（毎日低価格）で特売なし",
+      "officialUrl": "https://www.trial-net.co.jp/"
+    },
+    {
+      "id": "gyomu-everyday",
+      "chainId": "gyomu",
+      "ruleName": "毎日低価格",
+      "ruleType": "weekly",
+      "dayOfWeek": 0,
+      "description": "業務用サイズで常時お得",
+      "officialUrl": "https://www.gyomusuper.jp/"
+    },
+    {
+      "id": "seven-campaign",
+      "chainId": "seven",
+      "ruleName": "キャンペーン随時",
+      "ruleType": "weekly",
+      "dayOfWeek": 0,
+      "description": "おにぎり100円セール等、キャンペーン随時開催",
+      "officialUrl": "https://www.sej.co.jp/cmp/"
+    },
+    {
+      "id": "lawson-campaign",
+      "chainId": "lawson",
+      "ruleName": "キャンペーン随時",
+      "ruleType": "weekly",
+      "dayOfWeek": 0,
+      "description": "Pontaポイント還元等、キャンペーン随時開催",
+      "officialUrl": "https://www.lawson.co.jp/recommend/"
+    },
+    {
+      "id": "familymart-campaign",
+      "chainId": "familymart",
+      "ruleName": "キャンペーン随時",
+      "ruleType": "weekly",
+      "dayOfWeek": 0,
+      "description": "ファミペイ還元等、キャンペーン随時開催",
+      "officialUrl": "https://www.family.co.jp/campaign.html"
+    }
+  ],
+  "updatedAt": "2025-03-01T00:00:00Z"
+}

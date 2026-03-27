@@ -1,0 +1,403 @@
+{
+  "substitutions": [
+    {
+      "originalCategory": "rice",
+      "type": "same_dish",
+      "alternatives": [
+        {
+          "name": "パックご飯→自炊白米",
+          "description": "パックご飯が値上がりしたら、5kg袋の白米を炊く方がコスパ良好",
+          "nutritionScore": 85,
+          "priceStability": 70,
+          "tags": ["price_stable", "similar_taste"],
+          "estimatedSaving": 69,
+          "recipeId": "rice-basic"
+        },
+        {
+          "name": "白米→玄米ブレンド",
+          "description": "白米に玄米を2割混ぜると栄養価UP、腹持ちも良く量を減らせる",
+          "nutritionScore": 95,
+          "priceStability": 75,
+          "tags": ["high_nutrition", "easy"],
+          "estimatedSaving": 15,
+          "recipeId": "rice-genmai-blend"
+        }
+      ]
+    },
+    {
+      "originalCategory": "rice",
+      "type": "same_nutrition",
+      "alternatives": [
+        {
+          "name": "パックご飯→オートミール",
+          "description": "朝食をオートミールに置換。食物繊維・タンパク質が豊富でコスパ良好",
+          "nutritionScore": 98,
+          "priceStability": 85,
+          "tags": ["high_nutrition", "easy", "long_storage"],
+          "estimatedSaving": 64,
+          "recipeId": "oatmeal-basic"
+        }
+      ]
+    },
+    {
+      "originalCategory": "bread",
+      "type": "same_dish",
+      "alternatives": [
+        {
+          "name": "食パン→ホームベーカリー",
+          "description": "強力粉から焼く方が原価安。材料費は1斤約100円程度",
+          "nutritionScore": 85,
+          "priceStability": 80,
+          "tags": ["price_stable", "similar_taste"],
+          "estimatedSaving": 48,
+          "recipeId": "bread-homebakery"
+        }
+      ]
+    },
+    {
+      "originalCategory": "noodle",
+      "type": "same_dish",
+      "alternatives": [
+        {
+          "name": "生麺→乾麺パスタ",
+          "description": "乾麺は保存が効き、単価も安定。茹で時間は長いが味は遜色なし",
+          "nutritionScore": 85,
+          "priceStability": 90,
+          "tags": ["price_stable", "long_storage", "similar_taste"],
+          "estimatedSaving": 67
+        },
+        {
+          "name": "カップ麺→袋麺",
+          "description": "袋麺の方が単価が安く、具材も自分で追加できる",
+          "nutritionScore": 70,
+          "priceStability": 85,
+          "tags": ["easy", "price_stable"],
+          "estimatedSaving": 60,
+          "recipeId": "noodle-instant-upgrade"
+        }
+      ]
+    },
+    {
+      "originalCategory": "egg",
+      "type": "same_nutrition",
+      "alternatives": [
+        {
+          "name": "卵→豆腐",
+          "description": "タンパク質源として豆腐で代替。卵高騰時の救世主",
+          "nutritionScore": 85,
+          "priceStability": 95,
+          "tags": ["high_nutrition", "price_stable"],
+          "estimatedSaving": 50
+        },
+        {
+          "name": "卵→納豆",
+          "description": "朝食のたんぱく質源として納豆に置換。腸活にも効果的",
+          "nutritionScore": 90,
+          "priceStability": 90,
+          "tags": ["high_nutrition", "easy"],
+          "estimatedSaving": 30
+        }
+      ]
+    },
+    {
+      "originalCategory": "egg",
+      "type": "stable_price",
+      "alternatives": [
+        {
+          "name": "卵（20個パック）",
+          "description": "大容量パックは単価が安い。冷蔵庫のスペースがあればお得",
+          "nutritionScore": 85,
+          "priceStability": 80,
+          "tags": ["price_stable"],
+          "estimatedSaving": 15
+        }
+      ]
+    },
+    {
+      "originalCategory": "dairy",
+      "type": "same_dish",
+      "alternatives": [
+        {
+          "name": "バター→マーガリン",
+          "description": "バター高騰時はマーガリンで代替。焼き菓子以外なら味の差は少ない",
+          "nutritionScore": 70,
+          "priceStability": 85,
+          "tags": ["easy", "price_stable"],
+          "estimatedSaving": 72
+        },
+        {
+          "name": "牛乳→豆乳",
+          "description": "牛乳の代わりに豆乳を使用。シリアルやコーヒーに",
+          "nutritionScore": 90,
+          "priceStability": 85,
+          "tags": ["high_nutrition", "similar_taste"],
+          "estimatedSaving": 13
+        }
+      ]
+    },
+    {
+      "originalCategory": "dairy",
+      "type": "same_nutrition",
+      "alternatives": [
+        {
+          "name": "ヨーグルト→自家製",
+          "description": "牛乳+種菌で自家製ヨーグルト。コスト1/3以下",
+          "nutritionScore": 95,
+          "priceStability": 75,
+          "tags": ["high_nutrition", "price_stable"],
+          "estimatedSaving": 60,
+          "recipeId": "yogurt-homemade"
+        }
+      ]
+    },
+    {
+      "originalCategory": "meat",
+      "type": "same_dish",
+      "alternatives": [
+        {
+          "name": "鶏もも→鶏むね",
+          "description": "むね肉は高タンパク低脂肪でコスパ良好。塩麹漬けで柔らかく",
+          "nutritionScore": 95,
+          "priceStability": 85,
+          "tags": ["high_nutrition", "price_stable"],
+          "estimatedSaving": 27
+        },
+        {
+          "name": "牛肉→豚肉",
+          "description": "牛肉が高騰したら豚肉で代替。味付け次第で満足度キープ",
+          "nutritionScore": 85,
+          "priceStability": 80,
+          "tags": ["similar_taste", "price_stable"],
+          "estimatedSaving": 60
+        }
+      ]
+    },
+    {
+      "originalCategory": "meat",
+      "type": "same_nutrition",
+      "alternatives": [
+        {
+          "name": "サラダチキン→自作蒸し鶏",
+          "description": "鶏むね肉から自作で1/3のコスト。作り置きで時短にも",
+          "nutritionScore": 95,
+          "priceStability": 85,
+          "tags": ["high_nutrition", "price_stable"],
+          "estimatedSaving": 65,
+          "recipeId": "chicken-breast-steam"
+        },
+        {
+          "name": "肉→豆腐・厚揚げ",
+          "description": "週1-2回を植物性タンパクに置換。食費削減と健康の両立",
+          "nutritionScore": 85,
+          "priceStability": 95,
+          "tags": ["high_nutrition", "price_stable"],
+          "estimatedSaving": 79
+        }
+      ]
+    },
+    {
+      "originalCategory": "fish",
+      "type": "same_dish",
+      "alternatives": [
+        {
+          "name": "生鮭→冷凍鮭",
+          "description": "冷凍切り身なら価格安定。味も遜色なし",
+          "nutritionScore": 90,
+          "priceStability": 85,
+          "tags": ["similar_taste", "long_storage"],
+          "estimatedSaving": 40
+        },
+        {
+          "name": "鮭→サバ缶",
+          "description": "サバ缶はDHA/EPA豊富で長期保存可能。災害備蓄にも",
+          "nutritionScore": 95,
+          "priceStability": 90,
+          "tags": ["high_nutrition", "long_storage", "price_stable"],
+          "estimatedSaving": 62
+        }
+      ]
+    },
+    {
+      "originalCategory": "fish",
+      "type": "stable_price",
+      "alternatives": [
+        {
+          "name": "ツナ缶・サバ缶ストック",
+          "description": "缶詰は価格安定で長期保存可能。セール時にまとめ買い",
+          "nutritionScore": 85,
+          "priceStability": 95,
+          "tags": ["price_stable", "long_storage"],
+          "estimatedSaving": 30
+        }
+      ]
+    },
+    {
+      "originalCategory": "tofu",
+      "type": "same_nutrition",
+      "alternatives": [
+        {
+          "name": "肉→豆腐",
+          "description": "週1-2回のタンパク源を豆腐に。コスト1/5以下",
+          "nutritionScore": 85,
+          "priceStability": 95,
+          "tags": ["high_nutrition", "price_stable"],
+          "estimatedSaving": 79
+        },
+        {
+          "name": "豆腐→高野豆腐",
+          "description": "高野豆腐は常温保存可能で栄養価も高い",
+          "nutritionScore": 90,
+          "priceStability": 90,
+          "tags": ["high_nutrition", "long_storage"],
+          "estimatedSaving": 20
+        }
+      ]
+    },
+    {
+      "originalCategory": "vegetable",
+      "type": "same_dish",
+      "alternatives": [
+        {
+          "name": "カット野菜→丸ごと野菜",
+          "description": "カット野菜は割高。丸ごと買って自分でカットすると5倍お得",
+          "nutritionScore": 95,
+          "priceStability": 70,
+          "tags": ["high_nutrition"],
+          "estimatedSaving": 80
+        },
+        {
+          "name": "生野菜→冷凍野菜",
+          "description": "冷凍ほうれん草・ブロッコリーは価格安定で栄養価も高い",
+          "nutritionScore": 90,
+          "priceStability": 90,
+          "tags": ["price_stable", "long_storage"],
+          "estimatedSaving": 33
+        }
+      ]
+    },
+    {
+      "originalCategory": "vegetable",
+      "type": "stable_price",
+      "alternatives": [
+        {
+          "name": "もやし活用",
+          "description": "もやしは年間通じて価格安定。かさ増しに最適",
+          "nutritionScore": 70,
+          "priceStability": 95,
+          "tags": ["price_stable", "easy"],
+          "estimatedSaving": 50
+        }
+      ]
+    },
+    {
+      "originalCategory": "fruit",
+      "type": "same_nutrition",
+      "alternatives": [
+        {
+          "name": "生果物→冷凍フルーツ",
+          "description": "冷凍ベリーはスムージーやヨーグルトに。価格安定",
+          "nutritionScore": 90,
+          "priceStability": 85,
+          "tags": ["price_stable", "long_storage"],
+          "estimatedSaving": 30
+        },
+        {
+          "name": "いちご→バナナ",
+          "description": "バナナは年間通じて安価。栄養価も高い",
+          "nutritionScore": 85,
+          "priceStability": 95,
+          "tags": ["price_stable", "high_nutrition"],
+          "estimatedSaving": 60
+        }
+      ]
+    },
+    {
+      "originalCategory": "seasoning",
+      "type": "same_dish",
+      "alternatives": [
+        {
+          "name": "オリーブオイル→サラダ油",
+          "description": "加熱調理ならサラダ油で十分。オリーブオイルは生食用に限定",
+          "nutritionScore": 75,
+          "priceStability": 85,
+          "tags": ["price_stable", "easy"],
+          "estimatedSaving": 77
+        }
+      ]
+    },
+    {
+      "originalCategory": "seasoning",
+      "type": "stable_price",
+      "alternatives": [
+        {
+          "name": "業務用調味料",
+          "description": "醤油・味噌は業務用サイズで単価ダウン",
+          "nutritionScore": 85,
+          "priceStability": 90,
+          "tags": ["price_stable", "long_storage"],
+          "estimatedSaving": 30
+        }
+      ]
+    },
+    {
+      "originalCategory": "canned",
+      "type": "stable_price",
+      "alternatives": [
+        {
+          "name": "缶詰ストック",
+          "description": "トマト缶・コーン缶はセール時にまとめ買い。2-3年保存可能",
+          "nutritionScore": 80,
+          "priceStability": 95,
+          "tags": ["price_stable", "long_storage"],
+          "estimatedSaving": 25
+        }
+      ]
+    },
+    {
+      "originalCategory": "frozen",
+      "type": "same_dish",
+      "alternatives": [
+        {
+          "name": "冷凍餃子→手作り",
+          "description": "週末に作り置きすればコスト1/3。冷凍保存で便利",
+          "nutritionScore": 85,
+          "priceStability": 80,
+          "tags": ["similar_taste"],
+          "estimatedSaving": 28,
+          "recipeId": "gyoza-homemade"
+        },
+        {
+          "name": "冷凍食品→まとめ買い",
+          "description": "特売日にまとめ買いして冷凍庫にストック",
+          "nutritionScore": 80,
+          "priceStability": 85,
+          "tags": ["price_stable", "easy"],
+          "estimatedSaving": 30
+        }
+      ]
+    },
+    {
+      "originalCategory": "beverage",
+      "type": "same_dish",
+      "alternatives": [
+        {
+          "name": "ドリップコーヒー→インスタント",
+          "description": "1杯あたりのコストが1/3に。忙しい朝にも便利",
+          "nutritionScore": 80,
+          "priceStability": 85,
+          "tags": ["easy", "price_stable"],
+          "estimatedSaving": 69
+        },
+        {
+          "name": "ペットボトル茶→自家製麦茶",
+          "description": "麦茶パックで作れば1Lあたり10円。年間で大幅節約",
+          "nutritionScore": 85,
+          "priceStability": 95,
+          "tags": ["price_stable", "easy"],
+          "estimatedSaving": 95
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2025-02-25T00:00:00Z"
+}

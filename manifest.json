@@ -1,0 +1,14 @@
+{
+  "version": "2026-03-27T02:22:48.424Z",
+  "files": {
+    "initial-index.json": "2026-03-27T02:22:48.381Z",
+    "sales/daily-sales.json": "2026-03-27T02:22:48.383Z",
+    "campaigns/convenience.json": "2026-03-27T02:22:48.385Z",
+    "categories.json": "2026-03-27T02:22:48.387Z",
+    "chains.json": "2026-03-27T02:22:48.389Z",
+    "sale-rules.json": "2026-03-27T02:22:48.391Z",
+    "substitutions.json": "2026-03-27T02:22:48.393Z",
+    "recipes.json": "2026-03-27T02:22:48.395Z",
+    "regions.json": "2026-03-27T02:22:48.397Z"
+  }
+}

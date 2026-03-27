@@ -1,0 +1,92 @@
+{
+  "fetchedAt": "2025-03-14T07:00:00Z",
+  "campaigns": [
+    {
+      "id": "seven-onigiri-100",
+      "chainId": "seven",
+      "title": "おにぎり100円セール",
+      "description": "対象のおにぎりが税込108円",
+      "campaignType": "discount",
+      "targetCategories": ["rice"],
+      "validFrom": "2025-03-10T00:00:00Z",
+      "validTo": "2025-03-20T23:59:59Z",
+      "officialUrl": "https://www.sej.co.jp/cmp/",
+      "highlight": true
+    },
+    {
+      "id": "seven-sandwich-sale",
+      "chainId": "seven",
+      "title": "サンドイッチ30円引き",
+      "description": "対象のサンドイッチが30円引き",
+      "campaignType": "discount",
+      "targetCategories": ["bread"],
+      "validFrom": "2025-03-12T00:00:00Z",
+      "validTo": "2025-03-18T23:59:59Z",
+      "officialUrl": "https://www.sej.co.jp/cmp/",
+      "highlight": false
+    },
+    {
+      "id": "lawson-ponta-5x",
+      "chainId": "lawson",
+      "title": "Pontaポイント5倍",
+      "description": "対象商品購入でPontaポイント5倍",
+      "campaignType": "point_up",
+      "validFrom": "2025-03-11T00:00:00Z",
+      "validTo": "2025-03-17T23:59:59Z",
+      "officialUrl": "https://www.lawson.co.jp/recommend/",
+      "highlight": true
+    },
+    {
+      "id": "lawson-karaage-kun",
+      "chainId": "lawson",
+      "title": "からあげクン20円引き",
+      "description": "からあげクン全品20円引き",
+      "campaignType": "discount",
+      "targetCategories": ["meat"],
+      "validFrom": "2025-03-13T00:00:00Z",
+      "validTo": "2025-03-19T23:59:59Z",
+      "officialUrl": "https://www.lawson.co.jp/recommend/",
+      "highlight": false
+    },
+    {
+      "id": "familymart-famipay-10pct",
+      "chainId": "familymart",
+      "title": "ファミペイ10%還元",
+      "description": "ファミペイ払いで10%ポイント還元",
+      "campaignType": "point_up",
+      "validFrom": "2025-03-10T00:00:00Z",
+      "validTo": "2025-03-16T23:59:59Z",
+      "officialUrl": "https://www.family.co.jp/campaign.html",
+      "highlight": true
+    },
+    {
+      "id": "familymart-bento-sale",
+      "chainId": "familymart",
+      "title": "お弁当50円引き",
+      "description": "対象のお弁当が50円引き",
+      "campaignType": "discount",
+      "targetCategories": ["rice"],
+      "validFrom": "2025-03-14T00:00:00Z",
+      "validTo": "2025-03-20T23:59:59Z",
+      "officialUrl": "https://www.family.co.jp/campaign.html",
+      "highlight": false
+    }
+  ],
+  "fallbackLinks": [
+    {
+      "chainId": "seven",
+      "name": "セブンイレブン キャンペーン",
+      "url": "https://www.sej.co.jp/cmp/"
+    },
+    {
+      "chainId": "lawson",
+      "name": "ローソン おすすめ情報",
+      "url": "https://www.lawson.co.jp/recommend/"
+    },
+    {
+      "chainId": "familymart",
+      "name": "ファミリーマート キャンペーン",
+      "url": "https://www.family.co.jp/campaign.html"
+    }
+  ]
+}

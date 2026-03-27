@@ -1,0 +1,192 @@
+{
+  "fetchedAt": "2026-03-15T03:19:43.670Z",
+  "sales": [
+    {
+      "id": "mandai-20260218-58770447266518-0-選べるごちそう",
+      "chainId": "mandai",
+      "productName": "選べる \"ごちそう\" カタログギフト",
+      "salePrice": 4800,
+      "originalPrice": null,
+      "validFrom": "2026-03-14T15:00:00.000Z",
+      "validTo": "2026-03-31T14:59:59.999Z"
+    },
+    {
+      "id": "hankyu_oasis-20260310-8080536545872-0-阪口水産の生本まぐろ",
+      "chainId": "hankyu_oasis",
+      "productName": "阪口水産の生本まぐろ中とろおさしみ用",
+      "salePrice": 1590,
+      "category": "fish",
+      "validFrom": "2026-03-13T00:00:00.000Z",
+      "validTo": "2026-03-17T14:59:59.999Z"
+    },
+    {
+      "id": "hankyu_oasis-20260310-8080536545872-1-生本まぐろとろ・赤身",
+      "chainId": "hankyu_oasis",
+      "productName": "生本まぐろとろ・赤身にぎり",
+      "salePrice": 1590,
+      "category": "fish",
+      "validFrom": "2026-03-13T00:00:00.000Z",
+      "validTo": "2026-03-17T14:59:59.999Z"
+    },
+    {
+      "id": "hankyu_oasis-20260310-8080536545872-2-長崎五島灘ブリ刺身用",
+      "chainId": "hankyu_oasis",
+      "productName": "長崎五島灘ブリ刺身用",
+      "salePrice": 499,
+      "category": "fish",
+      "validFrom": "2026-03-13T00:00:00.000Z",
+      "validTo": "2026-03-17T14:59:59.999Z"
+    },
+    {
+      "id": "hankyu_oasis-20260310-8080536545872-3-長崎五島灘ブリ",
+      "chainId": "hankyu_oasis",
+      "productName": "長崎五島灘ブリ",
+      "salePrice": 499,
+      "category": "fish",
+      "validFrom": "2026-03-13T00:00:00.000Z",
+      "validTo": "2026-03-17T14:59:59.999Z"
+    },
+    {
+      "id": "hankyu_oasis-20260310-8080536545872-4-長崎五島灘ブリ竜田揚",
+      "chainId": "hankyu_oasis",
+      "productName": "長崎五島灘ブリ竜田揚げ",
+      "salePrice": 599,
+      "category": "fish",
+      "validFrom": "2026-03-13T00:00:00.000Z",
+      "validTo": "2026-03-17T14:59:59.999Z"
+    },
+    {
+      "id": "hankyu_oasis-20260310-8080536545872-5-長崎県産トマト",
+      "chainId": "hankyu_oasis",
+      "productName": "長崎県産トマト",
+      "salePrice": 99,
+      "category": "vegetable",
+      "validFrom": "2026-03-13T00:00:00.000Z",
+      "validTo": "2026-03-17T14:59:59.999Z"
+    },
+    {
+      "id": "hankyu_oasis-20260310-8080536545872-6-鹿児島県産スナップえ",
+      "chainId": "hankyu_oasis",
+      "productName": "鹿児島県産スナップえんどう",
+      "salePrice": 129,
+      "category": "vegetable",
+      "validFrom": "2026-03-13T00:00:00.000Z",
+      "validTo": "2026-03-17T14:59:59.999Z"
+    },
+    {
+      "id": "hankyu_oasis-20260310-8080536545872-7-九州産養殖ぶりたたき",
+      "chainId": "hankyu_oasis",
+      "productName": "九州産養殖ぶりたたき(生食用)",
+      "salePrice": 399,
+      "category": "fish",
+      "validFrom": "2026-03-13T00:00:00.000Z",
+      "validTo": "2026-03-17T14:59:59.999Z"
+    },
+    {
+      "id": "hankyu_oasis-20260310-8080536545872-8-九州産養殖ぶりたたき",
+      "chainId": "hankyu_oasis",
+      "productName": "九州産養殖ぶりたたき",
+      "salePrice": 799,
+      "category": "fish",
+      "validFrom": "2026-03-13T00:00:00.000Z",
+      "validTo": "2026-03-17T14:59:59.999Z"
+    },
+    {
+      "id": "hankyu_oasis-20260310-8080536545872-9-九州産黒毛和牛モモス",
+      "chainId": "hankyu_oasis",
+      "productName": "九州産黒毛和牛モモステーキ",
+      "salePrice": 1250,
+      "category": "meat",
+      "validFrom": "2026-03-13T00:00:00.000Z",
+      "validTo": "2026-03-17T14:59:59.999Z"
+    },
+    {
+      "id": "hankyu_oasis-20260310-8080536545872-10-豚肉ポークステーキ",
+      "chainId": "hankyu_oasis",
+      "productName": "豚肉ポークステーキ",
+      "salePrice": 499,
+      "category": "meat",
+      "validFrom": "2026-03-13T00:00:00.000Z",
+      "validTo": "2026-03-17T14:59:59.999Z"
+    },
+    {
+      "id": "hankyu_oasis-20260310-8080536545872-11-長崎カステラ",
+      "chainId": "hankyu_oasis",
+      "productName": "長崎カステラ",
+      "salePrice": 649,
+      "validFrom": "2026-03-13T00:00:00.000Z",
+      "validTo": "2026-03-17T14:59:59.999Z"
+    },
+    {
+      "id": "hankyu_oasis-20260310-8080536545872-12-モンブラン",
+      "chainId": "hankyu_oasis",
+      "productName": "モンブラン",
+      "salePrice": 1000,
+      "validFrom": "2026-03-13T00:00:00.000Z",
+      "validTo": "2026-03-17T14:59:59.999Z"
+    },
+    {
+      "id": "hankyu_oasis-20260310-8080536545872-13-窯出しなめらかプリン",
+      "chainId": "hankyu_oasis",
+      "productName": "窯出しなめらかプリン",
+      "salePrice": 640,
+      "category": "dairy",
+      "validFrom": "2026-03-13T00:00:00.000Z",
+      "validTo": "2026-03-17T14:59:59.999Z"
+    },
+    {
+      "id": "hankyu_oasis-20260310-8080536545872-14-石窯パン",
+      "chainId": "hankyu_oasis",
+      "productName": "石窯パン",
+      "salePrice": 500,
+      "category": "bread",
+      "validFrom": "2026-03-13T00:00:00.000Z",
+      "validTo": "2026-03-17T14:59:59.999Z"
+    },
+    {
+      "id": "hankyu_oasis-20260310-8080536545872-15-半熟チーズ",
+      "chainId": "hankyu_oasis",
+      "productName": "半熟チーズ",
+      "salePrice": 500,
+      "validFrom": "2026-03-13T00:00:00.000Z",
+      "validTo": "2026-03-17T14:59:59.999Z"
+    },
+    {
+      "id": "hankyu_oasis-20260310-8080536545872-16-大根",
+      "chainId": "hankyu_oasis",
+      "productName": "大根",
+      "salePrice": 199,
+      "category": "vegetable",
+      "validFrom": "2026-03-13T00:00:00.000Z",
+      "validTo": "2026-03-17T14:59:59.999Z"
+    },
+    {
+      "id": "hankyu_oasis-20260310-8080536545872-17-きゅうり",
+      "chainId": "hankyu_oasis",
+      "productName": "きゅうり",
+      "salePrice": 199,
+      "category": "vegetable",
+      "validFrom": "2026-03-13T00:00:00.000Z",
+      "validTo": "2026-03-17T14:59:59.999Z"
+    },
+    {
+      "id": "hankyu_oasis-20260310-8080536545872-18-いちご",
+      "chainId": "hankyu_oasis",
+      "productName": "いちご",
+      "salePrice": 499,
+      "category": "fruit",
+      "validFrom": "2026-03-13T00:00:00.000Z",
+      "validTo": "2026-03-17T14:59:59.999Z"
+    },
+    {
+      "id": "hankyu_oasis-20260310-8080536545872-19-キウイフルーツ",
+      "chainId": "hankyu_oasis",
+      "productName": "キウイフルーツ",
+      "salePrice": 499,
+      "category": "fruit",
+      "validFrom": "2026-03-13T00:00:00.000Z",
+      "validTo": "2026-03-17T14:59:59.999Z"
+    }
+  ],
+  "fallbackToRules": false
+}
