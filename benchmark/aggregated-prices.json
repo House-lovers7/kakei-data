@@ -1,0 +1,155 @@
+{
+  "description": "複数ソースから統合したベンチマーク価格データ",
+  "lastUpdated": "2025-02-25T00:00:00Z",
+  "sources": {
+    "rakuten": {
+      "name": "楽天市場",
+      "type": "ec",
+      "weight": 0.3,
+      "lastFetched": null
+    },
+    "yahoo": {
+      "name": "Yahoo!ショッピング",
+      "type": "ec",
+      "weight": 0.3,
+      "lastFetched": null
+    },
+    "kakaku": {
+      "name": "価格.com",
+      "type": "comparison",
+      "weight": 0.2,
+      "lastFetched": null
+    },
+    "retail": {
+      "name": "小売店",
+      "type": "retail",
+      "weight": 0.2,
+      "lastFetched": null
+    }
+  },
+  "categories": {
+    "rice": {
+      "name": "米",
+      "products": {
+        "whiteRice5kg": {
+          "name": "白米（5kg）",
+          "benchmarkPrice": 2500,
+          "priceRange": { "min": 2000, "max": 3500 },
+          "sources": {},
+          "trend": "stable",
+          "confidence": "low"
+        },
+        "packRice3": {
+          "name": "パックご飯（3食）",
+          "benchmarkPrice": 450,
+          "priceRange": { "min": 350, "max": 600 },
+          "sources": {},
+          "trend": "stable",
+          "confidence": "low"
+        },
+        "oatmeal1kg": {
+          "name": "オートミール（1kg）",
+          "benchmarkPrice": 800,
+          "priceRange": { "min": 500, "max": 1200 },
+          "sources": {},
+          "trend": "stable",
+          "confidence": "low"
+        }
+      }
+    },
+    "egg": {
+      "name": "卵",
+      "products": {
+        "egg10": {
+          "name": "卵（10個）",
+          "benchmarkPrice": 280,
+          "priceRange": { "min": 200, "max": 400 },
+          "sources": {},
+          "trend": "rising",
+          "confidence": "low"
+        }
+      }
+    },
+    "dairy": {
+      "name": "乳製品",
+      "products": {
+        "milk1L": {
+          "name": "牛乳（1L）",
+          "benchmarkPrice": 230,
+          "priceRange": { "min": 180, "max": 280 },
+          "sources": {},
+          "trend": "stable",
+          "confidence": "low"
+        },
+        "butter200": {
+          "name": "バター（200g）",
+          "benchmarkPrice": 480,
+          "priceRange": { "min": 400, "max": 600 },
+          "sources": {},
+          "trend": "rising",
+          "confidence": "low"
+        }
+      }
+    },
+    "meat": {
+      "name": "肉",
+      "products": {
+        "chickenBreast": {
+          "name": "鶏むね肉（100g）",
+          "benchmarkPrice": 80,
+          "priceRange": { "min": 60, "max": 120 },
+          "sources": {},
+          "trend": "stable",
+          "confidence": "low"
+        },
+        "chickenThigh": {
+          "name": "鶏もも肉（100g）",
+          "benchmarkPrice": 110,
+          "priceRange": { "min": 90, "max": 150 },
+          "sources": {},
+          "trend": "stable",
+          "confidence": "low"
+        },
+        "porkKoma": {
+          "name": "豚こま切れ（100g）",
+          "benchmarkPrice": 120,
+          "priceRange": { "min": 100, "max": 180 },
+          "sources": {},
+          "trend": "stable",
+          "confidence": "low"
+        }
+      }
+    },
+    "vegetable": {
+      "name": "野菜",
+      "products": {
+        "cabbage": {
+          "name": "キャベツ（1個）",
+          "benchmarkPrice": 200,
+          "priceRange": { "min": 100, "max": 350 },
+          "sources": {},
+          "trend": "variable",
+          "confidence": "low"
+        },
+        "onion3": {
+          "name": "玉ねぎ（3個）",
+          "benchmarkPrice": 200,
+          "priceRange": { "min": 150, "max": 300 },
+          "sources": {},
+          "trend": "stable",
+          "confidence": "low"
+        },
+        "moyashi": {
+          "name": "もやし（200g）",
+          "benchmarkPrice": 30,
+          "priceRange": { "min": 20, "max": 50 },
+          "sources": {},
+          "trend": "stable",
+          "confidence": "high"
+        }
+      }
+    }
+  },
+  "priceAlerts": [],
+  "recentChanges": []
+}

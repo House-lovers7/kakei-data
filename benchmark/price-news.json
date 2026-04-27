@@ -1,0 +1,164 @@
+{
+  "source": "news-aggregator",
+  "fetchedAt": "2026-04-27T14:04:44.497Z",
+  "totalArticles": 14,
+  "categoryBreakdown": {
+    "rice": 4,
+    "oil": 3
+  },
+  "articles": [
+    {
+      "title": "円相場 小幅値上がり “イランが米に新提案”報じられ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015109491000",
+      "pubDate": "Mon, 27 Apr 2026 19:49:27 +0900",
+      "source": "NHK 経済",
+      "categories": [
+        "rice"
+      ],
+      "priceKeywords": [
+        "値上がり"
+      ]
+    },
+    {
+      "title": "東京ガス 10月使用分から家庭向けガスの基本料金値上げへ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015109471000",
+      "pubDate": "Mon, 27 Apr 2026 18:31:06 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "東京ガス基本料金値上げ 46年ぶり",
+      "link": "https://news.yahoo.co.jp/pickup/6577849?source=rss",
+      "pubDate": "Mon, 27 Apr 2026 07:31:47 GMT",
+      "source": "Yahoo!ニュース 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "JERA「電気料金 夏ごろに高騰懸念」イラン情勢受け",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015109271000",
+      "pubDate": "Mon, 27 Apr 2026 14:30:47 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "高騰"
+      ]
+    },
+    {
+      "title": "米FRB 利下げ見送りか 原油高でインフレ再加速を警戒",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015108881000",
+      "pubDate": "Mon, 27 Apr 2026 07:12:16 +0900",
+      "source": "NHK 経済",
+      "categories": [
+        "rice",
+        "oil"
+      ],
+      "priceKeywords": [
+        "インフレ"
+      ]
+    },
+    {
+      "title": "消費者物価指数の上昇率拡大 イラン情勢緊迫の影響で【詳報】",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015106981000",
+      "pubDate": "Fri, 24 Apr 2026 19:29:17 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
+    {
+      "title": "スーパーのコメ平均価格 5キロ3883円 10週ぶりに値上がり",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015107691000",
+      "pubDate": "Fri, 24 Apr 2026 18:50:19 +0900",
+      "source": "NHK 経済",
+      "categories": [
+        "rice"
+      ],
+      "priceKeywords": [
+        "値上がり"
+      ]
+    },
+    {
+      "title": "きょうのおはBiz4月23日(木)  原油高騰など 9割超の企業が懸念",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015106151000",
+      "pubDate": "Thu, 23 Apr 2026 14:04:18 +0900",
+      "source": "NHK 経済",
+      "categories": [
+        "oil"
+      ],
+      "priceKeywords": [
+        "高騰"
+      ]
+    },
+    {
+      "title": "NYダウ340ドル余値上がり トランプ大統領の停戦延長表明で",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015106051000",
+      "pubDate": "Thu, 23 Apr 2026 07:11:56 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上がり"
+      ]
+    },
+    {
+      "title": "欧州の航空会社の大幅減便相次ぐ イラン情勢受け燃料価格高騰",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015105931000",
+      "pubDate": "Wed, 22 Apr 2026 21:35:14 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "高騰"
+      ]
+    },
+    {
+      "title": "【きょうのおはBiz 4月22日(水)】肥料価格高騰 畜産への影響は",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015105191000",
+      "pubDate": "Wed, 22 Apr 2026 10:57:32 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "高騰"
+      ]
+    },
+    {
+      "title": "物価高で「消費の二極化」鮮明に 小売各社が対応強化",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015104821000",
+      "pubDate": "Wed, 22 Apr 2026 04:58:05 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
+    {
+      "title": "イラン情勢影響 ポリ袋など購入制限の商社 食用油値上げも",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015104661000",
+      "pubDate": "Tue, 21 Apr 2026 20:52:11 +0900",
+      "source": "NHK 経済",
+      "categories": [
+        "oil"
+      ],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "株価 値上がり 米イラン2回目協議実現との見方から",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015104411000",
+      "pubDate": "Tue, 21 Apr 2026 16:35:21 +0900",
+      "source": "NHK 経済",
+      "categories": [
+        "rice"
+      ],
+      "priceKeywords": [
+        "値上がり"
+      ]
+    }
+  ]
+}

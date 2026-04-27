@@ -1,14 +1,21 @@
 {
-  "version": "2026-03-27T02:22:48.424Z",
+  "version": "2026-04-27T14:04:45.069Z",
   "files": {
-    "initial-index.json": "2026-03-27T02:22:48.381Z",
-    "sales/daily-sales.json": "2026-03-27T02:22:48.383Z",
-    "campaigns/convenience.json": "2026-03-27T02:22:48.385Z",
-    "categories.json": "2026-03-27T02:22:48.387Z",
-    "chains.json": "2026-03-27T02:22:48.389Z",
-    "sale-rules.json": "2026-03-27T02:22:48.391Z",
-    "substitutions.json": "2026-03-27T02:22:48.393Z",
-    "recipes.json": "2026-03-27T02:22:48.395Z",
-    "regions.json": "2026-03-27T02:22:48.397Z"
+    "initial-index.json": "2026-04-27T14:04:44.995Z",
+    "index-history.json": "2026-04-27T14:04:44.997Z",
+    "sales/daily-sales.json": "2026-04-27T14:04:45.000Z",
+    "campaigns/convenience.json": "2026-04-27T14:04:45.003Z",
+    "categories.json": "2026-04-27T14:04:45.007Z",
+    "chains.json": "2026-04-27T14:04:45.010Z",
+    "sale-rules.json": "2026-04-27T14:04:45.013Z",
+    "substitutions.json": "2026-04-27T14:04:45.015Z",
+    "recipes.json": "2026-04-27T14:04:45.017Z",
+    "regions.json": "2026-04-27T14:04:45.019Z",
+    "benchmark/aggregated-prices.json": "2026-04-27T14:04:45.022Z",
+    "benchmark/rakuten-prices.json": "2026-04-27T14:04:45.024Z",
+    "benchmark/yahoo-prices.json": "2026-04-27T14:04:45.028Z",
+    "benchmark/kakaku-prices.json": "2026-04-27T14:04:45.031Z",
+    "benchmark/retail-prices.json": "2026-04-27T14:04:45.033Z",
+    "benchmark/price-news.json": "2026-04-27T14:04:45.035Z"
   }
 }

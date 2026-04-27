@@ -1,0 +1,360 @@
+{
+  "source": "rakuten",
+  "mode": "mock",
+  "fetchedAt": "2026-02-25T13:22:23.385Z",
+  "totalKeywords": 13,
+  "totalItems": 39,
+  "data": [
+    {
+      "keyword": "白米 5kg",
+      "category": "rice",
+      "minPrice": 2480,
+      "maxPrice": 4980,
+      "avgPrice": 3200,
+      "medianPrice": 3730,
+      "sampleSize": 30,
+      "items": [
+        {
+          "name": "白米 5kg (サンプル1)",
+          "price": 2480,
+          "shop": "サンプル店A"
+        },
+        {
+          "name": "白米 5kg (サンプル2)",
+          "price": 3200,
+          "shop": "サンプル店B"
+        },
+        {
+          "name": "白米 5kg (サンプル3)",
+          "price": 4980,
+          "shop": "サンプル店C"
+        }
+      ],
+      "fetchedAt": "2026-02-25T13:22:23.384Z"
+    },
+    {
+      "keyword": "パックご飯",
+      "category": "rice",
+      "minPrice": 98,
+      "maxPrice": 298,
+      "avgPrice": 168,
+      "medianPrice": 198,
+      "sampleSize": 30,
+      "items": [
+        {
+          "name": "パックご飯 (サンプル1)",
+          "price": 98,
+          "shop": "サンプル店A"
+        },
+        {
+          "name": "パックご飯 (サンプル2)",
+          "price": 168,
+          "shop": "サンプル店B"
+        },
+        {
+          "name": "パックご飯 (サンプル3)",
+          "price": 298,
+          "shop": "サンプル店C"
+        }
+      ],
+      "fetchedAt": "2026-02-25T13:22:23.384Z"
+    },
+    {
+      "keyword": "オートミール",
+      "category": "rice",
+      "minPrice": 398,
+      "maxPrice": 1280,
+      "avgPrice": 680,
+      "medianPrice": 839,
+      "sampleSize": 30,
+      "items": [
+        {
+          "name": "オートミール (サンプル1)",
+          "price": 398,
+          "shop": "サンプル店A"
+        },
+        {
+          "name": "オートミール (サンプル2)",
+          "price": 680,
+          "shop": "サンプル店B"
+        },
+        {
+          "name": "オートミール (サンプル3)",
+          "price": 1280,
+          "shop": "サンプル店C"
+        }
+      ],
+      "fetchedAt": "2026-02-25T13:22:23.384Z"
+    },
+    {
+      "keyword": "食パン",
+      "category": "bread",
+      "minPrice": 128,
+      "maxPrice": 398,
+      "avgPrice": 218,
+      "medianPrice": 263,
+      "sampleSize": 30,
+      "items": [
+        {
+          "name": "食パン (サンプル1)",
+          "price": 128,
+          "shop": "サンプル店A"
+        },
+        {
+          "name": "食パン (サンプル2)",
+          "price": 218,
+          "shop": "サンプル店B"
+        },
+        {
+          "name": "食パン (サンプル3)",
+          "price": 398,
+          "shop": "サンプル店C"
+        }
+      ],
+      "fetchedAt": "2026-02-25T13:22:23.384Z"
+    },
+    {
+      "keyword": "強力粉 1kg",
+      "category": "bread",
+      "minPrice": 298,
+      "maxPrice": 598,
+      "avgPrice": 398,
+      "medianPrice": 448,
+      "sampleSize": 30,
+      "items": [
+        {
+          "name": "強力粉 1kg (サンプル1)",
+          "price": 298,
+          "shop": "サンプル店A"
+        },
+        {
+          "name": "強力粉 1kg (サンプル2)",
+          "price": 398,
+          "shop": "サンプル店B"
+        },
+        {
+          "name": "強力粉 1kg (サンプル3)",
+          "price": 598,
+          "shop": "サンプル店C"
+        }
+      ],
+      "fetchedAt": "2026-02-25T13:22:23.384Z"
+    },
+    {
+      "keyword": "パスタ 乾麺",
+      "category": "noodle",
+      "minPrice": 128,
+      "maxPrice": 498,
+      "avgPrice": 248,
+      "medianPrice": 313,
+      "sampleSize": 30,
+      "items": [
+        {
+          "name": "パスタ 乾麺 (サンプル1)",
+          "price": 128,
+          "shop": "サンプル店A"
+        },
+        {
+          "name": "パスタ 乾麺 (サンプル2)",
+          "price": 248,
+          "shop": "サンプル店B"
+        },
+        {
+          "name": "パスタ 乾麺 (サンプル3)",
+          "price": 498,
+          "shop": "サンプル店C"
+        }
+      ],
+      "fetchedAt": "2026-02-25T13:22:23.384Z"
+    },
+    {
+      "keyword": "冷凍うどん",
+      "category": "noodle",
+      "minPrice": 178,
+      "maxPrice": 398,
+      "avgPrice": 258,
+      "medianPrice": 288,
+      "sampleSize": 30,
+      "items": [
+        {
+          "name": "冷凍うどん (サンプル1)",
+          "price": 178,
+          "shop": "サンプル店A"
+        },
+        {
+          "name": "冷凍うどん (サンプル2)",
+          "price": 258,
+          "shop": "サンプル店B"
+        },
+        {
+          "name": "冷凍うどん (サンプル3)",
+          "price": 398,
+          "shop": "サンプル店C"
+        }
+      ],
+      "fetchedAt": "2026-02-25T13:22:23.384Z"
+    },
+    {
+      "keyword": "袋麺",
+      "category": "noodle",
+      "minPrice": 398,
+      "maxPrice": 698,
+      "avgPrice": 498,
+      "medianPrice": 548,
+      "sampleSize": 30,
+      "items": [
+        {
+          "name": "袋麺 (サンプル1)",
+          "price": 398,
+          "shop": "サンプル店A"
+        },
+        {
+          "name": "袋麺 (サンプル2)",
+          "price": 498,
+          "shop": "サンプル店B"
+        },
+        {
+          "name": "袋麺 (サンプル3)",
+          "price": 698,
+          "shop": "サンプル店C"
+        }
+      ],
+      "fetchedAt": "2026-02-25T13:22:23.384Z"
+    },
+    {
+      "keyword": "卵 10個",
+      "category": "egg",
+      "minPrice": 198,
+      "maxPrice": 398,
+      "avgPrice": 278,
+      "medianPrice": 298,
+      "sampleSize": 30,
+      "items": [
+        {
+          "name": "卵 10個 (サンプル1)",
+          "price": 198,
+          "shop": "サンプル店A"
+        },
+        {
+          "name": "卵 10個 (サンプル2)",
+          "price": 278,
+          "shop": "サンプル店B"
+        },
+        {
+          "name": "卵 10個 (サンプル3)",
+          "price": 398,
+          "shop": "サンプル店C"
+        }
+      ],
+      "fetchedAt": "2026-02-25T13:22:23.384Z"
+    },
+    {
+      "keyword": "鶏卵",
+      "category": "egg",
+      "minPrice": 218,
+      "maxPrice": 428,
+      "avgPrice": 298,
+      "medianPrice": 323,
+      "sampleSize": 30,
+      "items": [
+        {
+          "name": "鶏卵 (サンプル1)",
+          "price": 218,
+          "shop": "サンプル店A"
+        },
+        {
+          "name": "鶏卵 (サンプル2)",
+          "price": 298,
+          "shop": "サンプル店B"
+        },
+        {
+          "name": "鶏卵 (サンプル3)",
+          "price": 428,
+          "shop": "サンプル店C"
+        }
+      ],
+      "fetchedAt": "2026-02-25T13:22:23.384Z"
+    },
+    {
+      "keyword": "牛乳 1L",
+      "category": "dairy",
+      "minPrice": 178,
+      "maxPrice": 298,
+      "avgPrice": 218,
+      "medianPrice": 238,
+      "sampleSize": 30,
+      "items": [
+        {
+          "name": "牛乳 1L (サンプル1)",
+          "price": 178,
+          "shop": "サンプル店A"
+        },
+        {
+          "name": "牛乳 1L (サンプル2)",
+          "price": 218,
+          "shop": "サンプル店B"
+        },
+        {
+          "name": "牛乳 1L (サンプル3)",
+          "price": 298,
+          "shop": "サンプル店C"
+        }
+      ],
+      "fetchedAt": "2026-02-25T13:22:23.384Z"
+    },
+    {
+      "keyword": "ヨーグルト 400g",
+      "category": "dairy",
+      "minPrice": 128,
+      "maxPrice": 248,
+      "avgPrice": 168,
+      "medianPrice": 188,
+      "sampleSize": 30,
+      "items": [
+        {
+          "name": "ヨーグルト 400g (サンプル1)",
+          "price": 128,
+          "shop": "サンプル店A"
+        },
+        {
+          "name": "ヨーグルト 400g (サンプル2)",
+          "price": 168,
+          "shop": "サンプル店B"
+        },
+        {
+          "name": "ヨーグルト 400g (サンプル3)",
+          "price": 248,
+          "shop": "サンプル店C"
+        }
+      ],
+      "fetchedAt": "2026-02-25T13:22:23.384Z"
+    },
+    {
+      "keyword": "バター 200g",
+      "category": "dairy",
+      "minPrice": 398,
+      "maxPrice": 698,
+      "avgPrice": 498,
+      "medianPrice": 548,
+      "sampleSize": 30,
+      "items": [
+        {
+          "name": "バター 200g (サンプル1)",
+          "price": 398,
+          "shop": "サンプル店A"
+        },
+        {
+          "name": "バター 200g (サンプル2)",
+          "price": 498,
+          "shop": "サンプル店B"
+        },
+        {
+          "name": "バター 200g (サンプル3)",
+          "price": 698,
+          "shop": "サンプル店C"
+        }
+      ],
+      "fetchedAt": "2026-02-25T13:22:23.384Z"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "source": "retail-stores",
+  "fetchedAt": "2026-02-25T13:24:43.621Z",
+  "totalRecords": 8,
+  "byStoreType": {
+    "supermarket": 0,
+    "convenience": 4,
+    "discount": 4
+  },
+  "data": [
+    {
+      "storeId": "7eleven",
+      "storeName": "セブンイレブン",
+      "storeType": "convenience",
+      "keyword": "おにぎり",
+      "category": "rice",
+      "items": [
+        {
+          "name": "手巻おにぎり 鮭",
+          "price": 160
+        },
+        {
+          "name": "手巻おにぎり ツナマヨ",
+          "price": 150
+        },
+        {
+          "name": "金のおむすび",
+          "price": 198
+        }
+      ],
+      "fetchedAt": "2026-02-25T13:23:21.975Z"
+    },
+    {
+      "storeId": "7eleven",
+      "storeName": "セブンイレブン",
+      "storeType": "convenience",
+      "keyword": "パン",
+      "category": "bread",
+      "items": [
+        {
+          "name": "塩バターパン",
+          "price": 118
+        },
+        {
+          "name": "メロンパン",
+          "price": 138
+        },
+        {
+          "name": "食パン 4枚",
+          "price": 168
+        }
+      ],
+      "fetchedAt": "2026-02-25T13:23:21.976Z"
+    },
+    {
+      "storeId": "lawson",
+      "storeName": "ローソン",
+      "storeType": "convenience",
+      "keyword": "おにぎり",
+      "category": "rice",
+      "items": [
+        {
+          "name": "おにぎり屋 鮭",
+          "price": 158
+        },
+        {
+          "name": "おにぎり屋 ツナマヨ",
+          "price": 148
+        },
+        {
+          "name": "金しゃりおにぎり",
+          "price": 198
+        }
+      ],
+      "fetchedAt": "2026-02-25T13:23:21.976Z"
+    },
+    {
+      "storeId": "familymart",
+      "storeName": "ファミリーマート",
+      "storeType": "convenience",
+      "keyword": "おにぎり",
+      "category": "rice",
+      "items": [
+        {
+          "name": "手巻 焼さけハラミ",
+          "price": 158
+        },
+        {
+          "name": "手巻 シーチキンマヨネーズ",
+          "price": 148
+        },
+        {
+          "name": "スーパー大麦おにぎり",
+          "price": 178
+        }
+      ],
+      "fetchedAt": "2026-02-25T13:23:21.976Z"
+    },
+    {
+      "storeId": "gyomu",
+      "storeName": "業務スーパー",
+      "storeType": "discount",
+      "keyword": "米",
+      "category": "rice",
+      "items": [
+        {
+          "name": "白米 5kg",
+          "price": 1980
+        },
+        {
+          "name": "白米 10kg",
+          "price": 3680
+        },
+        {
+          "name": "オートミール 1kg",
+          "price": 398
+        }
+      ],
+      "fetchedAt": "2026-02-25T13:23:21.976Z"
+    },
+    {
+      "storeId": "gyomu",
+      "storeName": "業務スーパー",
+      "storeType": "discount",
+      "keyword": "冷凍食品",
+      "category": "frozen",
+      "items": [
+        {
+          "name": "冷凍うどん 5食",
+          "price": 178
+        },
+        {
+          "name": "冷凍野菜ミックス 500g",
+          "price": 158
+        },
+        {
+          "name": "冷凍餃子 50個",
+          "price": 398
+        }
+      ],
+      "fetchedAt": "2026-02-25T13:23:21.976Z"
+    },
+    {
+      "storeId": "gyomu",
+      "storeName": "業務スーパー",
+      "storeType": "discount",
+      "keyword": "調味料",
+      "category": "seasoning",
+      "items": [
+        {
+          "name": "醤油 1L",
+          "price": 178
+        },
+        {
+          "name": "味噌 1kg",
+          "price": 298
+        },
+        {
+          "name": "サラダ油 1L",
+          "price": 248
+        }
+      ],
+      "fetchedAt": "2026-02-25T13:23:21.976Z"
+    },
+    {
+      "storeId": "gyomu",
+      "storeName": "業務スーパー",
+      "storeType": "discount",
+      "keyword": "豆腐",
+      "category": "tofu",
+      "items": [
+        {
+          "name": "木綿豆腐 300g",
+          "price": 29
+        },
+        {
+          "name": "絹ごし豆腐 300g",
+          "price": 29
+        },
+        {
+          "name": "納豆 3パック",
+          "price": 58
+        }
+      ],
+      "fetchedAt": "2026-02-25T13:23:21.976Z"
+    }
+  ]
+}
