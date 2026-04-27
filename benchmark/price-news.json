@@ -1,10 +1,10 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-04-27T14:04:44.497Z",
-  "totalArticles": 14,
+  "fetchedAt": "2026-04-27T22:00:09.096Z",
+  "totalArticles": 12,
   "categoryBreakdown": {
-    "rice": 4,
-    "oil": 3
+    "rice": 3,
+    "oil": 2
   },
   "articles": [
     {
@@ -134,30 +134,6 @@
       "categories": [],
       "priceKeywords": [
         "物価"
-      ]
-    },
-    {
-      "title": "イラン情勢影響 ポリ袋など購入制限の商社 食用油値上げも",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015104661000",
-      "pubDate": "Tue, 21 Apr 2026 20:52:11 +0900",
-      "source": "NHK 経済",
-      "categories": [
-        "oil"
-      ],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "株価 値上がり 米イラン2回目協議実現との見方から",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015104411000",
-      "pubDate": "Tue, 21 Apr 2026 16:35:21 +0900",
-      "source": "NHK 経済",
-      "categories": [
-        "rice"
-      ],
-      "priceKeywords": [
-        "値上がり"
       ]
     }
   ]
