@@ -1,12 +1,86 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-04-27T22:00:09.096Z",
-  "totalArticles": 12,
+  "fetchedAt": "2026-04-28T22:00:11.650Z",
+  "totalArticles": 15,
   "categoryBreakdown": {
-    "rice": 3,
-    "oil": 2
+    "oil": 4,
+    "rice": 3
   },
   "articles": [
+    {
+      "title": "日銀 今後の金融政策は物価と景気への目配り 難しい対応も",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015110671000",
+      "pubDate": "Wed, 29 Apr 2026 05:15:31 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
+    {
+      "title": "NY原油100ドル超に値上がり 今月中旬以来",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015110631000",
+      "pubDate": "Tue, 28 Apr 2026 21:38:37 +0900",
+      "source": "NHK 経済",
+      "categories": [
+        "oil"
+      ],
+      "priceKeywords": [
+        "値上がり"
+      ]
+    },
+    {
+      "title": "【詳しく】日銀 利上げ見送り “物価上振れリスクに注意必要”",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015109901000",
+      "pubDate": "Tue, 28 Apr 2026 19:12:59 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
+    {
+      "title": "東京メトロ 運賃の値上げを検討",
+      "link": "https://news.yahoo.co.jp/pickup/6578003?source=rss",
+      "pubDate": "Tue, 28 Apr 2026 09:33:46 GMT",
+      "source": "Yahoo!ニュース 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "電気・ガス料金 5月使用分は大手のほとんどで値上がりへ",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015110361000",
+      "pubDate": "Tue, 28 Apr 2026 17:55:26 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上がり"
+      ]
+    },
+    {
+      "title": "日銀総裁 物価上振れリスクに留意",
+      "link": "https://news.yahoo.co.jp/pickup/6577981?source=rss",
+      "pubDate": "Tue, 28 Apr 2026 07:43:27 GMT",
+      "source": "Yahoo!ニュース 経済",
+      "categories": [],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
+    {
+      "title": "愛媛 八幡浜 トロール漁で重油高・資材値上げに懸念",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015110171000",
+      "pubDate": "Tue, 28 Apr 2026 15:21:58 +0900",
+      "source": "NHK 経済",
+      "categories": [
+        "oil"
+      ],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
     {
       "title": "円相場 小幅値上がり “イランが米に新提案”報じられ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015109491000",
@@ -24,16 +98,6 @@
       "link": "https://news.web.nhk/newsweb/na/na-k10015109471000",
       "pubDate": "Mon, 27 Apr 2026 18:31:06 +0900",
       "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "東京ガス基本料金値上げ 46年ぶり",
-      "link": "https://news.yahoo.co.jp/pickup/6577849?source=rss",
-      "pubDate": "Mon, 27 Apr 2026 07:31:47 GMT",
-      "source": "Yahoo!ニュース 経済",
       "categories": [],
       "priceKeywords": [
         "値上げ"
@@ -104,36 +168,6 @@
       "categories": [],
       "priceKeywords": [
         "値上がり"
-      ]
-    },
-    {
-      "title": "欧州の航空会社の大幅減便相次ぐ イラン情勢受け燃料価格高騰",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015105931000",
-      "pubDate": "Wed, 22 Apr 2026 21:35:14 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "高騰"
-      ]
-    },
-    {
-      "title": "【きょうのおはBiz 4月22日(水)】肥料価格高騰 畜産への影響は",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015105191000",
-      "pubDate": "Wed, 22 Apr 2026 10:57:32 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "高騰"
-      ]
-    },
-    {
-      "title": "物価高で「消費の二極化」鮮明に 小売各社が対応強化",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015104821000",
-      "pubDate": "Wed, 22 Apr 2026 04:58:05 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "物価"
       ]
     }
   ]
