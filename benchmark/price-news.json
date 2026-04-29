@@ -1,12 +1,22 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-04-28T22:00:11.650Z",
-  "totalArticles": 15,
+  "fetchedAt": "2026-04-29T22:00:07.377Z",
+  "totalArticles": 12,
   "categoryBreakdown": {
-    "oil": 4,
+    "oil": 3,
     "rice": 3
   },
   "articles": [
+    {
+      "title": "ことしの傾向は“近場？” 大型連休は物価高なども背景か",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015110991000",
+      "pubDate": "Wed, 29 Apr 2026 19:27:58 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
     {
       "title": "日銀 今後の金融政策は物価と景気への目配り 難しい対応も",
       "link": "https://news.web.nhk/newsweb/na/na-k10015110671000",
@@ -40,16 +50,6 @@
       ]
     },
     {
-      "title": "東京メトロ 運賃の値上げを検討",
-      "link": "https://news.yahoo.co.jp/pickup/6578003?source=rss",
-      "pubDate": "Tue, 28 Apr 2026 09:33:46 GMT",
-      "source": "Yahoo!ニュース 経済",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
       "title": "電気・ガス料金 5月使用分は大手のほとんどで値上がりへ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015110361000",
       "pubDate": "Tue, 28 Apr 2026 17:55:26 +0900",
@@ -57,16 +57,6 @@
       "categories": [],
       "priceKeywords": [
         "値上がり"
-      ]
-    },
-    {
-      "title": "日銀総裁 物価上振れリスクに留意",
-      "link": "https://news.yahoo.co.jp/pickup/6577981?source=rss",
-      "pubDate": "Tue, 28 Apr 2026 07:43:27 GMT",
-      "source": "Yahoo!ニュース 経済",
-      "categories": [],
-      "priceKeywords": [
-        "物価"
       ]
     },
     {
@@ -144,28 +134,6 @@
       "categories": [
         "rice"
       ],
-      "priceKeywords": [
-        "値上がり"
-      ]
-    },
-    {
-      "title": "きょうのおはBiz4月23日(木)  原油高騰など 9割超の企業が懸念",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015106151000",
-      "pubDate": "Thu, 23 Apr 2026 14:04:18 +0900",
-      "source": "NHK 経済",
-      "categories": [
-        "oil"
-      ],
-      "priceKeywords": [
-        "高騰"
-      ]
-    },
-    {
-      "title": "NYダウ340ドル余値上がり トランプ大統領の停戦延長表明で",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015106051000",
-      "pubDate": "Thu, 23 Apr 2026 07:11:56 +0900",
-      "source": "NHK 経済",
-      "categories": [],
       "priceKeywords": [
         "値上がり"
       ]
