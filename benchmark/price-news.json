@@ -1,12 +1,42 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-04-30T22:00:07.903Z",
-  "totalArticles": 13,
+  "fetchedAt": "2026-05-01T22:00:10.264Z",
+  "totalArticles": 16,
   "categoryBreakdown": {
     "oil": 6,
     "rice": 2
   },
   "articles": [
+    {
+      "title": "株価 小幅な値上がり 大型連休前に様子見も",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015112551000",
+      "pubDate": "Fri, 01 May 2026 16:37:06 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上がり"
+      ]
+    },
+    {
+      "title": "ミツカン 納豆を最大20%値上げへ",
+      "link": "https://news.yahoo.co.jp/pickup/6578355?source=rss",
+      "pubDate": "Fri, 01 May 2026 04:44:21 GMT",
+      "source": "Yahoo!ニュース 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "東京23区の4月消費者物価指数は＋1.5％ 生鮮食品除いた総合で",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015112401000",
+      "pubDate": "Fri, 01 May 2026 11:13:48 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
     {
       "title": "長期金利 2.5％超 原油先物価格上昇で物価高加速に警戒感",
       "link": "https://news.web.nhk/newsweb/na/na-k10015111661000",
