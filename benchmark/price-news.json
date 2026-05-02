@@ -1,12 +1,24 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-05-01T22:00:10.264Z",
+  "fetchedAt": "2026-05-02T22:00:15.308Z",
   "totalArticles": 16,
   "categoryBreakdown": {
-    "oil": 6,
-    "rice": 2
+    "rice": 3,
+    "oil": 6
   },
   "articles": [
+    {
+      "title": "燃料高騰 米LCC大手が運航停止",
+      "link": "https://news.yahoo.co.jp/pickup/6578518?source=rss",
+      "pubDate": "Sat, 02 May 2026 09:48:09 GMT",
+      "source": "Yahoo!ニュース 経済",
+      "categories": [
+        "rice"
+      ],
+      "priceKeywords": [
+        "高騰"
+      ]
+    },
     {
       "title": "株価 小幅な値上がり 大型連休前に様子見も",
       "link": "https://news.web.nhk/newsweb/na/na-k10015112551000",
@@ -15,16 +27,6 @@
       "categories": [],
       "priceKeywords": [
         "値上がり"
-      ]
-    },
-    {
-      "title": "ミツカン 納豆を最大20%値上げへ",
-      "link": "https://news.yahoo.co.jp/pickup/6578355?source=rss",
-      "pubDate": "Fri, 01 May 2026 04:44:21 GMT",
-      "source": "Yahoo!ニュース 経済",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
       ]
     },
     {
