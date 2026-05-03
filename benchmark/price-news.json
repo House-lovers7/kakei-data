@@ -1,20 +1,27 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-05-02T22:00:15.308Z",
-  "totalArticles": 16,
+  "fetchedAt": "2026-05-03T22:00:21.682Z",
+  "totalArticles": 13,
   "categoryBreakdown": {
-    "rice": 3,
-    "oil": 6
+    "oil": 5
   },
   "articles": [
     {
-      "title": "燃料高騰 米LCC大手が運航停止",
-      "link": "https://news.yahoo.co.jp/pickup/6578518?source=rss",
-      "pubDate": "Sat, 02 May 2026 09:48:09 GMT",
+      "title": "プロテイン値上げ相次ぐ 供給不安",
+      "link": "https://news.yahoo.co.jp/pickup/6578652?source=rss",
+      "pubDate": "Sun, 03 May 2026 12:46:16 GMT",
       "source": "Yahoo!ニュース 経済",
-      "categories": [
-        "rice"
-      ],
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "GWガソリン高騰 近場志向強まる",
+      "link": "https://news.yahoo.co.jp/pickup/6578634?source=rss",
+      "pubDate": "Sun, 03 May 2026 09:59:22 GMT",
+      "source": "Yahoo!ニュース 経済",
+      "categories": [],
       "priceKeywords": [
         "高騰"
       ]
@@ -137,51 +144,6 @@
       ],
       "priceKeywords": [
         "値上げ"
-      ]
-    },
-    {
-      "title": "円相場 小幅値上がり “イランが米に新提案”報じられ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015109491000",
-      "pubDate": "Mon, 27 Apr 2026 19:49:27 +0900",
-      "source": "NHK 経済",
-      "categories": [
-        "rice"
-      ],
-      "priceKeywords": [
-        "値上がり"
-      ]
-    },
-    {
-      "title": "東京ガス 10月使用分から家庭向けガスの基本料金値上げへ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015109471000",
-      "pubDate": "Mon, 27 Apr 2026 18:31:06 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "JERA「電気料金 夏ごろに高騰懸念」イラン情勢受け",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015109271000",
-      "pubDate": "Mon, 27 Apr 2026 14:30:47 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "高騰"
-      ]
-    },
-    {
-      "title": "米FRB 利下げ見送りか 原油高でインフレ再加速を警戒",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015108881000",
-      "pubDate": "Mon, 27 Apr 2026 07:12:16 +0900",
-      "source": "NHK 経済",
-      "categories": [
-        "rice",
-        "oil"
-      ],
-      "priceKeywords": [
-        "インフレ"
       ]
     }
   ]
