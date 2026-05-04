@@ -1,25 +1,15 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-05-03T22:00:21.682Z",
-  "totalArticles": 13,
+  "fetchedAt": "2026-05-04T22:00:10.596Z",
+  "totalArticles": 8,
   "categoryBreakdown": {
-    "oil": 5
+    "oil": 3
   },
   "articles": [
     {
-      "title": "プロテイン値上げ相次ぐ 供給不安",
-      "link": "https://news.yahoo.co.jp/pickup/6578652?source=rss",
-      "pubDate": "Sun, 03 May 2026 12:46:16 GMT",
-      "source": "Yahoo!ニュース 経済",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "GWガソリン高騰 近場志向強まる",
-      "link": "https://news.yahoo.co.jp/pickup/6578634?source=rss",
-      "pubDate": "Sun, 03 May 2026 09:59:22 GMT",
+      "title": "燃料高騰 LCC「冬の時代」突入か",
+      "link": "https://news.yahoo.co.jp/pickup/6578700?source=rss",
+      "pubDate": "Mon, 04 May 2026 02:46:03 GMT",
       "source": "Yahoo!ニュース 経済",
       "categories": [],
       "priceKeywords": [
@@ -100,50 +90,6 @@
       "categories": [],
       "priceKeywords": [
         "物価"
-      ]
-    },
-    {
-      "title": "NY原油100ドル超に値上がり 今月中旬以来",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015110631000",
-      "pubDate": "Tue, 28 Apr 2026 21:38:37 +0900",
-      "source": "NHK 経済",
-      "categories": [
-        "oil"
-      ],
-      "priceKeywords": [
-        "値上がり"
-      ]
-    },
-    {
-      "title": "【詳しく】日銀 利上げ見送り “物価上振れリスクに注意必要”",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015109901000",
-      "pubDate": "Tue, 28 Apr 2026 19:12:59 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "物価"
-      ]
-    },
-    {
-      "title": "電気・ガス料金 5月使用分は大手のほとんどで値上がりへ",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015110361000",
-      "pubDate": "Tue, 28 Apr 2026 17:55:26 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "値上がり"
-      ]
-    },
-    {
-      "title": "愛媛 八幡浜 トロール漁で重油高・資材値上げに懸念",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015110171000",
-      "pubDate": "Tue, 28 Apr 2026 15:21:58 +0900",
-      "source": "NHK 経済",
-      "categories": [
-        "oil"
-      ],
-      "priceKeywords": [
-        "値上げ"
       ]
     }
   ]
