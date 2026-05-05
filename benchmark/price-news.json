@@ -1,21 +1,11 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-05-04T22:00:10.596Z",
-  "totalArticles": 8,
+  "fetchedAt": "2026-05-05T22:00:06.702Z",
+  "totalArticles": 5,
   "categoryBreakdown": {
     "oil": 3
   },
   "articles": [
-    {
-      "title": "燃料高騰 LCC「冬の時代」突入か",
-      "link": "https://news.yahoo.co.jp/pickup/6578700?source=rss",
-      "pubDate": "Mon, 04 May 2026 02:46:03 GMT",
-      "source": "Yahoo!ニュース 経済",
-      "categories": [],
-      "priceKeywords": [
-        "高騰"
-      ]
-    },
     {
       "title": "株価 小幅な値上がり 大型連休前に様子見も",
       "link": "https://news.web.nhk/newsweb/na/na-k10015112551000",
@@ -68,26 +58,6 @@
       "categories": [
         "oil"
       ],
-      "priceKeywords": [
-        "物価"
-      ]
-    },
-    {
-      "title": "ことしの傾向は“近場？” 大型連休は物価高なども背景か",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015110991000",
-      "pubDate": "Wed, 29 Apr 2026 19:27:58 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "物価"
-      ]
-    },
-    {
-      "title": "日銀 今後の金融政策は物価と景気への目配り 難しい対応も",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015110671000",
-      "pubDate": "Wed, 29 Apr 2026 05:15:31 +0900",
-      "source": "NHK 経済",
-      "categories": [],
       "priceKeywords": [
         "物価"
       ]
