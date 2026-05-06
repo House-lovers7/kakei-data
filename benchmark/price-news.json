@@ -1,10 +1,8 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-05-05T22:00:06.702Z",
-  "totalArticles": 5,
-  "categoryBreakdown": {
-    "oil": 3
-  },
+  "fetchedAt": "2026-05-06T22:00:10.085Z",
+  "totalArticles": 2,
+  "categoryBreakdown": {},
   "articles": [
     {
       "title": "株価 小幅な値上がり 大型連休前に様子見も",
@@ -22,42 +20,6 @@
       "pubDate": "Fri, 01 May 2026 11:13:48 +0900",
       "source": "NHK 経済",
       "categories": [],
-      "priceKeywords": [
-        "物価"
-      ]
-    },
-    {
-      "title": "長期金利 2.5％超 原油先物価格上昇で物価高加速に警戒感",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015111661000",
-      "pubDate": "Thu, 30 Apr 2026 19:27:08 +0900",
-      "source": "NHK 経済",
-      "categories": [
-        "oil"
-      ],
-      "priceKeywords": [
-        "物価"
-      ]
-    },
-    {
-      "title": "株価 値下がり 原油先物価格の上昇で",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015111451000",
-      "pubDate": "Thu, 30 Apr 2026 16:32:21 +0900",
-      "source": "NHK 経済",
-      "categories": [
-        "oil"
-      ],
-      "priceKeywords": [
-        "物価"
-      ]
-    },
-    {
-      "title": "長期金利2.5％超に 原油先物価格上昇で 株安や円安も",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015111351000",
-      "pubDate": "Thu, 30 Apr 2026 11:58:23 +0900",
-      "source": "NHK 経済",
-      "categories": [
-        "oil"
-      ],
       "priceKeywords": [
         "物価"
       ]
