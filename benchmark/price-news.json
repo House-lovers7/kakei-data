@@ -1,13 +1,13 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-05-06T22:00:10.085Z",
+  "fetchedAt": "2026-05-07T22:00:06.955Z",
   "totalArticles": 2,
   "categoryBreakdown": {},
   "articles": [
     {
-      "title": "株価 小幅な値上がり 大型連休前に様子見も",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015112551000",
-      "pubDate": "Fri, 01 May 2026 16:37:06 +0900",
+      "title": "円相場 ドルに対して値上がり 市場介入への警戒感続く",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015116121000",
+      "pubDate": "Thu, 07 May 2026 18:12:37 +0900",
       "source": "NHK 経済",
       "categories": [],
       "priceKeywords": [
@@ -15,9 +15,9 @@
       ]
     },
     {
-      "title": "東京23区の4月消費者物価指数は＋1.5％ 生鮮食品除いた総合で",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015112401000",
-      "pubDate": "Fri, 01 May 2026 11:13:48 +0900",
+      "title": "日銀3月会合 イラン情勢で物価上昇リスク 利上げ加速意識も",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015115951000",
+      "pubDate": "Thu, 07 May 2026 14:24:44 +0900",
       "source": "NHK 経済",
       "categories": [],
       "priceKeywords": [
