@@ -1,9 +1,29 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-05-07T22:00:06.955Z",
-  "totalArticles": 2,
+  "fetchedAt": "2026-05-08T22:00:11.184Z",
+  "totalArticles": 4,
   "categoryBreakdown": {},
   "articles": [
+    {
+      "title": "ナフサ不安 食品値上げ懸念の理由",
+      "link": "https://news.yahoo.co.jp/pickup/6579322?source=rss",
+      "pubDate": "Fri, 08 May 2026 12:32:43 GMT",
+      "source": "Yahoo!ニュース 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "「ニンテンドースイッチ2」1万円値上げへ 半導体価格の上昇で",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015116961000",
+      "pubDate": "Fri, 08 May 2026 18:47:07 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
     {
       "title": "円相場 ドルに対して値上がり 市場介入への警戒感続く",
       "link": "https://news.web.nhk/newsweb/na/na-k10015116121000",
