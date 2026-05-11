@@ -1,27 +1,21 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-05-09T22:00:12.006Z",
-  "totalArticles": 5,
-  "categoryBreakdown": {},
+  "fetchedAt": "2026-05-11T22:00:11.558Z",
+  "totalArticles": 4,
+  "categoryBreakdown": {
+    "oil": 1
+  },
   "articles": [
     {
-      "title": "ドコモ 値上げに踏み切れない背景",
-      "link": "https://news.yahoo.co.jp/pickup/6579380?source=rss",
-      "pubDate": "Sat, 09 May 2026 03:11:50 GMT",
-      "source": "Yahoo!ニュース 経済",
-      "categories": [],
+      "title": "NY原油先物価格 一時100ドル超え イラン情勢先行き不透明で",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015118461000",
+      "pubDate": "Mon, 11 May 2026 15:17:05 +0900",
+      "source": "NHK 経済",
+      "categories": [
+        "oil"
+      ],
       "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "ナフサ不安 食品値上げ懸念の理由",
-      "link": "https://news.yahoo.co.jp/pickup/6579322?source=rss",
-      "pubDate": "Fri, 08 May 2026 12:32:43 GMT",
-      "source": "Yahoo!ニュース 経済",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
+        "物価"
       ]
     },
     {
