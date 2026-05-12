@@ -1,11 +1,44 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-05-11T22:00:11.558Z",
-  "totalArticles": 4,
+  "fetchedAt": "2026-05-12T22:00:06.283Z",
+  "totalArticles": 7,
   "categoryBreakdown": {
+    "rice": 1,
     "oil": 1
   },
   "articles": [
+    {
+      "title": "米消費者物価指数 去年同月比3.8％上昇 2年11か月ぶりの高水準",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015119881000",
+      "pubDate": "Tue, 12 May 2026 23:41:00 +0900",
+      "source": "NHK 経済",
+      "categories": [
+        "rice"
+      ],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
+    {
+      "title": "株価 値上がり イラン情勢の先行きに警戒感も",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015119011000",
+      "pubDate": "Tue, 12 May 2026 16:37:38 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上がり"
+      ]
+    },
+    {
+      "title": "長期金利 2.545％まで上昇 27年ぶり高水準 物価上昇への懸念で",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015119101000",
+      "pubDate": "Tue, 12 May 2026 13:58:44 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
     {
       "title": "NY原油先物価格 一時100ドル超え イラン情勢先行き不透明で",
       "link": "https://news.web.nhk/newsweb/na/na-k10015118461000",
