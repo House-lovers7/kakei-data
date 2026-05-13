@@ -1,12 +1,22 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-05-12T22:00:06.283Z",
-  "totalArticles": 7,
+  "fetchedAt": "2026-05-13T22:00:13.333Z",
+  "totalArticles": 6,
   "categoryBreakdown": {
     "rice": 1,
     "oil": 1
   },
   "articles": [
+    {
+      "title": "「物価高倒産」再び急増に転じる",
+      "link": "https://news.yahoo.co.jp/pickup/6579964?source=rss",
+      "pubDate": "Wed, 13 May 2026 08:23:40 GMT",
+      "source": "Yahoo!ニュース 経済",
+      "categories": [],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
     {
       "title": "米消費者物価指数 去年同月比3.8％上昇 2年11か月ぶりの高水準",
       "link": "https://news.web.nhk/newsweb/na/na-k10015119881000",
@@ -59,26 +69,6 @@
       "categories": [],
       "priceKeywords": [
         "値上げ"
-      ]
-    },
-    {
-      "title": "円相場 ドルに対して値上がり 市場介入への警戒感続く",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015116121000",
-      "pubDate": "Thu, 07 May 2026 18:12:37 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "値上がり"
-      ]
-    },
-    {
-      "title": "日銀3月会合 イラン情勢で物価上昇リスク 利上げ加速意識も",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015115951000",
-      "pubDate": "Thu, 07 May 2026 14:24:44 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "物価"
       ]
     }
   ]
