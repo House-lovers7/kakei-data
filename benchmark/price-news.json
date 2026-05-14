@@ -1,20 +1,20 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-05-13T22:00:13.333Z",
-  "totalArticles": 6,
+  "fetchedAt": "2026-05-14T22:00:07.109Z",
+  "totalArticles": 5,
   "categoryBreakdown": {
     "rice": 1,
     "oil": 1
   },
   "articles": [
     {
-      "title": "「物価高倒産」再び急増に転じる",
-      "link": "https://news.yahoo.co.jp/pickup/6579964?source=rss",
-      "pubDate": "Wed, 13 May 2026 08:23:40 GMT",
-      "source": "Yahoo!ニュース 経済",
+      "title": "カルビー ポテトチップスなど 9月から順次値上げへ 年内3回目",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015121661000",
+      "pubDate": "Thu, 14 May 2026 16:20:07 +0900",
+      "source": "NHK 経済",
       "categories": [],
       "priceKeywords": [
-        "物価"
+        "値上げ"
       ]
     },
     {
@@ -59,16 +59,6 @@
       ],
       "priceKeywords": [
         "物価"
-      ]
-    },
-    {
-      "title": "「ニンテンドースイッチ2」1万円値上げへ 半導体価格の上昇で",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015116961000",
-      "pubDate": "Fri, 08 May 2026 18:47:07 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
       ]
     }
   ]
