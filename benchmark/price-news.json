@@ -1,12 +1,115 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-05-14T22:00:07.109Z",
-  "totalArticles": 5,
+  "fetchedAt": "2026-05-15T22:00:11.902Z",
+  "totalArticles": 15,
   "categoryBreakdown": {
-    "rice": 1,
-    "oil": 1
+    "oil": 2,
+    "rice": 1
   },
   "articles": [
+    {
+      "title": "日本郵政 郵便料金の値上げ検討 収支改善目指す",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015122961000",
+      "pubDate": "Fri, 15 May 2026 21:48:01 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "スカイマーク 今年度最終利益 51％減の見通し 燃油高騰などで",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015122951000",
+      "pubDate": "Fri, 15 May 2026 21:44:32 +0900",
+      "source": "NHK 経済",
+      "categories": [
+        "oil"
+      ],
+      "priceKeywords": [
+        "高騰"
+      ]
+    },
+    {
+      "title": "中東情勢が影響 紙おむつ値上げへ",
+      "link": "https://news.yahoo.co.jp/pickup/6580298?source=rss",
+      "pubDate": "Fri, 15 May 2026 12:16:10 GMT",
+      "source": "Yahoo!ニュース 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "郵便料金の値上げ検討 27年度にも",
+      "link": "https://news.yahoo.co.jp/pickup/6580283?source=rss",
+      "pubDate": "Fri, 15 May 2026 10:16:36 GMT",
+      "source": "Yahoo!ニュース 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "長期金利2.73％まで上昇 物価上昇や財政負担への懸念など背景",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015122241000",
+      "pubDate": "Fri, 15 May 2026 18:06:03 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
+    {
+      "title": "JA全農 秋の農作業向け肥料値上げへ イラン情勢影響で",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015122771000",
+      "pubDate": "Fri, 15 May 2026 17:31:33 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "大王製紙 8月に家庭用・業務用の全製品値上げ 中東情勢 影響で",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015122761000",
+      "pubDate": "Fri, 15 May 2026 17:16:31 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "「おかめ納豆」など15%値上げへ",
+      "link": "https://news.yahoo.co.jp/pickup/6580248?source=rss",
+      "pubDate": "Fri, 15 May 2026 06:43:59 GMT",
+      "source": "Yahoo!ニュース 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "物価高騰や円安の影響は研究現場にも 文部科学省が意識調査",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015122371000",
+      "pubDate": "Fri, 15 May 2026 13:03:01 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "高騰",
+        "物価"
+      ]
+    },
+    {
+      "title": "4月企業物価指数 イラン情勢で約3年ぶりの上昇幅に",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015122291000",
+      "pubDate": "Fri, 15 May 2026 10:50:35 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
     {
       "title": "カルビー ポテトチップスなど 9月から順次値上げへ 年内3回目",
       "link": "https://news.web.nhk/newsweb/na/na-k10015121661000",
