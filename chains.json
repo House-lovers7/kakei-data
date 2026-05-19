@@ -7,7 +7,7 @@
       "icon": "🏪",
       "officialUrl": "https://www.sej.co.jp/",
       "campaignPageUrl": "https://www.sej.co.jp/cmp/",
-      "availablePrefectures": ["26", "27", "28", "29"]
+      "availablePrefectures": ["26", "27", "28", "29", "13", "14", "11", "12"]
     },
     {
       "id": "lawson",
@@ -16,7 +16,7 @@
       "icon": "🏪",
       "officialUrl": "https://www.lawson.co.jp/",
       "campaignPageUrl": "https://www.lawson.co.jp/recommend/",
-      "availablePrefectures": ["26", "27", "28", "29"]
+      "availablePrefectures": ["26", "27", "28", "29", "13", "14", "11", "12"]
     },
     {
       "id": "familymart",
@@ -25,7 +25,7 @@
       "icon": "🏪",
       "officialUrl": "https://www.family.co.jp/",
       "campaignPageUrl": "https://www.family.co.jp/campaign.html",
-      "availablePrefectures": ["26", "27", "28", "29"]
+      "availablePrefectures": ["26", "27", "28", "29", "13", "14", "11", "12"]
     },
     {
       "id": "aeon",
@@ -34,7 +34,7 @@
       "icon": "🛒",
       "officialUrl": "https://www.aeon.com/",
       "salePageUrl": "https://chirashi.otoku.aeonsquare.net/",
-      "availablePrefectures": ["26", "27", "28", "29"]
+      "availablePrefectures": ["26", "27", "28", "29", "13", "14", "11", "12"]
     },
     {
       "id": "life",
@@ -43,7 +43,52 @@
       "icon": "🛒",
       "officialUrl": "https://www.lifecorp.jp/",
       "salePageUrl": "https://www.lifecorp.jp/store/",
-      "availablePrefectures": ["26", "27", "28", "29"]
+      "availablePrefectures": ["26", "27", "28", "29", "13", "14", "11", "12"]
+    },
+    {
+      "id": "ito_yokado",
+      "name": "イトーヨーカドー",
+      "type": "supermarket",
+      "icon": "🛒",
+      "officialUrl": "https://www.itoyokado.co.jp/",
+      "salePageUrl": "https://www.itoyokado.co.jp/store/",
+      "availablePrefectures": ["13", "14", "11", "12"]
+    },
+    {
+      "id": "maruetsu",
+      "name": "マルエツ",
+      "type": "supermarket",
+      "icon": "🛒",
+      "officialUrl": "https://www.maruetsu.co.jp/",
+      "salePageUrl": "https://www.maruetsu.co.jp/shop/",
+      "availablePrefectures": ["13", "14", "11", "12"]
+    },
+    {
+      "id": "summit",
+      "name": "サミット",
+      "type": "supermarket",
+      "icon": "🛒",
+      "officialUrl": "https://www.summitstore.co.jp/",
+      "salePageUrl": "https://www.summitstore.co.jp/store/",
+      "availablePrefectures": ["13", "14", "11", "12"]
+    },
+    {
+      "id": "yaoko",
+      "name": "ヤオコー",
+      "type": "supermarket",
+      "icon": "🛒",
+      "officialUrl": "https://www.yaoko-net.com/",
+      "salePageUrl": "https://www.yaoko-net.com/shop/",
+      "availablePrefectures": ["13", "14", "11", "12"]
+    },
+    {
+      "id": "ok_store",
+      "name": "オーケー",
+      "type": "discount",
+      "icon": "🏷️",
+      "officialUrl": "https://ok-corporation.jp/",
+      "salePageUrl": "https://ok-corporation.jp/shop/",
+      "availablePrefectures": ["13", "14", "11", "12"]
     },
     {
       "id": "hankyu_oasis",
@@ -88,7 +133,7 @@
       "icon": "🏷️",
       "officialUrl": "https://www.trial-net.co.jp/",
       "salePageUrl": "https://www.trial-net.co.jp/store/",
-      "availablePrefectures": ["26", "27", "28", "29"]
+      "availablePrefectures": ["26", "27", "28", "29", "13", "14", "11", "12"]
     },
     {
       "id": "gyomu",
@@ -97,8 +142,8 @@
       "icon": "🏷️",
       "officialUrl": "https://www.gyomusuper.jp/",
       "salePageUrl": "https://www.gyomusuper.jp/shop/",
-      "availablePrefectures": ["26", "27", "28", "29"]
+      "availablePrefectures": ["26", "27", "28", "29", "13", "14", "11", "12"]
     }
   ],
-  "updatedAt": "2025-03-01T00:00:00Z"
+  "updatedAt": "2026-05-19T00:00:00Z"
 }
