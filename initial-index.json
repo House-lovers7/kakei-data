@@ -1,24 +1,24 @@
 {
   "householdWeather": {
     "weatherType": "cloudy",
-    "overallIndex": 134.5,
+    "overallIndex": 134.2,
     "topRisingCategories": [
-      {
-        "category": "egg",
-        "categoryName": "卵",
-        "deltaPercent": 7.9,
-        "inflationLevel": 3
-      },
       {
         "category": "fish",
         "categoryName": "魚",
-        "deltaPercent": 5.8,
+        "deltaPercent": 5.7,
         "inflationLevel": 2
       },
       {
         "category": "dairy",
         "categoryName": "乳製品",
-        "deltaPercent": 4.7,
+        "deltaPercent": 4.9,
+        "inflationLevel": 2
+      },
+      {
+        "category": "egg",
+        "categoryName": "卵",
+        "deltaPercent": 4.9,
         "inflationLevel": 2
       }
     ],
@@ -26,17 +26,23 @@
       {
         "category": "fruit",
         "categoryName": "果物",
-        "deltaPercent": -6.1,
-        "inflationLevel": 3
+        "deltaPercent": -2.6,
+        "inflationLevel": 1
       },
       {
         "category": "vegetable",
         "categoryName": "野菜",
-        "deltaPercent": -5.3,
-        "inflationLevel": 2
+        "deltaPercent": 0.5,
+        "inflationLevel": 0
+      },
+      {
+        "category": "noodle",
+        "categoryName": "麺",
+        "deltaPercent": 1.3,
+        "inflationLevel": 1
       }
     ],
-    "updatedAt": "2026-05-16T18:03:13.494Z"
+    "updatedAt": "2026-05-23T18:03:01.129Z"
   },
   "categoryIndices": [
     {
@@ -44,134 +50,134 @@
       "categoryName": "米",
       "baselineDate": "2020-01-01",
       "baselineValue": 100,
-      "currentValue": 149.5,
-      "previousValue": 144.5,
-      "deltaPercent": 3.5,
-      "inflationLevel": 2,
+      "currentValue": 148.5,
+      "previousValue": 146.6,
+      "deltaPercent": 1.3,
+      "inflationLevel": 1,
       "trend": "rising",
-      "updatedAt": "2026-05-16T18:03:13.494Z"
+      "updatedAt": "2026-05-23T18:03:01.128Z"
     },
     {
       "category": "bread",
       "categoryName": "パン",
       "baselineDate": "2020-01-01",
       "baselineValue": 100,
-      "currentValue": 149.5,
-      "previousValue": 144.5,
-      "deltaPercent": 3.5,
-      "inflationLevel": 2,
+      "currentValue": 148.5,
+      "previousValue": 146.6,
+      "deltaPercent": 1.3,
+      "inflationLevel": 1,
       "trend": "rising",
-      "updatedAt": "2026-05-16T18:03:13.494Z"
+      "updatedAt": "2026-05-23T18:03:01.128Z"
     },
     {
       "category": "noodle",
       "categoryName": "麺",
       "baselineDate": "2020-01-01",
       "baselineValue": 100,
-      "currentValue": 149.5,
-      "previousValue": 144.5,
-      "deltaPercent": 3.5,
-      "inflationLevel": 2,
+      "currentValue": 148.5,
+      "previousValue": 146.6,
+      "deltaPercent": 1.3,
+      "inflationLevel": 1,
       "trend": "rising",
-      "updatedAt": "2026-05-16T18:03:13.494Z"
+      "updatedAt": "2026-05-23T18:03:01.128Z"
     },
     {
       "category": "fish",
       "categoryName": "魚",
       "baselineDate": "2020-01-01",
       "baselineValue": 100,
-      "currentValue": 139.3,
-      "previousValue": 131.7,
-      "deltaPercent": 5.8,
+      "currentValue": 138.5,
+      "previousValue": 131,
+      "deltaPercent": 5.7,
       "inflationLevel": 2,
       "trend": "rising",
-      "updatedAt": "2026-05-16T18:03:13.494Z"
+      "updatedAt": "2026-05-23T18:03:01.128Z"
     },
     {
       "category": "meat",
       "categoryName": "肉",
       "baselineDate": "2020-01-01",
       "baselineValue": 100,
-      "currentValue": 123.8,
+      "currentValue": 124.5,
       "previousValue": 119.3,
-      "deltaPercent": 3.8,
+      "deltaPercent": 4.4,
       "inflationLevel": 2,
       "trend": "rising",
-      "updatedAt": "2026-05-16T18:03:13.494Z"
+      "updatedAt": "2026-05-23T18:03:01.128Z"
     },
     {
       "category": "dairy",
       "categoryName": "乳製品",
       "baselineDate": "2020-01-01",
       "baselineValue": 100,
-      "currentValue": 125.8,
-      "previousValue": 120.2,
-      "deltaPercent": 4.7,
+      "currentValue": 126.7,
+      "previousValue": 120.8,
+      "deltaPercent": 4.9,
       "inflationLevel": 2,
       "trend": "rising",
-      "updatedAt": "2026-05-16T18:03:13.494Z"
+      "updatedAt": "2026-05-23T18:03:01.128Z"
     },
     {
       "category": "egg",
       "categoryName": "卵",
       "baselineDate": "2020-01-01",
       "baselineValue": 100,
-      "currentValue": 146.4,
-      "previousValue": 135.7,
-      "deltaPercent": 7.9,
-      "inflationLevel": 3,
+      "currentValue": 146.6,
+      "previousValue": 139.7,
+      "deltaPercent": 4.9,
+      "inflationLevel": 2,
       "trend": "rising",
-      "updatedAt": "2026-05-16T18:03:13.494Z"
+      "updatedAt": "2026-05-23T18:03:01.128Z"
     },
     {
       "category": "vegetable",
       "categoryName": "野菜",
       "baselineDate": "2020-01-01",
       "baselineValue": 100,
-      "currentValue": 122.5,
-      "previousValue": 129.4,
-      "deltaPercent": -5.3,
-      "inflationLevel": 2,
-      "trend": "falling",
-      "updatedAt": "2026-05-16T18:03:13.494Z"
+      "currentValue": 123.4,
+      "previousValue": 122.8,
+      "deltaPercent": 0.5,
+      "inflationLevel": 0,
+      "trend": "rising",
+      "updatedAt": "2026-05-23T18:03:01.128Z"
     },
     {
       "category": "fruit",
       "categoryName": "果物",
       "baselineDate": "2020-01-01",
       "baselineValue": 100,
-      "currentValue": 125.5,
-      "previousValue": 133.6,
-      "deltaPercent": -6.1,
-      "inflationLevel": 3,
+      "currentValue": 122.1,
+      "previousValue": 125.4,
+      "deltaPercent": -2.6,
+      "inflationLevel": 1,
       "trend": "falling",
-      "updatedAt": "2026-05-16T18:03:13.494Z"
+      "updatedAt": "2026-05-23T18:03:01.128Z"
     },
     {
       "category": "oil",
       "categoryName": "油",
       "baselineDate": "2020-01-01",
       "baselineValue": 100,
-      "currentValue": 123.9,
-      "previousValue": 119.2,
-      "deltaPercent": 3.9,
+      "currentValue": 124.3,
+      "previousValue": 119.4,
+      "deltaPercent": 4.1,
       "inflationLevel": 2,
       "trend": "rising",
-      "updatedAt": "2026-05-16T18:03:13.494Z"
+      "updatedAt": "2026-05-23T18:03:01.128Z"
     },
     {
       "category": "seasoning",
       "categoryName": "調味料",
       "baselineDate": "2020-01-01",
       "baselineValue": 100,
-      "currentValue": 123.9,
-      "previousValue": 119.2,
-      "deltaPercent": 3.9,
+      "currentValue": 124.3,
+      "previousValue": 119.4,
+      "deltaPercent": 4.1,
       "inflationLevel": 2,
       "trend": "rising",
-      "updatedAt": "2026-05-16T18:03:13.494Z"
+      "updatedAt": "2026-05-23T18:03:01.128Z"
     }
   ],
   "dataSource": "cpi",
-  "generatedAt": "2026-05-16T18:03:13.494Z"
+  "generatedAt": "2026-05-23T18:03:01.129Z"
 }
