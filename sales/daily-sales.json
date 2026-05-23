@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-19T21:10:47.361Z",
+  "fetchedAt": "2026-05-23T21:10:24.499Z",
   "sales": [
     {
       "id": "ito_yokado-20260427-82636849054983-0-アサヒ飲料ウィルキ",
@@ -347,16 +347,6 @@
       "category": "beverage",
       "validFrom": "2026-05-01T00:00:00.000Z",
       "validTo": "2026-05-31T14:59:59.999Z"
-    },
-    {
-      "id": "ito_yokado-20260513-60682249370885-0-麦茶ポット",
-      "chainId": "ito_yokado",
-      "productName": "麦茶ポット",
-      "salePrice": 998,
-      "originalPrice": null,
-      "category": "beverage",
-      "validFrom": "2026-05-18T15:00:00.000Z",
-      "validTo": "2026-05-22T14:59:59.999Z"
     }
   ],
   "fallbackToRules": false
