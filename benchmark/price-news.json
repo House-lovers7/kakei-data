@@ -1,13 +1,12 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-06-22T22:00:43.923Z",
+  "fetchedAt": "2026-06-23T22:00:55.016Z",
   "periodDays": 14,
-  "totalArticles": 52,
+  "totalArticles": 53,
   "categoryBreakdown": {
     "legume": 1,
     "beverage": 2,
-    "noodle": 6,
-    "oil": 1,
+    "noodle": 7,
     "bread": 2,
     "snack": 2
   },
@@ -15,7 +14,7 @@
     {
       "title": "日本ハム 家庭用ウインナーなど約220品目を8月から順次値上げへ 中東情勢による包装資材の高騰などが原因 - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TNTJoa1NGMjBoWnFRbVdkMTl6NmRjMnBqd1BqNEw1WUNPV0M1R3VXU1J1OXJteTgyb1Rvek50RUdOVURrOV96TzB1bmQ2emNTQ2k5M25MNk5nRkpHQjRWVGRuYkNtdjdXUVBzUTRtNHNRN0h2bWtHenZTTGF5cmc?oc=5",
-      "pubDate": "Mon, 22 Jun 2026 15:22:47 GMT",
+      "pubDate": "Mon, 22 Jun 2026 15:12:23 GMT",
       "source": "GoogleNews 包装資材",
       "categories": [],
       "priceKeywords": [
@@ -37,13 +36,15 @@
       ]
     },
     {
-      "title": "ウミオス すりみ商品など最大18％値上げ 9月納品分から 中東情勢の影響などで - ABEMA",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5YUZ3NlZTNkcxT0NnS015VnBEUFZ6QjVyU0pFNklnRWRkcXVYS2RRUV83dWVHM2FnOENzWWxlWUd0eE1EYXcyUzE0QnNBRjFTUnZWbXJiNGR1ajg?oc=5",
+      "title": "６月から食品容器２０％以上値上げ エフピコ、中東情勢で原材料高騰 - 山陽新聞",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PeU5JbG14UTR0QVFGV05QaWVheWNjOU1hakNpM01YUjNsZy1mRTBZMjdaSXQ5blF6X3A4TDNGRXkyTXhLOWY4Xzc0WThqaG1jUVY3NzRxeVJMOThPZkpkVUY5ZEZFZ0E?oc=5",
       "pubDate": "Sat, 20 Jun 2026 07:00:00 GMT",
       "source": "GoogleNews 中東 食品",
       "categories": [],
       "priceKeywords": [
-        "値上げ"
+        "値上げ",
+        "高騰",
+        "原材料高"
       ]
     },
     {
@@ -126,6 +127,16 @@
       ]
     },
     {
+      "title": "ウミオスすりみ商品など最大18％値上げ9月納品分から中東情勢の影響などで - 朝日放送",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSZXBmR2hpZ2FQZjF6a19rdFhVSTFiV0VIbGlxMC1HVnU3UG95eXU4MjhCb0FZSTF0MVJ1NFo3TVpuRFlqYy05VDhEa1NKN1BSUnBEZUNDaHpJVC1fX3VWYXNsWExNVjA?oc=5",
+      "pubDate": "Wed, 17 Jun 2026 13:06:00 GMT",
+      "source": "GoogleNews 中東 食品",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
       "title": "ニップン、家庭用冷食値上げ - 金沢経済新聞",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jY055NHo0RERtdk5raFNhaUtaWng2TXdJeXd1eFJKZXZUQkptV3VJSnJzQ0hzZEV0SkZGd1Vwd1FLMEF4aEJoM2tuV09lYVlqT1Q1aXJR?oc=5",
       "pubDate": "Wed, 17 Jun 2026 12:15:17 GMT",
@@ -137,8 +148,8 @@
       ]
     },
     {
-      "title": "冷凍食品が続々値上げ　ニップン約7割を最大15％値上げへ、45品目9月から　原材料や輸送費上昇が要因 | チバテレ＋プラス - 千葉テレビ放送株式会社",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nbHU0QW5IQ0VOMFQzclRDaHV1ZF84OHAyQnFUeTF1ejdPaDNRam9BSWZmblkyTEdPZzZOWG5lNFFhcXRpbHd3SWU5N2Zka3l0ZzhEeWRrNFZmeGtIUElsQTMzQkXSAWRBVV95cUxOZ2x1NEFuSENFTjBUM3JUQ2h1dWRfODhwMkJxVHkxdXo3T2gzUWpvQUlmZm5ZMkxHT2c2TlhuZTRRYXF0aWx3d0llOTdmZGt5dGc4RHlkazRWZnhrSFBJbEEzM0JF?oc=5",
+      "title": "冷凍食品が続々値上げ　ニップン約7割を最大15％値上げへ、45品目9月から　原材料や輸送費上昇が要因 | チバテレ＋プラス - 千葉テレビ放送",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4ySkJHUGNPTEVXT2V3ZWdDUGNDUkNDMTdoQU42bTc0QmV4RS1aWTQzMnFlUXNJNmdsWEZ5LWZGUk9iQkdYaGZIMzdVRjJ4Vy1VMzRyQ2Fra3dDNmdwcmZr0gFkQVVfeXFMTmdsdTRBbkhDRU4wVDNyVENodXVkXzg4cDJCcVR5MXV6N09oM1Fqb0FJZmZuWTJMR09nNk5YbmU0UWFxdGlsd3dJZTk3ZmRreXRnOER5ZGs0VmZ4a0hQSWxBMzNCRQ?oc=5",
       "pubDate": "Wed, 17 Jun 2026 11:33:33 GMT",
       "source": "GoogleNews ニップン",
       "categories": [],
@@ -156,6 +167,28 @@
       "priceKeywords": [
         "値上げ",
         "品目"
+      ]
+    },
+    {
+      "title": "ニップンは冷凍食品の約7割を最大15％値上げへ 原材料や輸送費上昇が要因 (2026年6月17日掲載) - ライブドアニュース",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9UZmRfQV9YcUQtTzcxSWhoenNnTTJsZmk3a29MMmRTQXQtanFnTlo1RTdkQjRiU0g5VXZiNTBtWVNZb1ktd09xbjJpOU5YWU9kOEN1YjBfTHRheTg2cXc?oc=5",
+      "pubDate": "Wed, 17 Jun 2026 11:28:00 GMT",
+      "source": "GoogleNews ニップン",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "最大15％値上げ ニップン冷凍パスタ 中東情勢の影響などで 最新の経済ニュース【随時更新】 - ABEMA",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yLTU5dm5IbW1JRElCX2N6XzZMQ2FndEhsRjF3YnljbW41U3ZCaF9YbWxVX2lSR0l3aHhPMHc4YUlfTlhQT20xa1ROUTRhM0RXNWowSnNjWHZleEU?oc=5",
+      "pubDate": "Wed, 17 Jun 2026 10:47:50 GMT",
+      "source": "GoogleNews ニップン",
+      "categories": [
+        "noodle"
+      ],
+      "priceKeywords": [
+        "値上げ"
       ]
     },
     {
@@ -206,25 +239,13 @@
       ]
     },
     {
-      "title": "食品メーカー 値上げ相次ぐ 中東情勢影響で包装資材の価格上昇",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015152471000",
-      "pubDate": "Wed, 17 Jun 2026 15:58:03 +0900",
-      "source": "NHK 経済",
+      "title": "食品メーカー 値上げ相次ぐ 中東情勢影響で包装資材の価格上昇 - NHKニュース",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tY0dDVzhRUFJ5WE5ySDVYSDVHTE1ESXFtQ2xrNVgxZFlrbkNKcmNXQnNuazFRZjlwVnV4bGV2akFCbVB2NGw5TnhGU1phTW5LNy1OXzV0WDFJS09aZVJR?oc=5",
+      "pubDate": "Wed, 17 Jun 2026 06:58:03 GMT",
+      "source": "GoogleNews 中東 食品",
       "categories": [],
       "priceKeywords": [
         "値上げ"
-      ]
-    },
-    {
-      "title": "株価最高値を更新 原油先物価格下落で業績改善の見方",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015152221000",
-      "pubDate": "Wed, 17 Jun 2026 15:51:16 +0900",
-      "source": "NHK 経済",
-      "categories": [
-        "oil"
-      ],
-      "priceKeywords": [
-        "物価"
       ]
     },
     {
@@ -295,17 +316,7 @@
       ]
     },
     {
-      "title": "日銀 利上げに踏み切るも円安傾向続く 物価抑制で難しい対応も",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015151901000",
-      "pubDate": "Wed, 17 Jun 2026 05:47:23 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "物価"
-      ]
-    },
-    {
-      "title": "アイス大手6社が値上げで“口裏合わせ”か　「カカオや包装資材など高騰」理由に希望小売価格引き上げ　公取委が立ち入り調査 | チバテレ＋プラス - 千葉テレビ放送株式会社",
+      "title": "アイス大手6社が値上げで“口裏合わせ”か　「カカオや包装資材など高騰」理由に希望小売価格引き上げ　公取委が立ち入り調査 | チバテレ＋プラス - 千葉テレビ放送",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LQUFTd25NbDJ2VGl0dlJqT2xyNXFiRDRNMGRTRmxJZnVXZWZtNlhsc1BGWUJqbXdybVRlelVsd0pCTFpkOHRjRHVZdlJtY21kTEZMN2lWaEhqMWVqdUNNTXhaNHfSAWRBVV95cUxOS0FBU3duTWwydlRpdHZSak9scjVxYkQ0TTBkU0ZsSWZ1V2VmbTZYbHNQRllCam13cm1UZXpVbHdKQkxaZDh0Y0R1WXZSbWNtZExGTDdpVmhIajFlanVDTU14WjR3?oc=5",
       "pubDate": "Tue, 16 Jun 2026 12:12:11 GMT",
       "source": "GoogleNews 包装資材",
@@ -336,18 +347,6 @@
       "categories": [],
       "priceKeywords": [
         "値上げ"
-      ]
-    },
-    {
-      "title": "６月から食品容器２０％以上値上げ エフピコ、中東情勢で原材料高騰 - 山陽新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PeU5JbG14UTR0QVFGV05QaWVheWNjOU1hakNpM01YUjNsZy1mRTBZMjdaSXQ5blF6X3A4TDNGRXkyTXhLOWY4Xzc0WThqaG1jUVY3NzRxeVJMOThPZkpkVUY5ZEZFZ0E?oc=5",
-      "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ",
-        "高騰",
-        "原材料高"
       ]
     },
     {
@@ -405,7 +404,7 @@
     {
       "title": "イートアンドフーズ／9月から家庭用冷凍食品5～15％値上げ、物流費高騰や中東情勢で - 物流ニュースのLNEWS",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QYUN5cDZkX3MtcWhqQ1BQajNiVEYwOUtVUWFpMmdLUnJfaHpsaURpTGhFSndJYjgzRWFZdm1RaHB5WHNPc1F6SkQyc19oaXYxMjQyRw?oc=5",
-      "pubDate": "Mon, 15 Jun 2026 07:15:47 GMT",
+      "pubDate": "Mon, 15 Jun 2026 07:00:00 GMT",
       "source": "GoogleNews 中東 食品",
       "categories": [],
       "priceKeywords": [
@@ -439,7 +438,7 @@
       ]
     },
     {
-      "title": "冷凍食品の値上げ各社で相次ぐ　テーブルマークが9月から冷凍うどんなど最大20％値上げ　原材料費上昇や中東情勢影響で | チバテレ＋プラス - 千葉テレビ放送株式会社",
+      "title": "冷凍食品の値上げ各社で相次ぐ　テーブルマークが9月から冷凍うどんなど最大20％値上げ　原材料費上昇や中東情勢影響で | チバテレ＋プラス - 千葉テレビ放送",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05R0V1WHFPSWhIakdxTTdkN2g0UWhEcUNXZzlZeXFXcDNvcXVoeEltVHpoMmt1QWp6NTJkQm5QMlpBa0pLdHhMdnlyNjQzZkJaVHZVejNVa2gxRE5mRC130gFkQVVfeXFMUGNjWEFocXRvMnNUcGRqZXBTRnVZcHo4dE9iUEZ2NDh3Uks0RTJ0MDU2Rk81Q3BaUEd2ME9WdUg1cWEzbTdoR0wwdFBpT2pPV05QblVSVUVLWTl6MG1uZjJKMnRMSA?oc=5",
       "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
       "source": "GoogleNews 中東 食品",
@@ -462,9 +461,9 @@
       ]
     },
     {
-      "title": "「びっくりするくらい値上がり」中東情勢の影響が鹿児島の包装資材店を直撃　欠品・3割値上げの現実 | チバテレ＋プラス - 千葉テレビ放送株式会社",
+      "title": "「びっくりするくらい値上がり」中東情勢の影響が鹿児島の包装資材店を直撃　欠品・3割値上げの現実 | チバテレ＋プラス - 千葉テレビ放送",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02WFRHM09hbTNYaU5hUXBsdUlhdmc3RUxFbUMxYzFqbS12Ml90dWdHTWduOC13djdNc3NnVFdTUWQxbVZpRm13RkVJVXNoRmFVdF95QXpfZFF0S2VXQVpv0gFkQVVfeXFMTXI1WWRDR21jZzJOVUdRbDVUTVgyTjVVVGhJQ2d5cEZvMGd4VlBwYlloTDBsV3pPMHUtTk5xUG5fQVpIU0kwYWxFU2taRVFjWWpsYmNDeTJOeXF0bFNEekRqekhVdQ?oc=5",
-      "pubDate": "Fri, 12 Jun 2026 06:10:55 GMT",
+      "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
       "source": "GoogleNews 包装資材",
       "categories": [],
       "priceKeywords": [
@@ -541,6 +540,16 @@
       ]
     },
     {
+      "title": "グンゼ／プラスチックフィルム製品を追加値上げ、中東情勢の長期化で - 物流ニュースのLNEWS",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qdDNCUENtY1UtOER4TVotZVZfRzF4OWc0aUU2UTFlbmVmeHZtRlpkdHhqVXdCV1ZqU3NlNUE4ZjhSZ3dTWnE5a0pSNDQ4VVpQbzB5RA?oc=5",
+      "pubDate": "Thu, 11 Jun 2026 02:30:35 GMT",
+      "source": "GoogleNews 中東 食品",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
       "title": "【必見】お菓子や加工品がまた値上がり？家計への影響【神戸市北区】兵庫県議会議員 大塚公彦 - 選挙ドットコム",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tc3RrWlZqQkZkNllHalZZNndMR3hqTHhlUnZETW1aVkdrLXRNLVNuMVkwVlhQRndvbUxWc24wbHY4eFBHb1lmS0ljeHpQZ09xaDZSQlhpSGQ2TFNLdUl3?oc=5",
       "pubDate": "Wed, 10 Jun 2026 22:36:04 GMT",
@@ -550,6 +559,16 @@
       ],
       "priceKeywords": [
         "値上がり"
+      ]
+    },
+    {
+      "title": "包装資材再値上げ必至 フィルム・溶剤・インキ上昇 - 化学工業日報 電子版",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55SjFTNXVBbklkSU1iM2tIWnp3a0dKWXNpbHBqRnJqaHhhT0JiRkE4S182dFo3ZUVNZGFsemt1T0MtVHhlMUZJUXQ1b3BROEt1NS1Z?oc=5",
+      "pubDate": "Wed, 10 Jun 2026 20:01:52 GMT",
+      "source": "GoogleNews 包装資材",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
       ]
     },
     {
@@ -585,16 +604,6 @@
         "高騰",
         "物価",
         "品目"
-      ]
-    },
-    {
-      "title": "グンゼ 食品包装用や飲食料品ラベル用のフィルム値上げ 中東情勢を受け今年2度目 - テレ朝NEWS",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tMnJ5R0lVUEh0QU9nSTdGVWM3SldnZ0c0eXZOSnZTZ2tHVkZuLWplVklhN285aGtqYnNoTW1GZi16blpMUkJTanQ5T0szRDQ3Y2I0TXFzYjlBTFlLakNiMV9wVmRrUDFONnZpSXRGaEJidw?oc=5",
-      "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
       ]
     }
   ]
