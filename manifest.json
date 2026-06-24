@@ -1,21 +1,21 @@
 {
-  "version": "2026-06-23T22:00:55.247Z",
+  "version": "2026-06-24T22:00:34.528Z",
   "files": {
-    "initial-index.json": "2026-06-23T22:00:55.084Z",
-    "index-history.json": "2026-06-23T22:00:55.087Z",
-    "sales/daily-sales.json": "2026-06-23T22:00:55.090Z",
-    "campaigns/convenience.json": "2026-06-23T22:00:55.093Z",
-    "categories.json": "2026-06-23T22:00:55.096Z",
-    "chains.json": "2026-06-23T22:00:55.099Z",
-    "sale-rules.json": "2026-06-23T22:00:55.102Z",
-    "substitutions.json": "2026-06-23T22:00:55.104Z",
-    "recipes.json": "2026-06-23T22:00:55.107Z",
-    "regions.json": "2026-06-23T22:00:55.110Z",
-    "benchmark/aggregated-prices.json": "2026-06-23T22:00:55.112Z",
-    "benchmark/rakuten-prices.json": "2026-06-23T22:00:55.115Z",
-    "benchmark/yahoo-prices.json": "2026-06-23T22:00:55.117Z",
-    "benchmark/kakaku-prices.json": "2026-06-23T22:00:55.119Z",
-    "benchmark/retail-prices.json": "2026-06-23T22:00:55.122Z",
-    "benchmark/price-news.json": "2026-06-23T22:00:55.124Z"
+    "initial-index.json": "2026-06-24T22:00:34.357Z",
+    "index-history.json": "2026-06-24T22:00:34.360Z",
+    "sales/daily-sales.json": "2026-06-24T22:00:34.364Z",
+    "campaigns/convenience.json": "2026-06-24T22:00:34.367Z",
+    "categories.json": "2026-06-24T22:00:34.370Z",
+    "chains.json": "2026-06-24T22:00:34.372Z",
+    "sale-rules.json": "2026-06-24T22:00:34.375Z",
+    "substitutions.json": "2026-06-24T22:00:34.377Z",
+    "recipes.json": "2026-06-24T22:00:34.380Z",
+    "regions.json": "2026-06-24T22:00:34.383Z",
+    "benchmark/aggregated-prices.json": "2026-06-24T22:00:34.385Z",
+    "benchmark/rakuten-prices.json": "2026-06-24T22:00:34.388Z",
+    "benchmark/yahoo-prices.json": "2026-06-24T22:00:34.391Z",
+    "benchmark/kakaku-prices.json": "2026-06-24T22:00:34.403Z",
+    "benchmark/retail-prices.json": "2026-06-24T22:00:34.405Z",
+    "benchmark/price-news.json": "2026-06-24T22:00:34.407Z"
   }
 }
