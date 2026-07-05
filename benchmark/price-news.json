@@ -1,8 +1,8 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-07-04T22:00:29.535Z",
+  "fetchedAt": "2026-07-05T22:00:38.236Z",
   "periodDays": 14,
-  "totalArticles": 57,
+  "totalArticles": 58,
   "categoryBreakdown": {
     "snack": 2,
     "bread": 8,
@@ -14,6 +14,16 @@
     "rice": 1
   },
   "articles": [
+    {
+      "title": "ナフサショックで「ワンコイン弁当」危機 包装資材「5割値上げ」で赤字に（帝国データバンク） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10c2JqSnVsSVljRkpZbU5XLUdleEdmMTdMUFBHUEdPWTRfLWlXUm1raldQRG45cV84dWhPMVZ0Q2g3TkN4MHpQLWtKZktkbU5zLWhyRXlCWHRrMnhfX0FzdlNTT2ZURW1xQWh4QjlPbF9SUGM4N3hYRXhuczEzbGc?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 22:01:05 GMT",
+      "source": "GoogleNews 包装資材",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
     {
       "title": "長期金利 約29年ぶり一時2.81％に上昇 インフレ加速観測などで",
       "link": "https://news.web.nhk/newsweb/na/na-k10015167801000",
@@ -140,8 +150,8 @@
       ]
     },
     {
-      "title": "食品値上げラッシュ再び......7月は2,566品目、パンや即席めんが対象に - 中東情勢、異常気象などの影響か - マイナビニュース",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40Wk5pNUI3Z095Smo1Z3VrX1BuYXFlcjJ5UXpFVjNIclBlWmt3ZzJGeDZKVXVpc3JlY0Z0cWlQWklpcjg4dEtkWFFETUNBbk5UbU5tRlgta2tydUlW?oc=5",
+      "title": "食品値上げラッシュ再び......7月は2,566品目、パンや即席めんが対象に - 中東情勢、異常気象などの影響か (マイナビニュース) - newspicks.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxZWx5ZzRZV1J5NnljOUtPRlhlbjFjSEtOUXVmQWlRY2JWVE1JbVlkbndMSmQ0bjMxdXc4Qm84Yll5OEEwdlVfYnJrVEMyS1ZyWkJ1SEVhV08?oc=5",
       "pubDate": "Wed, 01 Jul 2026 08:13:47 GMT",
       "source": "GoogleNews 中東 食品",
       "categories": [
@@ -486,9 +496,9 @@
       ]
     },
     {
-      "title": "7月の食品値上げ2566品目 パンや即席麺が中心 加工食品も 円安や中東情勢影響で負担増続く - FNNプライムオンライン",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VSld1LVpKWmtjcEt2TWtvR19DRDA1QXZOQXhEelJ3Y2ExeU0wZjI1YV9xYXFvRTFyQW9pc0VOR2tPaUJXQnRLalZCbW5rN28?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 02:25:00 GMT",
+      "title": "7月の食品値上げ2566品目 パンや即席麺が中心 加工食品も 円安や中東情勢影響で負担増続く - 千葉テレビ放送",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1haGRzZmZrNFE4cDAwLTRXQm9DTVgycmtiSGw2Z3dhd2RmdU80YWRaTDdBU0h4ZWlvaWM1dTBYRUw2Zlc4akg3NHVBQUdpcFpGSjZNX1NtQnRUb3NzOW1Z?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 02:27:46 GMT",
       "source": "GoogleNews 中東 食品",
       "categories": [
         "bread",
@@ -533,8 +543,8 @@
       ]
     },
     {
-      "title": "飲食料品、２６年値上げ２万品目超へ／中東混乱、価格転嫁 - 四国新聞",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM3hBM2NXdXU0ZkxFTk9XbnkybVNkd2Y0NzFZdE1yWFFMbEl5SUdwakhCelBvdVRvMlREVE96a1ZIU2dEeFhuRi00dDNZV1dWSTVXdWczeXkyR2ZPNklJdGYyZ3RYOVRCaWN4MHhYRmplQUhZQ0JhSFdhWVgyMExlUnMwMG9BVDQ?oc=5",
+      "title": "飲食料品、２６年値上げ２万品目超へ 中東混乱、価格転嫁:経済 - 福島民友新聞社",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMdXE2T1VXODhNWGpOdGhhMXB3cDVGMXFudzJsWE1jX29TNDNZdEJpYkJJODBQRk5TWWNOcnRlT19UMGUybHBNNHBESVZDMzhzZVNSdUROZ3I5dEhRNTFyanQ5RU1SSDBGV2NIVGoweG5WSllfYmpr?oc=5",
       "pubDate": "Tue, 30 Jun 2026 00:36:00 GMT",
       "source": "GoogleNews 中東 食品",
       "categories": [],
@@ -544,8 +554,8 @@
       ]
     },
     {
-      "title": "飲食料品、２６年値上げ２万品目超へ 中東混乱、価格転嫁:経済 - 福島民友新聞社",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMdXE2T1VXODhNWGpOdGhhMXB3cDVGMXFudzJsWE1jX29TNDNZdEJpYkJJODBQRk5TWWNOcnRlT19UMGUybHBNNHBESVZDMzhzZVNSdUROZ3I5dEhRNTFyanQ5RU1SSDBGV2NIVGoweG5WSllfYmpr?oc=5",
+      "title": "飲食料品、２６年値上げ２万品目超へ／中東混乱、価格転嫁 - 四国新聞",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM3hBM2NXdXU0ZkxFTk9XbnkybVNkd2Y0NzFZdE1yWFFMbEl5SUdwakhCelBvdVRvMlREVE96a1ZIU2dEeFhuRi00dDNZV1dWSTVXdWczeXkyR2ZPNklJdGYyZ3RYOVRCaWN4MHhYRmplQUhZQ0JhSFdhWVgyMExlUnMwMG9BVDQ?oc=5",
       "pubDate": "Tue, 30 Jun 2026 00:36:00 GMT",
       "source": "GoogleNews 中東 食品",
       "categories": [],
@@ -629,7 +639,7 @@
     {
       "title": "カルビー、ポテチなど75品10月から順次値上げ 白黒包装商品も - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHSXcxa3BKNlRpZWZZSmYweDRZQWhTN21fblJtRDhSSWtIOUU3TlZ6eTJhNVllYnJRSm56b01aUUNvQVpDa2lmUTVtMGFyemRZd1NqU0ctM0FfR2htZzNjLUg4MkJod0VtYWhNOA?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 07:02:28 GMT",
+      "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
       "source": "GoogleNews 包装資材",
       "categories": [
         "snack"
