@@ -42,7 +42,7 @@
         "inflationLevel": 0
       }
     ],
-    "updatedAt": "2026-07-04T18:03:11.269Z"
+    "updatedAt": "2026-07-11T18:03:00.474Z"
   },
   "categoryIndices": [
     {
@@ -55,7 +55,7 @@
       "deltaPercent": -0.8,
       "inflationLevel": 0,
       "trend": "falling",
-      "updatedAt": "2026-07-04T18:03:11.269Z"
+      "updatedAt": "2026-07-11T18:03:00.474Z"
     },
     {
       "category": "bread",
@@ -67,7 +67,7 @@
       "deltaPercent": -0.8,
       "inflationLevel": 0,
       "trend": "falling",
-      "updatedAt": "2026-07-04T18:03:11.269Z"
+      "updatedAt": "2026-07-11T18:03:00.474Z"
     },
     {
       "category": "noodle",
@@ -79,7 +79,7 @@
       "deltaPercent": -0.8,
       "inflationLevel": 0,
       "trend": "falling",
-      "updatedAt": "2026-07-04T18:03:11.269Z"
+      "updatedAt": "2026-07-11T18:03:00.474Z"
     },
     {
       "category": "fish",
@@ -91,7 +91,7 @@
       "deltaPercent": 5.5,
       "inflationLevel": 2,
       "trend": "rising",
-      "updatedAt": "2026-07-04T18:03:11.269Z"
+      "updatedAt": "2026-07-11T18:03:00.474Z"
     },
     {
       "category": "meat",
@@ -103,7 +103,7 @@
       "deltaPercent": 3.4,
       "inflationLevel": 2,
       "trend": "rising",
-      "updatedAt": "2026-07-04T18:03:11.269Z"
+      "updatedAt": "2026-07-11T18:03:00.474Z"
     },
     {
       "category": "dairy",
@@ -115,7 +115,7 @@
       "deltaPercent": 3.6,
       "inflationLevel": 2,
       "trend": "rising",
-      "updatedAt": "2026-07-04T18:03:11.269Z"
+      "updatedAt": "2026-07-11T18:03:00.474Z"
     },
     {
       "category": "egg",
@@ -127,7 +127,7 @@
       "deltaPercent": 3.5,
       "inflationLevel": 2,
       "trend": "rising",
-      "updatedAt": "2026-07-04T18:03:11.269Z"
+      "updatedAt": "2026-07-11T18:03:00.474Z"
     },
     {
       "category": "vegetable",
@@ -139,7 +139,7 @@
       "deltaPercent": 4.4,
       "inflationLevel": 2,
       "trend": "rising",
-      "updatedAt": "2026-07-04T18:03:11.269Z"
+      "updatedAt": "2026-07-11T18:03:00.474Z"
     },
     {
       "category": "fruit",
@@ -151,7 +151,7 @@
       "deltaPercent": -0.8,
       "inflationLevel": 0,
       "trend": "falling",
-      "updatedAt": "2026-07-04T18:03:11.269Z"
+      "updatedAt": "2026-07-11T18:03:00.474Z"
     },
     {
       "category": "oil",
@@ -163,7 +163,7 @@
       "deltaPercent": 3.9,
       "inflationLevel": 2,
       "trend": "rising",
-      "updatedAt": "2026-07-04T18:03:11.269Z"
+      "updatedAt": "2026-07-11T18:03:00.474Z"
     },
     {
       "category": "seasoning",
@@ -175,9 +175,9 @@
       "deltaPercent": 3.9,
       "inflationLevel": 2,
       "trend": "rising",
-      "updatedAt": "2026-07-04T18:03:11.269Z"
+      "updatedAt": "2026-07-11T18:03:00.474Z"
     }
   ],
   "dataSource": "cpi",
-  "generatedAt": "2026-07-04T18:03:11.269Z"
+  "generatedAt": "2026-07-11T18:03:00.475Z"
 }
