@@ -1,18 +1,38 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-07-15T22:00:28.444Z",
+  "fetchedAt": "2026-07-16T22:00:28.254Z",
   "periodDays": 14,
-  "totalArticles": 30,
+  "totalArticles": 28,
   "categoryBreakdown": {
+    "oil": 2,
     "rice": 2,
-    "beverage": 3,
+    "beverage": 2,
     "snack": 4,
-    "seasoning": 1,
-    "oil": 1,
-    "bread": 1,
-    "fish": 1
+    "seasoning": 1
   },
   "articles": [
+    {
+      "title": "1年後の物価「上がる」の見方が過去最高に イラン情勢背景に",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015178451000",
+      "pubDate": "Thu, 16 Jul 2026 17:11:49 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
+    {
+      "title": "石油化学製品6月生産量 公表対象品目の半分で前年同月上回る",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015178361000",
+      "pubDate": "Thu, 16 Jul 2026 15:06:49 +0900",
+      "source": "NHK 経済",
+      "categories": [
+        "oil"
+      ],
+      "priceKeywords": [
+        "品目"
+      ]
+    },
     {
       "title": "米FRB経済報告 イラン情勢影響で物価は全体として緩やかに上昇",
       "link": "https://news.web.nhk/newsweb/na/na-k10015177941000",
@@ -26,16 +46,6 @@
       ]
     },
     {
-      "title": "JT 10月に加熱式たばこ値上げへ",
-      "link": "https://news.yahoo.co.jp/pickup/6588093?source=rss",
-      "pubDate": "Wed, 15 Jul 2026 14:46:19 GMT",
-      "source": "Yahoo!ニュース 経済",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
       "title": "株価 値上がり 半導体の需要拡大の見方から関連銘柄値上がり",
       "link": "https://news.web.nhk/newsweb/na/na-k10015177371000",
       "pubDate": "Wed, 15 Jul 2026 16:48:24 +0900",
@@ -43,16 +53,6 @@
       "categories": [],
       "priceKeywords": [
         "値上がり"
-      ]
-    },
-    {
-      "title": "FRB議長「インフレ容認しない」",
-      "link": "https://news.yahoo.co.jp/pickup/6587990?source=rss",
-      "pubDate": "Wed, 15 Jul 2026 00:40:22 GMT",
-      "source": "Yahoo!ニュース 経済",
-      "categories": [],
-      "priceKeywords": [
-        "インフレ"
       ]
     },
     {
@@ -65,6 +65,16 @@
       ],
       "priceKeywords": [
         "物価"
+      ]
+    },
+    {
+      "title": "「とんがりコーン」実質値上げ 8月10日発売分から パッケージの小型化で内容量は68g→62gに - MSN",
+      "link": "https://news.google.com/rss/articles/CBMiiARBVV95cUxQREo2X01lTUp0Qy1lTEpyY3NxSzJsVXVaUS1nUEhKTWhYbXk3RlZGUVdBam51S2RUdF81Z0FGSU1LT3pUek1YdS13WjVJMVJRZndBZHdUYkRCWmk4TGVxNWFIUV9GQ3d6OUxYb2dHSGVDLURNOTdxUWZ1ejBHNnV4amdRRzY3Z2dkRFhLN3JLR3lVTThRSHl4TExHb0F4OURjdnNfajAtUlhPcktEYXZjWHJOUm5iMG5OZjlWOXdlaHdhMjVqellSVGhIemFsVFVFSE4yTElHNlFYbENRWWVIbVItemQteEMtLW5HZGJ5WjhnaUhNY1lodDQyRzdIU1owNkJVNkdIdVVMRTNkajNldTRmX080dU96QWJvbU9BT1Rwb0ZyZjBWd2g1SFVHdEt4Y1pyOEZmLTlodVExLUUtR280aG83YVdxMk9wNDNoSVUtNkZERG0xZUd2MktKaVQwUUU4YzVyZ2FGQXZwRXZKc25rNlRnVnl3UjFCZ0NYRmU1WkdTWE5MQTYwSjYya05oRGZtQ0xVUEdnaDljUnRtQ0QxNGs2RnV6RGwwblZGZkstRUl3MFJWQUVIQjlpNTU4SkF1SXZ5ZWQ3OG1FWHc2UmtjT3Qwck9mMnBVd0tlcDJuYWg5SGRfcFRBczdkLUlScGE1YmRKT0hDSmpaYWtrX01HYXlZX3ds?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 19:48:52 GMT",
+      "source": "GoogleNews ハウス食品",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
       ]
     },
     {
@@ -173,26 +183,6 @@
       ]
     },
     {
-      "title": "株価 一時1600円超値上がり AI・半導体中心に買い注文広がる",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015173461000",
-      "pubDate": "Fri, 10 Jul 2026 16:54:59 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "値上がり"
-      ]
-    },
-    {
-      "title": "6月企業物価指数 前年同月比7.1％上昇 価格転嫁進み大幅な上昇",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015173361000",
-      "pubDate": "Fri, 10 Jul 2026 11:35:32 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "物価"
-      ]
-    },
-    {
       "title": "中東情勢の悪化 食品値上げラッシュ加速 生活をどう守る 介護施設や食文化にも影響 - テレ朝NEWS",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zaTJSUzIyTU5VeFA3T2hTWGZLbUpnTXNzMm9JY19pbTJlaldaS0ZkWWxGaXVwSk5PbGtJZXJ5STlGakdwM01BQ18za1NJbkV6LWtkQUY0S2NGRENhbWFzanhpeVZIRUQtc1dWZzF6MWR5UQ?oc=5",
       "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
@@ -215,6 +205,16 @@
     {
       "title": "【写真・画像】中東情勢の悪化 食品値上げラッシュ加速 生活をどう守る 介護施設や食文化にも影響 2枚目 - ABEMA TIMES",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DYWx6bGZhR2xBQ2w2UkpkWE9USl9ZclR3MmNjZ3dhY2l6WmNDRkhTc1Z2aUlaeFBrRVVacUVOYnozemljLUVYRW9LOXhjeGZhbTFfQThBNGg1RE5SSXpWTg?oc=5",
+      "pubDate": "Tue, 07 Jul 2026 06:30:35 GMT",
+      "source": "GoogleNews 中東 食品",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "【写真・画像】中東情勢の悪化 食品値上げラッシュ加速 生活をどう守る 介護施設や食文化にも影響 17枚目 - ABEMA TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04YTl5TVUwLWZCN2R6dl9DdHpMVE5UbW5uSjlLYzNtY2tQdGE3ZjRUS3NYZGxBRV8yeFNUb3ZJVGY1NHZld3puZ3VaZ0FRTGo4TXNLem5YVlBld0JvNEV5ajFR?oc=5",
       "pubDate": "Tue, 07 Jul 2026 06:30:35 GMT",
       "source": "GoogleNews 中東 食品",
       "categories": [],
@@ -318,33 +318,6 @@
       "categories": [],
       "priceKeywords": [
         "値上げ"
-      ]
-    },
-    {
-      "title": "「ドトールコーヒー」値上げ コーヒー300円に 中東情勢が影響 全国1074店舗で - KSBニュース",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkVWp4SkFuTWo3SmtpaTE3OFk0R1piUTBTMXpPTzJjanBNcEY2QllGaGxXTENfWmR6dEFBMEtzelpxdkxuY3lSZVJSOVFlRmVyY1RGaS13?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 08:37:17 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [
-        "beverage"
-      ],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "食品値上げ再燃、7月は2566品目。中東情勢で包装資材高、山崎製パン・東洋水産など価格改定（帝国データバンク） - ハフポスト",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jUHYxRWthcGJrSmxnWlZiRTF2QUtGOFNzVnZ3dFBMbzdhVHQ2b3FjbFdEcDJpU1I5VHR4WTZwOXMwNDlTbHdKSEJvLTMyYmN2T0F5TkhnVnV5NzAtTG14aVpuSUVnY05KdjRNdGFXYkF0aVVIUjllUg?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [
-        "bread",
-        "fish"
-      ],
-      "priceKeywords": [
-        "値上げ",
-        "価格改定",
-        "品目"
       ]
     }
   ]
