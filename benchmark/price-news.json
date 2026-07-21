@@ -1,17 +1,40 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-07-20T22:00:30.769Z",
+  "fetchedAt": "2026-07-21T22:00:30.499Z",
   "periodDays": 14,
-  "totalArticles": 50,
+  "totalArticles": 37,
   "categoryBreakdown": {
+    "snack": 2,
     "rice": 1,
     "seasoning": 22,
     "legume": 2,
     "oil": 1,
-    "beverage": 1,
-    "snack": 1
+    "beverage": 1
   },
   "articles": [
+    {
+      "title": "夏休みを直撃…駄菓子にも値上げの波 中東情勢悪化で容器などの製造コスト上昇 岡山 - au Webポータル",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zY3ZhdGV4Y3Y2UTVmdHY2MkthaTJyY3haMm9lbVJoQmlxOW1vRlVIVWdOUldCX1BXLW1jaEpXajNwcGFRVkdPeUxHc2R4aVVHSGJuNlpReFdQWVc0SWhKdlVMY2laamhZc0NTVWhxUUpfVG5wVGJicVdQcw?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 09:33:00 GMT",
+      "source": "GoogleNews 中東 食品",
+      "categories": [
+        "snack"
+      ],
+      "priceKeywords": [
+        "値上げ",
+        "コスト上昇"
+      ]
+    },
+    {
+      "title": "株価 2000円以上値上がり 半導体関連銘柄中心に買い注文広がる",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015181591000",
+      "pubDate": "Tue, 21 Jul 2026 16:16:24 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上がり"
+      ]
+    },
     {
       "title": "米アップル 日本でiPhoneの販売価格を約10％値上げ",
       "link": "https://news.web.nhk/newsweb/na/na-k10015180171000",
@@ -310,7 +333,7 @@
     },
     {
       "title": "ミツカン、食酢やつゆ値上げへ／９月から、原材料費高騰 - 四国新聞",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdFY1T3FDRzdRZzJVUHVCSzFvZF9HQzd5MVhuNnZIZUtnakJrRU14LXNhZU5ZN25DMW9jbHBjdVJabnBwa21FM2FtbDBvWjNQT2pHRVJTNi1MdXNBRks1d09JWGJDdkJIWThvZDZFS09DVEE2bC04cHNHUlMwSWlVLTQ0bWYwdU0?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR1lOSWtrdWRLMGZrZFVsNTNKa2RxWXRJTzBtMmJPRjJIOUxNTF9ZUDJFT1BYa3hFVGhrUkltNVFpdzNKT1FwQS1ockxfSkdPeWJwQWh3aFlKcU1fZHpfWE9ubm9PNkx2RGhRbFNNdE04S1l0d0VWUjJhNE80SkxYZQ?oc=5",
       "pubDate": "Fri, 17 Jul 2026 04:43:00 GMT",
       "source": "GoogleNews ミツカン",
       "categories": [
@@ -367,29 +390,9 @@
       ]
     },
     {
-      "title": "株価 値上がり 半導体の需要拡大の見方から関連銘柄値上がり",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015177371000",
-      "pubDate": "Wed, 15 Jul 2026 16:48:24 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "値上がり"
-      ]
-    },
-    {
-      "title": "米物価上昇率3.5％ 伸び率縮小で早期利上げ観測 やや後退",
-      "link": "https://news.web.nhk/newsweb/na/na-k10015177041000",
-      "pubDate": "Wed, 15 Jul 2026 05:45:26 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "物価"
-      ]
-    },
-    {
-      "title": "「とんがりコーン」8月から内容量減 実質値上げに - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOSDFOWi1BYUNqUlhaQW1YVWExQWdUX1RPNmRpRXc4dWpScGlyZjVhYVZFYzJzOFZrNWUxVlhDU2hEM2RIVGpKZTBkbnZZMlpXTHY0Y2padmhQdnd5cjRBUFMzd0tSU0lQUUk3STBIY29lWVpfQ1VXR1BNb1ZOT2dFMzRnV3VMU3dTVkxOZzh4MnBZUzVkcm91eWxKNzN1cm9fSXZVcUFrNzFxYndiUUdCNTY4ckNaQS1CXzR5emZnUlBQb2ZYdTZ1dHRONWFZMXRpWDhtNm92WkoyYy1JV3BXWlBpU2NnUEtVZDQ4WXk0MUZQRDUzY3lpOHlXdlVXSFlMd2YyM0s5T2VRaVdsdVA4Z0dVOWFOcjhYQVhKRXhKWEtKVTJhU3dHc2pkbDNwd0x3SmphNXVQUGhrVnlnR0txMFQ2cmtTRDZPRjhSU3hSZ3doaXM?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 14:12:52 GMT",
+      "title": "「とんがりコーン」8月から内容量減 実質値上げに - UQライフ",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMFowcThjZmNLMUxITzRJVnkya1FHaDFYTDZJUkFqdU43VnppNEpSR19fckdWalNNaUZYalNKNW9MTTMzMS01bHo2NWhRUTg5STdmTWlvTzRoNzRaWExreVpidFdQUFNaTnFFQ2ZMS0V5anhjS1RneVRaMy12aTdoaQ?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 11:48:00 GMT",
       "source": "GoogleNews ハウス食品",
       "categories": [],
       "priceKeywords": [
@@ -417,19 +420,6 @@
       ]
     },
     {
-      "title": "ビスケットや炭酸飲料など値上げ 包装資材や原材料価格上昇で - NHKニュース",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XVnNYMHBYbk5fZlNhNG5vU0RuM081SmxkTUdNcllYckNJT3BPYlRiZmhYbWRVOEdWVVRsaUlGbUdYQ2dkUG94LURQNkNuUmFkQUxSU3hyU19ZTmdCMjZZ?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 11:23:14 GMT",
-      "source": "GoogleNews 包装資材",
-      "categories": [
-        "beverage",
-        "snack"
-      ],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
       "title": "庶民の懐を直撃 静岡市のエスエスケイフーズがマヨネーズやドレッシング類の値上げを発表 中東情勢に伴う包装資材費や物流費などの高騰などが要因（静岡朝日テレビ） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EY044TXNMN1FNbDhtTUd3b0V5Y3J1TExmNFNEZFNZOGZnclotcXFFTk5lQ2RZd3BrX0xvQmNfUFpWd2c4NkdXeXM4djRrcDFyZGw2V043bFVjb1RlSG4yQkIxVEdZdk1KWkpmUTF5aDhvRWNxTWNxQlRWVUhPYVk?oc=5",
       "pubDate": "Mon, 13 Jul 2026 08:42:38 GMT",
@@ -440,6 +430,19 @@
       "priceKeywords": [
         "値上げ",
         "高騰"
+      ]
+    },
+    {
+      "title": "ビスケットや炭酸飲料など値上げ 包装資材や原材料価格上昇で - NHKニュース",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XVnNYMHBYbk5fZlNhNG5vU0RuM081SmxkTUdNcllYckNJT3BPYlRiZmhYbWRVOEdWVVRsaUlGbUdYQ2dkUG94LURQNkNuUmFkQUxSU3hyU19ZTmdCMjZZ?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
+      "source": "GoogleNews 包装資材",
+      "categories": [
+        "beverage",
+        "snack"
+      ],
+      "priceKeywords": [
+        "値上げ"
       ]
     },
     {
@@ -462,136 +465,6 @@
         "値上げ",
         "高騰",
         "品目"
-      ]
-    },
-    {
-      "title": "中東情勢の悪化 食品値上げラッシュ加速 生活をどう守る 介護施設や食文化にも影響 - テレ朝NEWS",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zaTJSUzIyTU5VeFA3T2hTWGZLbUpnTXNzMm9JY19pbTJlaldaS0ZkWWxGaXVwSk5PbGtJZXJ5STlGakdwM01BQ18za1NJbkV6LWtkQUY0S2NGRENhbWFzanhpeVZIRUQtc1dWZzF6MWR5UQ?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "中東情勢の悪化 食品値上げラッシュ加速 生活をどう守る 介護施設や食文化にも影響（テレビ朝日系（ANN）） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeXZHenlTQmhtWmFVWjIySGFTamJPOGFrTmQ0UXJGazc4M1I0UTktbmZPYmhpU096cXg1SV90WGUwWG5qRnFPUmN5RWV6WWl4aU5wLVJROWhsVXA4YnVObk9DaXE1RmVpXzlsX3B5RUZWVGVsaG1Tb1NHSV8wLUU0aVAxTG9lSUg1?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "中東情勢の悪化 食品値上げラッシュ加速 生活をどう守る 介護施設や食文化にも影響 (テレビ朝日系（ANN）) - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeUJ6UEdHSUlzbDRoeVNMdk54WkVkR044MzQ3Rmx1ZFJycVVROTlqUUEwSTlvcHpwY25NQzhwYm1pTjdvSjd5SzRNQUw5WEpXeUNKUXExUVRMcG9OV1hITmJ2cEwtQnJ0Wi01YlJUSnR4OEc4d1MzdFVteDNkR0cxTERCY2N0d3NDV2Y3OFlB?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "【写真・画像】中東情勢の悪化 食品値上げラッシュ加速 生活をどう守る 介護施設や食文化にも影響 1枚目 - ABEMA TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15dmtzOXREZ0k2ZWNxT3JZeEVFalhJT081cVQyazdvNGFnbmkxZFh6UUlHVk9KdkEtX1MweWktR0Y1S3ZTMDNveTRUMUJmTzU1eGlSLTRWcnhDZw?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "【写真・画像】中東情勢の悪化 食品値上げラッシュ加速 生活をどう守る 介護施設や食文化にも影響 3枚目 - ABEMA TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8ySWtfOG9XNWNJTV8welUxTzlSZ0NqM0JQWjljM24wSS1DVW5UZzZVNWQzWXBnd0E5RXp1bTk5ZXJIbzk1YTItay01VDBNcVF1TVpwQU9sUHNPLVhaeXcyOA?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "【写真・画像】中東情勢の悪化 食品値上げラッシュ加速 生活をどう守る 介護施設や食文化にも影響 17枚目 - ABEMA TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04YTl5TVUwLWZCN2R6dl9DdHpMVE5UbW5uSjlLYzNtY2tQdGE3ZjRUS3NYZGxBRV8yeFNUb3ZJVGY1NHZld3puZ3VaZ0FRTGo4TXNLem5YVlBld0JvNEV5ajFR?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "【写真・画像】中東情勢の悪化 食品値上げラッシュ加速 生活をどう守る 介護施設や食文化にも影響 5枚目 - ABEMA TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Sc3lTMXRaTkJpMWszdkRyOXdpWUhfSnZFNFl4MEt4ZFExV2E0VEZwZ2ZFRVVKNFYyRVNkVVdnaG1TeHJnNGlvTVF1WnlNcGxObFZ6MWN1RVVGY0JPR0pXUw?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "【写真・画像】中東情勢の悪化 食品値上げラッシュ加速 生活をどう守る 介護施設や食文化にも影響 2枚目 - ABEMA TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DYWx6bGZhR2xBQ2w2UkpkWE9USl9ZclR3MmNjZ3dhY2l6WmNDRkhTc1Z2aUlaeFBrRVVacUVOYnozemljLUVYRW9LOXhjeGZhbTFfQThBNGg1RE5SSXpWTg?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "【写真・画像】中東情勢の悪化 食品値上げラッシュ加速 生活をどう守る 介護施設や食文化にも影響 18枚目 - ABEMA TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WcG04VGVpU3JFM0FPbkZVVnJ4NlRlcmY5SXBhTGtfdWxyY3IwaDlidGRGeTVvWm5PRUNleUZEUnB0NjdxLXNDdWV5RGRHZTJ0eGozb0lQN3QtLWlXRWc5b2J3?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "【写真・画像】中東情勢の悪化 食品値上げラッシュ加速 生活をどう守る 介護施設や食文化にも影響 16枚目 - ABEMA TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4NlBKanlmdWVYd2VhVG40U29mczRzWlBRc1hyQjdKQlhzcVY4cjRIa0xqQUZzWVhFZ3RQSWZZakFCSmsxMWRTaGZjdElJOWYzWll4U1NvTGZtZWhFeGh2dHpB?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "【写真・画像】中東情勢の悪化 食品値上げラッシュ加速 生活をどう守る 介護施設や食文化にも影響 13枚目 - ABEMA TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xam5NWVhLN3R6UlZPZVNvdHdDamFjQ01vdFEyNE92ZElCQUV2dmJ4eDZkaDZlcXRPT0JYTkVlR3dWWmZJOS1WUGNEVDJIdVo5QzcyNXl3M01Va281MTVFMjVn?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "【写真・画像】中東情勢の悪化 食品値上げラッシュ加速 生活をどう守る 介護施設や食文化にも影響 15枚目 - ABEMA TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RWVpycDQySVhfUjVoRkJTZDhENnpZd1AzYTV4cFdjUGdhNHdPNEk4UGI4Y0o2OWhDUEt0Wm9sY2lQMzhsSjZDMlJpczBSd3VCMkRuMlJ4cHpKRzBhcFNyYnpn?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "【写真・画像】中東情勢の悪化 食品値上げラッシュ加速 生活をどう守る 介護施設や食文化にも影響 7枚目 - ABEMA TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FMGZ1emhoTnRQbmNSRldSQXJuQlJYaUpFSUdxVFRXTzFTRXhvcWhBT0VqYk5lazIteWM3N3VUeXViYThTWHkxbzdzMFNWTFFLWncyT285NWliUnpkTXBGbQ?oc=5",
-      "pubDate": "Tue, 07 Jul 2026 06:30:35 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
       ]
     }
   ]
