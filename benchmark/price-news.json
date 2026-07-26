@@ -1,15 +1,35 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-07-25T22:00:27.316Z",
+  "fetchedAt": "2026-07-26T22:00:28.840Z",
   "periodDays": 14,
-  "totalArticles": 36,
+  "totalArticles": 32,
   "categoryBreakdown": {
-    "seasoning": 25,
+    "seasoning": 20,
     "snack": 2,
     "legume": 1,
     "beverage": 1
   },
   "articles": [
+    {
+      "title": "日銀 今週決定会合 政策金利据え置きか 経済・物価見通し焦点",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015186771000",
+      "pubDate": "Mon, 27 Jul 2026 06:24:20 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
+    {
+      "title": "米FRB会合 イラン情勢によるインフレ再加速懸念で判断注目",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015186781000",
+      "pubDate": "Mon, 27 Jul 2026 05:02:21 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "インフレ"
+      ]
+    },
     {
       "title": "ミツカン、食酢やつゆ値上げへ ９月から、原材料費高騰 | 全国のニュース - 福井新聞社",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oUG0xcUtrejNZcmdPcTRDdC10UndmN3Zuc1gxamVwNU94OW54V0c2bHRYMHB2S2FkU1pQM3BxM0NfR3FkbUYyTWEtWmtROS0yRTh3S3d1WU9IZGlyTGpPRWVSRjU1aF8xY19waw?oc=5",
@@ -100,19 +120,6 @@
       ]
     },
     {
-      "title": "ミツカンが食酢やつゆなど値上げ 家庭用は9月1日から：ニュース - 中日BIZナビ",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPNUtCcmNUQll4X0t1WnZNdVBYbWw2UkdhOVViZFkyT1JRSFBhdThrcXhmYlJ3TmE5bHRwVFFCTTU0WTg5VXFPSXZUdndpMTJ3YVZ3RW1iSFEwMkFyQlNsQ21B?oc=5",
-      "pubDate": "Sun, 19 Jul 2026 01:29:20 GMT",
-      "source": "GoogleNews ミツカン",
-      "categories": [
-        "seasoning"
-      ],
-      "priceKeywords": [
-        "値上げ",
-        "家庭用"
-      ]
-    },
-    {
       "title": "ミツカンが食酢 ９月から値上げ 家庭用 - 琉球新報デジタル",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGS0FQUFRaeVhHWnNPZWtSY0RGSWRuZWtVSmtXMFdCdFUyYXpiMS1kZUtpeTJQTnprQmZhT3NFM3gyc2xoSnRVSkFqc0prM3VXdTFkbHUzSGpPOXYxMFNrMkdn?oc=5",
       "pubDate": "Fri, 17 Jul 2026 20:00:00 GMT",
@@ -138,36 +145,9 @@
       ]
     },
     {
-      "title": "「穀物酢」や「和風だし」など調味料値上げへ ミツカン＆理研ビタミン - テレ朝NEWS",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGUkQweDlmbjlOY0xrT0lPd2h1WTUwWUl0VnZGdUF3d093M2dxeU5iWWlqdUNubVd4QWhrU0tPdWZSMTkzbkhaLWxrYUgwNGR4WkoyeHBwNWZwekw3RFJzejZWTjU3aFlYV255TTNWemVGdw?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 10:31:36 GMT",
-      "source": "GoogleNews ミツカン",
-      "categories": [
-        "seasoning"
-      ],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "ミツカンがお酢・つゆなどを9月から値上げ 67品目で7～26％引き上げ 原材料価格高騰や生産コスト上昇のため - FNNプライムオンライン",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XSjE3MzhIeTk5MXlyUTRwWWxSMHktQ3Q3VmpGVjNwZFY0OGIyX25qbTlmeGdKZm5vUmxoZFhEaGJWMWJ2cjUtcjhQTnRPQQ?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 10:08:00 GMT",
-      "source": "GoogleNews ミツカン",
-      "categories": [
-        "seasoning"
-      ],
-      "priceKeywords": [
-        "値上げ",
-        "高騰",
-        "コスト上昇",
-        "品目"
-      ]
-    },
-    {
-      "title": "ミツカンも酢やつゆなど277品目を値上げへ 原材料高騰で9月から最大26％アップ - 愛知のニュース",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SR0ZYX3FKeWc0WEoxTm9VdzNZcUpTaC1nSDdxcmk0LWFmUS1fRW42eDhoeFo5T0ZsM0I0UWNoWFZPWU4tamxaclp2UFNjUklBVHZnaGVMZVNTZw?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 10:07:08 GMT",
+      "title": "ミツカンも酢やつゆなど277品目を値上げへ 原材料高騰で9月から最大26％アップ (テレビ愛知) - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeV9US0VxbHpIRndRVFNfbm9OR05JQnFNZEZnNUxjVzBjS21FWjlVVjVjZEIxQ1E1VjFUWl9ya0xxVm5oRVkzWF93cHVuWEFWVGYzYUkxZDk5UmtlOXlQd3NyWjNDbXlYMk9xZUM3QnBvUFB1UXl4U081RUlCaFdaS0NuWnJzbVNSbVFDVEh3?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 10:02:01 GMT",
       "source": "GoogleNews ミツカン",
       "categories": [
         "seasoning"
@@ -180,23 +160,21 @@
       ]
     },
     {
-      "title": "納豆に続き…ミツカンが「追いがつおつゆ」や「穀物酢」など値上げ 家庭用の67商品が対象で最大26%アップ - FNNプライムオンライン",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0cjNzc0RDSmp3dFFUOGRnaTgzdFVVQ1ZqOEo2bmViWXptdmJPejFJdEFDUUdNVmx0NDBVOHBGX0NCSmEwMmdmNFpmNnBoQQ?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 08:06:05 GMT",
+      "title": "ミツカン、食酢など値上げ (時事通信) - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYUdheHNHNUFEZmJ2eExqZFU1OTBpdE50TkYwbE8zOEtrMGZ1Y1NNN0FQLWdkTDVBRnIyMm5vajlWU0VKTUdhSmVZQV9LeEwxT1djdTFLYWhXdGJhcFlVaFhuMUMtWFA2LWl0NDNCQlBCYjhnNGl2VEVPX2hEYndheW1KcU5LTGRpemM0M0h3?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 07:26:06 GMT",
       "source": "GoogleNews ミツカン",
       "categories": [
-        "seasoning",
-        "legume"
+        "seasoning"
       ],
       "priceKeywords": [
-        "値上げ",
-        "家庭用"
+        "値上げ"
       ]
     },
     {
-      "title": "◎ミツカン、食酢など値上げ - 時事通信ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fcDFmNkFBZVc5NjM4bXliTmlpX2c4dHo1UjFHa2xCRGw4aS1LVUF3aW5NaTVBZHZVWUhuTTd2TElyTlVrR3JUNkhScFVwM1V0MEdiaw?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 07:25:00 GMT",
+      "title": "ミツカン、食酢やつゆ値上げ 最大２６％、９月１日から - 時事ドットコム",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQR3lzb0MtZGdtYzM3Ujc3SGZPcmFHaXFpSTJTLUJlQ1BWT2E3b0VJOFN5NkZVbWRKaXBSYUhFNVV3bTRoT1k2Z1lQRHJxMjREa2VBYXZqaDNZckVER0dOUFR6cw?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT",
       "source": "GoogleNews ミツカン",
       "categories": [
         "seasoning"
@@ -218,8 +196,8 @@
       ]
     },
     {
-      "title": "「穀物酢」や「和風だし」など調味料値上げへ ミツカン＆理研ビタミン 最新の経済ニュース【随時更新】 - ABEMA",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43djJrT216Yk1wVGxRdjF4UGxHc0JPMTNZYTBhRmdlU2kwSDBDVFpoY1JPX1hMU0VoVzZlR3NpM1h2bl84bHR4Wk9JbUlwdlo0ZXp1SkpjN05sVEE?oc=5",
+      "title": "「穀物酢」や「和風だし」など調味料値上げへ ミツカン＆理研ビタミン - テレ朝NEWS",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGUkQweDlmbjlOY0xrT0lPd2h1WTUwWUl0VnZGdUF3d093M2dxeU5iWWlqdUNubVd4QWhrU0tPdWZSMTkzbkhaLWxrYUgwNGR4WkoyeHBwNWZwekw3RFJzejZWTjU3aFlYV255TTNWemVGdw?oc=5",
       "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT",
       "source": "GoogleNews ミツカン",
       "categories": [
@@ -230,15 +208,72 @@
       ]
     },
     {
-      "title": "ミツカン、食酢など値上げ - 八王子経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OVC0tRVZHOEZINWktTUZiS3VoVjc1RGljdUxrU2UzVDBIeVA0NERodVN4a05UYUtoVzEzdU9GR2g4a3FpbFBubllPSDZTdjk4eURLeVp3?oc=5",
+      "title": "｢ミツカン｣穀物酢など9月以降に値上げへ 家庭用･業務用合わせて277品目 原材料費や人件費などのコスト上昇で - TBS NEWS DIG",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLRWw2QWJmclVFckJBd3lKaV8wbUlySEtLbVFlbnpnSVJ0dTBOVzF0VnBZLXpwcUhqVTFuZVN6NGhTN1NmM2VLWGtWSEZxWU45ZXZrbzBnbm1QUQ?oc=5",
       "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT",
       "source": "GoogleNews ミツカン",
       "categories": [
         "seasoning"
       ],
       "priceKeywords": [
-        "値上げ"
+        "値上げ",
+        "コスト上昇",
+        "品目",
+        "家庭用"
+      ]
+    },
+    {
+      "title": "ミツカンがお酢・つゆなどを9月から値上げ 67品目で7～26％引き上げ 原材料価格高騰や生産コスト上昇のため - FNNプライムオンライン",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XSjE3MzhIeTk5MXlyUTRwWWxSMHktQ3Q3VmpGVjNwZFY0OGIyX25qbTlmeGdKZm5vUmxoZFhEaGJWMWJ2cjUtcjhQTnRPQQ?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT",
+      "source": "GoogleNews ミツカン",
+      "categories": [
+        "seasoning"
+      ],
+      "priceKeywords": [
+        "値上げ",
+        "高騰",
+        "コスト上昇",
+        "品目"
+      ]
+    },
+    {
+      "title": "ミツカンの家庭用の「穀物酢」（500ミリリットル） - 産経ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcTdYenhwX0hRNldlbDdRT2xBb0I4QkJ1Z1ZHN2YtNjVKdmhndzlGOVhMYlpsOUhzc2o0N1BDdUVvT2pScXlTdFJMb3h6WDRjLXN4SWlyX2JCVTB4MjVFYXlkSEdqdlFCTnhKcWZKSlVmUm5jN3Jad1lDSFdEUDdWLW9fVjY3M3RfT0p2YTducFB2V0xCZ053SUtBOVl1Yzlsbnc?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT",
+      "source": "GoogleNews ミツカン",
+      "categories": [
+        "seasoning"
+      ],
+      "priceKeywords": [
+        "家庭用"
+      ]
+    },
+    {
+      "title": "ミツカンが食酢やつゆなど値上げ 家庭用は9月1日から：ニュース - 中日BIZナビ",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1SWxzUl82OVdEVUNCa05VQ3U4cFFDek11bU5RT3k0QnUydnJEREFpQ0w3WUNNRm9lUl9kamY5SGNmYjZMclVhdm4zdGE0SC1DQTMzWHp0bUdiT0E0RkZxQ013?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT",
+      "source": "GoogleNews ミツカン",
+      "categories": [
+        "seasoning"
+      ],
+      "priceKeywords": [
+        "値上げ",
+        "家庭用"
+      ]
+    },
+    {
+      "title": "納豆に続き…ミツカンが「追いがつおつゆ」や「穀物酢」など値上げ 家庭用の67商品が対象で最大26%アップ - FNNプライムオンライン",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0cjNzc0RDSmp3dFFUOGRnaTgzdFVVQ1ZqOEo2bmViWXptdmJPejFJdEFDUUdNVmx0NDBVOHBGX0NCSmEwMmdmNFpmNnBoQQ?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 07:00:00 GMT",
+      "source": "GoogleNews ミツカン",
+      "categories": [
+        "seasoning",
+        "legume"
+      ],
+      "priceKeywords": [
+        "値上げ",
+        "家庭用"
       ]
     },
     {
@@ -254,70 +289,6 @@
         "コスト上昇",
         "品目",
         "家庭用"
-      ]
-    },
-    {
-      "title": "｢ミツカン｣穀物酢など9月以降に値上げへ 家庭用･業務用合わせて277品目 原材料費や人件費などのコスト上昇で - TBS NEWS DIG",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLRWw2QWJmclVFckJBd3lKaV8wbUlySEtLbVFlbnpnSVJ0dTBOVzF0VnBZLXpwcUhqVTFuZVN6NGhTN1NmM2VLWGtWSEZxWU45ZXZrbzBnbm1QUQ?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 06:07:00 GMT",
-      "source": "GoogleNews ミツカン",
-      "categories": [
-        "seasoning"
-      ],
-      "priceKeywords": [
-        "値上げ",
-        "コスト上昇",
-        "品目",
-        "家庭用"
-      ]
-    },
-    {
-      "title": "ミツカン、食酢やつゆ値上げ 最大26％、9月1日から (時事通信) - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQzZ0ZHZnZkZmUlpvUHRpSEs5Qnh2V0tjbjVKMmtGY21VMW1Yd2xwTG1DQmM0NWJ1SmUtVXI0dERxeElMWER4Sjk5Um9yejJLN29SQlNKazR4MVFKdDRWaXZtZDdjWThyeXBENHFIa1ZhSFJZcC14OWUxcmVQTFFUbk5rbFhyQUJKSU0wcVRB?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 06:06:19 GMT",
-      "source": "GoogleNews ミツカン",
-      "categories": [
-        "seasoning"
-      ],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "ミツカン、食酢やつゆ値上げ＝最大２６％、９月１日から - 時事通信ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44ZVp1YXhJeE5JMFJWTEpDVjhRZ2tCNUtEazBBQlBnSnozNTZrek5zWDVQaHJBMHAweWRHRjhzYWs1c2JEV1BySk1ENGwxY0lxVTFxQQ?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 06:05:00 GMT",
-      "source": "GoogleNews ミツカン",
-      "categories": [
-        "seasoning"
-      ],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "ミツカンの家庭用の「穀物酢」（500ミリリットル） - 産経ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcTdYenhwX0hRNldlbDdRT2xBb0I4QkJ1Z1ZHN2YtNjVKdmhndzlGOVhMYlpsOUhzc2o0N1BDdUVvT2pScXlTdFJMb3h6WDRjLXN4SWlyX2JCVTB4MjVFYXlkSEdqdlFCTnhKcWZKSlVmUm5jN3Jad1lDSFdEUDdWLW9fVjY3M3RfT0p2YTducFB2V0xCZ053SUtBOVl1Yzlsbnc?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 05:37:23 GMT",
-      "source": "GoogleNews ミツカン",
-      "categories": [
-        "seasoning"
-      ],
-      "priceKeywords": [
-        "家庭用"
-      ]
-    },
-    {
-      "title": "ミツカン、食酢やつゆ値上げへ ９月から、原材料費高騰｜全国のニュース｜Web東奥 - 東奥日報社",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Od3BPSkJPZDZ0eG1TWWNtNFlTX3IyVnVNUFMzY0VkR0xEcUg2cllnZk16X1NfOWxOV2w4QVNhMzFNVmRIY2hzblhnNHBRaWlaVmZfQVc5OUQ?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 04:43:15 GMT",
-      "source": "GoogleNews ミツカン",
-      "categories": [
-        "seasoning"
-      ],
-      "priceKeywords": [
-        "値上げ",
-        "高騰"
       ]
     },
     {
@@ -385,19 +356,6 @@
       ]
     },
     {
-      "title": "ミツカン、食酢やつゆ値上げへ ９月から、原材料費高騰:経済 - 福島民友新聞社",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FWmx1anExSXpNd1JDU3hGYzZwNXd4ODkzODU2Y2l5SUI2VkZhNF80TUpyM1FxUEh5UXo1a3B3WFNwcUQ3ZVZ3enI3LUNGQU95RkVoOU5vMGxzVlMwS2lBSXZWdzJBRjhta2c?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 04:43:00 GMT",
-      "source": "GoogleNews ミツカン",
-      "categories": [
-        "seasoning"
-      ],
-      "priceKeywords": [
-        "値上げ",
-        "高騰"
-      ]
-    },
-    {
       "title": "「とんがりコーン」8月から内容量減 実質値上げに - TBS NEWS DIG",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OMGFrb1lDa0NPTGVLd2daUjVadk9COHdkWmY4V2lDN3ZwLUZyc1hJb0xoR00xclNOaDR3bXRySXZPUXpFbXoydmRnNXVvbU52S0xJMDFqQQ?oc=5",
       "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
@@ -441,16 +399,6 @@
       "priceKeywords": [
         "値上げ",
         "高騰"
-      ]
-    },
-    {
-      "title": "キユーピー、中東影響克服へ全力 多面的対策で値上げ回避 - 日本食糧新聞・電子版",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Nd21XSEJWa0VXS3FZMDlzNGZXZWltQU9sbXF6Z2pCUlJQN29IckpqbVFqTk9zeXVWLTBnRWZTWUp6b0JZMW1MWTNfbGlKc0pYV0NkN0I5STJBU3p5aGFTQmVqYk05NmIz?oc=5",
-      "pubDate": "Sun, 12 Jul 2026 07:00:00 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
       ]
     }
   ]
