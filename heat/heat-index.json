@@ -1,0 +1,1533 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-30T22:00:28.118Z",
+  "season": {
+    "declaredFrom": "2026-04-22",
+    "declaredTo": "2026-10-21",
+    "inService": true
+  },
+  "sources": {
+    "wbgt": {
+      "name": "環境省熱中症予防情報サイト",
+      "url": "https://www.wbgt.env.go.jp/",
+      "attribution": "『環境省熱中症予防情報サイト』からの提供情報（出典：環境省）",
+      "fetchedAt": "2026-07-30T22:00:28.118Z",
+      "ok": true
+    },
+    "temperature": {
+      "name": "気象庁",
+      "url": "https://www.jma.go.jp/bosai/",
+      "attribution": "出典：気象庁",
+      "fetchedAt": "2026-07-30T22:00:28.118Z",
+      "ok": true
+    }
+  },
+  "prefectures": [
+    {
+      "prefectureId": "10",
+      "prefectureName": "群馬県",
+      "wbgtPrefCode": "42",
+      "representativePointNo": "42251",
+      "representativePointName": "前橋",
+      "jmaAreaCode": "100000",
+      "pointCount": 13,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 31,
+          "wbgtMaxHour": 15,
+          "tempMax": 36,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 31,
+          "wbgtMaxHour": 12,
+          "tempMax": 37,
+          "tempMin": 26
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 12,
+          "tempMax": 36,
+          "tempMin": 26
+        }
+      ]
+    },
+    {
+      "prefectureId": "11",
+      "prefectureName": "埼玉県",
+      "wbgtPrefCode": "43",
+      "representativePointNo": "43056",
+      "representativePointName": "熊谷",
+      "jmaAreaCode": "110000",
+      "pointCount": 8,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 32,
+          "wbgtMaxHour": 12,
+          "tempMax": 37,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 31,
+          "wbgtMaxHour": 12,
+          "tempMax": 38,
+          "tempMin": 26
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 12,
+          "tempMax": 36,
+          "tempMin": 26
+        }
+      ]
+    },
+    {
+      "prefectureId": "12",
+      "prefectureName": "千葉県",
+      "wbgtPrefCode": "45",
+      "representativePointNo": "45212",
+      "representativePointName": "千葉",
+      "jmaAreaCode": "120000",
+      "pointCount": 14,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 32,
+          "wbgtMaxHour": 15,
+          "tempMax": 36,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 34,
+          "wbgtMaxHour": 15,
+          "tempMax": 37,
+          "tempMin": 27
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 32,
+          "wbgtMaxHour": 12,
+          "tempMax": 32,
+          "tempMin": 25
+        }
+      ]
+    },
+    {
+      "prefectureId": "13",
+      "prefectureName": "東京都",
+      "wbgtPrefCode": "44",
+      "representativePointNo": "44132",
+      "representativePointName": "東京",
+      "jmaAreaCode": "130000",
+      "pointCount": 11,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 32,
+          "wbgtMaxHour": 12,
+          "tempMax": 36,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 12,
+          "tempMax": 37,
+          "tempMin": 27
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 32,
+          "wbgtMaxHour": 12,
+          "tempMax": 35,
+          "tempMin": 27
+        }
+      ]
+    },
+    {
+      "prefectureId": "14",
+      "prefectureName": "神奈川県",
+      "wbgtPrefCode": "46",
+      "representativePointNo": "46106",
+      "representativePointName": "横浜",
+      "jmaAreaCode": "140000",
+      "pointCount": 5,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 12,
+          "tempMax": 36,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 34,
+          "wbgtMaxHour": 12,
+          "tempMax": 36,
+          "tempMin": 27
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 32,
+          "wbgtMaxHour": 12,
+          "tempMax": 35,
+          "tempMin": 27
+        }
+      ]
+    },
+    {
+      "prefectureId": "15",
+      "prefectureName": "新潟県",
+      "wbgtPrefCode": "54",
+      "representativePointNo": "54232",
+      "representativePointName": "新潟",
+      "jmaAreaCode": "150000",
+      "pointCount": 27,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 28,
+          "wbgtMaxHour": 15,
+          "tempMax": 30,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 29,
+          "wbgtMaxHour": 15,
+          "tempMax": 30,
+          "tempMin": 26
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 28,
+          "wbgtMaxHour": 9,
+          "tempMax": 31,
+          "tempMin": 26
+        }
+      ]
+    },
+    {
+      "prefectureId": "16",
+      "prefectureName": "富山県",
+      "wbgtPrefCode": "55",
+      "representativePointNo": "55102",
+      "representativePointName": "富山",
+      "jmaAreaCode": "160000",
+      "pointCount": 9,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 31,
+          "wbgtMaxHour": 12,
+          "tempMax": 34,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 31,
+          "wbgtMaxHour": 12,
+          "tempMax": 35,
+          "tempMin": 25
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 32,
+          "wbgtMaxHour": 12,
+          "tempMax": 34,
+          "tempMin": 26
+        }
+      ]
+    },
+    {
+      "prefectureId": "17",
+      "prefectureName": "石川県",
+      "wbgtPrefCode": "56",
+      "representativePointNo": "56227",
+      "representativePointName": "金沢",
+      "jmaAreaCode": "170000",
+      "pointCount": 10,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 31,
+          "wbgtMaxHour": 12,
+          "tempMax": 33,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 31,
+          "wbgtMaxHour": 15,
+          "tempMax": 33,
+          "tempMin": 27
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 31,
+          "wbgtMaxHour": 15,
+          "tempMax": 33,
+          "tempMin": 27
+        }
+      ]
+    },
+    {
+      "prefectureId": "18",
+      "prefectureName": "福井県",
+      "wbgtPrefCode": "57",
+      "representativePointNo": "57066",
+      "representativePointName": "福井",
+      "jmaAreaCode": "180000",
+      "pointCount": 9,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 31,
+          "wbgtMaxHour": 15,
+          "tempMax": 33,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 32,
+          "wbgtMaxHour": 15,
+          "tempMax": 34,
+          "tempMin": 25
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 31,
+          "wbgtMaxHour": 15,
+          "tempMax": 34,
+          "tempMin": 26
+        }
+      ]
+    },
+    {
+      "prefectureId": "19",
+      "prefectureName": "山梨県",
+      "wbgtPrefCode": "49",
+      "representativePointNo": "49142",
+      "representativePointName": "甲府",
+      "jmaAreaCode": "190000",
+      "pointCount": 10,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 32,
+          "wbgtMaxHour": 15,
+          "tempMax": 39,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 31,
+          "wbgtMaxHour": 12,
+          "tempMax": 39,
+          "tempMin": 25
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 34,
+          "wbgtMaxHour": 15,
+          "tempMax": 38,
+          "tempMin": 25
+        }
+      ]
+    },
+    {
+      "prefectureId": "20",
+      "prefectureName": "長野県",
+      "wbgtPrefCode": "48",
+      "representativePointNo": "48156",
+      "representativePointName": "長野",
+      "jmaAreaCode": "200000",
+      "pointCount": 29,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 30,
+          "wbgtMaxHour": 12,
+          "tempMax": 33,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 30,
+          "wbgtMaxHour": 12,
+          "tempMax": 34,
+          "tempMin": 23
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 31,
+          "wbgtMaxHour": 12,
+          "tempMax": 36,
+          "tempMin": 23
+        }
+      ]
+    },
+    {
+      "prefectureId": "21",
+      "prefectureName": "岐阜県",
+      "wbgtPrefCode": "52",
+      "representativePointNo": "52586",
+      "representativePointName": "岐阜",
+      "jmaAreaCode": "210000",
+      "pointCount": 23,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 15,
+          "tempMax": 37,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 15,
+          "tempMax": 38,
+          "tempMin": 27
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 34,
+          "wbgtMaxHour": 15,
+          "tempMax": 39,
+          "tempMin": 27
+        }
+      ]
+    },
+    {
+      "prefectureId": "22",
+      "prefectureName": "静岡県",
+      "wbgtPrefCode": "50",
+      "representativePointNo": "50331",
+      "representativePointName": "静岡",
+      "jmaAreaCode": "220000",
+      "pointCount": 17,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 32,
+          "wbgtMaxHour": 15,
+          "tempMax": 35,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 32,
+          "wbgtMaxHour": 12,
+          "tempMax": 34,
+          "tempMin": 26
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 12,
+          "tempMax": 34,
+          "tempMin": 27
+        }
+      ]
+    },
+    {
+      "prefectureId": "23",
+      "prefectureName": "愛知県",
+      "wbgtPrefCode": "51",
+      "representativePointNo": "51106",
+      "representativePointName": "名古屋",
+      "jmaAreaCode": "230000",
+      "pointCount": 11,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 34,
+          "wbgtMaxHour": 15,
+          "tempMax": 37,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 12,
+          "tempMax": 39,
+          "tempMin": 27
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 12,
+          "tempMax": 39,
+          "tempMin": 28
+        }
+      ]
+    },
+    {
+      "prefectureId": "24",
+      "prefectureName": "三重県",
+      "wbgtPrefCode": "53",
+      "representativePointNo": "53133",
+      "representativePointName": "津",
+      "jmaAreaCode": "240000",
+      "pointCount": 12,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 15,
+          "tempMax": 37,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 12,
+          "tempMax": 38,
+          "tempMin": 27
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 34,
+          "wbgtMaxHour": 15,
+          "tempMax": 37,
+          "tempMin": 28
+        }
+      ]
+    },
+    {
+      "prefectureId": "25",
+      "prefectureName": "滋賀県",
+      "wbgtPrefCode": "60",
+      "representativePointNo": "60131",
+      "representativePointName": "彦根",
+      "jmaAreaCode": "250000",
+      "pointCount": 9,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 12,
+          "tempMax": 34,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 15,
+          "tempMax": 35,
+          "tempMin": 26
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 32,
+          "wbgtMaxHour": 12,
+          "tempMax": 36,
+          "tempMin": 27
+        }
+      ]
+    },
+    {
+      "prefectureId": "26",
+      "prefectureName": "京都府",
+      "wbgtPrefCode": "61",
+      "representativePointNo": "61286",
+      "representativePointName": "京都",
+      "jmaAreaCode": "260000",
+      "pointCount": 8,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 15,
+          "tempMax": 38,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 12,
+          "tempMax": 39,
+          "tempMin": 26
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 15,
+          "tempMax": 38,
+          "tempMin": 27
+        }
+      ]
+    },
+    {
+      "prefectureId": "27",
+      "prefectureName": "大阪府",
+      "wbgtPrefCode": "62",
+      "representativePointNo": "62078",
+      "representativePointName": "大阪",
+      "jmaAreaCode": "270000",
+      "pointCount": 6,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 15,
+          "tempMax": 36,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 15,
+          "tempMax": 36,
+          "tempMin": 29
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 32,
+          "wbgtMaxHour": 15,
+          "tempMax": 38,
+          "tempMin": 29
+        }
+      ]
+    },
+    {
+      "prefectureId": "28",
+      "prefectureName": "兵庫県",
+      "wbgtPrefCode": "63",
+      "representativePointNo": "63518",
+      "representativePointName": "神戸",
+      "jmaAreaCode": "280000",
+      "pointCount": 19,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 15,
+          "tempMax": 35,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 12,
+          "tempMax": 35,
+          "tempMin": 29
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 32,
+          "wbgtMaxHour": 12,
+          "tempMax": 37,
+          "tempMin": 29
+        }
+      ]
+    },
+    {
+      "prefectureId": "29",
+      "prefectureName": "奈良県",
+      "wbgtPrefCode": "64",
+      "representativePointNo": "64036",
+      "representativePointName": "奈良",
+      "jmaAreaCode": "290000",
+      "pointCount": 6,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 15,
+          "tempMax": 37,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 15,
+          "tempMax": 38,
+          "tempMin": 26
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 31,
+          "wbgtMaxHour": 15,
+          "tempMax": 38,
+          "tempMin": 27
+        }
+      ]
+    },
+    {
+      "prefectureId": "30",
+      "prefectureName": "和歌山県",
+      "wbgtPrefCode": "65",
+      "representativePointNo": "65042",
+      "representativePointName": "和歌山",
+      "jmaAreaCode": "300000",
+      "pointCount": 11,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 32,
+          "wbgtMaxHour": 15,
+          "tempMax": 37,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 15,
+          "tempMax": 37,
+          "tempMin": 28
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 12,
+          "tempMax": 38,
+          "tempMin": 28
+        }
+      ]
+    },
+    {
+      "prefectureId": "31",
+      "prefectureName": "鳥取県",
+      "wbgtPrefCode": "69",
+      "representativePointNo": "69122",
+      "representativePointName": "鳥取",
+      "jmaAreaCode": "310000",
+      "pointCount": 9,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 34,
+          "wbgtMaxHour": 15,
+          "tempMax": 36,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 35,
+          "wbgtMaxHour": 12,
+          "tempMax": 35,
+          "tempMin": 25
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 15,
+          "tempMax": 37,
+          "tempMin": 26
+        }
+      ]
+    },
+    {
+      "prefectureId": "32",
+      "prefectureName": "島根県",
+      "wbgtPrefCode": "68",
+      "representativePointNo": "68132",
+      "representativePointName": "松江",
+      "jmaAreaCode": "320000",
+      "pointCount": 16,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 34,
+          "wbgtMaxHour": 12,
+          "tempMax": 35,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 12,
+          "tempMax": 35,
+          "tempMin": 27
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 12,
+          "tempMax": 38,
+          "tempMin": 26
+        }
+      ]
+    },
+    {
+      "prefectureId": "33",
+      "prefectureName": "岡山県",
+      "wbgtPrefCode": "66",
+      "representativePointNo": "66408",
+      "representativePointName": "岡山",
+      "jmaAreaCode": "330000",
+      "pointCount": 15,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 32,
+          "wbgtMaxHour": 12,
+          "tempMax": 36,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 12,
+          "tempMax": 37,
+          "tempMin": 25
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 32,
+          "wbgtMaxHour": 12,
+          "tempMax": 39,
+          "tempMin": 26
+        }
+      ]
+    },
+    {
+      "prefectureId": "34",
+      "prefectureName": "広島県",
+      "wbgtPrefCode": "67",
+      "representativePointNo": "67437",
+      "representativePointName": "広島",
+      "jmaAreaCode": "340000",
+      "pointCount": 18,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 34,
+          "wbgtMaxHour": 15,
+          "tempMax": 36,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 34,
+          "wbgtMaxHour": 15,
+          "tempMax": 37,
+          "tempMin": 27
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 32,
+          "wbgtMaxHour": 15,
+          "tempMax": 39,
+          "tempMin": 27
+        }
+      ]
+    },
+    {
+      "prefectureId": "35",
+      "prefectureName": "山口県",
+      "wbgtPrefCode": "81",
+      "representativePointNo": "81286",
+      "representativePointName": "山口",
+      "jmaAreaCode": "350000",
+      "pointCount": 15,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 34,
+          "wbgtMaxHour": 15,
+          "tempMax": 36,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 12,
+          "tempMax": 38,
+          "tempMin": 25
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 34,
+          "wbgtMaxHour": 15,
+          "tempMax": 36,
+          "tempMin": 28
+        }
+      ]
+    },
+    {
+      "prefectureId": "36",
+      "prefectureName": "徳島県",
+      "wbgtPrefCode": "71",
+      "representativePointNo": "71106",
+      "representativePointName": "徳島",
+      "jmaAreaCode": "360000",
+      "pointCount": 8,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 12,
+          "tempMax": 37,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 35,
+          "wbgtMaxHour": 15,
+          "tempMax": 37,
+          "tempMin": 28
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 34,
+          "wbgtMaxHour": 12,
+          "tempMax": 39,
+          "tempMin": 28
+        }
+      ]
+    },
+    {
+      "prefectureId": "37",
+      "prefectureName": "香川県",
+      "wbgtPrefCode": "72",
+      "representativePointNo": "72086",
+      "representativePointName": "高松",
+      "jmaAreaCode": "370000",
+      "pointCount": 6,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 15,
+          "tempMax": 38,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 34,
+          "wbgtMaxHour": 15,
+          "tempMax": 38,
+          "tempMin": 28
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 15,
+          "tempMax": 40,
+          "tempMin": 28
+        }
+      ]
+    },
+    {
+      "prefectureId": "38",
+      "prefectureName": "愛媛県",
+      "wbgtPrefCode": "73",
+      "representativePointNo": "73166",
+      "representativePointName": "松山",
+      "jmaAreaCode": "380000",
+      "pointCount": 14,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 12,
+          "tempMax": 35,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 34,
+          "wbgtMaxHour": 15,
+          "tempMax": 35,
+          "tempMin": 25
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 12,
+          "tempMax": 38,
+          "tempMin": 26
+        }
+      ]
+    },
+    {
+      "prefectureId": "39",
+      "prefectureName": "高知県",
+      "wbgtPrefCode": "74",
+      "representativePointNo": "74182",
+      "representativePointName": "高知",
+      "jmaAreaCode": "390000",
+      "pointCount": 15,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 32,
+          "wbgtMaxHour": 12,
+          "tempMax": 37,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 12,
+          "tempMax": 37,
+          "tempMin": 25
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 12,
+          "tempMax": 38,
+          "tempMin": 27
+        }
+      ]
+    },
+    {
+      "prefectureId": "40",
+      "prefectureName": "福岡県",
+      "wbgtPrefCode": "82",
+      "representativePointNo": "82182",
+      "representativePointName": "福岡",
+      "jmaAreaCode": "400000",
+      "pointCount": 12,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 35,
+          "wbgtMaxHour": 15,
+          "tempMax": 36,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 37,
+          "wbgtMaxHour": 15,
+          "tempMax": 37,
+          "tempMin": 27
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 12,
+          "tempMax": 37,
+          "tempMin": 28
+        }
+      ]
+    },
+    {
+      "prefectureId": "41",
+      "prefectureName": "佐賀県",
+      "wbgtPrefCode": "85",
+      "representativePointNo": "85142",
+      "representativePointName": "佐賀",
+      "jmaAreaCode": "410000",
+      "pointCount": 5,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 12,
+          "tempMax": 37,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 34,
+          "wbgtMaxHour": 15,
+          "tempMax": 37,
+          "tempMin": 26
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 15,
+          "tempMax": 39,
+          "tempMin": 26
+        }
+      ]
+    },
+    {
+      "prefectureId": "42",
+      "prefectureName": "長崎県",
+      "wbgtPrefCode": "84",
+      "representativePointNo": "84496",
+      "representativePointName": "長崎",
+      "jmaAreaCode": "420000",
+      "pointCount": 14,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 32,
+          "wbgtMaxHour": 15,
+          "tempMax": 33,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 32,
+          "wbgtMaxHour": 15,
+          "tempMax": 34,
+          "tempMin": 27
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 15,
+          "tempMax": 36,
+          "tempMin": 27
+        }
+      ]
+    },
+    {
+      "prefectureId": "43",
+      "prefectureName": "熊本県",
+      "wbgtPrefCode": "86",
+      "representativePointNo": "86141",
+      "representativePointName": "熊本",
+      "jmaAreaCode": "430000",
+      "pointCount": 17,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 15,
+          "tempMax": 36,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 34,
+          "wbgtMaxHour": 15,
+          "tempMax": 36,
+          "tempMin": 26
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 12,
+          "tempMax": 39,
+          "tempMin": 27
+        }
+      ]
+    },
+    {
+      "prefectureId": "44",
+      "prefectureName": "大分県",
+      "wbgtPrefCode": "83",
+      "representativePointNo": "83216",
+      "representativePointName": "大分",
+      "jmaAreaCode": "440000",
+      "pointCount": 14,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 36,
+          "wbgtMaxHour": 15,
+          "tempMax": 38,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 37,
+          "wbgtMaxHour": 15,
+          "tempMax": 38,
+          "tempMin": 26
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 34,
+          "wbgtMaxHour": 15,
+          "tempMax": 39,
+          "tempMin": 26
+        }
+      ]
+    },
+    {
+      "prefectureId": "45",
+      "prefectureName": "宮崎県",
+      "wbgtPrefCode": "87",
+      "representativePointNo": "87376",
+      "representativePointName": "宮崎",
+      "jmaAreaCode": "450000",
+      "pointCount": 16,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 35,
+          "wbgtMaxHour": 12,
+          "tempMax": 37,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 34,
+          "wbgtMaxHour": 15,
+          "tempMax": 38,
+          "tempMin": 26
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 12,
+          "tempMax": 37,
+          "tempMin": 27
+        }
+      ]
+    },
+    {
+      "prefectureId": "46",
+      "prefectureName": "鹿児島県",
+      "wbgtPrefCode": "88",
+      "representativePointNo": "88317",
+      "representativePointName": "鹿児島",
+      "jmaAreaCode": "460100",
+      "pointCount": 27,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 34,
+          "wbgtMaxHour": 15,
+          "tempMax": 37,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 36,
+          "wbgtMaxHour": 15,
+          "tempMax": 38,
+          "tempMin": 28
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 35,
+          "wbgtMaxHour": 15,
+          "tempMax": 37,
+          "tempMin": 28
+        }
+      ]
+    },
+    {
+      "prefectureId": "47",
+      "prefectureName": "沖縄県",
+      "wbgtPrefCode": "91",
+      "representativePointNo": "91197",
+      "representativePointName": "那覇",
+      "jmaAreaCode": "471000",
+      "pointCount": 16,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 31,
+          "wbgtMaxHour": 9,
+          "tempMax": 33,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 31,
+          "wbgtMaxHour": 15,
+          "tempMax": 33,
+          "tempMin": 28
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 31,
+          "wbgtMaxHour": 15,
+          "tempMax": 34,
+          "tempMin": 28
+        }
+      ]
+    },
+    {
+      "prefectureId": "01",
+      "prefectureName": "北海道",
+      "wbgtPrefCode": "14",
+      "representativePointNo": "14163",
+      "representativePointName": "札幌",
+      "jmaAreaCode": "016000",
+      "pointCount": 163,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 25,
+          "wbgtMaxHour": 12,
+          "tempMax": 25,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 21,
+          "wbgtMaxHour": 9,
+          "tempMax": 24,
+          "tempMin": 20
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 25,
+          "wbgtMaxHour": 12,
+          "tempMax": 28,
+          "tempMin": 19
+        }
+      ]
+    },
+    {
+      "prefectureId": "02",
+      "prefectureName": "青森県",
+      "wbgtPrefCode": "31",
+      "representativePointNo": "31312",
+      "representativePointName": "青森",
+      "jmaAreaCode": "020000",
+      "pointCount": 22,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 26,
+          "wbgtMaxHour": 12,
+          "tempMax": 27,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 22,
+          "wbgtMaxHour": 9,
+          "tempMax": 24,
+          "tempMin": 20
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 24,
+          "wbgtMaxHour": 12,
+          "tempMax": 27,
+          "tempMin": 22
+        }
+      ]
+    },
+    {
+      "prefectureId": "03",
+      "prefectureName": "岩手県",
+      "wbgtPrefCode": "33",
+      "representativePointNo": "33431",
+      "representativePointName": "盛岡",
+      "jmaAreaCode": "030000",
+      "pointCount": 33,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 27,
+          "wbgtMaxHour": 12,
+          "tempMax": 29,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 24,
+          "wbgtMaxHour": 12,
+          "tempMax": 25,
+          "tempMin": 20
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 25,
+          "wbgtMaxHour": 12,
+          "tempMax": 28,
+          "tempMin": 22
+        }
+      ]
+    },
+    {
+      "prefectureId": "04",
+      "prefectureName": "宮城県",
+      "wbgtPrefCode": "34",
+      "representativePointNo": "34392",
+      "representativePointName": "仙台",
+      "jmaAreaCode": "040000",
+      "pointCount": 18,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 27,
+          "wbgtMaxHour": 12,
+          "tempMax": 32,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 28,
+          "wbgtMaxHour": 15,
+          "tempMax": 30,
+          "tempMin": 22
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 25,
+          "wbgtMaxHour": 0,
+          "tempMax": 28,
+          "tempMin": 23
+        }
+      ]
+    },
+    {
+      "prefectureId": "05",
+      "prefectureName": "秋田県",
+      "wbgtPrefCode": "32",
+      "representativePointNo": "32402",
+      "representativePointName": "秋田",
+      "jmaAreaCode": "050000",
+      "pointCount": 24,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 26,
+          "wbgtMaxHour": 9,
+          "tempMax": 28,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 27,
+          "wbgtMaxHour": 9,
+          "tempMax": 28,
+          "tempMin": 22
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 27,
+          "wbgtMaxHour": 15,
+          "tempMax": 31,
+          "tempMin": 24
+        }
+      ]
+    },
+    {
+      "prefectureId": "06",
+      "prefectureName": "山形県",
+      "wbgtPrefCode": "35",
+      "representativePointNo": "35426",
+      "representativePointName": "山形",
+      "jmaAreaCode": "060000",
+      "pointCount": 20,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 26,
+          "wbgtMaxHour": 12,
+          "tempMax": 30,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 28,
+          "wbgtMaxHour": 15,
+          "tempMax": 30,
+          "tempMin": 22
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 26,
+          "wbgtMaxHour": 9,
+          "tempMax": 30,
+          "tempMin": 23
+        }
+      ]
+    },
+    {
+      "prefectureId": "07",
+      "prefectureName": "福島県",
+      "wbgtPrefCode": "36",
+      "representativePointNo": "36127",
+      "representativePointName": "福島",
+      "jmaAreaCode": "070000",
+      "pointCount": 29,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 27,
+          "wbgtMaxHour": 12,
+          "tempMax": 32,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 28,
+          "wbgtMaxHour": 12,
+          "tempMax": 32,
+          "tempMin": 23
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 26,
+          "wbgtMaxHour": 0,
+          "tempMax": 30,
+          "tempMin": 24
+        }
+      ]
+    },
+    {
+      "prefectureId": "08",
+      "prefectureName": "茨城県",
+      "wbgtPrefCode": "40",
+      "representativePointNo": "40201",
+      "representativePointName": "水戸",
+      "jmaAreaCode": "080000",
+      "pointCount": 14,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 28,
+          "wbgtMaxHour": 12,
+          "tempMax": 33,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 31,
+          "wbgtMaxHour": 12,
+          "tempMax": 35,
+          "tempMin": 24
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 31,
+          "wbgtMaxHour": 9,
+          "tempMax": 33,
+          "tempMin": 25
+        }
+      ]
+    },
+    {
+      "prefectureId": "09",
+      "prefectureName": "栃木県",
+      "wbgtPrefCode": "41",
+      "representativePointNo": "41277",
+      "representativePointName": "宇都宮",
+      "jmaAreaCode": "090000",
+      "pointCount": 14,
+      "days": [
+        {
+          "date": "2026-07-31",
+          "wbgtMax": 29,
+          "wbgtMaxHour": 12,
+          "tempMax": 33,
+          "tempMin": null
+        },
+        {
+          "date": "2026-08-01",
+          "wbgtMax": 30,
+          "wbgtMaxHour": 12,
+          "tempMax": 35,
+          "tempMin": 25
+        },
+        {
+          "date": "2026-08-02",
+          "wbgtMax": 30,
+          "wbgtMaxHour": 12,
+          "tempMax": 35,
+          "tempMin": 25
+        }
+      ]
+    }
+  ],
+  "degraded": false,
+  "errors": []
+}
