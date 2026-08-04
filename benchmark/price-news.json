@@ -1,13 +1,55 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-08-03T22:00:28.790Z",
+  "fetchedAt": "2026-08-04T22:00:28.129Z",
   "periodDays": 14,
-  "totalArticles": 33,
+  "totalArticles": 37,
   "categoryBreakdown": {
     "dairy": 8,
     "seasoning": 2
   },
   "articles": [
+    {
+      "title": "株価 小幅に値上がり 値下がりした銘柄買い戻す動き",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015195691000",
+      "pubDate": "Tue, 04 Aug 2026 16:29:12 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上がり"
+      ]
+    },
+    {
+      "title": "食品値上げ／物流費・包装資材高騰で値上げ続く、通年2万品目台へ突入か - 物流ニュースのLNEWS",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5bHh6YXhUYlZMdXlMVjA2MjRjbkdwWnhZMnl0OS1oSUw4cXJQaEkyZDUyNi1QSmdTS2xJb0tqeE9qbGkzcV9xenV0TDdIYXF3bkdPcg?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 05:40:10 GMT",
+      "source": "GoogleNews 包装資材",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ",
+        "高騰",
+        "品目"
+      ]
+    },
+    {
+      "title": "LTVが「1.5倍」に ミツカン「腸活コミュニティ」が実証した、値上げ時代に選ばれ続ける方法（1/2 ページ） - ITmedia",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rbjhwV2MwRFdUTzJrTjdxbWdYaTVGUjhFb015X0w1MGo0V0JxQ2xsbVI4a0d5YXM0RXJnSVR2eEZhTHUyWmNCaGJZUVVQekt4Z0xmQkQxMjNWcEN6SlBpZV9QUVU1b1JtcXgzdDljMEVFdw?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 00:30:00 GMT",
+      "source": "GoogleNews ミツカン",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "「中東発」値上げラッシュが本格化　飲食料品値上げ、約3年ぶりの多さに - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhS0JPQWdOQjB3X3Z0T0VadHBMYmxtN1VZd0w4OHVHYTc0SnNYQVJqUEstemhuREJMOWRoTTI0WlNzdWsxQWZfVWNvN3dZRVRrVjZVNkpTcEpoS0lmbFF5TEN0V3FLMW9TODBfMWo0UmpwdlHSAXNBVV95cUxQYUtCT0FnTkIwd192dE9FWnRwTGJsbTdVWXdMODh1R2E3NEpzWEFSalBLLXpobkRCTDlkaE0yNFpTc3VrMUFmX1Vjbzd3WUVUa1Y2VTZKU3BKaEtJZmxReUxDdFdxSzFvUzgwXzFqNFJqcHZR?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 00:00:00 GMT",
+      "source": "GoogleNews 中東 食品",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
     {
       "title": "円相場 一時1ドル＝155円台前半まで値上がり",
       "link": "https://news.web.nhk/newsweb/na/na-k10015195161000",
@@ -19,18 +61,6 @@
       ]
     },
     {
-      "title": "「中東発」値上げラッシュが本格化。飲食料品値上げ8月は2311品目、資材価格や原材料高、物流コストなどに波及 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ySnBPRHZQUTdTZm1DcmNoZ2FVSm5KOXdIQVo0SHhFb0dMYm9uTkJkVE9qNTBPSXBTaVExZk1hSEx6NVV5UTB5MVpxQldzNFdmQjljbGdVOTZPUUlWSEFUSTB4SFhqNWRLUU5sSE5MdXk5TG5DVjRiUEZLSzVqanM?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 06:31:18 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ",
-        "原材料高",
-        "品目"
-      ]
-    },
-    {
       "title": "円相場 一時1ドル155円台まで値上がり 円買いドル売り進む",
       "link": "https://news.web.nhk/newsweb/na/na-k10015194631000",
       "pubDate": "Mon, 03 Aug 2026 12:09:15 +0900",
@@ -38,6 +68,18 @@
       "categories": [],
       "priceKeywords": [
         "値上がり"
+      ]
+    },
+    {
+      "title": "「中東発」値上げラッシュが本格化。飲食料品値上げ8月は2311品目、資材価格や原材料高、物流コストなどに波及 - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdnM0X1ZxMENybENlNGtSWEtyT0VJTmNtY1lvV3gzNEswUEltY1g4ZnVRUnEzOHAwMDFZN3NKcmxDZEdaRGxpTmFiWS1rTFhQX2hfN0ZEdEtTTFA1bGlJY2FZVDRrRmdKRzdkMWNZTFp6c19XOGFFZlhiRG1tUjBYQlFnTDVxQVhMc2hvQXVCUHhGNzdSRl9yY2JwRlNJRTVlY3lONVp1V2VjcUVQeU1mc0VVclnSAbQBQVVfeXFMTnZzNF9WcTBDcmxDZTRrUlhLck9FSU5jbWNZb1d4MzRLMFBJbWNYOGZ1UVJxMzhwMDAxWTdzSnJsQ2RHWkRsaU5hYlkta0xYUF9oXzdGRHRLU0xQNWxpSWNhWVQ0a0ZnSkc3ZDFjWUxaenNfVzhhRWZYYkRtbVIwWEJRZ0w1cUFYTHNob0F1QlB4Rjc3UkZfcmNicEZTSUU1ZWN5TjVadVdlY3FFUHlNZnNFVXJZ?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 22:30:00 GMT",
+      "source": "GoogleNews 中東 食品",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ",
+        "原材料高",
+        "品目"
       ]
     },
     {
