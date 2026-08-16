@@ -1,10 +1,9 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-08-15T22:00:30.126Z",
+  "fetchedAt": "2026-08-16T22:00:26.318Z",
   "periodDays": 14,
-  "totalArticles": 25,
+  "totalArticles": 22,
   "categoryBreakdown": {
-    "noodle": 1,
     "rice": 1,
     "seasoning": 2,
     "dairy": 1,
@@ -13,15 +12,13 @@
   },
   "articles": [
     {
-      "title": "物価高 具材ない麺商品の投入加速",
-      "link": "https://news.yahoo.co.jp/pickup/6591874?source=rss",
-      "pubDate": "Sat, 15 Aug 2026 13:06:06 GMT",
+      "title": "プロテイン 価格の高騰止まらず",
+      "link": "https://news.yahoo.co.jp/pickup/6591929?source=rss",
+      "pubDate": "Sun, 16 Aug 2026 02:55:48 GMT",
       "source": "Yahoo!ニュース 経済",
-      "categories": [
-        "noodle"
-      ],
+      "categories": [],
       "priceKeywords": [
-        "物価"
+        "高騰"
       ]
     },
     {
@@ -134,18 +131,6 @@
       ]
     },
     {
-      "title": "６月から食品容器２０％以上値上げ エフピコ、中東情勢で原材料高騰 - 山陽新聞",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mUjlNejRZcTdCMGxhUnl0MVM2cVhxdUYxWDdCSV9IdXI3YmhSc0pXNVczWWlxb2JrQWFzQUxuUmM4cF9DMFdCWUhjWjlnTWN3OXc?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ",
-        "高騰",
-        "原材料高"
-      ]
-    },
-    {
       "title": "明治 9月から37品を価格改定 栄養食品やアイスが対象 - 食品新聞 WEB版",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRemF0STVjOUZKeUVDTFo1TUwxX1B3U1U3S2pzOGVFUlpUQXNHOG0wQ29JSDdDemFQRzBDQWZNd1ZXRHNZQWZELUlGUXlFVEpOYzBVVURMbVlfZkhmQ1ktQ1AxUzM?oc=5",
       "pubDate": "Mon, 10 Aug 2026 01:27:20 GMT",
@@ -153,16 +138,6 @@
       "categories": [],
       "priceKeywords": [
         "価格改定"
-      ]
-    },
-    {
-      "title": "タングステン 中国の輸出規制影響 製品価格高騰や調達難に",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260809de43011",
-      "pubDate": "Mon, 10 Aug 2026 07:19:00 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "高騰"
       ]
     },
     {
@@ -216,7 +191,7 @@
       ]
     },
     {
-      "title": "雪印メグ、育児用粉ミルク3年ぶりに値上げ - 酪農乳業速報",
+      "title": "雪印メグ、育児用粉ミルク3年ぶりに値上げ - dailydairynews.jp",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9iQlNUb2g1bmpNb1A3MUlURE5GTFZYWVRsdFZ2M0ozaUNyNWpOYk9YSml5S3hLcW1RVGVTcHVTV3ZPd2syYkRoc1JZaw?oc=5",
       "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT",
       "source": "GoogleNews 雪印メグミルク",
@@ -275,18 +250,6 @@
       "categories": [],
       "priceKeywords": [
         "値上げ"
-      ]
-    },
-    {
-      "title": "「中東発」値上げラッシュが本格化。飲食料品値上げ8月は2311品目、資材価格や原材料高、物流コストなどに波及 - ネットショップ担当者フォーラム",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4MzVoV2dxczY3eDc4VFI5VUdfWGlaVE9XRDNJQWhDZTVPY3B3eGRUazA4WTFXdVlEb3lqaVp5eEIzVlpzcG5DMXBONlRvd2JTYlhiRVU1TFc2a2Nt?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ",
-        "原材料高",
-        "品目"
       ]
     }
   ]
