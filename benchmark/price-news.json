@@ -1,8 +1,8 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-08-16T22:00:26.318Z",
+  "fetchedAt": "2026-08-17T22:00:34.627Z",
   "periodDays": 14,
-  "totalArticles": 22,
+  "totalArticles": 27,
   "categoryBreakdown": {
     "rice": 1,
     "seasoning": 2,
@@ -12,13 +12,53 @@
   },
   "articles": [
     {
-      "title": "プロテイン 価格の高騰止まらず",
-      "link": "https://news.yahoo.co.jp/pickup/6591929?source=rss",
-      "pubDate": "Sun, 16 Aug 2026 02:55:48 GMT",
-      "source": "Yahoo!ニュース 経済",
+      "title": "米30年債利回り19年ぶり高水準 インフレ再加速へ警戒感",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260818de44672",
+      "pubDate": "Tue, 18 Aug 2026 06:29:00 +0900",
+      "source": "NHK 経済",
       "categories": [],
       "priceKeywords": [
-        "高騰"
+        "インフレ"
+      ]
+    },
+    {
+      "title": "円相場 値上がり 1ドル＝158円台後半",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260817de44617",
+      "pubDate": "Mon, 17 Aug 2026 18:45:07 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上がり"
+      ]
+    },
+    {
+      "title": "株価 値上がりも 上昇幅は限定的",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260817de44497",
+      "pubDate": "Mon, 17 Aug 2026 13:10:00 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上がり"
+      ]
+    },
+    {
+      "title": "長期金利 2.93％に上昇 インフレ加速の見方 背景に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260817de44469",
+      "pubDate": "Mon, 17 Aug 2026 12:56:22 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "インフレ"
+      ]
+    },
+    {
+      "title": "雪印メグミルク 9月から138品価格改定 乳食品・市乳商品が対象 - 食品新聞 WEB版",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6QVdybGFMaENqNk54TTdYSERwQjRteWxFUlFfQzJDUHZocF9DMmRDTUp0YkdMSTBsQW9tSDZfWHVUTmtFNmV0UUg0Y204VHBKcTFHTjJadmEtMmZGeWc?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 01:33:25 GMT",
+      "source": "GoogleNews 雪印メグミルク",
+      "categories": [],
+      "priceKeywords": [
+        "価格改定"
       ]
     },
     {
@@ -107,9 +147,19 @@
       ]
     },
     {
+      "title": "食品値上げの次なる火種はナフサショック!? 包材価格急騰でコスト増懸念 - DXマガジン",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DWUdBZ2lFWlhTMDFsZ1BmYmk1bkh3LXlJTWFUSHNySUw2d3BkZERNQTZHbzdGZ19wZ05xR0s1bGIxRFd4OUEzWlJBcmV0eEk?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 07:00:00 GMT",
+      "source": "GoogleNews 包装資材",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
       "title": "【解説】7月の食品値上げは2566品目 中東情勢の影響で「夏以降も続く」見通し Davide Brivio (8LlmOAZis8) - Mshale",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XcVgtanhXUGtmS3BRTXc2cG9nRkdaU2g5cUIyblZiTFFYRWNLQk9aZzRycHV2dGZha1NnWkF1THRvSFRqRDg5UFJlNXVaYk5zTDlfVUl6ekRyd1k?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 23:12:23 GMT",
+      "pubDate": "Tue, 11 Aug 2026 15:14:14 GMT",
       "source": "GoogleNews 中東 食品",
       "categories": [],
       "priceKeywords": [
@@ -178,7 +228,7 @@
       ]
     },
     {
-      "title": "「かなりお得」お中元ギフト解体セール始まる 食用油やマグロなど海産物が最大7割引 値上げの勢いは秋以降も - ｄメニューニュース",
+      "title": "「かなりお得」お中元ギフト解体セール始まる 食用油やマグロなど海産物が最大7割引 値上げの勢いは秋以降も - topics.smt.docomo.ne.jp",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE90T1Zzc1FYTWY2Rm96SElEMjRTOXdjWEhRLXhHcHBCVFFnMllwanBycFZxQUwyRE1ldGJqNnpvWUhCQ3JydXNJdElJcVdVVnNUWUtueVI1clpnSVNHWXhUdE43UExBM1lrSE95dkhRWU1MZw?oc=5",
       "pubDate": "Wed, 05 Aug 2026 11:59:14 GMT",
       "source": "GoogleNews 食用油",
@@ -191,7 +241,7 @@
       ]
     },
     {
-      "title": "雪印メグ、育児用粉ミルク3年ぶりに値上げ - dailydairynews.jp",
+      "title": "雪印メグ、育児用粉ミルク3年ぶりに値上げ - 酪農乳業速報",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9iQlNUb2g1bmpNb1A3MUlURE5GTFZYWVRsdFZ2M0ozaUNyNWpOYk9YSml5S3hLcW1RVGVTcHVTV3ZPd2syYkRoc1JZaw?oc=5",
       "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT",
       "source": "GoogleNews 雪印メグミルク",
@@ -201,7 +251,7 @@
       ]
     },
     {
-      "title": "雪印メグミルク、育児用粉ミルク値上げ 賞味期限は1.3倍に延長 - 日本経済新聞",
+      "title": "雪印メグミルク、育児用粉ミルク値上げ 賞味期限は1.3倍に延長 - nikkei.com",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VclE1Z1hEd3NSVXF4WGYxamlKX0RVWjdKQnlhV29tVFBaazhYVTllYmFOcU9nZHN1ZExXMmlEVE1fNEdXak1Ha3JoNHVIdkVJVktCUXFYYW1CRW9jZ2pHdWJqejI2bFh3MkdJVg?oc=5",
       "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT",
       "source": "GoogleNews 雪印メグミルク",
