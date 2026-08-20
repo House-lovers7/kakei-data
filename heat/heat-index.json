@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T22:00:30.275Z",
+  "generatedAt": "2026-08-20T22:00:36.249Z",
   "season": {
     "declaredFrom": "2026-04-22",
     "declaredTo": "2026-10-21",
@@ -11,14 +11,14 @@
       "name": "環境省熱中症予防情報サイト",
       "url": "https://www.wbgt.env.go.jp/",
       "attribution": "『環境省熱中症予防情報サイト』からの提供情報（出典：環境省）",
-      "fetchedAt": "2026-08-19T22:00:30.275Z",
+      "fetchedAt": "2026-08-20T22:00:36.249Z",
       "ok": true
     },
     "temperature": {
       "name": "気象庁",
       "url": "https://www.jma.go.jp/bosai/",
       "attribution": "出典：気象庁",
-      "fetchedAt": "2026-08-19T22:00:30.275Z",
+      "fetchedAt": "2026-08-20T22:00:36.249Z",
       "ok": true
     }
   },
@@ -33,23 +33,23 @@
       "pointCount": 13,
       "days": [
         {
-          "date": "2026-08-20",
-          "wbgtMax": 31,
-          "wbgtMaxHour": 12,
-          "tempMax": 33,
-          "tempMin": null
-        },
-        {
           "date": "2026-08-21",
           "wbgtMax": 30,
           "wbgtMaxHour": 12,
           "tempMax": 32,
-          "tempMin": 24
+          "tempMin": null
         },
         {
           "date": "2026-08-22",
           "wbgtMax": 30,
-          "wbgtMaxHour": 9,
+          "wbgtMaxHour": 12,
+          "tempMax": 34,
+          "tempMin": 24
+        },
+        {
+          "date": "2026-08-23",
+          "wbgtMax": 30,
+          "wbgtMaxHour": 15,
           "tempMax": 34,
           "tempMin": 24
         }
@@ -65,25 +65,25 @@
       "pointCount": 8,
       "days": [
         {
-          "date": "2026-08-20",
+          "date": "2026-08-21",
           "wbgtMax": 30,
           "wbgtMaxHour": 12,
-          "tempMax": 34,
+          "tempMax": 32,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
+          "date": "2026-08-22",
           "wbgtMax": 31,
           "wbgtMaxHour": 12,
-          "tempMax": 33,
-          "tempMin": 25
-        },
-        {
-          "date": "2026-08-22",
-          "wbgtMax": 29,
-          "wbgtMaxHour": 9,
           "tempMax": 34,
           "tempMin": 24
+        },
+        {
+          "date": "2026-08-23",
+          "wbgtMax": 30,
+          "wbgtMaxHour": 15,
+          "tempMax": 34,
+          "tempMin": 25
         }
       ]
     },
@@ -97,22 +97,22 @@
       "pointCount": 14,
       "days": [
         {
-          "date": "2026-08-20",
-          "wbgtMax": 30,
-          "wbgtMaxHour": 12,
-          "tempMax": 32,
-          "tempMin": null
-        },
-        {
           "date": "2026-08-21",
           "wbgtMax": 30,
           "wbgtMaxHour": 12,
           "tempMax": 31,
-          "tempMin": 25
+          "tempMin": null
         },
         {
           "date": "2026-08-22",
-          "wbgtMax": 29,
+          "wbgtMax": 30,
+          "wbgtMaxHour": 12,
+          "tempMax": 32,
+          "tempMin": 26
+        },
+        {
+          "date": "2026-08-23",
+          "wbgtMax": 28,
           "wbgtMaxHour": 15,
           "tempMax": 30,
           "tempMin": 24
@@ -129,18 +129,11 @@
       "pointCount": 11,
       "days": [
         {
-          "date": "2026-08-20",
-          "wbgtMax": 29,
-          "wbgtMaxHour": 12,
-          "tempMax": 33,
-          "tempMin": null
-        },
-        {
           "date": "2026-08-21",
           "wbgtMax": 30,
-          "wbgtMaxHour": 15,
+          "wbgtMaxHour": 12,
           "tempMax": 32,
-          "tempMin": 24
+          "tempMin": null
         },
         {
           "date": "2026-08-22",
@@ -148,6 +141,13 @@
           "wbgtMaxHour": 12,
           "tempMax": 33,
           "tempMin": 24
+        },
+        {
+          "date": "2026-08-23",
+          "wbgtMax": 28,
+          "wbgtMaxHour": 15,
+          "tempMax": 33,
+          "tempMin": 25
         }
       ]
     },
@@ -161,25 +161,25 @@
       "pointCount": 5,
       "days": [
         {
-          "date": "2026-08-20",
+          "date": "2026-08-21",
           "wbgtMax": 30,
-          "wbgtMaxHour": 15,
+          "wbgtMaxHour": 12,
           "tempMax": 33,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
-          "wbgtMax": 31,
-          "wbgtMaxHour": 15,
-          "tempMax": 33,
-          "tempMin": 24
-        },
-        {
           "date": "2026-08-22",
-          "wbgtMax": 30,
-          "wbgtMaxHour": 15,
+          "wbgtMax": 31,
+          "wbgtMaxHour": 12,
           "tempMax": 33,
           "tempMin": 25
+        },
+        {
+          "date": "2026-08-23",
+          "wbgtMax": 28,
+          "wbgtMaxHour": 15,
+          "tempMax": 33,
+          "tempMin": 26
         }
       ]
     },
@@ -193,24 +193,24 @@
       "pointCount": 27,
       "days": [
         {
-          "date": "2026-08-20",
-          "wbgtMax": 30,
-          "wbgtMaxHour": 15,
-          "tempMax": 32,
+          "date": "2026-08-21",
+          "wbgtMax": 28,
+          "wbgtMaxHour": 18,
+          "tempMax": 30,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
-          "wbgtMax": 27,
+          "date": "2026-08-22",
+          "wbgtMax": 28,
           "wbgtMaxHour": 15,
           "tempMax": 30,
-          "tempMin": 25
+          "tempMin": 24
         },
         {
-          "date": "2026-08-22",
-          "wbgtMax": 29,
+          "date": "2026-08-23",
+          "wbgtMax": 30,
           "wbgtMaxHour": 9,
-          "tempMax": 30,
+          "tempMax": 31,
           "tempMin": 24
         }
       ]
@@ -225,24 +225,24 @@
       "pointCount": 9,
       "days": [
         {
-          "date": "2026-08-20",
-          "wbgtMax": 31,
-          "wbgtMaxHour": 12,
-          "tempMax": 32,
-          "tempMin": null
-        },
-        {
           "date": "2026-08-21",
           "wbgtMax": 30,
           "wbgtMaxHour": 15,
           "tempMax": 31,
-          "tempMin": 24
+          "tempMin": null
         },
         {
           "date": "2026-08-22",
           "wbgtMax": 30,
           "wbgtMaxHour": 12,
-          "tempMax": 32,
+          "tempMax": 31,
+          "tempMin": 24
+        },
+        {
+          "date": "2026-08-23",
+          "wbgtMax": 31,
+          "wbgtMaxHour": 12,
+          "tempMax": 34,
           "tempMin": 24
         }
       ]
@@ -257,24 +257,24 @@
       "pointCount": 10,
       "days": [
         {
-          "date": "2026-08-20",
+          "date": "2026-08-21",
           "wbgtMax": 31,
           "wbgtMaxHour": 12,
           "tempMax": 32,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
+          "date": "2026-08-22",
           "wbgtMax": 30,
-          "wbgtMaxHour": 12,
-          "tempMax": 31,
+          "wbgtMaxHour": 15,
+          "tempMax": 32,
           "tempMin": 25
         },
         {
-          "date": "2026-08-22",
-          "wbgtMax": 30,
+          "date": "2026-08-23",
+          "wbgtMax": 31,
           "wbgtMaxHour": 12,
-          "tempMax": 32,
+          "tempMax": 33,
           "tempMin": 25
         }
       ]
@@ -289,24 +289,24 @@
       "pointCount": 9,
       "days": [
         {
-          "date": "2026-08-20",
+          "date": "2026-08-21",
           "wbgtMax": 31,
-          "wbgtMaxHour": 12,
-          "tempMax": 35,
+          "wbgtMaxHour": 15,
+          "tempMax": 33,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
-          "wbgtMax": 32,
-          "wbgtMaxHour": 15,
-          "tempMax": 33,
-          "tempMin": 24
-        },
-        {
           "date": "2026-08-22",
-          "wbgtMax": 31,
+          "wbgtMax": 32,
           "wbgtMaxHour": 12,
           "tempMax": 33,
+          "tempMin": 25
+        },
+        {
+          "date": "2026-08-23",
+          "wbgtMax": 32,
+          "wbgtMaxHour": 15,
+          "tempMax": 35,
           "tempMin": 25
         }
       ]
@@ -321,25 +321,25 @@
       "pointCount": 10,
       "days": [
         {
-          "date": "2026-08-20",
-          "wbgtMax": 29,
-          "wbgtMaxHour": 12,
+          "date": "2026-08-21",
+          "wbgtMax": 30,
+          "wbgtMaxHour": 15,
           "tempMax": 33,
           "tempMin": null
-        },
-        {
-          "date": "2026-08-21",
-          "wbgtMax": 31,
-          "wbgtMaxHour": 12,
-          "tempMax": 34,
-          "tempMin": 23
         },
         {
           "date": "2026-08-22",
           "wbgtMax": 30,
           "wbgtMaxHour": 12,
           "tempMax": 35,
-          "tempMin": 23
+          "tempMin": 24
+        },
+        {
+          "date": "2026-08-23",
+          "wbgtMax": 31,
+          "wbgtMaxHour": 12,
+          "tempMax": 35,
+          "tempMin": 24
         }
       ]
     },
@@ -353,24 +353,24 @@
       "pointCount": 29,
       "days": [
         {
-          "date": "2026-08-20",
-          "wbgtMax": 29,
-          "wbgtMaxHour": 12,
-          "tempMax": 33,
-          "tempMin": null
-        },
-        {
           "date": "2026-08-21",
-          "wbgtMax": 29,
-          "wbgtMaxHour": 15,
-          "tempMax": 30,
-          "tempMin": 23
+          "wbgtMax": 27,
+          "wbgtMaxHour": 12,
+          "tempMax": 31,
+          "tempMin": null
         },
         {
           "date": "2026-08-22",
           "wbgtMax": 29,
           "wbgtMaxHour": 12,
-          "tempMax": 33,
+          "tempMax": 31,
+          "tempMin": 23
+        },
+        {
+          "date": "2026-08-23",
+          "wbgtMax": 30,
+          "wbgtMaxHour": 12,
+          "tempMax": 34,
           "tempMin": 22
         }
       ]
@@ -385,25 +385,25 @@
       "pointCount": 23,
       "days": [
         {
-          "date": "2026-08-20",
-          "wbgtMax": 31,
-          "wbgtMaxHour": 15,
-          "tempMax": 35,
-          "tempMin": null
-        },
-        {
           "date": "2026-08-21",
-          "wbgtMax": 31,
-          "wbgtMaxHour": 15,
+          "wbgtMax": 30,
+          "wbgtMaxHour": 12,
           "tempMax": 34,
-          "tempMin": 26
+          "tempMin": null
         },
         {
           "date": "2026-08-22",
           "wbgtMax": 31,
-          "wbgtMaxHour": 15,
-          "tempMax": 36,
-          "tempMin": 26
+          "wbgtMaxHour": 12,
+          "tempMax": 35,
+          "tempMin": 27
+        },
+        {
+          "date": "2026-08-23",
+          "wbgtMax": 31,
+          "wbgtMaxHour": 9,
+          "tempMax": 37,
+          "tempMin": 27
         }
       ]
     },
@@ -417,24 +417,24 @@
       "pointCount": 17,
       "days": [
         {
-          "date": "2026-08-20",
+          "date": "2026-08-21",
           "wbgtMax": 30,
           "wbgtMaxHour": 12,
           "tempMax": 31,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
+          "date": "2026-08-22",
           "wbgtMax": 31,
           "wbgtMaxHour": 15,
-          "tempMax": 31,
-          "tempMin": 25
+          "tempMax": 32,
+          "tempMin": 26
         },
         {
-          "date": "2026-08-22",
+          "date": "2026-08-23",
           "wbgtMax": 30,
           "wbgtMaxHour": 15,
-          "tempMax": 32,
+          "tempMax": 31,
           "tempMin": 25
         }
       ]
@@ -449,22 +449,22 @@
       "pointCount": 11,
       "days": [
         {
-          "date": "2026-08-20",
-          "wbgtMax": 31,
+          "date": "2026-08-21",
+          "wbgtMax": 32,
           "wbgtMaxHour": 15,
           "tempMax": 34,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
-          "wbgtMax": 32,
+          "date": "2026-08-22",
+          "wbgtMax": 33,
           "wbgtMaxHour": 15,
-          "tempMax": 35,
-          "tempMin": 25
+          "tempMax": 36,
+          "tempMin": 26
         },
         {
-          "date": "2026-08-22",
-          "wbgtMax": 31,
+          "date": "2026-08-23",
+          "wbgtMax": 32,
           "wbgtMaxHour": 15,
           "tempMax": 36,
           "tempMin": 26
@@ -481,24 +481,24 @@
       "pointCount": 12,
       "days": [
         {
-          "date": "2026-08-20",
-          "wbgtMax": 29,
-          "wbgtMaxHour": 12,
+          "date": "2026-08-21",
+          "wbgtMax": 30,
+          "wbgtMaxHour": 15,
           "tempMax": 31,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
-          "wbgtMax": 30,
-          "wbgtMaxHour": 12,
+          "date": "2026-08-22",
+          "wbgtMax": 31,
+          "wbgtMaxHour": 15,
           "tempMax": 32,
           "tempMin": 25
         },
         {
-          "date": "2026-08-22",
+          "date": "2026-08-23",
           "wbgtMax": 30,
           "wbgtMaxHour": 12,
-          "tempMax": 34,
+          "tempMax": 33,
           "tempMin": 26
         }
       ]
@@ -513,25 +513,25 @@
       "pointCount": 9,
       "days": [
         {
-          "date": "2026-08-20",
+          "date": "2026-08-21",
           "wbgtMax": 31,
-          "wbgtMaxHour": 15,
-          "tempMax": 34,
+          "wbgtMaxHour": 12,
+          "tempMax": 33,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
-          "wbgtMax": 32,
+          "date": "2026-08-22",
+          "wbgtMax": 33,
           "wbgtMaxHour": 15,
           "tempMax": 34,
           "tempMin": 25
         },
         {
-          "date": "2026-08-22",
+          "date": "2026-08-23",
           "wbgtMax": 31,
-          "wbgtMaxHour": 15,
-          "tempMax": 34,
-          "tempMin": 25
+          "wbgtMaxHour": 9,
+          "tempMax": 35,
+          "tempMin": 26
         }
       ]
     },
@@ -545,24 +545,24 @@
       "pointCount": 8,
       "days": [
         {
-          "date": "2026-08-20",
-          "wbgtMax": 31,
-          "wbgtMaxHour": 12,
-          "tempMax": 36,
-          "tempMin": null
-        },
-        {
           "date": "2026-08-21",
           "wbgtMax": 32,
           "wbgtMaxHour": 15,
           "tempMax": 35,
-          "tempMin": 26
+          "tempMin": null
         },
         {
           "date": "2026-08-22",
-          "wbgtMax": 31,
-          "wbgtMaxHour": 15,
+          "wbgtMax": 32,
+          "wbgtMaxHour": 12,
           "tempMax": 36,
+          "tempMin": 26
+        },
+        {
+          "date": "2026-08-23",
+          "wbgtMax": 31,
+          "wbgtMaxHour": 12,
+          "tempMax": 38,
           "tempMin": 26
         }
       ]
@@ -577,24 +577,24 @@
       "pointCount": 6,
       "days": [
         {
-          "date": "2026-08-20",
+          "date": "2026-08-21",
           "wbgtMax": 32,
           "wbgtMaxHour": 15,
           "tempMax": 35,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
+          "date": "2026-08-22",
           "wbgtMax": 33,
           "wbgtMaxHour": 15,
           "tempMax": 35,
           "tempMin": 27
         },
         {
-          "date": "2026-08-22",
-          "wbgtMax": 30,
+          "date": "2026-08-23",
+          "wbgtMax": 31,
           "wbgtMaxHour": 12,
-          "tempMax": 35,
+          "tempMax": 36,
           "tempMin": 27
         }
       ]
@@ -609,25 +609,25 @@
       "pointCount": 19,
       "days": [
         {
-          "date": "2026-08-20",
-          "wbgtMax": 32,
+          "date": "2026-08-21",
+          "wbgtMax": 33,
           "wbgtMaxHour": 15,
           "tempMax": 34,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
+          "date": "2026-08-22",
           "wbgtMax": 32,
           "wbgtMaxHour": 15,
           "tempMax": 34,
           "tempMin": 27
         },
         {
-          "date": "2026-08-22",
-          "wbgtMax": 31,
-          "wbgtMaxHour": 15,
+          "date": "2026-08-23",
+          "wbgtMax": 30,
+          "wbgtMaxHour": 9,
           "tempMax": 34,
-          "tempMin": 27
+          "tempMin": 28
         }
       ]
     },
@@ -641,24 +641,24 @@
       "pointCount": 6,
       "days": [
         {
-          "date": "2026-08-20",
-          "wbgtMax": 33,
+          "date": "2026-08-21",
+          "wbgtMax": 32,
           "wbgtMaxHour": 15,
           "tempMax": 36,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
-          "wbgtMax": 33,
+          "date": "2026-08-22",
+          "wbgtMax": 34,
           "wbgtMaxHour": 15,
-          "tempMax": 36,
+          "tempMax": 37,
           "tempMin": 25
         },
         {
-          "date": "2026-08-22",
+          "date": "2026-08-23",
           "wbgtMax": 31,
           "wbgtMaxHour": 15,
-          "tempMax": 35,
+          "tempMax": 36,
           "tempMin": 25
         }
       ]
@@ -673,22 +673,22 @@
       "pointCount": 11,
       "days": [
         {
-          "date": "2026-08-20",
+          "date": "2026-08-21",
           "wbgtMax": 30,
           "wbgtMaxHour": 12,
-          "tempMax": 32,
+          "tempMax": 33,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
-          "wbgtMax": 30,
+          "date": "2026-08-22",
+          "wbgtMax": 31,
           "wbgtMaxHour": 15,
-          "tempMax": 32,
+          "tempMax": 33,
           "tempMin": 25
         },
         {
-          "date": "2026-08-22",
-          "wbgtMax": 29,
+          "date": "2026-08-23",
+          "wbgtMax": 30,
           "wbgtMaxHour": 12,
           "tempMax": 33,
           "tempMin": 26
@@ -705,25 +705,25 @@
       "pointCount": 9,
       "days": [
         {
-          "date": "2026-08-20",
-          "wbgtMax": 33,
-          "wbgtMaxHour": 12,
+          "date": "2026-08-21",
+          "wbgtMax": 34,
+          "wbgtMaxHour": 15,
           "tempMax": 35,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
-          "wbgtMax": 34,
+          "date": "2026-08-22",
+          "wbgtMax": 33,
           "wbgtMaxHour": 12,
           "tempMax": 35,
-          "tempMin": 25
+          "tempMin": 24
         },
         {
-          "date": "2026-08-22",
+          "date": "2026-08-23",
           "wbgtMax": 34,
           "wbgtMaxHour": 15,
-          "tempMax": 35,
-          "tempMin": 24
+          "tempMax": 36,
+          "tempMin": 25
         }
       ]
     },
@@ -737,24 +737,24 @@
       "pointCount": 16,
       "days": [
         {
-          "date": "2026-08-20",
+          "date": "2026-08-21",
           "wbgtMax": 33,
           "wbgtMaxHour": 12,
           "tempMax": 35,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
-          "wbgtMax": 32,
+          "date": "2026-08-22",
+          "wbgtMax": 33,
           "wbgtMaxHour": 12,
           "tempMax": 34,
-          "tempMin": 24
+          "tempMin": 25
         },
         {
-          "date": "2026-08-22",
+          "date": "2026-08-23",
           "wbgtMax": 32,
           "wbgtMaxHour": 12,
-          "tempMax": 34,
+          "tempMax": 35,
           "tempMin": 25
         }
       ]
@@ -769,24 +769,24 @@
       "pointCount": 15,
       "days": [
         {
-          "date": "2026-08-20",
-          "wbgtMax": 32,
-          "wbgtMaxHour": 12,
-          "tempMax": 35,
+          "date": "2026-08-21",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 15,
+          "tempMax": 36,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
-          "wbgtMax": 32,
+          "date": "2026-08-22",
+          "wbgtMax": 33,
           "wbgtMaxHour": 15,
-          "tempMax": 35,
-          "tempMin": 26
+          "tempMax": 36,
+          "tempMin": 25
         },
         {
-          "date": "2026-08-22",
-          "wbgtMax": 31,
-          "wbgtMaxHour": 15,
-          "tempMax": 34,
+          "date": "2026-08-23",
+          "wbgtMax": 30,
+          "wbgtMaxHour": 12,
+          "tempMax": 36,
           "tempMin": 26
         }
       ]
@@ -801,24 +801,24 @@
       "pointCount": 18,
       "days": [
         {
-          "date": "2026-08-20",
-          "wbgtMax": 31,
+          "date": "2026-08-21",
+          "wbgtMax": 32,
           "wbgtMaxHour": 12,
           "tempMax": 35,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
-          "wbgtMax": 32,
-          "wbgtMaxHour": 12,
-          "tempMax": 35,
+          "date": "2026-08-22",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 15,
+          "tempMax": 36,
           "tempMin": 26
         },
         {
-          "date": "2026-08-22",
+          "date": "2026-08-23",
           "wbgtMax": 30,
           "wbgtMaxHour": 15,
-          "tempMax": 34,
+          "tempMax": 35,
           "tempMin": 27
         }
       ]
@@ -833,21 +833,21 @@
       "pointCount": 15,
       "days": [
         {
-          "date": "2026-08-20",
-          "wbgtMax": 32,
+          "date": "2026-08-21",
+          "wbgtMax": 33,
           "wbgtMaxHour": 15,
           "tempMax": 35,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
-          "wbgtMax": 32,
+          "date": "2026-08-22",
+          "wbgtMax": 33,
           "wbgtMaxHour": 15,
-          "tempMax": 35,
-          "tempMin": 27
+          "tempMax": 36,
+          "tempMin": 26
         },
         {
-          "date": "2026-08-22",
+          "date": "2026-08-23",
           "wbgtMax": 31,
           "wbgtMaxHour": 15,
           "tempMax": 33,
@@ -865,23 +865,23 @@
       "pointCount": 8,
       "days": [
         {
-          "date": "2026-08-20",
+          "date": "2026-08-21",
           "wbgtMax": 33,
           "wbgtMaxHour": 15,
           "tempMax": 34,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
-          "wbgtMax": 32,
+          "date": "2026-08-22",
+          "wbgtMax": 33,
           "wbgtMaxHour": 15,
-          "tempMax": 34,
+          "tempMax": 35,
           "tempMin": 25
         },
         {
-          "date": "2026-08-22",
-          "wbgtMax": 30,
-          "wbgtMaxHour": 9,
+          "date": "2026-08-23",
+          "wbgtMax": 31,
+          "wbgtMaxHour": 15,
           "tempMax": 34,
           "tempMin": 26
         }
@@ -897,24 +897,24 @@
       "pointCount": 6,
       "days": [
         {
-          "date": "2026-08-20",
-          "wbgtMax": 32,
-          "wbgtMaxHour": 15,
-          "tempMax": 35,
-          "tempMin": null
-        },
-        {
           "date": "2026-08-21",
           "wbgtMax": 33,
           "wbgtMaxHour": 15,
-          "tempMax": 35,
-          "tempMin": 26
+          "tempMax": 36,
+          "tempMin": null
         },
         {
           "date": "2026-08-22",
-          "wbgtMax": 31,
+          "wbgtMax": 33,
           "wbgtMaxHour": 15,
-          "tempMax": 35,
+          "tempMax": 36,
+          "tempMin": 26
+        },
+        {
+          "date": "2026-08-23",
+          "wbgtMax": 32,
+          "wbgtMaxHour": 15,
+          "tempMax": 36,
           "tempMin": 27
         }
       ]
@@ -929,22 +929,22 @@
       "pointCount": 14,
       "days": [
         {
-          "date": "2026-08-20",
-          "wbgtMax": 32,
+          "date": "2026-08-21",
+          "wbgtMax": 33,
           "wbgtMaxHour": 12,
           "tempMax": 35,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
-          "wbgtMax": 33,
+          "date": "2026-08-22",
+          "wbgtMax": 34,
           "wbgtMaxHour": 15,
-          "tempMax": 35,
+          "tempMax": 34,
           "tempMin": 25
         },
         {
-          "date": "2026-08-22",
-          "wbgtMax": 31,
+          "date": "2026-08-23",
+          "wbgtMax": 33,
           "wbgtMaxHour": 12,
           "tempMax": 34,
           "tempMin": 25
@@ -961,21 +961,21 @@
       "pointCount": 15,
       "days": [
         {
-          "date": "2026-08-20",
+          "date": "2026-08-21",
           "wbgtMax": 32,
           "wbgtMaxHour": 12,
           "tempMax": 33,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
+          "date": "2026-08-22",
           "wbgtMax": 32,
           "wbgtMaxHour": 12,
           "tempMax": 33,
           "tempMin": 25
         },
         {
-          "date": "2026-08-22",
+          "date": "2026-08-23",
           "wbgtMax": 30,
           "wbgtMaxHour": 12,
           "tempMax": 33,
@@ -993,22 +993,22 @@
       "pointCount": 12,
       "days": [
         {
-          "date": "2026-08-20",
-          "wbgtMax": 34,
+          "date": "2026-08-21",
+          "wbgtMax": 36,
           "wbgtMaxHour": 12,
           "tempMax": 35,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
-          "wbgtMax": 35,
+          "date": "2026-08-22",
+          "wbgtMax": 36,
           "wbgtMaxHour": 15,
-          "tempMax": 35,
+          "tempMax": 36,
           "tempMin": 28
         },
         {
-          "date": "2026-08-22",
-          "wbgtMax": 32,
+          "date": "2026-08-23",
+          "wbgtMax": 33,
           "wbgtMaxHour": 15,
           "tempMax": 34,
           "tempMin": 27
@@ -1025,24 +1025,24 @@
       "pointCount": 5,
       "days": [
         {
-          "date": "2026-08-20",
+          "date": "2026-08-21",
           "wbgtMax": 34,
           "wbgtMaxHour": 15,
-          "tempMax": 36,
+          "tempMax": 37,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
+          "date": "2026-08-22",
           "wbgtMax": 33,
           "wbgtMaxHour": 12,
           "tempMax": 38,
           "tempMin": 27
         },
         {
-          "date": "2026-08-22",
-          "wbgtMax": 32,
+          "date": "2026-08-23",
+          "wbgtMax": 33,
           "wbgtMaxHour": 15,
-          "tempMax": 35,
+          "tempMax": 36,
           "tempMin": 26
         }
       ]
@@ -1057,22 +1057,22 @@
       "pointCount": 14,
       "days": [
         {
-          "date": "2026-08-20",
+          "date": "2026-08-21",
           "wbgtMax": 34,
           "wbgtMaxHour": 12,
-          "tempMax": 35,
+          "tempMax": 36,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
-          "wbgtMax": 34,
+          "date": "2026-08-22",
+          "wbgtMax": 32,
           "wbgtMaxHour": 15,
           "tempMax": 35,
           "tempMin": 26
         },
         {
-          "date": "2026-08-22",
-          "wbgtMax": 32,
+          "date": "2026-08-23",
+          "wbgtMax": 31,
           "wbgtMaxHour": 12,
           "tempMax": 33,
           "tempMin": 26
@@ -1089,24 +1089,24 @@
       "pointCount": 17,
       "days": [
         {
-          "date": "2026-08-20",
-          "wbgtMax": 34,
-          "wbgtMaxHour": 15,
-          "tempMax": 37,
-          "tempMin": null
-        },
-        {
           "date": "2026-08-21",
           "wbgtMax": 34,
           "wbgtMaxHour": 12,
           "tempMax": 37,
-          "tempMin": 27
+          "tempMin": null
         },
         {
           "date": "2026-08-22",
+          "wbgtMax": 33,
+          "wbgtMaxHour": 12,
+          "tempMax": 37,
+          "tempMin": 26
+        },
+        {
+          "date": "2026-08-23",
           "wbgtMax": 32,
           "wbgtMaxHour": 15,
-          "tempMax": 35,
+          "tempMax": 36,
           "tempMin": 26
         }
       ]
@@ -1121,22 +1121,22 @@
       "pointCount": 14,
       "days": [
         {
-          "date": "2026-08-20",
-          "wbgtMax": 32,
+          "date": "2026-08-21",
+          "wbgtMax": 34,
           "wbgtMaxHour": 15,
-          "tempMax": 34,
+          "tempMax": 36,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
-          "wbgtMax": 33,
+          "date": "2026-08-22",
+          "wbgtMax": 34,
           "wbgtMaxHour": 15,
-          "tempMax": 35,
+          "tempMax": 36,
           "tempMin": 26
         },
         {
-          "date": "2026-08-22",
-          "wbgtMax": 33,
+          "date": "2026-08-23",
+          "wbgtMax": 32,
           "wbgtMaxHour": 15,
           "tempMax": 35,
           "tempMin": 26
@@ -1153,21 +1153,21 @@
       "pointCount": 16,
       "days": [
         {
-          "date": "2026-08-20",
-          "wbgtMax": 33,
+          "date": "2026-08-21",
+          "wbgtMax": 32,
           "wbgtMaxHour": 15,
           "tempMax": 32,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
+          "date": "2026-08-22",
           "wbgtMax": 32,
           "wbgtMaxHour": 15,
           "tempMax": 32,
           "tempMin": 25
         },
         {
-          "date": "2026-08-22",
+          "date": "2026-08-23",
           "wbgtMax": 30,
           "wbgtMaxHour": 15,
           "tempMax": 32,
@@ -1185,25 +1185,25 @@
       "pointCount": 27,
       "days": [
         {
-          "date": "2026-08-20",
+          "date": "2026-08-21",
           "wbgtMax": 34,
           "wbgtMaxHour": 15,
           "tempMax": 34,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
+          "date": "2026-08-22",
           "wbgtMax": 34,
           "wbgtMaxHour": 15,
-          "tempMax": 33,
+          "tempMax": 34,
           "tempMin": 27
         },
         {
-          "date": "2026-08-22",
+          "date": "2026-08-23",
           "wbgtMax": 31,
           "wbgtMaxHour": 15,
-          "tempMax": 33,
-          "tempMin": 27
+          "tempMax": 32,
+          "tempMin": 26
         }
       ]
     },
@@ -1217,24 +1217,24 @@
       "pointCount": 16,
       "days": [
         {
-          "date": "2026-08-20",
-          "wbgtMax": 31,
-          "wbgtMaxHour": 15,
-          "tempMax": 30,
-          "tempMin": null
-        },
-        {
           "date": "2026-08-21",
-          "wbgtMax": 29,
+          "wbgtMax": 30,
           "wbgtMaxHour": 12,
           "tempMax": 30,
-          "tempMin": 26
+          "tempMin": null
         },
         {
           "date": "2026-08-22",
           "wbgtMax": 30,
           "wbgtMaxHour": 12,
           "tempMax": 30,
+          "tempMin": 26
+        },
+        {
+          "date": "2026-08-23",
+          "wbgtMax": 30,
+          "wbgtMaxHour": 12,
+          "tempMax": 31,
           "tempMin": 27
         }
       ]
@@ -1249,21 +1249,21 @@
       "pointCount": 163,
       "days": [
         {
-          "date": "2026-08-20",
-          "wbgtMax": 29,
+          "date": "2026-08-21",
+          "wbgtMax": 26,
           "wbgtMaxHour": 12,
-          "tempMax": 29,
+          "tempMax": 30,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
+          "date": "2026-08-22",
           "wbgtMax": 26,
-          "wbgtMaxHour": 15,
+          "wbgtMaxHour": 12,
           "tempMax": 30,
-          "tempMin": 21
+          "tempMin": 20
         },
         {
-          "date": "2026-08-22",
+          "date": "2026-08-23",
           "wbgtMax": 27,
           "wbgtMaxHour": 12,
           "tempMax": 29,
@@ -1281,24 +1281,24 @@
       "pointCount": 22,
       "days": [
         {
-          "date": "2026-08-20",
-          "wbgtMax": 30,
+          "date": "2026-08-21",
+          "wbgtMax": 27,
           "wbgtMaxHour": 12,
-          "tempMax": 32,
+          "tempMax": 30,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
+          "date": "2026-08-22",
           "wbgtMax": 29,
           "wbgtMaxHour": 12,
-          "tempMax": 30,
-          "tempMin": 23
+          "tempMax": 29,
+          "tempMin": 22
         },
         {
-          "date": "2026-08-22",
-          "wbgtMax": 27,
+          "date": "2026-08-23",
+          "wbgtMax": 28,
           "wbgtMaxHour": 15,
-          "tempMax": 29,
+          "tempMax": 30,
           "tempMin": 22
         }
       ]
@@ -1313,25 +1313,25 @@
       "pointCount": 33,
       "days": [
         {
-          "date": "2026-08-20",
-          "wbgtMax": 30,
+          "date": "2026-08-21",
+          "wbgtMax": 28,
           "wbgtMaxHour": 12,
-          "tempMax": 33,
+          "tempMax": 32,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
-          "wbgtMax": 28,
+          "date": "2026-08-22",
+          "wbgtMax": 27,
           "wbgtMaxHour": 12,
           "tempMax": 32,
           "tempMin": 22
         },
         {
-          "date": "2026-08-22",
+          "date": "2026-08-23",
           "wbgtMax": 28,
           "wbgtMaxHour": 12,
           "tempMax": 31,
-          "tempMin": 21
+          "tempMin": 22
         }
       ]
     },
@@ -1345,24 +1345,24 @@
       "pointCount": 18,
       "days": [
         {
-          "date": "2026-08-20",
-          "wbgtMax": 30,
-          "wbgtMaxHour": 12,
-          "tempMax": 30,
+          "date": "2026-08-21",
+          "wbgtMax": 28,
+          "wbgtMaxHour": 9,
+          "tempMax": 29,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
+          "date": "2026-08-22",
           "wbgtMax": 28,
           "wbgtMaxHour": 12,
           "tempMax": 29,
-          "tempMin": 24
+          "tempMin": 23
         },
         {
-          "date": "2026-08-22",
+          "date": "2026-08-23",
           "wbgtMax": 29,
           "wbgtMaxHour": 12,
-          "tempMax": 30,
+          "tempMax": 29,
           "tempMin": 23
         }
       ]
@@ -1377,23 +1377,23 @@
       "pointCount": 24,
       "days": [
         {
-          "date": "2026-08-20",
+          "date": "2026-08-21",
           "wbgtMax": 30,
           "wbgtMaxHour": 12,
-          "tempMax": 31,
+          "tempMax": 32,
           "tempMin": null
-        },
-        {
-          "date": "2026-08-21",
-          "wbgtMax": 29,
-          "wbgtMaxHour": 12,
-          "tempMax": 31,
-          "tempMin": 23
         },
         {
           "date": "2026-08-22",
           "wbgtMax": 29,
-          "wbgtMaxHour": 9,
+          "wbgtMaxHour": 12,
+          "tempMax": 31,
+          "tempMin": 22
+        },
+        {
+          "date": "2026-08-23",
+          "wbgtMax": 28,
+          "wbgtMaxHour": 12,
           "tempMax": 30,
           "tempMin": 22
         }
@@ -1409,22 +1409,22 @@
       "pointCount": 20,
       "days": [
         {
-          "date": "2026-08-20",
-          "wbgtMax": 29,
+          "date": "2026-08-21",
+          "wbgtMax": 26,
           "wbgtMaxHour": 12,
-          "tempMax": 32,
+          "tempMax": 30,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
+          "date": "2026-08-22",
           "wbgtMax": 27,
           "wbgtMaxHour": 12,
-          "tempMax": 30,
-          "tempMin": 23
+          "tempMax": 31,
+          "tempMin": 22
         },
         {
-          "date": "2026-08-22",
-          "wbgtMax": 28,
+          "date": "2026-08-23",
+          "wbgtMax": 29,
           "wbgtMaxHour": 12,
           "tempMax": 31,
           "tempMin": 22
@@ -1441,22 +1441,22 @@
       "pointCount": 29,
       "days": [
         {
-          "date": "2026-08-20",
-          "wbgtMax": 29,
-          "wbgtMaxHour": 12,
-          "tempMax": 32,
-          "tempMin": null
-        },
-        {
           "date": "2026-08-21",
-          "wbgtMax": 29,
+          "wbgtMax": 28,
           "wbgtMaxHour": 12,
-          "tempMax": 29,
-          "tempMin": 24
+          "tempMax": 30,
+          "tempMin": null
         },
         {
           "date": "2026-08-22",
           "wbgtMax": 28,
+          "wbgtMaxHour": 12,
+          "tempMax": 30,
+          "tempMin": 23
+        },
+        {
+          "date": "2026-08-23",
+          "wbgtMax": 29,
           "wbgtMaxHour": 12,
           "tempMax": 31,
           "tempMin": 23
@@ -1473,24 +1473,24 @@
       "pointCount": 14,
       "days": [
         {
-          "date": "2026-08-20",
-          "wbgtMax": 30,
-          "wbgtMaxHour": 12,
-          "tempMax": 31,
+          "date": "2026-08-21",
+          "wbgtMax": 29,
+          "wbgtMaxHour": 9,
+          "tempMax": 30,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
+          "date": "2026-08-22",
           "wbgtMax": 29,
-          "wbgtMaxHour": 12,
-          "tempMax": 31,
+          "wbgtMaxHour": 15,
+          "tempMax": 30,
           "tempMin": 24
         },
         {
-          "date": "2026-08-22",
-          "wbgtMax": 30,
+          "date": "2026-08-23",
+          "wbgtMax": 28,
           "wbgtMaxHour": 12,
-          "tempMax": 32,
+          "tempMax": 31,
           "tempMin": 23
         }
       ]
@@ -1505,24 +1505,24 @@
       "pointCount": 14,
       "days": [
         {
-          "date": "2026-08-20",
+          "date": "2026-08-21",
           "wbgtMax": 29,
           "wbgtMaxHour": 12,
-          "tempMax": 32,
+          "tempMax": 30,
           "tempMin": null
         },
         {
-          "date": "2026-08-21",
-          "wbgtMax": 30,
+          "date": "2026-08-22",
+          "wbgtMax": 28,
           "wbgtMaxHour": 12,
-          "tempMax": 31,
-          "tempMin": 24
+          "tempMax": 30,
+          "tempMin": 23
         },
         {
-          "date": "2026-08-22",
+          "date": "2026-08-23",
           "wbgtMax": 29,
           "wbgtMaxHour": 12,
-          "tempMax": 33,
+          "tempMax": 32,
           "tempMin": 23
         }
       ]
