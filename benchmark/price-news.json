@@ -1,16 +1,38 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-08-20T22:00:35.526Z",
+  "fetchedAt": "2026-08-21T22:00:28.719Z",
   "periodDays": 14,
   "totalArticles": 54,
   "categoryBreakdown": {
-    "snack": 7,
-    "beverage": 4,
+    "snack": 6,
+    "beverage": 3,
     "oil": 1,
     "seasoning": 1,
     "dairy": 1
   },
   "articles": [
+    {
+      "title": "明治、「きのこの山」「たけのこの里」など14品の値上げ発表 チョコレート・スナックは11・1出荷分より 約3％～8％ - 福井新聞社",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGdHI3SE04SXhBdk9ueFVHUDkyaVVMS1RJb0RRcnE1UzM5VDJ6M1hmMHh5VndWdGlKVTBuLUF6UktwUzZfWGtydU83aVM0Rzh0MzVTU0Vfc1BGbTdFbzNpMGlYSWJPUQ?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 15:45:11 GMT",
+      "source": "GoogleNews 明治",
+      "categories": [
+        "snack"
+      ],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "7月の消費者物価指数 生鮮食品除き1.8％上昇 上昇率は拡大 ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260821de45440",
+      "pubDate": "Fri, 21 Aug 2026 19:21:44 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
     {
       "title": "ロック・フィールド、冷凍食品を9月から1割値上げ 中東情勢受け - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VVlk3b2d2TU5oYVFlYUZGZzBrTkJkb0xtbFpYX2NSX2FzZ1hrTC1qV1QzS2dmWndJZG1fZzV0cmZJYm1OZWFicGFZUW10QlZaLVlYblliaDA2c0ZVcVpBdll1WS13TFdTR21uNw?oc=5",
@@ -39,18 +61,6 @@
       "categories": [],
       "priceKeywords": [
         "値上がり"
-      ]
-    },
-    {
-      "title": "明治、「きのこの山」「たけのこの里」など14品の値上げ発表 チョコレート・スナックは11・1出荷分より 約3％～8 - 山形新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HQi01aFg3alFtSjBLOEdTcXc5bTItaUJXa3Rkc04yNk94UWpoOGk5VDEtYUhYUndSai1qRlBOMDdJakZEZTFPdkN3R3REcUxNSy1VOUhRSEcycXR0UnRfUEMzWVo?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 05:49:59 GMT",
-      "source": "GoogleNews 明治",
-      "categories": [
-        "snack"
-      ],
-      "priceKeywords": [
-        "値上げ"
       ]
     },
     {
@@ -158,7 +168,7 @@
     },
     {
       "title": "明治「きのこの山」「たけのこの里」など最大8％値上げ 飲料3品は最大21％ - テレ東BIZ",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wYzdyQmJXWm5IVzY4MjNvR01kMXlsTWhxUk1QYkhSVldGTlM2Ql9CWmExODNtNm9XSmItd2h3dlZOVkdQTzItOGVPV1dkYzFFeFBxdXZ6bHJoNWR0aEE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LWXRzRDJYZFFTX3FYd1lXSlRZNC1WWk9ySl9MMUFVUFc1Tm9LcUZBU0pDZ0ZoQ3Qwd2QyeE11SGpva1ZQalptNEJGSzdDR1pOS05aZ2VzUWZjOFBIVUc0M3J3?oc=5",
       "pubDate": "Tue, 18 Aug 2026 13:00:00 GMT",
       "source": "GoogleNews 明治",
       "categories": [
@@ -180,6 +190,16 @@
       ]
     },
     {
+      "title": "明治、「たけのこの里」値上げ - 弘前経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Qd2lvWlpidmdscGpTcGw1ck1vdE13Q1FXT3hGZldQelNFVC10SDBJRlRGdDEyYTRiMU02M1gzdHBiWDJjWk44YThkbDdYcWVsTkZOX29R?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 10:57:44 GMT",
+      "source": "GoogleNews 明治",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
       "title": "長期金利 2.945％に上昇 インフレ加速か 国債売る動き強まる",
       "link": "https://news.web.nhk/newsweb/na/nd-20260818de44679",
       "pubDate": "Tue, 18 Aug 2026 19:05:26 +0900",
@@ -187,16 +207,6 @@
       "categories": [],
       "priceKeywords": [
         "インフレ"
-      ]
-    },
-    {
-      "title": "明治、「たけのこの里」値上げ - 八王子経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VQ0FXZXhCaGhKY3pIR1Y2ZndrMFZDazRidzZPTUJhQXp6UUo4UkU4M20zZW9TNW9TUmR4QXJJTWc0MGRyUm9td0ZJdEpOcU1SVno1RGNR?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 09:26:57 GMT",
-      "source": "GoogleNews 明治",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
       ]
     },
     {
@@ -217,19 +227,6 @@
       "pubDate": "Tue, 18 Aug 2026 18:07:00 +0900",
       "source": "NHK 経済",
       "categories": [
-        "snack"
-      ],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "明治「きのこの山」「たけのこの里」値上げ　チョコレートや飲料計14品 - 日刊スポーツ",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82UUk2cVNtZVFtVWV2RHJJTm9HZHNaUXpBdHRDR2RBNTByQnZ3aXdoRWJwbEFxSGs3Um5YNF9Lajk3WHZzbUUwTmtkdU5LSEtGT2NiU3J1MHloeGFCeXprME9CWXZiTXFUNDVoNkFLQ3JrVkZC0gF3QVVfeXFMTXl6UE5PdWw5ZVJFRER4QWQtVG9GcTIxYzgwMVBHVXhPSzd1X3VyTS1OOGdHUlMxLUQ1NHlRdkNWbnlHSEphalZncVZaSFNSbGNtQXBLb19hM0d3T2E2YUozaUdwbXduUzBoSE5IaURkRWN6TlhXYTA?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 08:47:12 GMT",
-      "source": "GoogleNews 明治",
-      "categories": [
-        "beverage",
         "snack"
       ],
       "priceKeywords": [
@@ -280,9 +277,9 @@
       ]
     },
     {
-      "title": "明治、「きのこの山」など14商品を値上げ コスト高で - ニューズウィーク日本版",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XNml3V3VZS0wyV0xjMUJTYlBoeUFsTjlqc1VITlMtVXRXcUkxT2VBdDZ4azJJV29ObC1pNVJNUHNRWEVnTWlPakw4UThKdkFOVmFzWHRCQVhVQQ?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 06:00:00 GMT",
+      "title": "明治、「きのこの山」など14商品を値上げ コスト高で - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QR3FIR0t3SWVtOGNhWmgxMy1qd2lZajAwM1pYal9PRnZJUGJTLUdvMWFVVEVId0diVnNyYTMxcGpMYXAxRTJZcmpONEI3YVFCeThCb0FqdjJUaE1Da2d4RjJNVjN4WndUb05abVBpRWM3a1Bna3JTZA?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 06:01:00 GMT",
       "source": "GoogleNews 明治",
       "categories": [],
       "priceKeywords": [
@@ -460,9 +457,9 @@
       ]
     },
     {
-      "title": "明治、「きのこの山」「たけのこの里」など14品の値上げ発表 チョコレート・スナックは11・1出荷分より 約3％～8％ (オリコン) - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONS1SYlN2eWxtV0ctbjNmOWFlOGpxZ3RzbzI1Yk80VEdZcm01aHY1RDNnVHkteGhreDJWUXZucnR3WUxERlVuT3FiWjFZVk4yR3drRk9pMDB0N2tvaElEM0Z4RVZ5aEFhYmZlQ1BPemVheHFueUxJNE53SERCcVQ1NDMyazFmaWlTQkNFMUNR?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 02:15:06 GMT",
+      "title": "明治、「きのこの山」「たけのこの里」など14品の値上げ発表 チョコレート・スナックは11・1出荷分より 約3％～8 - オリコンニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CM045bkQ5OWJDWXg3TjlvaFhzWklNeDJtd2x5RGQtaUhRa1djSEMtZTRMMnluUkRqd2RFV3dzRkwzOWdXWEEzTU9GSEVocXJYVWFKck53?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 02:15:00 GMT",
       "source": "GoogleNews 明治",
       "categories": [
         "snack"
