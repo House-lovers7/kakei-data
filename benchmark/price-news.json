@@ -1,28 +1,15 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-08-21T22:00:28.719Z",
+  "fetchedAt": "2026-08-22T22:00:29.073Z",
   "periodDays": 14,
   "totalArticles": 54,
   "categoryBreakdown": {
-    "snack": 6,
-    "beverage": 3,
+    "beverage": 4,
     "oil": 1,
-    "seasoning": 1,
-    "dairy": 1
+    "snack": 7,
+    "seasoning": 1
   },
   "articles": [
-    {
-      "title": "明治、「きのこの山」「たけのこの里」など14品の値上げ発表 チョコレート・スナックは11・1出荷分より 約3％～8％ - 福井新聞社",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGdHI3SE04SXhBdk9ueFVHUDkyaVVMS1RJb0RRcnE1UzM5VDJ6M1hmMHh5VndWdGlKVTBuLUF6UktwUzZfWGtydU83aVM0Rzh0MzVTU0Vfc1BGbTdFbzNpMGlYSWJPUQ?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 15:45:11 GMT",
-      "source": "GoogleNews 明治",
-      "categories": [
-        "snack"
-      ],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
     {
       "title": "7月の消費者物価指数 生鮮食品除き1.8％上昇 上昇率は拡大 ",
       "link": "https://news.web.nhk/newsweb/na/nd-20260821de45440",
@@ -338,6 +325,19 @@
       ]
     },
     {
+      "title": "明治、菓子・飲料14品を値上げへ、包装資材高で10月から - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQS1xcFVkQ1M5QjI2bVRfdW5HRnJFUS1ad21tcS03VHpPYm9yeFpNeWZJRGdIdXE4dy1wYTNZLTRsSmRSSlRKNjU5WEdqUzNwWGdvX2xoRXJYMnRRX2V1NFhMZy1PNVRXYVlUcjdEd1FpSUY2MHJVMlhWY1o2N1lQVDYtX0QzelRfM0RNUHRoZGY0V2tLS0NMb1JXYw?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 05:25:25 GMT",
+      "source": "GoogleNews 包装資材",
+      "categories": [
+        "beverage",
+        "snack"
+      ],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
       "title": "明治が「きのこの山」「たけのこの里」など14品目を値上げ 原材料費やエネルギーなどコスト上昇が要因 - TBS NEWS DIG",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrYkNaQmszYUpydzRkMk14V2hBeUFIQkJ5RjFrOC1pR0dGM0U1QWFKRmZxZDFacUY0alFnbXFmX1ZqdHprSkZ4ajZvMjhZZ1FMM2pvMlZBOA?oc=5",
       "pubDate": "Tue, 18 Aug 2026 05:12:40 GMT",
@@ -457,6 +457,18 @@
       ]
     },
     {
+      "title": "明治、「きのこの山」「たけのこの里」など14品の値上げ発表 チョコレート・スナックは11・1出荷分より 約3％～8％ (オリコン) - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONS1SYlN2eWxtV0ctbjNmOWFlOGpxZ3RzbzI1Yk80VEdZcm01aHY1RDNnVHkteGhreDJWUXZucnR3WUxERlVuT3FiWjFZVk4yR3drRk9pMDB0N2tvaElEM0Z4RVZ5aEFhYmZlQ1BPemVheHFueUxJNE53SERCcVQ1NDMyazFmaWlTQkNFMUNR?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 02:15:06 GMT",
+      "source": "GoogleNews 明治",
+      "categories": [
+        "snack"
+      ],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
       "title": "明治、「きのこの山」「たけのこの里」など14品の値上げ発表 チョコレート・スナックは11・1出荷分より 約3％～8 - オリコンニュース",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CM045bkQ5OWJDWXg3TjlvaFhzWklNeDJtd2x5RGQtaUhRa1djSEMtZTRMMnluUkRqd2RFV3dzRkwzOWdXWEEzTU9GSEVocXJYVWFKck53?oc=5",
       "pubDate": "Tue, 18 Aug 2026 02:15:00 GMT",
@@ -519,6 +531,16 @@
       ]
     },
     {
+      "title": "雪印メグミルク 9月から138品価格改定 乳食品・市乳商品が対象｜Infoseekニュース - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IUGRWdlJGbEo3U3hzeUNINDhoVGR5Q0xENmo5SGo0Z1hFdmJONllDRFRidVczT2RITDl0WWFKc1ZzNFdpRGlmcGpKSjJlMlFWb0xTckNQMWVyRFpnQXVBdlFB?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 01:33:25 GMT",
+      "source": "GoogleNews 雪印メグミルク",
+      "categories": [],
+      "priceKeywords": [
+        "価格改定"
+      ]
+    },
+    {
       "title": "【5年連続の1万品目突破へ】6月の食品値上げは1,078品目。前月比13倍の急増と「中東情勢」を要因とするコスト転嫁の構造分析 - DXマガジン",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBIUndrZE9EUEpPeVVKR2tHdDlmTndRSzBGem1iZG82YUZ3bFJZbUhSZzQ3ZDNlVkdReWhTRWFURjR0dTkzcmllQjlWOXQ?oc=5",
       "pubDate": "Wed, 12 Aug 2026 07:00:00 GMT",
@@ -553,17 +575,6 @@
       ]
     },
     {
-      "title": "【解説】7月の食品値上げは2566品目 中東情勢の影響で「夏以降も続く」見通し Davide Brivio (8LlmOAZis8) - Mshale",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XcVgtanhXUGtmS3BRTXc2cG9nRkdaU2g5cUIyblZiTFFYRWNLQk9aZzRycHV2dGZha1NnWkF1THRvSFRqRDg5UFJlNXVaYk5zTDlfVUl6ekRyd1k?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 15:14:14 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ",
-        "品目"
-      ]
-    },
-    {
       "title": "ミツカンが食酢やつゆなど値上げ 家庭用は9月1日から：ニュース - 中日BIZナビ",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPMzdKS3FFVk41WW9sTDIwc214S190YkhSUE5KTnBuVmpNeXI1UzIwX2p6ZDd3dFI5RjZzSHVlSFpoY1BIRHpMcktqZkJENkJMRjhzNVpkQm15NjNYN1JIWTgzLUE?oc=5",
       "pubDate": "Mon, 10 Aug 2026 09:42:20 GMT",
@@ -574,19 +585,6 @@
       "priceKeywords": [
         "値上げ",
         "家庭用"
-      ]
-    },
-    {
-      "title": "【雪印メグミルク】9月1日から牛乳やバター、ベビーチーズなどの138品目を値上げ - ママリ",
-      "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFAyWUZ4ekFJTHFXR1RiYTY3b3ExZzdwV2Q1eTk0YlRlQ3N0VUxoVjE0bk1ZSUtXZ05MaGVn?oc=5",
-      "pubDate": "Sat, 08 Aug 2026 04:13:17 GMT",
-      "source": "GoogleNews 雪印メグミルク",
-      "categories": [
-        "dairy"
-      ],
-      "priceKeywords": [
-        "値上げ",
-        "品目"
       ]
     }
   ]
