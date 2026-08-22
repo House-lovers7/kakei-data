@@ -1,6 +1,6 @@
 {
   "description": "楽天・Yahoo!・価格.com・小売店の最新取得結果から算出した統合ベンチマーク",
-  "lastUpdated": "2026-08-15T18:03:07.058Z",
+  "lastUpdated": "2026-08-22T18:03:05.300Z",
   "sources": {
     "rakuten": {
       "name": "楽天市場",
@@ -25,26 +25,26 @@
       "products": {
         "rice:白米 5kg": {
           "name": "白米 5kg",
-          "benchmarkPrice": 1730,
+          "benchmarkPrice": 1683,
           "priceRange": {
-            "min": 1040,
-            "max": 4780
+            "min": 1090,
+            "max": 4370
           },
           "sources": {
             "rakuten": {
               "sourceId": "rakuten",
               "price": 1200,
-              "fetchedAt": "2026-08-15T18:00:08.156Z"
+              "fetchedAt": "2026-08-22T18:00:08.748Z"
             },
             "yahoo": {
               "sourceId": "yahoo",
-              "price": 1040,
-              "fetchedAt": "2026-08-15T18:01:16.723Z"
+              "price": 1090,
+              "fetchedAt": "2026-08-22T18:01:15.624Z"
             },
             "seiyu": {
               "sourceId": "seiyu",
-              "price": 4780,
-              "fetchedAt": "2026-08-15T18:02:31.941Z"
+              "price": 4370,
+              "fetchedAt": "2026-08-22T18:02:29.545Z"
             }
           },
           "trend": "variable",
@@ -52,26 +52,26 @@
         },
         "rice:パックご飯": {
           "name": "パックご飯",
-          "benchmarkPrice": 361,
+          "benchmarkPrice": 317,
           "priceRange": {
             "min": 157,
-            "max": 1150
+            "max": 899
           },
           "sources": {
             "rakuten": {
               "sourceId": "rakuten",
-              "price": 250,
-              "fetchedAt": "2026-08-15T18:00:09.342Z"
+              "price": 244,
+              "fetchedAt": "2026-08-22T18:00:09.957Z"
             },
             "yahoo": {
               "sourceId": "yahoo",
               "price": 157,
-              "fetchedAt": "2026-08-15T18:01:17.899Z"
+              "fetchedAt": "2026-08-22T18:01:16.910Z"
             },
             "seiyu": {
               "sourceId": "seiyu",
-              "price": 1150,
-              "fetchedAt": "2026-08-15T18:02:28.425Z"
+              "price": 899,
+              "fetchedAt": "2026-08-22T18:02:26.057Z"
             }
           },
           "trend": "variable",
@@ -79,16 +79,16 @@
         },
         "rice:オートミール": {
           "name": "オートミール",
-          "benchmarkPrice": 228,
+          "benchmarkPrice": 216,
           "priceRange": {
-            "min": 228,
-            "max": 228
+            "min": 216,
+            "max": 216
           },
           "sources": {
             "rakuten": {
               "sourceId": "rakuten",
-              "price": 228,
-              "fetchedAt": "2026-08-15T18:00:10.572Z"
+              "price": 216,
+              "fetchedAt": "2026-08-22T18:00:11.213Z"
             }
           },
           "trend": "stable",
@@ -105,7 +105,7 @@
             "yahoo": {
               "sourceId": "yahoo",
               "price": 982,
-              "fetchedAt": "2026-08-15T18:01:19.078Z"
+              "fetchedAt": "2026-08-22T18:01:18.142Z"
             }
           },
           "trend": "stable",
@@ -122,17 +122,17 @@
             "7eleven": {
               "sourceId": "7eleven",
               "price": 160,
-              "fetchedAt": "2026-08-15T18:02:24.539Z"
+              "fetchedAt": "2026-08-22T18:02:22.307Z"
             },
             "lawson": {
               "sourceId": "lawson",
               "price": 158,
-              "fetchedAt": "2026-08-15T18:02:24.539Z"
+              "fetchedAt": "2026-08-22T18:02:22.307Z"
             },
             "familymart": {
               "sourceId": "familymart",
               "price": 158,
-              "fetchedAt": "2026-08-15T18:02:24.539Z"
+              "fetchedAt": "2026-08-22T18:02:22.307Z"
             }
           },
           "trend": "stable",
@@ -149,7 +149,7 @@
             "gyomu": {
               "sourceId": "gyomu",
               "price": 1980,
-              "fetchedAt": "2026-08-15T18:02:24.539Z"
+              "fetchedAt": "2026-08-22T18:02:22.307Z"
             }
           },
           "trend": "stable",
@@ -162,21 +162,21 @@
       "products": {
         "bread:食パン": {
           "name": "食パン",
-          "benchmarkPrice": 157,
+          "benchmarkPrice": 158,
           "priceRange": {
-            "min": 119,
-            "max": 194
+            "min": 129,
+            "max": 187
           },
           "sources": {
             "rakuten": {
               "sourceId": "rakuten",
-              "price": 194,
-              "fetchedAt": "2026-08-15T18:00:11.770Z"
+              "price": 187,
+              "fetchedAt": "2026-08-22T18:00:12.403Z"
             },
             "yahoo": {
               "sourceId": "yahoo",
-              "price": 119,
-              "fetchedAt": "2026-08-15T18:01:20.300Z"
+              "price": 129,
+              "fetchedAt": "2026-08-22T18:01:19.405Z"
             }
           },
           "trend": "stable",
@@ -184,21 +184,21 @@
         },
         "bread:強力粉 1kg": {
           "name": "強力粉 1kg",
-          "benchmarkPrice": 393,
+          "benchmarkPrice": 383,
           "priceRange": {
-            "min": 351,
-            "max": 434
+            "min": 345,
+            "max": 420
           },
           "sources": {
             "rakuten": {
               "sourceId": "rakuten",
-              "price": 434,
-              "fetchedAt": "2026-08-15T18:00:13.338Z"
+              "price": 420,
+              "fetchedAt": "2026-08-22T18:00:13.562Z"
             },
             "yahoo": {
               "sourceId": "yahoo",
-              "price": 351,
-              "fetchedAt": "2026-08-15T18:01:21.509Z"
+              "price": 345,
+              "fetchedAt": "2026-08-22T18:01:20.828Z"
             }
           },
           "trend": "stable",
@@ -215,7 +215,7 @@
             "7eleven": {
               "sourceId": "7eleven",
               "price": 138,
-              "fetchedAt": "2026-08-15T18:02:24.539Z"
+              "fetchedAt": "2026-08-22T18:02:22.307Z"
             }
           },
           "trend": "stable",
@@ -237,7 +237,7 @@
             "rakuten": {
               "sourceId": "rakuten",
               "price": 198,
-              "fetchedAt": "2026-08-15T18:00:14.479Z"
+              "fetchedAt": "2026-08-22T18:00:14.719Z"
             }
           },
           "trend": "stable",
@@ -245,21 +245,21 @@
         },
         "noodle:冷凍うどん": {
           "name": "冷凍うどん",
-          "benchmarkPrice": 275,
+          "benchmarkPrice": 269,
           "priceRange": {
-            "min": 150,
-            "max": 399
+            "min": 148,
+            "max": 390
           },
           "sources": {
             "rakuten": {
               "sourceId": "rakuten",
-              "price": 399,
-              "fetchedAt": "2026-08-15T18:00:16.008Z"
+              "price": 390,
+              "fetchedAt": "2026-08-22T18:00:15.919Z"
             },
             "yahoo": {
               "sourceId": "yahoo",
-              "price": 150,
-              "fetchedAt": "2026-08-15T18:01:23.812Z"
+              "price": 148,
+              "fetchedAt": "2026-08-22T18:01:23.245Z"
             }
           },
           "trend": "variable",
@@ -276,7 +276,7 @@
             "rakuten": {
               "sourceId": "rakuten",
               "price": 128,
-              "fetchedAt": "2026-08-15T18:00:17.159Z"
+              "fetchedAt": "2026-08-22T18:00:17.093Z"
             }
           },
           "trend": "stable",
@@ -293,7 +293,7 @@
             "yahoo": {
               "sourceId": "yahoo",
               "price": 275,
-              "fetchedAt": "2026-08-15T18:01:22.663Z"
+              "fetchedAt": "2026-08-22T18:01:22.081Z"
             }
           },
           "trend": "stable",
@@ -301,16 +301,16 @@
         },
         "noodle:袋麺 5食": {
           "name": "袋麺 5食",
-          "benchmarkPrice": 435,
+          "benchmarkPrice": 430,
           "priceRange": {
-            "min": 435,
-            "max": 435
+            "min": 430,
+            "max": 430
           },
           "sources": {
             "yahoo": {
               "sourceId": "yahoo",
-              "price": 435,
-              "fetchedAt": "2026-08-15T18:01:25.174Z"
+              "price": 430,
+              "fetchedAt": "2026-08-22T18:01:24.402Z"
             }
           },
           "trend": "stable",
@@ -318,16 +318,16 @@
         },
         "noodle:うどん": {
           "name": "うどん",
-          "benchmarkPrice": 199,
+          "benchmarkPrice": 359,
           "priceRange": {
-            "min": 199,
-            "max": 199
+            "min": 359,
+            "max": 359
           },
           "sources": {
             "seiyu": {
               "sourceId": "seiyu",
-              "price": 199,
-              "fetchedAt": "2026-08-15T18:03:03.533Z"
+              "price": 359,
+              "fetchedAt": "2026-08-22T18:03:01.701Z"
             }
           },
           "trend": "stable",
@@ -335,16 +335,16 @@
         },
         "noodle:パスタ": {
           "name": "パスタ",
-          "benchmarkPrice": 520,
+          "benchmarkPrice": 419,
           "priceRange": {
-            "min": 520,
-            "max": 520
+            "min": 419,
+            "max": 419
           },
           "sources": {
             "seiyu": {
               "sourceId": "seiyu",
-              "price": 520,
-              "fetchedAt": "2026-08-15T18:03:07.058Z"
+              "price": 419,
+              "fetchedAt": "2026-08-22T18:03:05.300Z"
             }
           },
           "trend": "stable",
@@ -357,26 +357,26 @@
       "products": {
         "egg:卵 10個": {
           "name": "卵 10個",
-          "benchmarkPrice": 391,
+          "benchmarkPrice": 387,
           "priceRange": {
-            "min": 319,
-            "max": 475
+            "min": 323,
+            "max": 462
           },
           "sources": {
             "rakuten": {
               "sourceId": "rakuten",
-              "price": 475,
-              "fetchedAt": "2026-08-15T18:00:18.436Z"
+              "price": 462,
+              "fetchedAt": "2026-08-22T18:00:18.341Z"
             },
             "yahoo": {
               "sourceId": "yahoo",
-              "price": 319,
-              "fetchedAt": "2026-08-15T18:01:26.521Z"
+              "price": 323,
+              "fetchedAt": "2026-08-22T18:01:25.620Z"
             },
             "seiyu": {
               "sourceId": "seiyu",
               "price": 359,
-              "fetchedAt": "2026-08-15T18:02:35.241Z"
+              "fetchedAt": "2026-08-22T18:02:32.843Z"
             }
           },
           "trend": "stable",
@@ -393,7 +393,7 @@
             "rakuten": {
               "sourceId": "rakuten",
               "price": 395,
-              "fetchedAt": "2026-08-15T18:00:19.678Z"
+              "fetchedAt": "2026-08-22T18:00:19.534Z"
             }
           },
           "trend": "stable",
@@ -401,16 +401,16 @@
         },
         "egg:鶏卵 lサイズ": {
           "name": "鶏卵 Lサイズ",
-          "benchmarkPrice": 1178,
+          "benchmarkPrice": 1078,
           "priceRange": {
-            "min": 1178,
-            "max": 1178
+            "min": 1078,
+            "max": 1078
           },
           "sources": {
             "yahoo": {
               "sourceId": "yahoo",
-              "price": 1178,
-              "fetchedAt": "2026-08-15T18:01:28.191Z"
+              "price": 1078,
+              "fetchedAt": "2026-08-22T18:01:26.780Z"
             }
           },
           "trend": "stable",
@@ -423,21 +423,21 @@
       "products": {
         "dairy:牛乳 1l": {
           "name": "牛乳 1L",
-          "benchmarkPrice": 1053,
+          "benchmarkPrice": 1024,
           "priceRange": {
             "min": 219,
-            "max": 1387
+            "max": 1346
           },
           "sources": {
             "rakuten": {
               "sourceId": "rakuten",
-              "price": 1387,
-              "fetchedAt": "2026-08-15T18:00:20.841Z"
+              "price": 1346,
+              "fetchedAt": "2026-08-22T18:00:20.714Z"
             },
             "seiyu": {
               "sourceId": "seiyu",
               "price": 219,
-              "fetchedAt": "2026-08-15T18:02:38.896Z"
+              "fetchedAt": "2026-08-22T18:02:36.443Z"
             }
           },
           "trend": "variable",
@@ -454,12 +454,12 @@
             "rakuten": {
               "sourceId": "rakuten",
               "price": 395,
-              "fetchedAt": "2026-08-15T18:00:22.104Z"
+              "fetchedAt": "2026-08-22T18:00:21.869Z"
             },
             "yahoo": {
               "sourceId": "yahoo",
               "price": 385,
-              "fetchedAt": "2026-08-15T18:01:30.496Z"
+              "fetchedAt": "2026-08-22T18:01:29.106Z"
             }
           },
           "trend": "stable",
@@ -467,21 +467,21 @@
         },
         "dairy:バター 200g": {
           "name": "バター 200g",
-          "benchmarkPrice": 372,
+          "benchmarkPrice": 361,
           "priceRange": {
-            "min": 345,
+            "min": 324,
             "max": 398
           },
           "sources": {
             "rakuten": {
               "sourceId": "rakuten",
               "price": 398,
-              "fetchedAt": "2026-08-15T18:00:23.287Z"
+              "fetchedAt": "2026-08-22T18:00:23.031Z"
             },
             "yahoo": {
               "sourceId": "yahoo",
-              "price": 345,
-              "fetchedAt": "2026-08-15T18:01:31.641Z"
+              "price": 324,
+              "fetchedAt": "2026-08-22T18:01:30.321Z"
             }
           },
           "trend": "stable",
@@ -489,16 +489,16 @@
         },
         "dairy:牛乳 1000ml": {
           "name": "牛乳 1000ml",
-          "benchmarkPrice": 355,
+          "benchmarkPrice": 359,
           "priceRange": {
-            "min": 355,
-            "max": 355
+            "min": 359,
+            "max": 359
           },
           "sources": {
             "yahoo": {
               "sourceId": "yahoo",
-              "price": 355,
-              "fetchedAt": "2026-08-15T18:01:29.352Z"
+              "price": 359,
+              "fetchedAt": "2026-08-22T18:01:27.924Z"
             }
           },
           "trend": "stable",
@@ -515,7 +515,7 @@
             "yahoo": {
               "sourceId": "yahoo",
               "price": 104,
-              "fetchedAt": "2026-08-15T18:01:32.883Z"
+              "fetchedAt": "2026-08-22T18:01:31.454Z"
             }
           },
           "trend": "stable",
@@ -532,7 +532,7 @@
             "seiyu": {
               "sourceId": "seiyu",
               "price": 159,
-              "fetchedAt": "2026-08-15T18:02:42.567Z"
+              "fetchedAt": "2026-08-22T18:02:40.286Z"
             }
           },
           "trend": "stable",
@@ -545,48 +545,48 @@
       "products": {
         "meat:鶏むね肉": {
           "name": "鶏むね肉",
-          "benchmarkPrice": 349,
+          "benchmarkPrice": 390,
           "priceRange": {
-            "min": 260,
+            "min": 343,
             "max": 589
           },
           "sources": {
             "rakuten": {
               "sourceId": "rakuten",
               "price": 343,
-              "fetchedAt": "2026-08-15T18:00:24.454Z"
+              "fetchedAt": "2026-08-22T18:00:24.219Z"
             },
             "yahoo": {
               "sourceId": "yahoo",
-              "price": 260,
-              "fetchedAt": "2026-08-15T18:01:34.063Z"
+              "price": 358,
+              "fetchedAt": "2026-08-22T18:01:32.638Z"
             },
             "seiyu": {
               "sourceId": "seiyu",
               "price": 589,
-              "fetchedAt": "2026-08-15T18:02:45.946Z"
+              "fetchedAt": "2026-08-22T18:02:43.876Z"
             }
           },
-          "trend": "variable",
-          "confidence": "low"
+          "trend": "stable",
+          "confidence": "medium"
         },
         "meat:鶏もも肉": {
           "name": "鶏もも肉",
-          "benchmarkPrice": 360,
+          "benchmarkPrice": 355,
           "priceRange": {
-            "min": 319,
-            "max": 400
+            "min": 311,
+            "max": 399
           },
           "sources": {
             "rakuten": {
               "sourceId": "rakuten",
-              "price": 400,
-              "fetchedAt": "2026-08-15T18:00:25.981Z"
+              "price": 399,
+              "fetchedAt": "2026-08-22T18:00:25.453Z"
             },
             "yahoo": {
               "sourceId": "yahoo",
-              "price": 319,
-              "fetchedAt": "2026-08-15T18:01:35.413Z"
+              "price": 311,
+              "fetchedAt": "2026-08-22T18:01:33.842Z"
             }
           },
           "trend": "stable",
@@ -594,21 +594,21 @@
         },
         "meat:豚こま切れ": {
           "name": "豚こま切れ",
-          "benchmarkPrice": 2055,
+          "benchmarkPrice": 2057,
           "priceRange": {
-            "min": 1411,
+            "min": 1415,
             "max": 2699
           },
           "sources": {
             "rakuten": {
               "sourceId": "rakuten",
               "price": 2699,
-              "fetchedAt": "2026-08-15T18:00:27.168Z"
+              "fetchedAt": "2026-08-22T18:00:26.986Z"
             },
             "yahoo": {
               "sourceId": "yahoo",
-              "price": 1411,
-              "fetchedAt": "2026-08-15T18:01:36.552Z"
+              "price": 1415,
+              "fetchedAt": "2026-08-22T18:01:35.071Z"
             }
           },
           "trend": "variable",
@@ -625,7 +625,7 @@
             "rakuten": {
               "sourceId": "rakuten",
               "price": 904,
-              "fetchedAt": "2026-08-15T18:00:28.401Z"
+              "fetchedAt": "2026-08-22T18:00:29.030Z"
             }
           },
           "trend": "stable",
@@ -642,7 +642,7 @@
             "yahoo": {
               "sourceId": "yahoo",
               "price": 299,
-              "fetchedAt": "2026-08-15T18:01:37.789Z"
+              "fetchedAt": "2026-08-22T18:01:36.226Z"
             }
           },
           "trend": "stable",
@@ -659,7 +659,7 @@
             "seiyu": {
               "sourceId": "seiyu",
               "price": 539,
-              "fetchedAt": "2026-08-15T18:02:49.318Z"
+              "fetchedAt": "2026-08-22T18:02:47.324Z"
             }
           },
           "trend": "stable",
@@ -672,21 +672,21 @@
       "products": {
         "fish:鮭 切り身": {
           "name": "鮭 切り身",
-          "benchmarkPrice": 549,
+          "benchmarkPrice": 522,
           "priceRange": {
-            "min": 500,
+            "min": 445,
             "max": 598
           },
           "sources": {
             "rakuten": {
               "sourceId": "rakuten",
-              "price": 500,
-              "fetchedAt": "2026-08-15T18:00:29.594Z"
+              "price": 445,
+              "fetchedAt": "2026-08-22T18:00:30.213Z"
             },
             "yahoo": {
               "sourceId": "yahoo",
               "price": 598,
-              "fetchedAt": "2026-08-15T18:01:39.176Z"
+              "fetchedAt": "2026-08-22T18:01:37.388Z"
             }
           },
           "trend": "stable",
@@ -694,16 +694,16 @@
         },
         "fish:サバ缶": {
           "name": "サバ缶",
-          "benchmarkPrice": 298,
+          "benchmarkPrice": 316,
           "priceRange": {
-            "min": 298,
-            "max": 298
+            "min": 316,
+            "max": 316
           },
           "sources": {
             "rakuten": {
               "sourceId": "rakuten",
-              "price": 298,
-              "fetchedAt": "2026-08-15T18:00:31.149Z"
+              "price": 316,
+              "fetchedAt": "2026-08-22T18:00:31.441Z"
             }
           },
           "trend": "stable",
@@ -711,21 +711,21 @@
         },
         "fish:ツナ缶": {
           "name": "ツナ缶",
-          "benchmarkPrice": 193,
+          "benchmarkPrice": 195,
           "priceRange": {
-            "min": 180,
+            "min": 185,
             "max": 205
           },
           "sources": {
             "rakuten": {
               "sourceId": "rakuten",
               "price": 205,
-              "fetchedAt": "2026-08-15T18:00:32.281Z"
+              "fetchedAt": "2026-08-22T18:00:33.025Z"
             },
             "yahoo": {
               "sourceId": "yahoo",
-              "price": 180,
-              "fetchedAt": "2026-08-15T18:01:41.795Z"
+              "price": 185,
+              "fetchedAt": "2026-08-22T18:01:39.679Z"
             }
           },
           "trend": "stable",
@@ -733,16 +733,16 @@
         },
         "fish:サバ缶 水煮": {
           "name": "サバ缶 水煮",
-          "benchmarkPrice": 298,
+          "benchmarkPrice": 292,
           "priceRange": {
-            "min": 298,
-            "max": 298
+            "min": 292,
+            "max": 292
           },
           "sources": {
             "yahoo": {
               "sourceId": "yahoo",
-              "price": 298,
-              "fetchedAt": "2026-08-15T18:01:40.355Z"
+              "price": 292,
+              "fetchedAt": "2026-08-22T18:01:38.533Z"
             }
           },
           "trend": "stable",
@@ -755,21 +755,21 @@
       "products": {
         "tofu:豆腐": {
           "name": "豆腐",
-          "benchmarkPrice": 96,
+          "benchmarkPrice": 95,
           "priceRange": {
             "min": 29,
-            "max": 118
+            "max": 116
           },
           "sources": {
             "rakuten": {
               "sourceId": "rakuten",
-              "price": 118,
-              "fetchedAt": "2026-08-15T18:00:33.422Z"
+              "price": 116,
+              "fetchedAt": "2026-08-22T18:00:34.226Z"
             },
             "gyomu": {
               "sourceId": "gyomu",
               "price": 29,
-              "fetchedAt": "2026-08-15T18:02:24.539Z"
+              "fetchedAt": "2026-08-22T18:02:22.307Z"
             }
           },
           "trend": "variable",
@@ -786,12 +786,12 @@
             "rakuten": {
               "sourceId": "rakuten",
               "price": 1523,
-              "fetchedAt": "2026-08-15T18:00:34.687Z"
+              "fetchedAt": "2026-08-22T18:00:35.401Z"
             },
             "yahoo": {
               "sourceId": "yahoo",
               "price": 842,
-              "fetchedAt": "2026-08-15T18:01:44.150Z"
+              "fetchedAt": "2026-08-22T18:01:42.073Z"
             }
           },
           "trend": "stable",
@@ -808,7 +808,7 @@
             "yahoo": {
               "sourceId": "yahoo",
               "price": 269,
-              "fetchedAt": "2026-08-15T18:01:42.974Z"
+              "fetchedAt": "2026-08-22T18:01:40.862Z"
             }
           },
           "trend": "stable",
@@ -825,7 +825,7 @@
             "yahoo": {
               "sourceId": "yahoo",
               "price": 104,
-              "fetchedAt": "2026-08-15T18:01:45.340Z"
+              "fetchedAt": "2026-08-22T18:01:43.282Z"
             }
           },
           "trend": "stable",
@@ -847,7 +847,7 @@
             "rakuten": {
               "sourceId": "rakuten",
               "price": 159,
-              "fetchedAt": "2026-08-15T18:00:35.889Z"
+              "fetchedAt": "2026-08-22T18:00:36.982Z"
             }
           },
           "trend": "stable",
@@ -864,12 +864,12 @@
             "rakuten": {
               "sourceId": "rakuten",
               "price": 156,
-              "fetchedAt": "2026-08-15T18:00:37.115Z"
+              "fetchedAt": "2026-08-22T18:00:38.121Z"
             },
             "yahoo": {
               "sourceId": "yahoo",
               "price": 116,
-              "fetchedAt": "2026-08-15T18:01:47.712Z"
+              "fetchedAt": "2026-08-22T18:01:45.606Z"
             }
           },
           "trend": "stable",
@@ -886,12 +886,12 @@
             "rakuten": {
               "sourceId": "rakuten",
               "price": 162,
-              "fetchedAt": "2026-08-15T18:00:38.433Z"
+              "fetchedAt": "2026-08-22T18:00:39.316Z"
             },
             "seiyu": {
               "sourceId": "seiyu",
               "price": 199,
-              "fetchedAt": "2026-08-15T18:02:52.765Z"
+              "fetchedAt": "2026-08-22T18:02:50.943Z"
             }
           },
           "trend": "stable",
@@ -908,7 +908,7 @@
             "yahoo": {
               "sourceId": "yahoo",
               "price": 432,
-              "fetchedAt": "2026-08-15T18:01:46.557Z"
+              "fetchedAt": "2026-08-22T18:01:44.471Z"
             }
           },
           "trend": "stable",
@@ -925,12 +925,12 @@
             "yahoo": {
               "sourceId": "yahoo",
               "price": 132,
-              "fetchedAt": "2026-08-15T18:01:48.844Z"
+              "fetchedAt": "2026-08-22T18:01:46.875Z"
             },
             "seiyu": {
               "sourceId": "seiyu",
               "price": 59,
-              "fetchedAt": "2026-08-15T18:02:59.986Z"
+              "fetchedAt": "2026-08-22T18:02:58.001Z"
             }
           },
           "trend": "variable",
@@ -938,16 +938,16 @@
         },
         "vegetable:たまねぎ": {
           "name": "たまねぎ",
-          "benchmarkPrice": 339,
+          "benchmarkPrice": 345,
           "priceRange": {
-            "min": 339,
-            "max": 339
+            "min": 345,
+            "max": 345
           },
           "sources": {
             "seiyu": {
               "sourceId": "seiyu",
-              "price": 339,
-              "fetchedAt": "2026-08-15T18:02:56.163Z"
+              "price": 345,
+              "fetchedAt": "2026-08-22T18:02:54.470Z"
             }
           },
           "trend": "stable",
@@ -960,21 +960,21 @@
       "products": {
         "seasoning:醤油 1l": {
           "name": "醤油 1L",
-          "benchmarkPrice": 300,
+          "benchmarkPrice": 297,
           "priceRange": {
             "min": 288,
-            "max": 311
+            "max": 305
           },
           "sources": {
             "rakuten": {
               "sourceId": "rakuten",
-              "price": 311,
-              "fetchedAt": "2026-08-15T18:00:39.628Z"
+              "price": 305,
+              "fetchedAt": "2026-08-22T18:00:40.549Z"
             },
             "yahoo": {
               "sourceId": "yahoo",
               "price": 288,
-              "fetchedAt": "2026-08-15T18:01:50.004Z"
+              "fetchedAt": "2026-08-22T18:01:48.145Z"
             }
           },
           "trend": "stable",
@@ -991,7 +991,7 @@
             "rakuten": {
               "sourceId": "rakuten",
               "price": 78,
-              "fetchedAt": "2026-08-15T18:00:41.293Z"
+              "fetchedAt": "2026-08-22T18:00:41.720Z"
             }
           },
           "trend": "stable",
@@ -1008,7 +1008,7 @@
             "rakuten": {
               "sourceId": "rakuten",
               "price": 399,
-              "fetchedAt": "2026-08-15T18:00:42.449Z"
+              "fetchedAt": "2026-08-22T18:00:42.905Z"
             }
           },
           "trend": "stable",
@@ -1016,16 +1016,16 @@
         },
         "seasoning:味噌 750g": {
           "name": "味噌 750g",
-          "benchmarkPrice": 346,
+          "benchmarkPrice": 344,
           "priceRange": {
-            "min": 346,
-            "max": 346
+            "min": 344,
+            "max": 344
           },
           "sources": {
             "yahoo": {
               "sourceId": "yahoo",
-              "price": 346,
-              "fetchedAt": "2026-08-15T18:01:51.233Z"
+              "price": 344,
+              "fetchedAt": "2026-08-22T18:01:49.325Z"
             }
           },
           "trend": "stable",
@@ -1042,7 +1042,7 @@
             "yahoo": {
               "sourceId": "yahoo",
               "price": 840,
-              "fetchedAt": "2026-08-15T18:01:52.486Z"
+              "fetchedAt": "2026-08-22T18:01:50.493Z"
             }
           },
           "trend": "stable",
@@ -1059,7 +1059,7 @@
             "gyomu": {
               "sourceId": "gyomu",
               "price": 248,
-              "fetchedAt": "2026-08-15T18:02:24.539Z"
+              "fetchedAt": "2026-08-22T18:02:22.307Z"
             }
           },
           "trend": "stable",
@@ -1081,7 +1081,7 @@
             "gyomu": {
               "sourceId": "gyomu",
               "price": 178,
-              "fetchedAt": "2026-08-15T18:02:24.539Z"
+              "fetchedAt": "2026-08-22T18:02:22.307Z"
             }
           },
           "trend": "stable",

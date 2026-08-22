@@ -1,28 +1,18 @@
 {
   "source": "yahoo",
-  "fetchedAt": "2026-08-15T18:01:52.488Z",
+  "fetchedAt": "2026-08-22T18:01:50.494Z",
   "totalKeywords": 30,
-  "totalItems": 889,
+  "totalItems": 888,
   "data": [
     {
       "keyword": "白米 5kg",
       "category": "rice",
-      "minPrice": 770,
-      "maxPrice": 1296,
-      "avgPrice": 1040,
-      "medianPrice": 1040,
+      "minPrice": 780,
+      "maxPrice": 1400,
+      "avgPrice": 1054,
+      "medianPrice": 1090,
       "sampleSize": 30,
       "items": [
-        {
-          "name": "パックご飯 200g 3食 レトルトご飯 アイリスオーヤマ 米 パックごはん お米 ご飯 低温製法米 レンチン 一人暮らし",
-          "price": 770,
-          "shop": "メガストア Yahoo!店"
-        },
-        {
-          "name": "パックご飯 200g 3食 レトルトご飯 アイリスオーヤマ 米 パックごはん お米 ご飯 低温製法米 レンチン 一人暮らし",
-          "price": 779,
-          "shop": "快適ホームライフ Yahoo!店"
-        },
         {
           "name": "パックご飯 200g 3パック レトルトごはん お米 ご飯 低温製法米 レンチン 一人暮らし アイリスオーヤマ",
           "price": 780,
@@ -31,7 +21,7 @@
         {
           "name": "パックご飯 200g 3食 レトルトご飯 アイリスオーヤマ 米 パックごはん お米 ご飯 低温製法米 レンチン 一人暮らし",
           "price": 780,
-          "shop": "マイルーム Yahoo!店"
+          "shop": "メガストア Yahoo!店"
         },
         {
           "name": "パックご飯 200g 3パック レトルトごはん お米 ご飯 低温製法米 レンチン 一人暮らし アイリスオーヤマ",
@@ -44,6 +34,16 @@
           "shop": "ゆにでのこづち Yahoo!店"
         },
         {
+          "name": "パックご飯 200g 3食 レトルトご飯 アイリスオーヤマ 米 パックごはん お米 ご飯 低温製法米 レンチン 一人暮らし",
+          "price": 780,
+          "shop": "収納宅配館 Yahoo!店"
+        },
+        {
+          "name": "パックご飯 200g 3食 レトルトご飯 アイリスオーヤマ 米 パックごはん お米 ご飯 低温製法米 レンチン 一人暮らし",
+          "price": 780,
+          "shop": "マイルーム Yahoo!店"
+        },
+        {
           "name": "パックご飯 200g 3食 レトルトご飯 パックごはん ご飯パック アイリス 低温製法米 CM パック ごはんパック レンジ 非常食 保存食",
           "price": 780,
           "shop": "ウエノ電器 Yahoo!店"
@@ -51,7 +51,7 @@
         {
           "name": "パックご飯 200g 3食 レトルトご飯 アイリスオーヤマ 米 パックごはん お米 ご飯 低温製法米 レンチン 一人暮らし",
           "price": 780,
-          "shop": "収納宅配館 Yahoo!店"
+          "shop": "快適ホームライフ Yahoo!店"
         },
         {
           "name": "同梱専用■送料別『国内産もち白米１kg』",
@@ -65,7 +65,7 @@
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-15T18:01:16.723Z"
+      "fetchedAt": "2026-08-22T18:01:15.624Z"
     },
     {
       "keyword": "パックご飯",
@@ -97,12 +97,12 @@
           "shop": "JetPrice"
         },
         {
-          "name": "永谷園 五目チャーハンの素 1人前×3袋入 料理の素 調味料 油 食品",
+          "name": "永谷園 かに味チャーハンの素 1人前×3袋入 料理の素 調味料 油 食品",
           "price": 130,
           "shop": "JetPrice"
         },
         {
-          "name": "永谷園 かに味チャーハンの素 1人前×3袋入 料理の素 調味料 油 食品",
+          "name": "永谷園 五目チャーハンの素 1人前×3袋入 料理の素 調味料 油 食品",
           "price": 130,
           "shop": "JetPrice"
         },
@@ -128,14 +128,14 @@
         }
       ],
       "excludedCount": 1,
-      "fetchedAt": "2026-08-15T18:01:17.899Z"
+      "fetchedAt": "2026-08-22T18:01:16.910Z"
     },
     {
       "keyword": "オートミール 1kg",
       "category": "rice",
       "minPrice": 540,
       "maxPrice": 1015,
-      "avgPrice": 930,
+      "avgPrice": 943,
       "medianPrice": 982,
       "sampleSize": 30,
       "items": [
@@ -148,16 +148,6 @@
           "name": "オートミール 500g （オーツ麦・エンバク）（有機JAS）｜アリサン",
           "price": 540,
           "shop": "自然食品・有機米 かねこや"
-        },
-        {
-          "name": "ママパン 有機オートミール ロールドオーツ カナダ産 1kg 有機JAS オーガニック オーツ麦 燕麦",
-          "price": 780,
-          "shop": "ママパン"
-        },
-        {
-          "name": "ママパン 有機オートミール クイックオーツ カナダ産 1kg 有機JAS オーガニック オーツ麦 燕麦",
-          "price": 780,
-          "shop": "ママパン"
         },
         {
           "name": "ミルキーオートミール ( 1kg )/ ライスアイランド",
@@ -182,24 +172,34 @@
         {
           "name": "有機オートミール （1kg） 【アリサン】",
           "price": 925,
-          "shop": "きらら自然食品店"
+          "shop": "健康サポート専門店"
         },
         {
           "name": "有機オートミール （1kg） 【アリサン】",
           "price": 925,
-          "shop": "健康サポート専門店"
+          "shop": "きらら自然食品店"
+        },
+        {
+          "name": "オートミール 1kg",
+          "price": 950,
+          "shop": "マルサンパントリー"
+        },
+        {
+          "name": "オートミール ミニバイト 2種 8袋 アソート ミルク チョコ クッキー 大容量 お菓子 子供 コストコ 爆買",
+          "price": 962,
+          "shop": "PONS SHOP ONLINE"
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-15T18:01:19.078Z"
+      "fetchedAt": "2026-08-22T18:01:18.142Z"
     },
     {
       "keyword": "食パン",
       "category": "bread",
       "minPrice": 5,
       "maxPrice": 156,
-      "avgPrice": 103,
-      "medianPrice": 119,
+      "avgPrice": 104,
+      "medianPrice": 129,
       "sampleSize": 27,
       "items": [
         {
@@ -228,12 +228,12 @@
           "shop": "業務用食品問屋アールズ"
         },
         {
-          "name": "1.5斤サイズ対応【紙袋(大)】 [#3006] アンデ ANDE デニッシュ食パン専用 爆買",
+          "name": "1斤サイズ対応【紙袋(小)】 [#3005] アンデ ANDE デニッシュ食パン専用 爆買",
           "price": 33,
           "shop": "デニッシュパン ANDE(アンデ)"
         },
         {
-          "name": "1斤サイズ対応【紙袋(小)】 [#3005] アンデ ANDE デニッシュ食パン専用 爆買",
+          "name": "1.5斤サイズ対応【紙袋(大)】 [#3006] アンデ ANDE デニッシュ食パン専用 爆買",
           "price": 33,
           "shop": "デニッシュパン ANDE(アンデ)"
         },
@@ -248,21 +248,21 @@
           "shop": "ビースタイルYahoo!店"
         },
         {
-          "name": "ハチ食品 チキンドリア 4種のきのこ のソース仕立て 140g  T4902688265749 レトルト食品 クリーミードリア ホワイトソース 4種のきのこ チキン 爆買",
-          "price": 110,
-          "shop": "お得市場 GOGOみなくるネット"
+          "name": "たまごスープ /1食(8g) 【 富澤商店 公式 】",
+          "price": 116,
+          "shop": "富澤商店 Yahoo!店"
         }
       ],
       "excludedCount": 3,
-      "fetchedAt": "2026-08-15T18:01:20.300Z"
+      "fetchedAt": "2026-08-22T18:01:19.405Z"
     },
     {
       "keyword": "強力粉 1kg",
       "category": "bread",
       "minPrice": 190,
       "maxPrice": 400,
-      "avgPrice": 340,
-      "medianPrice": 351,
+      "avgPrice": 338,
+      "medianPrice": 345,
       "sampleSize": 29,
       "items": [
         {
@@ -301,6 +301,11 @@
           "shop": "業務用食品アミカYahoo!店"
         },
         {
+          "name": "(訳あり)オーマイ ふっくらパン 強力小麦粉 ( 1kg )/ ふっくらパン ( パン ピザ ホームベーカリー オーマイ )",
+          "price": 332,
+          "shop": "爽快ドラッグ"
+        },
+        {
           "name": "ワンダフル 1kg 小麦粉 強力粉 パン用 パン 菓子パン 食パン ホームベーカリー ベーグル デニッシュ ブレッド ロールパン",
           "price": 334,
           "shop": "curinomi ヤフー店"
@@ -309,34 +314,29 @@
           "name": "リスドール 1kg",
           "price": 335,
           "shop": "スウィーツランド ヤフー店"
-        },
-        {
-          "name": "北海道産強力粉　ゆめちから1kg　パン用強力粉",
-          "price": 338,
-          "shop": "大槻食品館キャロットヤフー店"
         }
       ],
       "excludedCount": 1,
-      "fetchedAt": "2026-08-15T18:01:21.509Z"
+      "fetchedAt": "2026-08-22T18:01:20.828Z"
     },
     {
       "keyword": "パスタ 乾麺 500g",
       "category": "noodle",
       "minPrice": 198,
-      "maxPrice": 328,
-      "avgPrice": 279,
+      "maxPrice": 325,
+      "avgPrice": 276,
       "medianPrice": 275,
       "sampleSize": 30,
       "items": [
         {
-          "name": "パスタ 500g 麺 乾麺 1.7mm デュラム小麦 セモリナ Durumuパスタ スパゲッティ スパゲティ ロングパスタ パスタ麺 FALISO ファリソ * (D)",
-          "price": 198,
-          "shop": "ラクチーナ Yahoo!店"
-        },
-        {
           "name": "パスタ 500g 麺 乾麺 1.7mm デュラム小麦 セモリナ Durumuパスタ スパゲッティ スパゲティ ロングパスタ パスタ麺 FALISO ファリソ *",
           "price": 198,
           "shop": "暮らし健康ネット館 Yahoo!店"
+        },
+        {
+          "name": "パスタ 500g 麺 乾麺 1.7mm デュラム小麦 セモリナ Durumuパスタ スパゲッティ スパゲティ ロングパスタ パスタ麺 FALISO ファリソ * (D)",
+          "price": 198,
+          "shop": "ラクチーナ Yahoo!店"
         },
         {
           "name": "パスタ 500g スパゲッティ パスタ麺 パスタ 乾麺 パスタ 1.7mm デュラム Durumuパスタ 500g 単品 (D)",
@@ -374,21 +374,21 @@
           "shop": "ひのや"
         },
         {
-          "name": "パスタ ラ モリサーナ リングイネ ブロンズ （No.6） 500g la Molisana 包装不可",
+          "name": "パスタ ラ モリサーナ ブカティーニ ブロンズ （No.12） 500g la Molisana 包装不可",
           "price": 275,
           "shop": "酒類の総合専門店 フェリシティー"
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-15T18:01:22.663Z"
+      "fetchedAt": "2026-08-22T18:01:22.081Z"
     },
     {
       "keyword": "冷凍うどん",
       "category": "noodle",
       "minPrice": 30,
       "maxPrice": 198,
-      "avgPrice": 152,
-      "medianPrice": 150,
+      "avgPrice": 151,
+      "medianPrice": 148,
       "sampleSize": 30,
       "items": [
         {
@@ -397,14 +397,14 @@
           "shop": "炭焼きあなご あさじ"
         },
         {
-          "name": "ハチ 純・七味とうがらし 15g 　食品・調味料・菓子・飲料　詰合せ10kgまで同発送　",
+          "name": "ハチ 純・一味とうがらし 15g 　食品・調味料・菓子・飲料　詰合せ10kgまで同発送　",
           "price": 127,
           "shop": "食品&酒プロマートワールド"
         },
         {
-          "name": "ハチ 純・一味とうがらし 15g 　食品・調味料・菓子・飲料　詰合せ10kgまで同発送　",
+          "name": "ハチ 純・七味とうがらし 15g 　食品・調味料・菓子・飲料　詰合せ10kgまで同発送　",
           "price": 127,
-          "shop": "お酒の元気屋"
+          "shop": "食品&酒プロマートワールド"
         },
         {
           "name": "ハチ 純・七味とうがらし 15g 　食品・調味料・菓子・飲料　詰合せ10kgまで同発送　",
@@ -414,6 +414,11 @@
         {
           "name": "ハチ 純・一味とうがらし 15g 　食品・調味料・菓子・飲料　詰合せ10kgまで同発送　",
           "price": 127,
+          "shop": "お酒の元気屋"
+        },
+        {
+          "name": "ハチ 純・一味とうがらし 15g 　食品・調味料・菓子・飲料　詰合せ10kgまで同発送　",
+          "price": 127,
           "shop": "酒ショップーMOUーヤフー店"
         },
         {
@@ -422,14 +427,9 @@
           "shop": "お酒の元気屋"
         },
         {
-          "name": "ハチ 純・一味とうがらし 15g 　食品・調味料・菓子・飲料　詰合せ10kgまで同発送　",
-          "price": 127,
-          "shop": "食品&酒プロマートワールド"
-        },
-        {
           "name": "ハチ 本格仕込カレーうどんの素 濃口 280g 　食品・調味料・菓子・飲料　詰合せ10kgまで同発送　",
           "price": 128,
-          "shop": "酒ショップーMOUーヤフー店"
+          "shop": "食品&酒プロマートワールド"
         },
         {
           "name": "ハチ 本格仕込カレーうどんの素 濃口 280g 　食品・調味料・菓子・飲料　詰合せ10kgまで同発送　",
@@ -439,19 +439,19 @@
         {
           "name": "ハチ 本格仕込カレーうどんの素 濃口 280g 　食品・調味料・菓子・飲料　詰合せ10kgまで同発送　",
           "price": 128,
-          "shop": "食品&酒プロマートワールド"
+          "shop": "酒ショップーMOUーヤフー店"
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-15T18:01:23.812Z"
+      "fetchedAt": "2026-08-22T18:01:23.245Z"
     },
     {
       "keyword": "袋麺 5食",
       "category": "noodle",
       "minPrice": 162,
       "maxPrice": 453,
-      "avgPrice": 418,
-      "medianPrice": 435,
+      "avgPrice": 417,
+      "medianPrice": 430,
       "sampleSize": 30,
       "items": [
         {
@@ -465,12 +465,12 @@
           "shop": "アルコバレーノ"
         },
         {
-          "name": "つけつゆ 5食 麺つゆ かも川 かも川手延素麺 かも川手延素麺株式会社",
+          "name": "かけつゆ 5食 麺つゆ かも川 かも川手延素麺 かも川手延素麺株式会社",
           "price": 385,
           "shop": "かも手の麺 Yahoo!店"
         },
         {
-          "name": "かけつゆ 5食 麺つゆ かも川 かも川手延素麺 かも川手延素麺株式会社",
+          "name": "つけつゆ 5食 麺つゆ かも川 かも川手延素麺 かも川手延素麺株式会社",
           "price": 385,
           "shop": "かも手の麺 Yahoo!店"
         },
@@ -485,36 +485,36 @@
           "shop": "JetPrice"
         },
         {
+          "name": "日清のラーメン屋さん 函館しお ( 79g×5食入り )/ 日清のラーメン屋さん",
+          "price": 405,
+          "shop": "爽快ドラッグ"
+        },
+        {
           "name": "日清のラーメン屋さん 札幌みそ ( 81g×5食入り )/ 日清のラーメン屋さん",
           "price": 405,
           "shop": "爽快ドラッグ"
         },
         {
-          "name": "土日限定最大5％★こんにゃく麺食品 こんにゃくうどん 糖質0 カロリーオフ麺 うどん 糖質ゼロ麺(140g*5食入*1袋入)",
+          "name": "土日最大+5%★こんにゃく麺食品 こんにゃくうどん 糖質0 カロリーオフ麺 うどん 糖質ゼロ麺(140g*5食入*1袋入)",
           "price": 410,
           "shop": "こんにゃくパーク"
         },
         {
-          "name": "土日限定最大5％★ランキング受賞!こんにゃく麺食品 糖質0 カロリーオフ ミラクルヌードル 糖質ゼロ麺(150g*5食入*1袋入)",
+          "name": "土日最大+5%★ランキング受賞!こんにゃく麺食品 糖質0 カロリーオフ ミラクルヌードル 糖質ゼロ麺(150g*5食入*1袋入)",
           "price": 410,
           "shop": "こんにゃくパーク"
-        },
-        {
-          "name": "日清食品 日清のラーメン屋さん 札幌みそ5食パック 袋入りラーメン ラーメン インスタント レトルト 食品",
-          "price": 412,
-          "shop": "ココデカウ"
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-15T18:01:25.174Z"
+      "fetchedAt": "2026-08-22T18:01:24.402Z"
     },
     {
       "keyword": "卵 10個",
       "category": "egg",
       "minPrice": 195,
       "maxPrice": 336,
-      "avgPrice": 299,
-      "medianPrice": 319,
+      "avgPrice": 300,
+      "medianPrice": 323,
       "sampleSize": 30,
       "items": [
         {
@@ -569,15 +569,15 @@
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-15T18:01:26.521Z"
+      "fetchedAt": "2026-08-22T18:01:25.620Z"
     },
     {
       "keyword": "鶏卵 Lサイズ",
       "category": "egg",
       "minPrice": 326,
-      "maxPrice": 2139,
-      "avgPrice": 1111,
-      "medianPrice": 1178,
+      "maxPrice": 2129,
+      "avgPrice": 1061,
+      "medianPrice": 1078,
       "sampleSize": 30,
       "items": [
         {
@@ -586,14 +586,14 @@
           "shop": "農マル園芸 農産物直売所"
         },
         {
-          "name": "エッグトレー 400900 サンコー(三甲) ●業務用",
-          "price": 330,
-          "shop": "資材マーケット.COMヤフー店"
-        },
-        {
           "name": "エッグトレー 400900 サンコー(三甲)",
           "price": 330,
           "shop": "資材屋"
+        },
+        {
+          "name": "エッグトレー 400900 サンコー(三甲) ●業務用",
+          "price": 330,
+          "shop": "資材マーケット.COMヤフー店"
         },
         {
           "name": "エッグトレー30-3 400907 サンコー(三甲) ●業務用",
@@ -632,15 +632,15 @@
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-15T18:01:28.191Z"
+      "fetchedAt": "2026-08-22T18:01:26.780Z"
     },
     {
       "keyword": "牛乳 1000ml",
       "category": "dairy",
       "minPrice": 275,
-      "maxPrice": 399,
-      "avgPrice": 349,
-      "medianPrice": 355,
+      "maxPrice": 410,
+      "avgPrice": 352,
+      "medianPrice": 359,
       "sampleSize": 30,
       "items": [
         {
@@ -669,11 +669,6 @@
           "shop": "成城石井(公式)Yahoo!ショッピング店"
         },
         {
-          "name": "マルサンアイ国産大豆の無調整豆乳 1000ml",
-          "price": 318,
-          "shop": "成城石井(公式)Yahoo!ショッピング店"
-        },
-        {
           "name": "山田牛乳 1000ml 冷蔵便",
           "price": 320,
           "shop": "フロム蔵王ミルクショップ"
@@ -692,17 +687,22 @@
           "name": "丹那牛乳生乳鮮度にこだわった丹那牛乳 1000ml",
           "price": 334,
           "shop": "成城石井(公式)Yahoo!ショッピング店"
+        },
+        {
+          "name": "森永 あじわい便り 1本 【3980円対象】 【冷蔵同梱】 1000ml 森永乳業",
+          "price": 335,
+          "shop": "街の牛乳屋さん"
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-15T18:01:29.352Z"
+      "fetchedAt": "2026-08-22T18:01:27.924Z"
     },
     {
       "keyword": "ヨーグルト 400g",
       "category": "dairy",
       "minPrice": 225,
-      "maxPrice": 531,
-      "avgPrice": 385,
+      "maxPrice": 521,
+      "avgPrice": 383,
       "medianPrice": 385,
       "sampleSize": 30,
       "items": [
@@ -758,15 +758,15 @@
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-15T18:01:30.496Z"
+      "fetchedAt": "2026-08-22T18:01:29.106Z"
     },
     {
       "keyword": "バター 200g",
       "category": "dairy",
       "minPrice": 187,
       "maxPrice": 378,
-      "avgPrice": 321,
-      "medianPrice": 345,
+      "avgPrice": 315,
+      "medianPrice": 324,
       "sampleSize": 29,
       "items": [
         {
@@ -785,6 +785,11 @@
           "shop": "プロフーズYahoo!店"
         },
         {
+          "name": "ビーフカレー 辛口 200g [550034]",
+          "price": 236,
+          "shop": "A-プライスオンラインショップ"
+        },
+        {
           "name": "粉糖 200g",
           "price": 240,
           "shop": "ベーカリスタYahoo!店"
@@ -800,6 +805,11 @@
           "shop": "Joshin web"
         },
         {
+          "name": "共立食品 HOMEMADECAKE クッキーミックス粉 200g",
+          "price": 302,
+          "shop": "プロフーズYahoo!店"
+        },
+        {
           "name": "共立食品 HOMEMADECAKE マフィンミックス粉 200g",
           "price": 302,
           "shop": "プロフーズYahoo!店"
@@ -808,20 +818,10 @@
           "name": "共立食品 HOMEMADECAKE スコーンミックス粉 200g",
           "price": 302,
           "shop": "プロフーズYahoo!店"
-        },
-        {
-          "name": "共立食品 HOMEMADECAKE クッキーミックス粉 200g",
-          "price": 302,
-          "shop": "プロフーズYahoo!店"
-        },
-        {
-          "name": "共立食品 HOMEMADECAKE パウンドケーキミックス粉 200g",
-          "price": 302,
-          "shop": "プロフーズYahoo!店"
         }
       ],
       "excludedCount": 1,
-      "fetchedAt": "2026-08-15T18:01:31.641Z"
+      "fetchedAt": "2026-08-22T18:01:30.321Z"
     },
     {
       "keyword": "マーガリン",
@@ -848,12 +848,12 @@
           "shop": "フォーシーズン"
         },
         {
-          "name": "厚焼せんべい白ゴマ【1枚袋入】佐々木製菓",
+          "name": "厚焼せんべいアーモンド【1枚袋入】佐々木製菓",
           "price": 81,
           "shop": "岩手のせんべいやさん"
         },
         {
-          "name": "厚焼せんべいアーモンド【1枚袋入】佐々木製菓",
+          "name": "厚焼せんべい白ゴマ【1枚袋入】佐々木製菓",
           "price": 81,
           "shop": "岩手のせんべいやさん"
         },
@@ -884,15 +884,15 @@
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-15T18:01:32.883Z"
+      "fetchedAt": "2026-08-22T18:01:31.454Z"
     },
     {
       "keyword": "鶏むね肉",
       "category": "meat",
       "minPrice": 71,
-      "maxPrice": 380,
-      "avgPrice": 287,
-      "medianPrice": 260,
+      "maxPrice": 432,
+      "avgPrice": 327,
+      "medianPrice": 358,
       "sampleSize": 28,
       "items": [
         {
@@ -921,41 +921,41 @@
           "shop": "田中企画"
         },
         {
-          "name": "鶏チリの素 130g ３〜４人前 日本食研/3913ｘ１個 鶏むね肉をしっとり、ジューシーに仕上げます",
+          "name": "P-4976555827996 ドギーマンハヤシ お肉屋さんのジューシービーフサラミ 100g 生食感 国産 無添加良品 ジャーキー",
           "price": 260,
-          "shop": "池ネット"
+          "shop": "日本橋CHACHA!ヤフー店"
         },
         {
-          "name": "鶏チリの素 130g ３〜４人前 日本食研/3913ｘ１個 鶏むね肉をしっとり、ジューシーに仕上げます",
+          "name": "P-4976555827996 ドギーマンハヤシ お肉屋さんのジューシービーフサラミ 100g 生食感 国産 無添加良品 ジャーキー",
           "price": 260,
-          "shop": "海のネット"
+          "shop": "LifeStage Nana! Yahoo!店"
         },
         {
-          "name": "鶏チリの素 130g ３〜４人前 日本食研/3913ｘ１個 鶏むね肉をしっとり、ジューシーに仕上げます",
+          "name": "P-4976555827996 ドギーマンハヤシ お肉屋さんのジューシービーフサラミ 100g 生食感 国産 無添加良品 ジャーキー",
           "price": 260,
-          "shop": "傾奇屋"
+          "shop": "家電のSAKURA"
         },
         {
-          "name": "鶏チリの素 130g ３〜４人前 日本食研/3913ｘ１個 鶏むね肉をしっとり、ジューシーに仕上げます",
-          "price": 260,
-          "shop": "カワネット"
+          "name": "MCC CAFE STYLE バターチキンカレー 160g エムシーシー カフェスタイル 業務用レトルトカレー",
+          "price": 298,
+          "shop": "FRESH ROASTER珈琲問屋 Yahoo!店"
         },
         {
-          "name": "鶏チリの素 130g ３〜４人前 日本食研/3913ｘ１個 鶏むね肉をしっとり、ジューシーに仕上げます",
-          "price": 260,
-          "shop": "森のネット"
+          "name": "焼肉のたれ MoMi にんにくみそ 230g",
+          "price": 302,
+          "shop": "エバラ食品 公式オンラインショップ"
         }
       ],
       "excludedCount": 2,
-      "fetchedAt": "2026-08-15T18:01:34.063Z"
+      "fetchedAt": "2026-08-22T18:01:32.638Z"
     },
     {
       "keyword": "鶏もも肉",
       "category": "meat",
       "minPrice": 144,
-      "maxPrice": 382,
-      "avgPrice": 308,
-      "medianPrice": 319,
+      "maxPrice": 380,
+      "avgPrice": 305,
+      "medianPrice": 311,
       "sampleSize": 30,
       "items": [
         {
@@ -1010,15 +1010,15 @@
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-15T18:01:35.413Z"
+      "fetchedAt": "2026-08-22T18:01:33.842Z"
     },
     {
       "keyword": "豚こま切れ",
       "category": "meat",
       "minPrice": 149,
-      "maxPrice": 1950,
-      "avgPrice": 1245,
-      "medianPrice": 1411,
+      "maxPrice": 1980,
+      "avgPrice": 1248,
+      "medianPrice": 1415,
       "sampleSize": 30,
       "items": [
         {
@@ -1073,14 +1073,14 @@
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-15T18:01:36.552Z"
+      "fetchedAt": "2026-08-22T18:01:35.071Z"
     },
     {
       "keyword": "豚ひき肉",
       "category": "meat",
       "minPrice": 119,
       "maxPrice": 480,
-      "avgPrice": 323,
+      "avgPrice": 319,
       "medianPrice": 299,
       "sampleSize": 30,
       "items": [
@@ -1136,14 +1136,14 @@
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-15T18:01:37.789Z"
+      "fetchedAt": "2026-08-22T18:01:36.226Z"
     },
     {
       "keyword": "鮭 切り身",
       "category": "fish",
       "minPrice": 300,
-      "maxPrice": 864,
-      "avgPrice": 623,
+      "maxPrice": 850,
+      "avgPrice": 605,
       "medianPrice": 598,
       "sampleSize": 30,
       "items": [
@@ -1168,6 +1168,11 @@
           "shop": "RESOURCE HOKKAIDO"
         },
         {
+          "name": "訳あり 激辛 ぼだっこ 塩鮭 紅鮭 べにさけ 切り身 カマや尻尾等の切り落とし 100g入 大小混合 端材 大辛口 秋田 福島 とてもしょっぱいサケ 冷凍",
+          "price": 350,
+          "shop": "名代　釜庄"
+        },
+        {
           "name": "【上品な旨み／簡単温め】紅鮭 西京焼き 切り身 食べきり個包装 60g ロシア産 常温保存90日 冷凍可 西京味噌仕込み 焼き魚 お弁当 一人前 時短調理 爆買",
           "price": 440,
           "shop": "RESOURCE HOKKAIDO"
@@ -1188,42 +1193,27 @@
           "shop": "豊洲市場.jp うに かに まぐろ 海鮮グルメ"
         },
         {
-          "name": "お中元 サーモン 鮭 サケ ネギトロ サーモン 80g 1個 海鮮丼",
-          "price": 540,
-          "shop": "うに カニ まぐろなら築地の王様"
-        },
-        {
           "name": "お中元 サーモン 鮭 サケ ネギトロサーモン80g 1個 海鮮丼",
           "price": 540,
           "shop": "訳あり〜高級食材 グルメの王様"
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-15T18:01:39.176Z"
+      "fetchedAt": "2026-08-22T18:01:37.388Z"
     },
     {
       "keyword": "サバ缶 水煮",
       "category": "fish",
       "minPrice": 137,
-      "maxPrice": 378,
-      "avgPrice": 283,
-      "medianPrice": 298,
+      "maxPrice": 328,
+      "avgPrice": 261,
+      "medianPrice": 292,
       "sampleSize": 30,
       "items": [
         {
           "name": "さばみそ煮 200g サバ 缶詰 鯖缶 さば 味噌煮 保存食 栄養 DHA・EPA 4571286959574【WIN】",
           "price": 137,
           "shop": "FUN SHOP"
-        },
-        {
-          "name": "さば味付 200g サバ 缶詰 鯖缶 さば 味付け 保存食 栄養 DHA・EPA 4571286959581【WIN】",
-          "price": 137,
-          "shop": "FUN SHOP"
-        },
-        {
-          "name": "いなば ひと口 さば 水煮 (60g) 缶詰 おつまみ おかず缶",
-          "price": 138,
-          "shop": "SCB"
         },
         {
           "name": "TFJ　サバ水煮(紙巻缶)　150g",
@@ -1236,12 +1226,32 @@
           "shop": "SCB"
         },
         {
-          "name": "さば水煮　SSK　うまい！鯖シリーズ　150ｇ　エスエスケイ　サバ缶　EOK缶　",
-          "price": 208,
-          "shop": "うまいらどっとこむ"
+          "name": "食品 缶詰 缶詰 サバ 水煮さば水煮150g  41733 マルハニチロ",
+          "price": 198,
+          "shop": "メガストア Yahoo!店"
         },
         {
-          "name": "さば醤油煮　SSK　うまい！鯖シリーズ　150ｇ　エスエスケイ　サバ缶　EOK缶　",
+          "name": "食品 缶詰 缶詰 サバ 水煮さば水煮150g  41733 マルハニチロ",
+          "price": 198,
+          "shop": "お酒のひとときYahoo!店"
+        },
+        {
+          "name": "食品 缶詰 缶詰 サバ 水煮さば水煮150g  41733 マルハニチロ",
+          "price": 198,
+          "shop": "食福堂"
+        },
+        {
+          "name": "食品 缶詰 缶詰 サバ 水煮さば水煮150g  41733 マルハニチロ",
+          "price": 198,
+          "shop": "暮らし健康ネット館 Yahoo!店"
+        },
+        {
+          "name": "食品 缶詰 缶詰 サバ 水煮さば水煮150g  41733 マルハニチロ",
+          "price": 198,
+          "shop": "ゆにでのこづち Yahoo!店"
+        },
+        {
+          "name": "さば水煮　SSK　うまい！鯖シリーズ　150ｇ　エスエスケイ　サバ缶　EOK缶　",
           "price": 208,
           "shop": "うまいらどっとこむ"
         },
@@ -1249,35 +1259,20 @@
           "name": "さば味噌煮　SSK　うまい！鯖シリーズ　150ｇ　エスエスケイ　サバ缶　ＥＯＫ缶　",
           "price": 208,
           "shop": "うまいらどっとこむ"
-        },
-        {
-          "name": "うまい！さば水煮 (150g) 缶詰 惣菜　国産",
-          "price": 278,
-          "shop": "SCB"
-        },
-        {
-          "name": "山形ひっぱりうどん 1袋（300g）（みうら食品）（テレビ メディア で放送 ご当地グルメ）",
-          "price": 286,
-          "shop": "山形のお土産 つばさ"
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-15T18:01:40.355Z"
+      "fetchedAt": "2026-08-22T18:01:38.533Z"
     },
     {
       "keyword": "ツナ缶",
       "category": "fish",
-      "minPrice": 59,
+      "minPrice": 79,
       "maxPrice": 205,
-      "avgPrice": 172,
-      "medianPrice": 180,
+      "avgPrice": 177,
+      "medianPrice": 185,
       "sampleSize": 30,
       "items": [
-        {
-          "name": "【在庫処分】 賞味期限：2027年2月 はごろも シーチキン Smile プチ マイルド (25g) パウチ ツナ缶 一人前のサラダやお料理に",
-          "price": 59,
-          "shop": "SCB"
-        },
         {
           "name": "【在庫処分】 賞味期限：2027年7月 はごろも はごろも煮 エブリ Every (50g) パウチ かんづめ ツナ",
           "price": 79,
@@ -1322,17 +1317,22 @@
           "name": "いなば食品　ライトツナ　食塩無添加オイル無添加　７０ｇ　１缶",
           "price": 168,
           "shop": "ぱーそなるたのめーる"
+        },
+        {
+          "name": "いなば食品　ライトツナ　スーパーノンオイル　７０ｇ　１缶",
+          "price": 168,
+          "shop": "ぱーそなるたのめーる"
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-15T18:01:41.795Z"
+      "fetchedAt": "2026-08-22T18:01:39.679Z"
     },
     {
       "keyword": "豆腐 木綿",
       "category": "tofu",
       "minPrice": 77,
-      "maxPrice": 468,
-      "avgPrice": 274,
+      "maxPrice": 450,
+      "avgPrice": 267,
       "medianPrice": 269,
       "sampleSize": 30,
       "items": [
@@ -1388,14 +1388,14 @@
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-15T18:01:42.974Z"
+      "fetchedAt": "2026-08-22T18:01:40.862Z"
     },
     {
       "keyword": "納豆 3パック",
       "category": "tofu",
       "minPrice": 139,
-      "maxPrice": 1663,
-      "avgPrice": 774,
+      "maxPrice": 1388,
+      "avgPrice": 756,
       "medianPrice": 842,
       "sampleSize": 30,
       "items": [
@@ -1451,14 +1451,14 @@
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-15T18:01:44.150Z"
+      "fetchedAt": "2026-08-22T18:01:42.073Z"
     },
     {
       "keyword": "油揚げ",
       "category": "tofu",
       "minPrice": 68,
-      "maxPrice": 120,
-      "avgPrice": 103,
+      "maxPrice": 127,
+      "avgPrice": 104,
       "medianPrice": 104,
       "sampleSize": 30,
       "items": [
@@ -1498,9 +1498,9 @@
           "shop": "青森せんべい屋"
         },
         {
-          "name": "旭フレッシュ 天かす 90g ★食品・調味料・菓子・飲料★詰合せ10kgまで同発送★",
+          "name": "旭フレッシュ 天かす 90g 　食品・調味料・菓子・飲料　詰合せ10kgまで同発送　",
           "price": 93,
-          "shop": "お酒の元気屋"
+          "shop": "食品&酒プロマートワールド"
         },
         {
           "name": "旭フレッシュ 天かす 90g 　食品・調味料・菓子・飲料　詰合せ10kgまで同発送　",
@@ -1508,13 +1508,13 @@
           "shop": "酒ショップーMOUーヤフー店"
         },
         {
-          "name": "旭フレッシュ 天かす 90g 　食品・調味料・菓子・飲料　詰合せ10kgまで同発送　",
+          "name": "旭フレッシュ 天かす 90g ★食品・調味料・菓子・飲料★詰合せ10kgまで同発送★",
           "price": 93,
-          "shop": "食品&酒プロマートワールド"
+          "shop": "お酒の元気屋"
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-15T18:01:45.340Z"
+      "fetchedAt": "2026-08-22T18:01:43.282Z"
     },
     {
       "keyword": "玉ねぎ 3個",
@@ -1543,16 +1543,6 @@
         {
           "name": "豆腐ハンバーグの素 100g ３個分 日本食研/4609ｘ１袋 特製下味粉+特製ソース",
           "price": 250,
-          "shop": "sun phase"
-        },
-        {
-          "name": "豆腐ハンバーグの素 100g ３個分 日本食研/4609ｘ１袋 特製下味粉+特製ソース",
-          "price": 250,
-          "shop": "池ネット"
-        },
-        {
-          "name": "豆腐ハンバーグの素 100g ３個分 日本食研/4609ｘ１袋 特製下味粉+特製ソース",
-          "price": 250,
           "shop": "森のネット"
         },
         {
@@ -1563,12 +1553,22 @@
         {
           "name": "豆腐ハンバーグの素 100g ３個分 日本食研/4609ｘ１袋 特製下味粉+特製ソース",
           "price": 250,
+          "shop": "傾奇屋"
+        },
+        {
+          "name": "豆腐ハンバーグの素 100g ３個分 日本食研/4609ｘ１袋 特製下味粉+特製ソース",
+          "price": 250,
+          "shop": "池ネット"
+        },
+        {
+          "name": "豆腐ハンバーグの素 100g ３個分 日本食研/4609ｘ１袋 特製下味粉+特製ソース",
+          "price": 250,
           "shop": "サポニンタイガネット事業部"
         },
         {
           "name": "豆腐ハンバーグの素 100g ３個分 日本食研/4609ｘ１袋 特製下味粉+特製ソース",
           "price": 250,
-          "shop": "傾奇屋"
+          "shop": "sun phase"
         },
         {
           "name": "淡路産たまねぎ",
@@ -1577,14 +1577,14 @@
         }
       ],
       "excludedCount": 1,
-      "fetchedAt": "2026-08-15T18:01:46.557Z"
+      "fetchedAt": "2026-08-22T18:01:44.471Z"
     },
     {
       "keyword": "にんじん",
       "category": "vegetable",
       "minPrice": 68,
       "maxPrice": 130,
-      "avgPrice": 111,
+      "avgPrice": 110,
       "medianPrice": 116,
       "sampleSize": 30,
       "items": [
@@ -1609,12 +1609,12 @@
           "shop": "JetPrice"
         },
         {
-          "name": "伊藤園 鉄分野菜 1日分の鉄分 200mL",
+          "name": "伊藤園 充実野菜 緑黄色野菜ミックス 200mL パック 野菜ジュース 飲料 ジュース",
           "price": 96,
           "shop": "JetPrice"
         },
         {
-          "name": "伊藤園 充実野菜 緑黄色野菜ミックス 200mL パック 野菜ジュース 飲料 ジュース",
+          "name": "伊藤園 鉄分野菜 1日分の鉄分 200mL",
           "price": 96,
           "shop": "JetPrice"
         },
@@ -1640,13 +1640,13 @@
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-15T18:01:47.712Z"
+      "fetchedAt": "2026-08-22T18:01:45.606Z"
     },
     {
       "keyword": "もやし",
       "category": "vegetable",
       "minPrice": 66,
-      "maxPrice": 155,
+      "maxPrice": 157,
       "avgPrice": 131,
       "medianPrice": 132,
       "sampleSize": 30,
@@ -1669,12 +1669,12 @@
         {
           "name": "もやし炒めの素 2人前 鶏ガラしょうゆ味 日本食研/6571 ｘ１袋",
           "price": 120,
-          "shop": "サポニンタイガネット事業部"
+          "shop": "カワネット"
         },
         {
           "name": "もやし炒めの素 2人前 鶏ガラしょうゆ味 日本食研/6571 ｘ１袋",
           "price": 120,
-          "shop": "カワネット"
+          "shop": "サポニンタイガネット事業部"
         },
         {
           "name": "もやしと豚肉のっけ蒸しのたれ 旨塩白湯味 10分で簡単♪ 50g ２〜３人前 日本食研/5910ｘ１袋",
@@ -1694,25 +1694,25 @@
         {
           "name": "もやしと豚肉のっけ蒸しのたれ 旨塩白湯味 10分で簡単♪ 50g ２〜３人前 日本食研/5910ｘ１袋",
           "price": 130,
-          "shop": "sun phase"
+          "shop": "海のネット"
         },
         {
           "name": "もやしと豚肉のっけ蒸しのたれ 旨塩白湯味 10分で簡単♪ 50g ２〜３人前 日本食研/5910ｘ１袋",
           "price": 130,
-          "shop": "海のネット"
+          "shop": "sun phase"
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-15T18:01:48.844Z"
+      "fetchedAt": "2026-08-22T18:01:46.875Z"
     },
     {
       "keyword": "醤油 1L",
       "category": "seasoning",
       "minPrice": 145,
       "maxPrice": 370,
-      "avgPrice": 289,
+      "avgPrice": 285,
       "medianPrice": 288,
-      "sampleSize": 29,
+      "sampleSize": 28,
       "items": [
         {
           "name": "【お試し用バラ】清浄園 マッ鮮生だしパック (イワシ) 10g / 韓国食品 韓国調味料 韓国料理 自家製",
@@ -1750,14 +1750,14 @@
           "shop": "食品のネットスーパー・さんきん"
         },
         {
-          "name": "マルキン 醤油 うすくち 1L",
+          "name": "マルキン 醤油 こいくち 1L",
           "price": 258,
-          "shop": "ドラッグスーパー alude"
+          "shop": "オフィストラスト"
         },
         {
           "name": "マルキン 醤油 こいくち 1L",
           "price": 258,
-          "shop": "ドラッグスーパー alude"
+          "shop": "よろずやマルシェYahoo!ショッピング店"
         },
         {
           "name": "マルキン 醤油 うすくち 1L",
@@ -1765,16 +1765,16 @@
           "shop": "よろずやマルシェYahoo!ショッピング店"
         }
       ],
-      "excludedCount": 1,
-      "fetchedAt": "2026-08-15T18:01:50.004Z"
+      "excludedCount": 2,
+      "fetchedAt": "2026-08-22T18:01:48.145Z"
     },
     {
       "keyword": "味噌 750g",
       "category": "seasoning",
       "minPrice": 250,
       "maxPrice": 378,
-      "avgPrice": 323,
-      "medianPrice": 346,
+      "avgPrice": 324,
+      "medianPrice": 344,
       "sampleSize": 30,
       "items": [
         {
@@ -1803,17 +1803,12 @@
           "shop": "業務用食品アミカYahoo!店"
         },
         {
-          "name": "マルコメ　一休さん　750g",
-          "price": 270,
-          "shop": "川治屋"
-        },
-        {
-          "name": "マルサ特撰 津軽味噌 白こし 750g ワダカン",
+          "name": "マルサ特撰 津軽味噌 赤こし 750g ワダカン",
           "price": 290,
           "shop": "カブセンターYahoo!店"
         },
         {
-          "name": "マルサ特撰 津軽味噌 赤こし 750g ワダカン",
+          "name": "マルサ特撰 津軽味噌 白こし 750g ワダカン",
           "price": 290,
           "shop": "カブセンターYahoo!店"
         },
@@ -1826,20 +1821,30 @@
           "name": "マルコメ 業務用 一休さん だし入りみそ 750g",
           "price": 297,
           "shop": "エスマート"
+        },
+        {
+          "name": "ダイショー 味噌キムチ鍋スープ 辛さマイルド ストレートタイプ 750g袋 鍋の素 鍋つゆ【発送重量 1kg】codeA1",
+          "price": 298,
+          "shop": "量り売りモール"
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-15T18:01:51.233Z"
+      "fetchedAt": "2026-08-22T18:01:49.325Z"
     },
     {
       "keyword": "サラダ油 1L",
       "category": "seasoning",
-      "minPrice": 642,
-      "maxPrice": 1000,
-      "avgPrice": 833,
+      "minPrice": 565,
+      "maxPrice": 999,
+      "avgPrice": 817,
       "medianPrice": 840,
       "sampleSize": 29,
       "items": [
+        {
+          "name": "マコーミック 中華ドレッシング 150ml",
+          "price": 565,
+          "shop": "上之島屋 US Imports"
+        },
         {
           "name": "ポップコーン用オイル 470g（1個） 映画 イベント ゲームセンター 売店 おかし",
           "price": 642,
@@ -1856,7 +1861,7 @@
           "shop": "eジャパン"
         },
         {
-          "name": "[SSK]フレンチ赤クリーミードレッシング／１L　※賞味期限：2026年8月",
+          "name": "[SSK]フレンチ赤クリーミードレッシング／１L　※賞味期限：2026年11月",
           "price": 649,
           "shop": "グランドコーヒーロースター"
         },
@@ -1884,15 +1889,10 @@
           "name": "ケンコーディライト ドレッシング イタリアン 1L",
           "price": 770,
           "shop": "エスマート"
-        },
-        {
-          "name": "エバラ食品　韓国風サラダの素 チョレギ(塩味)　1L",
-          "price": 775,
-          "shop": "業務用食品アミカYahoo!店"
         }
       ],
       "excludedCount": 1,
-      "fetchedAt": "2026-08-15T18:01:52.486Z"
+      "fetchedAt": "2026-08-22T18:01:50.493Z"
     }
   ]
 }
