@@ -1,34 +1,50 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-08-28T22:00:31.662Z",
+  "fetchedAt": "2026-08-29T22:00:32.430Z",
   "periodDays": 14,
   "totalArticles": 54,
   "categoryBreakdown": {
-    "seasoning": 2,
-    "oil": 2,
+    "seasoning": 1,
+    "oil": 1,
     "dairy": 1,
     "fish": 1,
-    "snack": 8,
-    "beverage": 4
+    "snack": 9,
+    "beverage": 5
   },
   "articles": [
     {
-      "title": "9月は値上げラッシュ!?【くらピタ!】飲食品4531品目で値上げを予定 8割以上が「調味料」と「加工食品」 中東情勢の悪化に伴う原材料費や物流費の高騰などが背景 消費者にますます求められる「節約術」（ＳＢＣ信越放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kc09KTDFER3JybVdBczFXcVdHeFZXUmJKVF9wTDF4VktiTUxkcEtDVHNpbUd2Y3dWZFRvN3dYVldXZlRSeWZ3X1o0am5uRHZTM0RHUG9YUXoxQVJ0am8ySkxDWTgtdmJPY2Z4eVpCbGtEeUJyTU9HMmVQZlN5OGc?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 21:12:37 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [
-        "seasoning"
-      ],
+      "title": "プロテインの値上げ続く 需要拡大",
+      "link": "https://news.yahoo.co.jp/pickup/6593489?source=rss",
+      "pubDate": "Sat, 29 Aug 2026 03:01:25 GMT",
+      "source": "Yahoo!ニュース 経済",
+      "categories": [],
       "priceKeywords": [
-        "値上げ",
-        "高騰",
-        "品目"
+        "値上げ"
       ]
     },
     {
-      "title": "9月は値上げラッシュ⁉【くらピタ！】飲食品4531品目で値上げを予定 8割以上が「調味料」と「加工食品」 中東情勢の悪化に伴う原材料費や物流費の高騰などが背景 消費者にますます求められる「節約術」 - TBS NEWS DIG",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YTUhrdWJyYmRrVVF1VEpHMEJaelZtcWFvNzBGd2ljc2w3eHBWVFA1LUNYZHRKdkREZWJpc3V6SklOLWtkUXE3QjNvdF9iNDZjd3JDZnpNc1RJQQ?oc=5",
+      "title": "食品値上げの裏に「ナフサ」 日本の代替調達を支える海上物流 - au Webポータル",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sdDFxVk1memp2amw0YVhwZldWWFZZcjlhTGkzUmc2X2gwNHlNTkRLdC1lbHpEVWU3aUVKNmVNX0t1VVdmNjUtSGo0RFAybXRQTEp6UEwwRWIwd2E4QVMwLU1seVV2eWJsOFlWbUNEX0hYbkpUZjhYNg?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 01:51:00 GMT",
+      "source": "GoogleNews 中東 食品",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "6月食品値上げ1078品 中東影響で価格転嫁 夏以降に値上げラッシュか Khamzat Chimaev (LujeaG7AWu) - Mshale",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fa0c5VVhmX3hIa2EwRnBMVGdsdnNCbUR4TEVWeklJUkMwdnVZd3V3RVM2UEZlZm9idlFFWlhiRF9qM0FoYzFCNE1iUkxBNURNemZrc1RwdUt2Mk0?oc=5",
+      "pubDate": "Sat, 29 Aug 2026 01:23:20 GMT",
+      "source": "GoogleNews 中東 食品",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "9月は値上げラッシュ⁉【くらピタ！】飲食品4531品目で値上げを予定 8割以上が「調味料」と「加工食品」 中東情勢の悪化に伴う原材料費や物流費の高騰などが背景 消費者にますます求められる「節約術」 | SBC NEWS | 長野のニュース | SBC信越放送 (1ページ) - TBS NEWS DIG",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83TE1McEVzR21JdUVCU3NDZWt0TG1GWjJsYVpGODdXTy0wQmxFV3o5TzlZYzNRNWJIWlFMLXJmOFhfUGNkcm93RW5pcXB0UmdDY3NoYzJsaXBQdDZZaF9ZZXk1VUs4UGM?oc=5",
       "pubDate": "Fri, 28 Aug 2026 21:10:00 GMT",
       "source": "GoogleNews 中東 食品",
       "categories": [
@@ -81,16 +97,6 @@
       ]
     },
     {
-      "title": "食品値上げの裏に「ナフサ」 日本の代替調達を支える海上物流 - au Webポータル",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sdDFxVk1memp2amw0YVhwZldWWFZZcjlhTGkzUmc2X2gwNHlNTkRLdC1lbHpEVWU3aUVKNmVNX0t1VVdmNjUtSGo0RFAybXRQTEp6UEwwRWIwd2E4QVMwLU1seVV2eWJsOFlWbUNEX0hYbkpUZjhYNg?oc=5",
-      "pubDate": "Fri, 28 Aug 2026 05:50:34 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
       "title": "日銀 氷見野副総裁 “これまで以上に物価上振れリスク意識”",
       "link": "https://news.web.nhk/newsweb/na/nd-20260827de46740",
       "pubDate": "Thu, 27 Aug 2026 16:14:45 +0900",
@@ -121,8 +127,8 @@
       ]
     },
     {
-      "title": "食品値上げ９月は今年最多 中東情勢や円安で家計直撃 - 週刊大阪日日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oanpqWHhxc1BlNEJEb25RMDRWaldnbTBnTTBvdDBrUFdQc3FQNHg3TjRrTjBZSXNaSXlVeGMzQ0tFUk1jVmc0T0VvaWZlOFRZM0ZSZHRDZDU?oc=5",
+      "title": "食品値上げ９月は今年最多 中東情勢や円安で家計直撃 - 47NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1PR013dW4tMWM4Yjl5eUcya0dUQTBweUNCdFdqWkZ2UXBLS1RyWjdjOVlFYlpPNk9ldS16MW13cnR4UDl6QVRCaGVjRQ?oc=5",
       "pubDate": "Thu, 27 Aug 2026 00:30:34 GMT",
       "source": "GoogleNews 中東 食品",
       "categories": [],
@@ -151,18 +157,6 @@
       "categories": [],
       "priceKeywords": [
         "値上がり"
-      ]
-    },
-    {
-      "title": "家庭用食用油 オリーブオイル回復に期待 付加価値化が市場底上げ - 食品新聞 WEB版",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qcEdBOGJoQlM4UjhMNVVheFd3ZjhkQXhvLURlRkhtNl9oSkhZeDBDUFJVSmtfdzlhYUZ0YmZ1SFV5TTNyREpLZG1XUWJrLWlYTTFIUmpJSmJUWFk?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 04:21:23 GMT",
-      "source": "GoogleNews 食用油",
-      "categories": [
-        "oil"
-      ],
-      "priceKeywords": [
-        "家庭用"
       ]
     },
     {
@@ -211,9 +205,9 @@
       ]
     },
     {
-      "title": "明治、「きのこの山」「たけのこの里」など14品の値上げ発表 チョコレート・スナックは11・1出荷分より 約3％～8％ - 山陽新聞",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVlN0NHJSOGgwbTFlRVk0NEhTSWRWbFJyc1g3aTNXZm0wTC1HbTE1Q1hpQkxUU0MyeTJfeFFVeWtMMlcxMjNiU015aEM1RHVFUVpfa0hPaUlGejZhUmZNRFMxQ2lfU3VhZGVEU0VHdUFOcmJlaTdGdjN2cXNCUVZ4TFkycWQ?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 02:15:27 GMT",
+      "title": "明治、「きのこの山」「たけのこの里」など1 4 品の値上げ発表 チョコレート・スナックは11・1出荷分より 約3％～8％ - 山陽新聞",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZTUg5Wkc4a1NZcGd5VUxfWlU4Zkpyd0x1SUE2Z1JkU1UtWnJzN2dib1pYN1hhaXdPX3liNHhmTkZhUGg2ZDBIbkZKZ1ZBWmpibV9BNWJZZ1FSUFo5WmNXcTd1RVlXejJCUXpUQWhB?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 15:56:23 GMT",
       "source": "GoogleNews 明治",
       "categories": [
         "snack"
@@ -295,6 +289,17 @@
       ]
     },
     {
+      "title": "明治「きのこの山」「たけのこの里」など計１４品を３～２１％値上げ、１０～１１月出荷分から…コスト上昇反映 (読売新聞オンライン) - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWHJCX3BhMi1kbTkzNS05WmU0Y1BSNGdEemY2eHUtNTd0MVNQY250TEV6ZGY5LUwyZnQ1MGhXUFJiVVZ2dGs0T0hGNW9aT1hzQnlYNmdaZHBnTmYyUXNWNjdYc3BvRm9YV1FaNnRuN2xMc0NuU09RYXFmc2stbVpaM3hYblNtejBkRHpLclRn?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 13:33:20 GMT",
+      "source": "GoogleNews 明治",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ",
+        "コスト上昇"
+      ]
+    },
+    {
       "title": "明治、「たけのこの里」値上げ - 弘前経済新聞",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Qd2lvWlpidmdscGpTcGw1ck1vdE13Q1FXT3hGZldQelNFVC10SDBJRlRGdDEyYTRiMU02M1gzdHBiWDJjWk44YThkbDdYcWVsTkZOX29R?oc=5",
       "pubDate": "Tue, 18 Aug 2026 10:57:44 GMT",
@@ -318,9 +323,9 @@
       ]
     },
     {
-      "title": "「きのこの山」など明治のチョコやスナック菓子11品目11月から値上げ ロッテも「キシリトールガム」など18品目9月から - 千葉テレビ放送",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtOTR6ak8yVV9RRU56X3Btb1N6NXAwOGIxTklmM1lKUHYxZTNXSkpqLWUzMlJEa3JSQ1NrM2doaG9ldE9Zd0FESHBhQUhndkhwNnZEd3FScXhBakdYaGRZ?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 08:00:59 GMT",
+      "title": "「きのこの山」など明治のチョコやスナック菓子11品目11月から値上げ ロッテも「キシリトールガム」など18品目9月から - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMcG9LUHhzbDd1SEV4emZ5YTFUQUc4MG1jT2N4c2Y5Rmc0d1ZTN1UzODZibjcwVlJCc2ZSb3E2OHE3N1BKOEE0N0IxVS05TGRSYno2VGN4Q2drQ212ZFpWZlRmdVZWZE5Nd1NBLVJFUm9ZUQ?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 07:59:00 GMT",
       "source": "GoogleNews 明治",
       "categories": [
         "snack"
@@ -362,6 +367,16 @@
       ]
     },
     {
+      "title": "明治 「きのこの山」や「たけのこの里」値上げ 11月出荷分から - テレ朝NEWS",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2WXF1Z1RnRjNNQVFUY0ZTTWVtVlFOM2dLUHpGUjF4SDlraTVFcjV6QWJyalNReEEtZm5Sb3FRb21BYk14VE9ya3FJVVF5RkNURHNxWlN6N2pOclFMblE5Nk1PUjlQeWJIM21NSVJQZ2wwZw?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT",
+      "source": "GoogleNews 明治",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
       "title": "明治が14品目の値上げを発表 「きのこの山」「たけのこの里」など - TBS NEWS DIG",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xM3NyRXpSaHlqM2tLdDJhaFEwVXZxU0RHcDFpXzVwM1JYcmMzTlZkUlJzdTN6OF9yaS05bTZuWTl4dlhfRFdzZk1zMWNKaGJieGZad3VPdw?oc=5",
       "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT",
@@ -373,14 +388,11 @@
       ]
     },
     {
-      "title": "明治「きのこの山」値上げ チョコレートや飲料計14品（共同通信） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HeHNTVy1zODFhX0p4ZFRIWW9mUGJnQmZ1M0hFeVhPam9CN2R3cUlSNThWeC1zVkRIX09US2c5OGVZSUFzVy1ybnpRSnUwMHU0UHo2cVpGYmktMUxFUzhpLTBLS1NTa2R1am1WaHBpbVJydmg1aXFRSFBlTTdMNms?oc=5",
+      "title": "「たけのこの里」「きのこの山」…明治が14品の値上げ発表 対象商品一覧、8月18日発表 - 福井新聞社",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNWUFOVkJYeDZhcmZEYWpYZHlUQURHSzVucllxbUFreGJjd0UwbWlUOTNtT19tMEttMGRldklBOHY4OGdvaGRjM0YtWFh5RVBwcDhVWnh5WjZiejVKc2c?oc=5",
       "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT",
       "source": "GoogleNews 明治",
-      "categories": [
-        "beverage",
-        "snack"
-      ],
+      "categories": [],
       "priceKeywords": [
         "値上げ"
       ]
@@ -398,39 +410,21 @@
       ]
     },
     {
-      "title": "「たけのこの里」「きのこの山」…明治が14品の値上げ発表 対象商品一覧、8月18日発表 - 福井新聞社",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNWUFOVkJYeDZhcmZEYWpYZHlUQURHSzVucllxbUFreGJjd0UwbWlUOTNtT19tMEttMGRldklBOHY4OGdvaGRjM0YtWFh5RVBwcDhVWnh5WjZiejVKc2c?oc=5",
+      "title": "明治「きのこの山」値上げ チョコレートや飲料計14品（共同通信） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HeHNTVy1zODFhX0p4ZFRIWW9mUGJnQmZ1M0hFeVhPam9CN2R3cUlSNThWeC1zVkRIX09US2c5OGVZSUFzVy1ybnpRSnUwMHU0UHo2cVpGYmktMUxFUzhpLTBLS1NTa2R1am1WaHBpbVJydmg1aXFRSFBlTTdMNms?oc=5",
       "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT",
       "source": "GoogleNews 明治",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "明治「きのこの山」「たけのこの里」など計１４品を３～２１％値上げ、１０～１１月出荷分から…コスト上昇反映 - 読売新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2Q2VVWC1TQTNTT0VuSjIxc3NoaFBPTTFNdS1ySFF6Z2hCckJMTjZuXzNnX0poSlhDeW9WZFZxa184bElNQ2dFa3NhcXdxWWNPQ05HemlpS0VJSE82WHdOamwxZlc?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT",
-      "source": "GoogleNews 明治",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ",
-        "コスト上昇"
-      ]
-    },
-    {
-      "title": "画像・写真：明治、「たけのこの里」値上げ ロッテは「キシリトール」など：時事ドットコム - 時事ドットコム",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM3NyS0RhS2gwQTg5X0laMXc3NXo2Zi1RdHFtc1BSWmI2OVBMOS1MZG9NalRjLWxKRjVfaXNiYXhSN25CV0RXSl9sdzZ0QXA0Z3BFQUliWEhZQ1N0bnZacWdudDNweG5wbFhQYld6c214YXZyeEFBWGlROUU3dktyQlR3?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT",
-      "source": "GoogleNews 明治",
-      "categories": [],
+      "categories": [
+        "beverage",
+        "snack"
+      ],
       "priceKeywords": [
         "値上げ"
       ]
     },
     {
       "title": "明治が「きのこの山」「たけのこの里」など14品目を値上げ 原材料費やエネルギーなどコスト上昇が要因 - TBS NEWS DIG",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrYkNaQmszYUpydzRkMk14V2hBeUFIQkJ5RjFrOC1pR0dGM0U1QWFKRmZxZDFacUY0alFnbXFmX1ZqdHprSkZ4ajZvMjhZZ1FMM2pvMlZBOA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNnBiWldCQ3Y3ZFo5R2xHOThkQ2REY2g0ZE9KTnVIMkR0WG5DV01mVHpKTlNjR1ZJSW1HVjBDSW5pUlJUWEdKalFMdlBRWmUxdEJRc05YbnZXOUJMVDJPZlA4QTBTeW1mQzFDM29BM2NucmgyYVVodHlvUXlpQ0pvTF9acmxyUEtmaWRWMA?oc=5",
       "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT",
       "source": "GoogleNews 明治",
       "categories": [],
@@ -438,6 +432,29 @@
         "値上げ",
         "コスト上昇",
         "品目"
+      ]
+    },
+    {
+      "title": "明治「きのこの山」値上げ チョコレートや飲料計１４品 | | 全国のニュース - 佐賀新聞",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iTzFJd1h6SXlkY2M3YnVFS3NURUtYdF81dEJ6ZUxsc20zaE81b3M3NDk5TDA0bVVGVjVIMklZZnJaRkZZT3hRcXJhZ1QzSWk0WnZPTzBB?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT",
+      "source": "GoogleNews 明治",
+      "categories": [
+        "beverage",
+        "snack"
+      ],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "画像・写真：明治、「たけのこの里」値上げ ロッテは「キシリトール」など：時事ドットコム - 時事ドットコム",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSjQ0WmxfNjJZMmRDS1ZqRWYxU0dRQVNINGt5ZWJFR0FDUVFNYTBDNmptX1BBUGk5SWhmMUs3ZmZ3dVJtZTJ2b05OVktfWXJ3Z2FvYnZIQ3d2OXMzeFI1aVJnRmV2enVDcDdfLW9sSEZCdWFvakJyRW1scloybFV2cF93?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT",
+      "source": "GoogleNews 明治",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
       ]
     },
     {
@@ -453,13 +470,14 @@
       ]
     },
     {
-      "title": "明治 「きのこの山」や「たけのこの里」値上げ 11月出荷分から 最新の経済ニュース【随時更新】 - ABEMA",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GQW1vMXJZZlAtcExVOFZRNnpQdGNrT1g3QkFqNm1sVTY3MlBWTWFFWXV4NnM3V0s4YzdqUVRsRFctVWxhUlFPWmdydnptTkI1UEs0ZE9NMHVOdEk?oc=5",
+      "title": "明治「きのこの山」「たけのこの里」など11品目を11月から値上げ ロッテは18品目を9月から値上げ - FNNプライムオンライン",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1fem5IbENiSjVhOHk1Vm80S2t6a21QRy1nUlRFcUljRGM0eEtXYXBkemdYRmd1Q1ZTOVFkd2NqMmZDd3AwNlZVSk9GSHBvQQ?oc=5",
       "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT",
       "source": "GoogleNews 明治",
       "categories": [],
       "priceKeywords": [
-        "値上げ"
+        "値上げ",
+        "品目"
       ]
     },
     {
@@ -480,17 +498,6 @@
       "categories": [],
       "priceKeywords": [
         "値上げ"
-      ]
-    },
-    {
-      "title": "明治「きのこの山」「たけのこの里」など11品目を11月から値上げ ロッテは18品目を9月から値上げ - FNNプライムオンライン",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1fem5IbENiSjVhOHk1Vm80S2t6a21QRy1nUlRFcUljRGM0eEtXYXBkemdYRmd1Q1ZTOVFkd2NqMmZDd3AwNlZVSk9GSHBvQQ?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT",
-      "source": "GoogleNews 明治",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ",
-        "品目"
       ]
     },
     {
@@ -544,9 +551,9 @@
       ]
     },
     {
-      "title": "明治 「きのこの山」や「たけのこの里」値上げ 11月出荷分から - HOME広島ホームテレビ",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NdmNvYklXQnhpOVdVVXhnWjJSaWZ6Q191ZXVwcEVQYVNvWS1fclByNHpSRzg5RFl0T3RfNnlIWFE1QXpSOXNuLUtzQ3NOUFdIaVZqcjAwNGV6eUltN0dlbms2N2lZMmFW?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 04:20:00 GMT",
+      "title": "明治「きのこの山」値上げ - デーリー東北",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2b0FROFNqMDA5ZlFzRHRRRVFKck9iWHpONDI1akFYVXdmVkNIdE5iN1N2NGk3R2tNQ1A5em1ldjhDdFpWOTRHbkpfX2REQmlmUHotRTJ3QWd4NG9WYlVENzl5TXM1QQ?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 04:03:53 GMT",
       "source": "GoogleNews 明治",
       "categories": [],
       "priceKeywords": [
@@ -562,16 +569,6 @@
         "beverage",
         "snack"
       ],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "明治「きのこの山」値上げ - OANDA証券",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NUnBUWkVnNGs5dHN3X01NeDVPTE1RSzF3VVllTHpwcmFkWGtwVlBKZGM5d3dCM3QwZUlyYU5CSmNLV3pWSmcyYzBVcnRSR1Boa0QzQzRwT1kyaW9aQkplVDZPcFhsRlpiazRnMl9RS2lNZ0ppdlE?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 04:03:50 GMT",
-      "source": "GoogleNews 明治",
-      "categories": [],
       "priceKeywords": [
         "値上げ"
       ]
