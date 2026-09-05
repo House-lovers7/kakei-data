@@ -1,6 +1,6 @@
 {
   "source": "retail-stores",
-  "fetchedAt": "2026-08-29T18:03:17.352Z",
+  "fetchedAt": "2026-09-05T18:03:02.634Z",
   "totalRecords": 20,
   "byStoreType": {
     "supermarket": 12,
@@ -16,28 +16,28 @@
       "category": "rice",
       "items": [
         {
+          "name": "【家計応援】低温製法米のおいしいごはん   国...",
+          "price": 1599
+        },
+        {
           "name": "サトウのごはん 新潟県産コシヒカリ5食パック",
           "price": 1470
         },
         {
           "name": "【家計応援】低温製法米のおいしいごはん   国...",
-          "price": 549
+          "price": 519
         },
         {
           "name": "サトウのごはん 銀シャリ5食パック",
           "price": 1150
         },
         {
-          "name": "【家計応援】低温製法米のおいしいごはん   国...",
-          "price": 1415
-        },
-        {
-          "name": "サキホコレ無菌パック180g（3パック）",
-          "price": 735
+          "name": "糖質コントロール ごはん 大麦入り",
+          "price": 870
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-29T18:02:36.958Z"
+      "fetchedAt": "2026-09-05T18:02:24.185Z"
     },
     {
       "storeId": "seiyu",
@@ -47,28 +47,28 @@
       "category": "rice",
       "items": [
         {
-          "name": "【家計応援】《7年産》山形県産 はえぬき",
-          "price": 3580
+          "name": "《7年産》宮城県産 ひとめぼれ【特別栽培米】",
+          "price": 4370
         },
         {
           "name": "【家計応援】《7年産》山形県産はえぬき(無洗...",
           "price": 3680
         },
         {
+          "name": "《7年産》北海道産 ななつぼし(無洗米)",
+          "price": 4880
+        },
+        {
           "name": "《7年産》宮城県産 ひとめぼれ(無洗米)【特別...",
           "price": 4470
         },
         {
-          "name": "《7年産》宮城県産 ひとめぼれ【特別栽培米】",
-          "price": 4370
-        },
-        {
-          "name": "《7年産》北海道産 ななつぼし(無洗米)",
-          "price": 4880
+          "name": "《7年産》北海道産 ななつぼし",
+          "price": 4780
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-29T18:02:40.637Z"
+      "fetchedAt": "2026-09-05T18:02:27.666Z"
     },
     {
       "storeId": "seiyu",
@@ -87,7 +87,7 @@
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-29T18:02:44.126Z"
+      "fetchedAt": "2026-09-05T18:02:30.980Z"
     },
     {
       "storeId": "seiyu",
@@ -105,8 +105,8 @@
           "price": 229
         },
         {
-          "name": "【在庫処分】おいしい牛乳",
-          "price": 289
+          "name": "おいしい牛乳",
+          "price": 319
         },
         {
           "name": "あじわい便り",
@@ -118,7 +118,7 @@
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-29T18:02:47.859Z"
+      "fetchedAt": "2026-09-05T18:02:34.601Z"
     },
     {
       "storeId": "seiyu",
@@ -141,7 +141,7 @@
         },
         {
           "name": "【家計応援】ナチュレ 恵 megumi",
-          "price": 159
+          "price": 179
         },
         {
           "name": "生乳１００％ヨーグルト",
@@ -149,7 +149,7 @@
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-29T18:02:51.464Z"
+      "fetchedAt": "2026-09-05T18:02:38.308Z"
     },
     {
       "storeId": "seiyu",
@@ -159,10 +159,6 @@
       "category": "meat",
       "items": [
         {
-          "name": "若どりむね肉 2枚 (冷凍)",
-          "price": 819
-        },
-        {
           "name": "【家計応援】若鶏むね肉（冷蔵）",
           "price": 799
         },
@@ -171,16 +167,20 @@
           "price": 529
         },
         {
-          "name": "若どりむねひき肉 (冷凍)",
-          "price": 309
+          "name": "若どりむね肉 2枚 (冷凍)",
+          "price": 815
         },
         {
           "name": "若どりむねひき肉 (冷凍)",
-          "price": 439
+          "price": 435
+        },
+        {
+          "name": "若どりむねひき肉 (冷凍)",
+          "price": 299
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-29T18:02:54.875Z"
+      "fetchedAt": "2026-09-05T18:02:41.697Z"
     },
     {
       "storeId": "seiyu",
@@ -190,28 +190,28 @@
       "category": "meat",
       "items": [
         {
-          "name": "【家計応援】【ごまんてん】豚肉こまぎれ 大（...",
-          "price": 539
-        },
-        {
-          "name": "豚肉こまぎれ（冷蔵）",
-          "price": 425
+          "name": "【ごまんてん】豚肉こまぎれ 大（冷蔵）",
+          "price": 595
         },
         {
           "name": "【ごまんてん】豚肉こまぎれ（冷蔵）",
-          "price": 395
+          "price": 345
         },
         {
           "name": "豚肉こまぎれ　超特大（冷蔵）",
           "price": 890
         },
         {
-          "name": "豚肉こまぎれ　大（冷蔵）",
-          "price": 679
+          "name": "Cook Do きょうの大皿 豚もやし用スタミナ醤油...",
+          "price": 195
+        },
+        {
+          "name": "【超目玉】いろいろ使える 豚肉こまころキュー...",
+          "price": 499
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-29T18:02:58.355Z"
+      "fetchedAt": "2026-09-05T18:02:45.087Z"
     },
     {
       "storeId": "seiyu",
@@ -229,20 +229,20 @@
           "price": 159
         },
         {
-          "name": "ふわふわキャベツ",
-          "price": 129
+          "name": "白菜",
+          "price": 199
         },
         {
-          "name": "マルちゃん 屋台一番 ソース焼そば （冷凍）",
-          "price": 525
+          "name": "千切りキャベツ",
+          "price": 139
         },
         {
-          "name": "カップヌードル シーフードヌードル",
-          "price": 252
+          "name": "ペヤング ソースやきそば",
+          "price": 230
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-29T18:03:02.141Z"
+      "fetchedAt": "2026-09-05T18:02:48.697Z"
     },
     {
       "storeId": "seiyu",
@@ -252,28 +252,28 @@
       "category": "vegetable",
       "items": [
         {
-          "name": "【超目玉】玉ねぎ",
+          "name": "玉ねぎ",
           "price": 259
         },
         {
           "name": "玉ねぎ",
-          "price": 599
+          "price": 499
         },
         {
           "name": "【訳あり】玉ねぎ(小玉)",
           "price": 379
         },
         {
-          "name": "国産オーガニックみじん切りたまねぎ(冷凍)",
-          "price": 339
+          "name": "国産オーガニック乱切りカレー用野菜ミックス(...",
+          "price": 345
         },
         {
-          "name": "玉ねぎと生姜の万能ドレッシング",
-          "price": 419
+          "name": "すき家 牛丼の具 （冷凍）",
+          "price": 749
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-29T18:03:06.060Z"
+      "fetchedAt": "2026-09-05T18:02:52.206Z"
     },
     {
       "storeId": "seiyu",
@@ -287,24 +287,24 @@
           "price": 39
         },
         {
-          "name": "根切りもやし",
-          "price": 59
-        },
-        {
           "name": "もやし(大容量)",
           "price": 99
+        },
+        {
+          "name": "根切りもやし",
+          "price": 59
         },
         {
           "name": "もやし野菜炒め",
           "price": 159
         },
         {
-          "name": "新中華街 五目あんかけ焼そば （冷凍）",
-          "price": 399
+          "name": "Cook Do きょうの大皿 豚もやし用スタミナ醤油...",
+          "price": 195
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-29T18:03:09.817Z"
+      "fetchedAt": "2026-09-05T18:02:55.666Z"
     },
     {
       "storeId": "seiyu",
@@ -322,20 +322,20 @@
           "price": 159
         },
         {
-          "name": "【推しプライス】日清謹製 讃岐うどん 5食入り...",
-          "price": 349
-        },
-        {
           "name": "カトキチ さぬきうどん （冷凍）",
-          "price": 449
+          "price": 459
         },
         {
           "name": "3玉うどん　ゆで",
           "price": 169
+        },
+        {
+          "name": "讃岐細麺喉越うどん",
+          "price": 299
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-29T18:03:13.769Z"
+      "fetchedAt": "2026-09-05T18:02:59.175Z"
     },
     {
       "storeId": "seiyu",
@@ -349,24 +349,24 @@
           "price": 299
         },
         {
-          "name": "マ･マー スパゲティ 1.6mm 結束タイプ",
-          "price": 545
-        },
-        {
           "name": "マ・マー 早ゆで スパゲティ 1.8mm 結束タイプ",
           "price": 520
         },
         {
-          "name": "エスビー まぜるだけのスパゲティーソース ぺ...",
+          "name": "エスビー　生風味スパゲティーソース　たらこ",
           "price": 259
         },
         {
-          "name": "マ・マー 早ゆで スパゲティ 2／3サイズ 1.8mm...",
+          "name": "ディチェコ Ｎｏ．１１ スパゲッティーニ",
+          "price": 659
+        },
+        {
+          "name": "オーマイプレミアム もちっとおいしいスパゲッ...",
           "price": 419
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-29T18:03:17.351Z"
+      "fetchedAt": "2026-09-05T18:03:02.634Z"
     },
     {
       "storeId": "7eleven",
@@ -389,7 +389,7 @@
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-29T18:02:32.622Z"
+      "fetchedAt": "2026-09-05T18:02:20.387Z"
     },
     {
       "storeId": "7eleven",
@@ -412,7 +412,7 @@
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-29T18:02:32.623Z"
+      "fetchedAt": "2026-09-05T18:02:20.388Z"
     },
     {
       "storeId": "lawson",
@@ -435,7 +435,7 @@
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-29T18:02:32.623Z"
+      "fetchedAt": "2026-09-05T18:02:20.388Z"
     },
     {
       "storeId": "familymart",
@@ -458,7 +458,7 @@
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-29T18:02:32.623Z"
+      "fetchedAt": "2026-09-05T18:02:20.388Z"
     },
     {
       "storeId": "gyomu",
@@ -481,7 +481,7 @@
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-29T18:02:32.623Z"
+      "fetchedAt": "2026-09-05T18:02:20.388Z"
     },
     {
       "storeId": "gyomu",
@@ -504,7 +504,7 @@
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-29T18:02:32.623Z"
+      "fetchedAt": "2026-09-05T18:02:20.388Z"
     },
     {
       "storeId": "gyomu",
@@ -527,7 +527,7 @@
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-29T18:02:32.623Z"
+      "fetchedAt": "2026-09-05T18:02:20.388Z"
     },
     {
       "storeId": "gyomu",
@@ -550,7 +550,7 @@
         }
       ],
       "excludedCount": 0,
-      "fetchedAt": "2026-08-29T18:02:32.623Z"
+      "fetchedAt": "2026-09-05T18:02:20.388Z"
     }
   ]
 }

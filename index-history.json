@@ -10,6 +10,11 @@
           "yyyymm": "2026-08",
           "value": 145.9,
           "deltaPercent": -2.5
+        },
+        {
+          "yyyymm": "2026-09",
+          "value": 145.9,
+          "deltaPercent": -2.5
         }
       ]
     },
@@ -21,6 +26,11 @@
       "points": [
         {
           "yyyymm": "2026-08",
+          "value": 145.9,
+          "deltaPercent": -2.5
+        },
+        {
+          "yyyymm": "2026-09",
           "value": 145.9,
           "deltaPercent": -2.5
         }
@@ -36,6 +46,11 @@
           "yyyymm": "2026-08",
           "value": 145.9,
           "deltaPercent": -2.5
+        },
+        {
+          "yyyymm": "2026-09",
+          "value": 145.9,
+          "deltaPercent": -2.5
         }
       ]
     },
@@ -47,6 +62,11 @@
       "points": [
         {
           "yyyymm": "2026-08",
+          "value": 139.9,
+          "deltaPercent": 8.3
+        },
+        {
+          "yyyymm": "2026-09",
           "value": 139.9,
           "deltaPercent": 8.3
         }
@@ -62,6 +82,11 @@
           "yyyymm": "2026-08",
           "value": 127.2,
           "deltaPercent": 4.2
+        },
+        {
+          "yyyymm": "2026-09",
+          "value": 127.2,
+          "deltaPercent": 4.2
         }
       ]
     },
@@ -73,6 +98,11 @@
       "points": [
         {
           "yyyymm": "2026-08",
+          "value": 125.5,
+          "deltaPercent": 3.5
+        },
+        {
+          "yyyymm": "2026-09",
           "value": 125.5,
           "deltaPercent": 3.5
         }
@@ -88,6 +118,11 @@
           "yyyymm": "2026-08",
           "value": 146.6,
           "deltaPercent": 3.3
+        },
+        {
+          "yyyymm": "2026-09",
+          "value": 146.6,
+          "deltaPercent": 3.3
         }
       ]
     },
@@ -99,6 +134,11 @@
       "points": [
         {
           "yyyymm": "2026-08",
+          "value": 123.2,
+          "deltaPercent": 6.2
+        },
+        {
+          "yyyymm": "2026-09",
           "value": 123.2,
           "deltaPercent": 6.2
         }
@@ -114,6 +154,11 @@
           "yyyymm": "2026-08",
           "value": 129.4,
           "deltaPercent": 1.4
+        },
+        {
+          "yyyymm": "2026-09",
+          "value": 129.4,
+          "deltaPercent": 1.4
         }
       ]
     },
@@ -125,6 +170,11 @@
       "points": [
         {
           "yyyymm": "2026-08",
+          "value": 127,
+          "deltaPercent": 3.8
+        },
+        {
+          "yyyymm": "2026-09",
           "value": 127,
           "deltaPercent": 3.8
         }
@@ -140,9 +190,14 @@
           "yyyymm": "2026-08",
           "value": 127,
           "deltaPercent": 3.8
+        },
+        {
+          "yyyymm": "2026-09",
+          "value": 127,
+          "deltaPercent": 3.8
         }
       ]
     }
   ],
-  "updatedAt": "2026-08-29T18:03:20.776Z"
+  "updatedAt": "2026-09-05T18:03:06.012Z"
 }
