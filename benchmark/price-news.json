@@ -1,15 +1,35 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-09-09T22:01:15.172Z",
+  "fetchedAt": "2026-09-10T22:00:52.864Z",
   "periodDays": 14,
-  "totalArticles": 46,
+  "totalArticles": 44,
   "categoryBreakdown": {
-    "bread": 3,
+    "bread": 2,
     "oil": 2,
     "legume": 2,
     "seasoning": 16
   },
   "articles": [
+    {
+      "title": "欧州中銀が2会合ぶり利上げ 物価上昇抑えたいねらい",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260911de49617",
+      "pubDate": "Fri, 11 Sep 2026 02:17:48 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
+    {
+      "title": "鳥貴族 均一価格410円に値上げへ",
+      "link": "https://news.yahoo.co.jp/pickup/6594875?source=rss",
+      "pubDate": "Thu, 10 Sep 2026 08:43:17 GMT",
+      "source": "Yahoo!ニュース 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
     {
       "title": "WTI先物価格 一時1バレル＝95ドル台に上昇 約3か月ぶり高値",
       "link": "https://news.web.nhk/newsweb/na/nd-20260909de49382",
@@ -18,18 +38,6 @@
       "categories": [],
       "priceKeywords": [
         "物価"
-      ]
-    },
-    {
-      "title": "パン酵母を値上げ 中東情勢の影響で11月から オリエンタル酵母工業（食品新聞） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85OEN1TjNZRnc0YU4yZnJKMWthYUYzVGltdjZ0WFQ0Tk5JU01ZTmk2SkFWUXJkb01NNkhiSmZPTzhvblg0TllfUmFsSXpKQlJGNG9YNWtSYldRekVDbGJpVjFPTzRIU2hDaWlVTXJ1enBRRk5kNTRsZzdQaTJ5aEE?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 10:59:00 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [
-        "bread"
-      ],
-      "priceKeywords": [
-        "値上げ"
       ]
     },
     {
@@ -43,7 +51,7 @@
       ]
     },
     {
-      "title": "パン酵母を値上げ 中東情勢の影響で11月から オリエンタル酵母工業｜Infoseekニュース - Infoseek",
+      "title": "パン酵母を値上げ 中東情勢の影響で11月から オリエンタル酵母工業 - Infoseek",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wNnh1UTc4Q1lQUDJvQ3M1UDV0dXlIbEJkQlNxWEFKdGNtU3lnWDMyWUM3OTdPNTEyVTQzZHQwM29JajdyQ1U0T0dUaWpBcWVPVFZJLXJiVURzRy1vS0o5OTVB?oc=5",
       "pubDate": "Wed, 09 Sep 2026 08:02:26 GMT",
       "source": "GoogleNews 中東 食品",
@@ -181,17 +189,7 @@
       ]
     },
     {
-      "title": "株価 値上がり 長期金利の上昇一服で半導体関連に買い注文",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260904de48125",
-      "pubDate": "Fri, 04 Sep 2026 16:36:11 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "値上がり"
-      ]
-    },
-    {
-      "title": "中東情勢悪化で納豆値上げ ミツカン、最大２０％ - 山陽新聞",
+      "title": "中東情勢悪化で納豆値上げ ミツカン、最大２０％ - sanyonews.jp",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lZVhFMlRqNHJCMXVvNXRjTWNQTW9LOGw4OFRTbnk4RnMzd3MycFZKYV9RT25UV0VJUzVWY0dBWHhBOGV0dFdGU3Q0cDZHc093dDVZaU50SGgzb1FMT2xkQVFNa0JMU3hRTGRReXI1WlZIVGxDajRKRXpwM1ZGQQ?oc=5",
       "pubDate": "Fri, 04 Sep 2026 02:03:19 GMT",
       "source": "GoogleNews ミツカン",
@@ -217,7 +215,7 @@
     {
       "title": "キユーピーがマヨネーズなど計224品目を値上げへ 「コスト上昇分を吸収することは極めて困難」 - TBS NEWS DIG",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iVXV5aUNOWVBxbEYtdlc3a0hDUkg1VGtLTldLN2dqUVhqUUNiX1pwcjBIQV9MS3hpTG94ODNneDVvM1N0X19WRHRaTFFYM1NwYURhRnVxTQ?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 19:06:26 GMT",
+      "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT",
       "source": "GoogleNews キユーピー",
       "categories": [
         "seasoning"
@@ -253,6 +251,19 @@
       ]
     },
     {
+      "title": "キユーピー、マヨネーズ値上げ 11月から、224品目 - 西日本新聞me",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HYV91U3pVZDRDVXliUVhSd2Z2TFNOV1V6TlpGT1RBc0ZnclZHc0JVenhoRl9WdFVNSDJrTXVxRF9OQXlGbjNJQUI1QkphN2hNTEtoMVJR?oc=5",
+      "pubDate": "Tue, 01 Sep 2026 12:29:42 GMT",
+      "source": "GoogleNews キユーピー",
+      "categories": [
+        "seasoning"
+      ],
+      "priceKeywords": [
+        "値上げ",
+        "品目"
+      ]
+    },
+    {
       "title": "キユーピー、マヨネーズ値上げ - 下野新聞社",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fTG5WTncwOVJpQVBwYk91dGo4Znl4VjlzWm1BSG1raUJBVGRDMTZnV3lDNXN0NkNoX3ZSTk5wWExWWVFpeHpnNDgtX0pwaENIc2FfUXJQa043cnc?oc=5",
       "pubDate": "Tue, 01 Sep 2026 12:29:35 GMT",
@@ -262,19 +273,6 @@
       ],
       "priceKeywords": [
         "値上げ"
-      ]
-    },
-    {
-      "title": "キユーピー、マヨネーズ値上げ １１月から、２２４品目 - 山形新聞",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSXV6VUEtVW9QZ0x2MmNZblpDYmVrMUxrOHltODdoOFhRWW9mMWRzT2RmSEEzUEVqWkRJU3A5N1FOQlRVMWhrcTFmZXp2cUEwdDlqc3lLUlJjU3JhNzFqdGxkdm9BOFZ5NFlidk85MFBwcDBLd3NtaWc4SmMtZEdqd3ZZbTBIY0xra3pnSQ?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 12:29:00 GMT",
-      "source": "GoogleNews キユーピー",
-      "categories": [
-        "seasoning"
-      ],
-      "priceKeywords": [
-        "値上げ",
-        "品目"
       ]
     },
     {
@@ -290,7 +288,7 @@
       ]
     },
     {
-      "title": "主力商品を値上げ キユーピー・味の素 – Quebee キュエビー - QAB 琉球朝日放送",
+      "title": "主力商品を値上げ キユーピー・味の素 – Quebee キュエビー - qab.co.jp",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOUkFOWTVEektnZGZqMHY4ekFhSnpFNXIxVFBXNU9MVVNYelRDMkxCVkgyQW41ZzE0UzdnTGxKOUxMa3M3LXg3VXljakZTUmNoR0tIeDNYOHI?oc=5",
       "pubDate": "Tue, 01 Sep 2026 10:40:27 GMT",
       "source": "GoogleNews キユーピー",
@@ -300,7 +298,7 @@
       ]
     },
     {
-      "title": "主力商品を値上げ キユーピー・味の素 - テレ朝NEWS",
+      "title": "主力商品を値上げ キユーピー・味の素 - news.tv-asahi.co.jp",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pajZUZHMyRXBvXzNCMW1Xd0RiZUYtZDV5SlFLanhhSmVxYnQtN3RmeEpKWDJITHpncDdCdExkSGlOZUV4c1dBX3BDZ3Q4SHZWczB1QmRuQkpCZWtJT0ZYODV0Z2xCRkVsM29Ya0V3YWRzUQ?oc=5",
       "pubDate": "Tue, 01 Sep 2026 10:40:27 GMT",
       "source": "GoogleNews キユーピー",
@@ -322,7 +320,7 @@
       ]
     },
     {
-      "title": "キユーピー、主力２２４品目を３～２５％値上げへ…マヨネーズ４５０ｇは税込み５５９円→６１１円に - yomiuri.co.jp",
+      "title": "キユーピー、主力２２４品目を３～２５％値上げへ…マヨネーズ４５０ｇは税込み５５９円→６１１円に - 読売新聞",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1faGNuQzN5NGIwZXhkUmxKVjdmZ3dyb3BuYWt0cWREVlQwQnVNbVVIS1VCeWVsbndDSkdDS3MtczV1QjJXX0VhS1dhX3FFckw5OTZrX0JhRENxUkJFTXJfNGZSc1Y?oc=5",
       "pubDate": "Tue, 01 Sep 2026 09:45:00 GMT",
       "source": "GoogleNews キユーピー",
@@ -348,6 +346,19 @@
       ]
     },
     {
+      "title": "キユーピー、マヨネーズなど家庭用商品値上げ 11月出荷分から - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUzctUjFGcVJNQUZnLWVnY2tDSDNrQTJhczRhdXowc3h2UVhoLXdFOElkVTVOczVyWWNmZkd6dzhwX3ZnWkxpMHd0T0RiQTlfZ05XMlRvMExLbFotblVMbjJ3NTJsM0xJNmpWWnhsQmcwRE12T25KT19uNXRtQTV2cg?oc=5",
+      "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT",
+      "source": "GoogleNews キユーピー",
+      "categories": [
+        "seasoning"
+      ],
+      "priceKeywords": [
+        "値上げ",
+        "家庭用"
+      ]
+    },
+    {
       "title": "キユーピー、マヨネーズなど224品目値上げへ 味の素も原材料高で - 朝日新聞",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aMDBDbkswVExKMUFKOVNzakVIUXlORWRjRnVndmcxd1ZUOFRlYzlUb2VKZkJGYmZ2SFZxTFZLY2J5b3FTS1lKZHFkMVUyVTlIWmNKTFdzc0dObTRZVV84R0FjZndiaU0?oc=5",
       "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT",
@@ -359,19 +370,6 @@
         "値上げ",
         "原材料高",
         "品目"
-      ]
-    },
-    {
-      "title": "キユーピー、マヨネーズなど家庭用商品値上げ 11月出荷分から - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUzctUjFGcVJNQUZnLWVnY2tDSDNrQTJhczRhdXowc3h2UVhoLXdFOElkVTVOczVyWWNmZkd6dzhwX3ZnWkxpMHd0T0RiQTlfZ05XMlRvMExLbFotblVMbjJ3NTJsM0xJNmpWWnhsQmcwRE12T25KT19uNXRtQTV2cg?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT",
-      "source": "GoogleNews キユーピー",
-      "categories": [
-        "seasoning"
-      ],
-      "priceKeywords": [
-        "値上げ",
-        "家庭用"
       ]
     },
     {
@@ -388,45 +386,20 @@
       ]
     },
     {
+      "title": "秋も…また値上げラッシュ… 中東情勢・円安の影響を受けて9月の食品値上げは2026年で最多の4923品目に 単月での4000品目超は2025年4月以来の1年5か月ぶり - TBS NEWS DIG",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ENHpSdEZoMTg4dTVpZ0pUb3VFeEtUVTh4SE1DUTE0YjZRVjdxMkhVYlExVG5CTy1ua2ZRX2NKMDFFR2pacV81Q19PYXcyZHNWeGRzQllKR1hmcUtVTUdLd1ZVdjFxakU?oc=5",
+      "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT",
+      "source": "GoogleNews 中東 食品",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ",
+        "品目"
+      ]
+    },
+    {
       "title": "今年最大の値上げラッシュへ…9月は4923品目、マヨネーズやしょうゆなど「調味料」が最多 -「中東発」値上げラッシュは今秋がピークか - au Webポータル",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02TGlGb08zZ2c1cmZvLW90UjVmaEtldXBsUHg2WnhZbllidXEtVFluWk9WVDNlWHpvR0FpYkt1MmZKbU1HbG9VSVZJay0xMnZxQ3VPWGxkejFnZUtZR1JFOEdPV0hQc2ZYS2ExMVhSRVgzd0pDTGZMbQ?oc=5",
       "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [
-        "seasoning"
-      ],
-      "priceKeywords": [
-        "値上げ",
-        "品目"
-      ]
-    },
-    {
-      "title": "６月から食品容器２０％以上値上げ エフピコ、中東情勢で原材料高騰 - 山陽新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PeU5JbG14UTR0QVFGV05QaWVheWNjOU1hakNpM01YUjNsZy1mRTBZMjdaSXQ5blF6X3A4TDNGRXkyTXhLOWY4Xzc0WThqaG1jUVY3NzRxeVJMOThPZkpkVUY5ZEZFZ0E?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ",
-        "高騰",
-        "原材料高"
-      ]
-    },
-    {
-      "title": "秋も…また値上げラッシュ… 中東情勢・円安の影響を受けて9月の食品値上げは2026年で最多の4923品目に 単月での4000品目超は2025年4月以来の1年5か月ぶり - TBS NEWS DIG",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ENHpSdEZoMTg4dTVpZ0pUb3VFeEtUVTh4SE1DUTE0YjZRVjdxMkhVYlExVG5CTy1ua2ZRX2NKMDFFR2pacV81Q19PYXcyZHNWeGRzQllKR1hmcUtVTUdLd1ZVdjFxakU?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 03:40:00 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ",
-        "品目"
-      ]
-    },
-    {
-      "title": "9月食品など値上げラッシュ…今年最多の4923品目 マヨネーズやしょうゆなど「調味料」が最多 中東情勢や円安など影響 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qSW9adVQ2NGtfTU5yRWtfZ3NBbHcyQ25ZZ05rZ0ZGWHc1VmJiNnc3SFlsd2dTbGtXRGxjMF9iZm9IVklRd3AteEVJMGZOUDFuQXljMUl6UWtMSnFyeUxKcVZnNExHX1g0M25kX1BDb0paQm90S1A3d3lneW5JU28?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 08:32:16 GMT",
       "source": "GoogleNews 中東 食品",
       "categories": [
         "seasoning"
@@ -450,21 +423,24 @@
       ]
     },
     {
-      "title": "「食品主要195社」価格改定動向調査 ― 2026年9月 - tdb.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9STXJXNmQ3VHJIeWRIblFYMkZteHBOY2dEaFhxaUtZeUlQaVJicjNKMlhxaTZxM3dDeC1tTUh0TTg1Z1JQd3pyZXZ4UTJ5ZUJhNVhlTTBibkRSWUtmSmF5SWFFVjdqeE1S?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [],
-      "priceKeywords": [
-        "価格改定"
-      ]
-    },
-    {
-      "title": "9月値上げは約5000品目に 今年最多 中東情勢や円安が影響 - テレ朝NEWS",
+      "title": "9月値上げは約5000品目に 今年最多 中東情勢や円安が影響 - news.tv-asahi.co.jp",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PTTRndloza3BJNGMwUmEyTFdialZjSVZiQ3lXemg5ZFIwMlhjaC1aTVVTeUl2anBOQkdBZ1dZMG9uMXZRY1ZSSXAyTUdhalhuaGJna1htaWJqazZXcVppSTd0ZGJEbzAxak9yRFdBWjZEUQ?oc=5",
       "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT",
       "source": "GoogleNews 中東 食品",
       "categories": [],
+      "priceKeywords": [
+        "値上げ",
+        "品目"
+      ]
+    },
+    {
+      "title": "9月食品など値上げラッシュ…今年最多の4923品目 マヨネーズやしょうゆなど「調味料」が最多 中東情勢や円安など影響 - TBS NEWS DIG",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uUGxPS2ZlT0xrNzNXSUh3WU9wTmtacTFRYlhxeks0M3hCREV1UE5LR20taTBTSEZNN0wxcm1FWC0tQm1xaWxxZjMxV2s2eGVOOXZLZmZnYw?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT",
+      "source": "GoogleNews 中東 食品",
+      "categories": [
+        "seasoning"
+      ],
       "priceKeywords": [
         "値上げ",
         "品目"
@@ -485,9 +461,20 @@
       ]
     },
     {
+      "title": "9月値上げは約5000品目に 今年最多 中東情勢や円安が影響 - KSBニュース",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14cHF0WWJ4RXZNbzB2QWoya1pGV3NYc2EtU3RhcG1aQy1JZjBuNW5UZHZrbGRGcHFjTDJnVDhRT1hxeVBHTk9rTS1qQlVBd0pjNGZkSkFjUHdteDVKZWpXanVOVXo4TGVlc1lNdA?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 01:53:28 GMT",
+      "source": "GoogleNews 中東 食品",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ",
+        "品目"
+      ]
+    },
+    {
       "title": "9月食品値上げ4923品目、今年最多 原油高と円安が家計直撃 - BigGo ファイナンス",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40TUxxOUV2TDFzanZMaS00NFJtS0RCVVppY0c4dmFwZXFPTk1Ha0pEdjVyZUJVdDNzSm1Bc2dSaHd1RXhObUFIRjdwaTFDQ0RMdVBFXzJycWFmcFVvM2o4TXl1VTJvMlZIRG1NNmpSYTBhcU1Q?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 01:36:00 GMT",
+      "pubDate": "Sun, 30 Aug 2026 07:00:00 GMT",
       "source": "GoogleNews 中東 食品",
       "categories": [
         "oil"
@@ -522,19 +509,9 @@
       ]
     },
     {
-      "title": "6月食品値上げ1078品 中東影響で価格転嫁 夏以降に値上げラッシュか Khamzat Chimaev (LujeaG7AWu) - mshale.com",
+      "title": "6月食品値上げ1078品 中東影響で価格転嫁 夏以降に値上げラッシュか Khamzat Chimaev (LujeaG7AWu) - Mshale",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fa0c5VVhmX3hIa2EwRnBMVGdsdnNCbUR4TEVWeklJUkMwdnVZd3V3RVM2UEZlZm9idlFFWlhiRF9qM0FoYzFCNE1iUkxBNURNemZrc1RwdUt2Mk0?oc=5",
       "pubDate": "Sat, 29 Aug 2026 01:23:20 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "食品値上げ９月は今年最多 中東情勢や円安で家計直撃 - 47NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1PR013dW4tMWM4Yjl5eUcya0dUQTBweUNCdFdqWkZ2UXBLS1RyWjdjOVlFYlpPNk9ldS16MW13cnR4UDl6QVRCaGVjRQ?oc=5",
-      "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
       "source": "GoogleNews 中東 食品",
       "categories": [],
       "priceKeywords": [
