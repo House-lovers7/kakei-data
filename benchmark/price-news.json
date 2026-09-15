@@ -1,16 +1,14 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-09-14T22:00:34.770Z",
+  "fetchedAt": "2026-09-15T22:00:40.822Z",
   "periodDays": 14,
-  "totalArticles": 35,
+  "totalArticles": 14,
   "categoryBreakdown": {
     "snack": 1,
     "legume": 2,
     "noodle": 1,
-    "fish": 1,
-    "oil": 3,
     "bread": 2,
-    "seasoning": 11
+    "seasoning": 2
   },
   "articles": [
     {
@@ -38,7 +36,7 @@
       ]
     },
     {
-      "title": "日清製粉ウェルナ 8月1日から値上げ パスタなど家庭用製品200品以上 - shokuhin.net",
+      "title": "日清製粉ウェルナ 8月1日から値上げ パスタなど家庭用製品200品以上 - 食品新聞 WEB版",
       "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE52bW1mTS1pS2VyRW1Id3N4bXRMQ0FxdkdiaWVhX0ZOb2tPbXNQQVBTWmh6b3dkWXdubi1IVFQyVGpYV2M?oc=5",
       "pubDate": "Fri, 11 Sep 2026 15:06:02 GMT",
       "source": "GoogleNews 日清製粉",
@@ -51,92 +49,13 @@
       ]
     },
     {
-      "title": "アメリカ 8月の消費者物価指数 去年同月比3.4％の上昇",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260911de49799",
-      "pubDate": "Fri, 11 Sep 2026 23:51:19 +0900",
-      "source": "NHK 経済",
+      "title": "佐川急便、袋状の包装資材「エクスプレスバッグ」のG-LとG-Sを値上げへ（ネットショップ担当者フォーラム） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoQzJhbFdJU3g5MnlXT3BheU5tX2ZlUjF0WG05WWZka0VTbVY0R0hGakcxYXFicFBHcGJCcU5Ncjc4ZENXYU45RlhrMzFUVEpsUlRhMHlHcHBjbEh0WUpLc1NDZmdNbjlZV2FGVENVbzRKUks3b0RyYk80Mk9iNFk?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 22:16:00 GMT",
+      "source": "GoogleNews 包装資材",
       "categories": [],
       "priceKeywords": [
-        "物価"
-      ]
-    },
-    {
-      "title": "ノルウェー大使館 サバ価格高騰の中 ニシン輸出拡大へPR強化",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260911de49752",
-      "pubDate": "Fri, 11 Sep 2026 23:47:49 +0900",
-      "source": "NHK 経済",
-      "categories": [
-        "fish"
-      ],
-      "priceKeywords": [
-        "高騰"
-      ]
-    },
-    {
-      "title": "円相場は値下がり 原油先物価格の上昇を受けて",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260911de49767",
-      "pubDate": "Fri, 11 Sep 2026 18:59:20 +0900",
-      "source": "NHK 経済",
-      "categories": [
-        "oil"
-      ],
-      "priceKeywords": [
-        "物価"
-      ]
-    },
-    {
-      "title": "株価 原油先物価格の上昇で一時2000円超値下がり",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260911de49643",
-      "pubDate": "Fri, 11 Sep 2026 16:20:00 +0900",
-      "source": "NHK 経済",
-      "categories": [
-        "oil"
-      ],
-      "priceKeywords": [
-        "物価"
-      ]
-    },
-    {
-      "title": "長期金利一時3％に 原油先物価格の上昇でインフレ懸念高まる",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260911de49681",
-      "pubDate": "Fri, 11 Sep 2026 13:22:00 +0900",
-      "source": "NHK 経済",
-      "categories": [
-        "oil"
-      ],
-      "priceKeywords": [
-        "物価",
-        "インフレ"
-      ]
-    },
-    {
-      "title": "8月企業物価指数 前年同月比7.6％上昇 高水準続く",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260911de49635",
-      "pubDate": "Fri, 11 Sep 2026 10:46:35 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "物価"
-      ]
-    },
-    {
-      "title": "欧州中銀が2会合ぶり利上げ 物価上昇抑えたいねらい",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260911de49617",
-      "pubDate": "Fri, 11 Sep 2026 02:17:48 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "物価"
-      ]
-    },
-    {
-      "title": "WTI先物価格 一時1バレル＝95ドル台に上昇 約3か月ぶり高値",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260909de49382",
-      "pubDate": "Wed, 09 Sep 2026 20:59:32 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "物価"
+        "値上げ"
       ]
     },
     {
@@ -152,49 +71,21 @@
       ]
     },
     {
-      "title": "円相場 値上がり 米財務長官の発言受けて円買いの動き進む",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260909de49355",
-      "pubDate": "Wed, 09 Sep 2026 18:55:33 +0900",
-      "source": "NHK 経済",
+      "title": "６月から食品容器２０％以上値上げ エフピコ、中東情勢で原材料高騰 - 山陽新聞",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PeU5JbG14UTR0QVFGV05QaWVheWNjOU1hakNpM01YUjNsZy1mRTBZMjdaSXQ5blF6X3A4TDNGRXkyTXhLOWY4Xzc0WThqaG1jUVY3NzRxeVJMOThPZkpkVUY5ZEZFZ0E?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
+      "source": "GoogleNews 中東 食品",
       "categories": [],
       "priceKeywords": [
-        "値上がり"
+        "値上げ",
+        "高騰",
+        "原材料高"
       ]
     },
     {
-      "title": "エアコン新製品値上がり見通し 27年省エネ基準引き上げ対応で",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260909de49313",
-      "pubDate": "Wed, 09 Sep 2026 16:16:58 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "値上がり"
-      ]
-    },
-    {
-      "title": "中国消費者物価指数＋0.8％ 2か月連続0％台",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260909de49277",
-      "pubDate": "Wed, 09 Sep 2026 14:04:00 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "物価"
-      ]
-    },
-    {
-      "title": "佐川急便、袋状の包装資材「エクスプレスバッグ」のG-LとG-Sを値上げへ - ネットショップ担当者フォーラム",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5R2ZNcHZPMkM3a21TSG1VR081SjJFck5hNWdCX1Q3NGxyVFVwcE4zRTNpRk91NHJDTzFwZ1JfNHZmZWh3RmNtTXVaWWNSSndpRUhWZ0FnRmlHSlBE?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 22:00:00 GMT",
-      "source": "GoogleNews 包装資材",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "キユーピー 家庭用、業務用商品 11月から値上げ - shokuhin.net",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01Z2lJNnFfdG1BNWM1dTh3d3pneWEtMGdqWmhNVklRaVQwdkpYZjd6VWdrUVgxNkhIMGNxbGhqZEhBdWhYVldfNUdIcU5na2tRcXFSSWNyZWlKc2hHSlpmTmpB?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 09:47:37 GMT",
+      "title": "キユーピー 家庭用、業務用商品 11月から値上げ（食品新聞） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yd0dpZnpjWHFkOGd1cGVpNHpTd09WRWdKRlh3azdPZnZCRktrY2ZzZ2dkOExMWk5QemIzbkhwX2VCdXV3dVBIbTgtZzJ0WUVMUkJSUzg1QWoxaFg3WVpWUDdweHZzTTlJMkxlMVgtSDVvd2RqcjBvTFEzcEFucE0?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 11:42:49 GMT",
       "source": "GoogleNews キユーピー",
       "categories": [],
       "priceKeywords": [
@@ -203,7 +94,7 @@
       ]
     },
     {
-      "title": "明治HD株高値圏 食品値上げ・販売数量増のおいしい関係 - nikkei.com",
+      "title": "明治HD株高値圏 食品値上げ・販売数量増のおいしい関係 - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oN2U0LUJiN0xxZUdtLWdSdFZKX0dERVd1UUE0LVdKa2xPeDd0WDdXYm9nSnJ0U2cxeWMtTzI2SzVLTXdKMEhIb2UxYnBPZzBDSWhfRjF6eDBGVlpncjhwRlQtZngzOHFfRHlRMk5aS1ZwUklQNG1feXVMZC1RUQ?oc=5",
       "pubDate": "Mon, 07 Sep 2026 20:00:00 GMT",
       "source": "GoogleNews 明治",
@@ -213,7 +104,7 @@
       ]
     },
     {
-      "title": "粉ミルクの賞味期限延長 雪印メグミルク、10月値上げ - nikkei.com",
+      "title": "粉ミルクの賞味期限延長 雪印メグミルク、10月値上げ - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vU09MU2lvS29iSVhSeThsMTRDdHhwYjNMY01EUmgycGFKOHo3SVVVLUNvZXBqNGNHZDVRQjdCVUoxakdPYTB1MzQySVJxZE1LcDVxbGJlaS02N3Btd0lka1RUWkFqdXNqdFZuUw?oc=5",
       "pubDate": "Mon, 07 Sep 2026 05:30:00 GMT",
       "source": "GoogleNews 雪印メグミルク",
@@ -223,7 +114,7 @@
       ]
     },
     {
-      "title": "パン酵母を11月値上げ 日清製粉G系、原料高騰で - nikkei.com",
+      "title": "パン酵母を11月値上げ 日清製粉G系、原料高騰で - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nVGItcmVpRTMzZGVCOGlPbm1tSW1MRjdGMG1mcVBPVlZTTEhYQTRFVGpOejdCRFpKa2xMZEdFVUZlWlVya1JwYUJPc2Q3dEMxcE5vNW9GV2lablQzNDBsaU5QZ0oybjFpSmFkOA?oc=5",
       "pubDate": "Sat, 05 Sep 2026 07:00:00 GMT",
       "source": "GoogleNews 日清製粉",
@@ -262,7 +153,7 @@
       ]
     },
     {
-      "title": "キユーピー株価が最高値 マヨネーズなど値上げ、収益改善期待 - nikkei.com",
+      "title": "キユーピー株価が最高値 マヨネーズなど値上げ、収益改善期待 - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yYVNLQWh2cnVSSVVuajdEQXlQUU9kRlNuUTFGaWRmRUVzS3JLbEtxQUJ1Q0lwVjNNQXlRdWlSdzJpcFEwbWR6YnFnOFY3RHRjMjJIbGR0VFZsTzMzTEZSZzNPQ1Y0Qm1SMldjcQ?oc=5",
       "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT",
       "source": "GoogleNews キユーピー",
@@ -274,151 +165,13 @@
       ]
     },
     {
-      "title": "キユーピー 計224品目が値上げへ (2026年9月2日掲載) - ライブドアニュース",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUQXVSZHpHZVlLdkpsQmdGVUZ4WWlkNXJJLTAwSFk4al91Q3ZubFNQWmlUREZETG81SGFuSTRHVUlmMDlvVWlZWjkyRGo5RV9GTklPdGRHMnlBR0JxSFE?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 19:06:26 GMT",
-      "source": "GoogleNews キユーピー",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ",
-        "品目"
-      ]
-    },
-    {
-      "title": "キユーピー、マヨネーズ値上げ - 山陰中央新報デジタル",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RTTJkY0h2a05mTG5yM2ZEYXBMOGZjZEJ0YTdBOTlzWFpiZEVWTHhyNVRScFYxY2F2dno1SVlRaVVQQWg5NEZaOWNLdEZFSGVwTzRmRHA0SzNSeUE?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 12:29:42 GMT",
-      "source": "GoogleNews キユーピー",
-      "categories": [
-        "seasoning"
-      ],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "主力商品を値上げ キユーピー・味の素（ANNニュース） - nagoyatv.com",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YdDJtZnNaZWNYTU5FTVgzTkxGM3hmaXU3amtna3FUd1dXRk1WcVBORGNCOE56V1k1RzVSOVJXMzVhaU1lZkNIWlo1SkR1X0VsdFJzOHFQS3pnaVR3OW9MSEtucS0?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 10:45:54 GMT",
+      "title": "主力商品を値上げ キユーピー・味の素 - 最新の経済ニュース【随時更新】 (ニュース) | 無料動画・見逃し配信を見るなら - ABEMA",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ta0R4UEF1aEZMejExN0ZiSllqRkU3RFp6TjJWbzU1N2lnUnJCVzAxaW5IZFprYno3bTZWVGRDRDZENzJ4VUpUTXpQR05rbEZScFlUbFh5cjVEckU?oc=5",
+      "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT",
       "source": "GoogleNews キユーピー",
       "categories": [],
       "priceKeywords": [
         "値上げ"
-      ]
-    },
-    {
-      "title": "キユーピー、マヨネーズなど家庭用224品値上げ 11月から最大25% - nikkei.com",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56MU9hTnNXeVVPc1hDYThjWWVoQmhOc21UbXA0NlJzRGx6eTYtSW8wTXdvSUxuUXRBOXQyYlMwYTRaY203ZmFWclBpTHRBall6X0hwTmxMQWY3QTF6MmI0TV93MXlRaHVUN2JQdg?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT",
-      "source": "GoogleNews キユーピー",
-      "categories": [
-        "seasoning"
-      ],
-      "priceKeywords": [
-        "値上げ",
-        "家庭用"
-      ]
-    },
-    {
-      "title": "キユーピー、マヨネーズ値上げ 「味の素」も―１１、１２月に：時事ドットコム - 時事ドットコム",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3d1k0UjZTbWxNZXAxZU1DV1poZGRScVZjdjJIUVFzdEYtQ0E3dUJVQlU5ZUw5SXpWWVdTZVpOREdwUU0tajNObnpaSlA2eTc1eVZmalNMbi1vT2dyRVJtRXBwZw?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT",
-      "source": "GoogleNews キユーピー",
-      "categories": [
-        "seasoning"
-      ],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "キユーピー、マヨネーズなど224品目値上げへ 味の素も原材料高で - 朝日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aMDBDbkswVExKMUFKOVNzakVIUXlORWRjRnVndmcxd1ZUOFRlYzlUb2VKZkJGYmZ2SFZxTFZLY2J5b3FTS1lKZHFkMVUyVTlIWmNKTFdzc0dObTRZVV84R0FjZndiaU0?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT",
-      "source": "GoogleNews キユーピー",
-      "categories": [
-        "seasoning"
-      ],
-      "priceKeywords": [
-        "値上げ",
-        "原材料高",
-        "品目"
-      ]
-    },
-    {
-      "title": "キユーピー、マヨネーズなど家庭用商品値上げ 11月出荷分から（ロイター） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BbjJBclFLMWZnUW96eVNKN2llVU9hOTdMcE5SQXp0bmRhMUQ3anYxYjdWT1FTOGJKRnA5a1B4SnVDcWdIMFdIUlJIYVA3WEhZSVB5ZnlaNW1ybzk1QmVXZDlGOXV5dmJTU1hXUGUxbF9FNWJYUHk1eHFaNjR1ZHM?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT",
-      "source": "GoogleNews キユーピー",
-      "categories": [
-        "seasoning"
-      ],
-      "priceKeywords": [
-        "値上げ",
-        "家庭用"
-      ]
-    },
-    {
-      "title": "キユーピー、主力２２４品目を３～２５％値上げへ…マヨネーズ４５０ｇは税込み５５９円→６１１円に - 読売新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1faGNuQzN5NGIwZXhkUmxKVjdmZ3dyb3BuYWt0cWREVlQwQnVNbVVIS1VCeWVsbndDSkdDS3MtczV1QjJXX0VhS1dhX3FFckw5OTZrX0JhRENxUkJFTXJfNGZSc1Y?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT",
-      "source": "GoogleNews キユーピー",
-      "categories": [
-        "seasoning"
-      ],
-      "priceKeywords": [
-        "値上げ",
-        "品目"
-      ]
-    },
-    {
-      "title": "キユーピーがマヨネーズなど値上げへ…ドレッシングなど家庭用の224品、11月出荷分から - 新潟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFZG5TLUpycXROTi0zUEpsSVJzc2FTUXVoMjRoYVVkazNuUXlPZDJ5cVE3NEZoRnZqUWdwWHZ5LWJxUjZoOE1Ya2hBWk9TY29nTjc0RDhGQ3c3MlZvenc?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT",
-      "source": "GoogleNews キユーピー",
-      "categories": [
-        "seasoning"
-      ],
-      "priceKeywords": [
-        "値上げ",
-        "家庭用"
-      ]
-    },
-    {
-      "title": "キユーピー、マヨネーズ値上げ １１月から、２２４品目 - 山形新聞",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSXV6VUEtVW9QZ0x2MmNZblpDYmVrMUxrOHltODdoOFhRWW9mMWRzT2RmSEEzUEVqWkRJU3A5N1FOQlRVMWhrcTFmZXp2cUEwdDlqc3lLUlJjU3JhNzFqdGxkdm9BOFZ5NFlidk85MFBwcDBLd3NtaWc4SmMtZEdqd3ZZbTBIY0xra3pnSQ?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT",
-      "source": "GoogleNews キユーピー",
-      "categories": [
-        "seasoning"
-      ],
-      "priceKeywords": [
-        "値上げ",
-        "品目"
-      ]
-    },
-    {
-      "title": "秋も…また値上げラッシュ… 中東情勢・円安の影響を受けて9月の食品値上げは2026年で最多の4923品目に 単月での4000品目超は2025年4月以来の1年5か月ぶり - TBS NEWS DIG",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ENHpSdEZoMTg4dTVpZ0pUb3VFeEtUVTh4SE1DUTE0YjZRVjdxMkhVYlExVG5CTy1ua2ZRX2NKMDFFR2pacV81Q19PYXcyZHNWeGRzQllKR1hmcUtVTUdLd1ZVdjFxakU?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ",
-        "品目"
-      ]
-    },
-    {
-      "title": "今年最大の値上げラッシュへ…9月は4923品目、マヨネーズやしょうゆなど「調味料」が最多 -「中東発」値上げラッシュは今秋がピークか - マイナビニュース",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnbmF6XzROQk5mQ3lXM1hrNUJCUEJIaDhtWHdjMmQ2bjdTRlY1WVNmWDRBdnY1a0tlU2kzOUZoeGZSME1SeDBZT2hNU0UyWGV4VnB4TE9FYTIyX2tk?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [
-        "seasoning"
-      ],
-      "priceKeywords": [
-        "値上げ",
-        "品目"
       ]
     }
   ]
