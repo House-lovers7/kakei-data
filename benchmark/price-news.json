@@ -1,14 +1,12 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-09-16T22:00:47.071Z",
+  "fetchedAt": "2026-09-17T22:00:30.758Z",
   "periodDays": 14,
-  "totalArticles": 21,
+  "totalArticles": 13,
   "categoryBreakdown": {
     "snack": 1,
     "legume": 1,
     "noodle": 1,
-    "fish": 1,
-    "oil": 3,
     "bread": 2
   },
   "articles": [
@@ -65,7 +63,7 @@
       ]
     },
     {
-      "title": "中東情勢悪化で納豆値上げ ミツカン、最大２０％ - 山陽新聞",
+      "title": "中東情勢悪化で納豆値上げ ミツカン、最大２０％ - sanyonews.jp",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xNlRta1ZjVkU3OFduR1d6LU1fT3U1bzRocHFFVnpRSUhxWERQMlZRaFN2YTNwQnhld2tBY0FiY2gzRFp1aVczTk5WZnF3MHlUS0V0Z3M4WE9OYV9PSzhLaElTbi10aTdzVThwTFlIOA?oc=5",
       "pubDate": "Mon, 14 Sep 2026 03:05:38 GMT",
       "source": "GoogleNews ミツカン",
@@ -87,85 +85,6 @@
       "priceKeywords": [
         "値上げ",
         "家庭用"
-      ]
-    },
-    {
-      "title": "アメリカ 8月の消費者物価指数 去年同月比3.4％の上昇",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260911de49799",
-      "pubDate": "Fri, 11 Sep 2026 23:51:19 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "物価"
-      ]
-    },
-    {
-      "title": "ノルウェー大使館 サバ価格高騰の中 ニシン輸出拡大へPR強化",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260911de49752",
-      "pubDate": "Fri, 11 Sep 2026 23:47:49 +0900",
-      "source": "NHK 経済",
-      "categories": [
-        "fish"
-      ],
-      "priceKeywords": [
-        "高騰"
-      ]
-    },
-    {
-      "title": "円相場は値下がり 原油先物価格の上昇を受けて",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260911de49767",
-      "pubDate": "Fri, 11 Sep 2026 18:59:20 +0900",
-      "source": "NHK 経済",
-      "categories": [
-        "oil"
-      ],
-      "priceKeywords": [
-        "物価"
-      ]
-    },
-    {
-      "title": "株価 原油先物価格の上昇で一時2000円超値下がり",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260911de49643",
-      "pubDate": "Fri, 11 Sep 2026 16:20:00 +0900",
-      "source": "NHK 経済",
-      "categories": [
-        "oil"
-      ],
-      "priceKeywords": [
-        "物価"
-      ]
-    },
-    {
-      "title": "長期金利一時3％に 原油先物価格の上昇でインフレ懸念高まる",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260911de49681",
-      "pubDate": "Fri, 11 Sep 2026 13:22:00 +0900",
-      "source": "NHK 経済",
-      "categories": [
-        "oil"
-      ],
-      "priceKeywords": [
-        "物価",
-        "インフレ"
-      ]
-    },
-    {
-      "title": "8月企業物価指数 前年同月比7.6％上昇 高水準続く",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260911de49635",
-      "pubDate": "Fri, 11 Sep 2026 10:46:35 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "物価"
-      ]
-    },
-    {
-      "title": "欧州中銀が2会合ぶり利上げ 物価上昇抑えたいねらい",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260911de49617",
-      "pubDate": "Fri, 11 Sep 2026 02:17:48 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "物価"
       ]
     },
     {
@@ -191,7 +110,7 @@
       ]
     },
     {
-      "title": "６月から食品容器２０％以上値上げ エフピコ、中東情勢で原材料高騰 - 山陽新聞",
+      "title": "６月から食品容器２０％以上値上げ エフピコ、中東情勢で原材料高騰 - sanyonews.jp",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PeU5JbG14UTR0QVFGV05QaWVheWNjOU1hakNpM01YUjNsZy1mRTBZMjdaSXQ5blF6X3A4TDNGRXkyTXhLOWY4Xzc0WThqaG1jUVY3NzRxeVJMOThPZkpkVUY5ZEZFZ0E?oc=5",
       "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
       "source": "GoogleNews 中東 食品",
@@ -205,22 +124,12 @@
     {
       "title": "キユーピー 家庭用、業務用商品 11月から値上げ（食品新聞） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yd0dpZnpjWHFkOGd1cGVpNHpTd09WRWdKRlh3azdPZnZCRktrY2ZzZ2dkOExMWk5QemIzbkhwX2VCdXV3dVBIbTgtZzJ0WUVMUkJSUzg1QWoxaFg3WVpWUDdweHZzTTlJMkxlMVgtSDVvd2RqcjBvTFEzcEFucE0?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 11:42:49 GMT",
+      "pubDate": "Tue, 08 Sep 2026 07:00:00 GMT",
       "source": "GoogleNews キユーピー",
       "categories": [],
       "priceKeywords": [
         "値上げ",
         "家庭用"
-      ]
-    },
-    {
-      "title": "明治HD株高値圏 食品値上げ・販売数量増のおいしい関係 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oN2U0LUJiN0xxZUdtLWdSdFZKX0dERVd1UUE0LVdKa2xPeDd0WDdXYm9nSnJ0U2cxeWMtTzI2SzVLTXdKMEhIb2UxYnBPZzBDSWhfRjF6eDBGVlpncjhwRlQtZngzOHFfRHlRMk5aS1ZwUklQNG1feXVMZC1RUQ?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 07:00:00 GMT",
-      "source": "GoogleNews 明治",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
       ]
     },
     {
