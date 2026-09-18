@@ -1,8 +1,8 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-09-17T22:00:30.758Z",
+  "fetchedAt": "2026-09-18T22:00:32.309Z",
   "periodDays": 14,
-  "totalArticles": 13,
+  "totalArticles": 16,
   "categoryBreakdown": {
     "snack": 1,
     "legume": 1,
@@ -10,6 +10,36 @@
     "bread": 2
   },
   "articles": [
+    {
+      "title": "日銀 どう物価安定図るか 今後の利上げも難しい判断",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51165",
+      "pubDate": "Sat, 19 Sep 2026 05:45:25 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
+    {
+      "title": "株価 値上がり 日銀利上げ決定後に上昇幅拡大",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260918de51005",
+      "pubDate": "Fri, 18 Sep 2026 16:00:00 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上がり"
+      ]
+    },
+    {
+      "title": "8月消費者物価指数 前年同月比+1.7％",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260918de50959",
+      "pubDate": "Fri, 18 Sep 2026 09:05:00 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
     {
       "title": "明治、武内製薬、第一三共…プロテイン値上げが相次ぐ背景 “痩せ薬”の急速普及も一因に - 日刊ゲンダイDIGITAL",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WYlphX2FoemVoZHJyaG1OUmRSd21VaFJ6ZVVSeUJqR0Nuck5hRzAtbXBaRFlmSE5ERlRZTDJPNUJEMURqZnlWV0taZmVEMmV0aDBXckFQTjBkTmcxZGhTVTd3MjVvX0U?oc=5",
@@ -63,7 +93,7 @@
       ]
     },
     {
-      "title": "中東情勢悪化で納豆値上げ ミツカン、最大２０％ - sanyonews.jp",
+      "title": "中東情勢悪化で納豆値上げ ミツカン、最大２０％ - 山陽新聞",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xNlRta1ZjVkU3OFduR1d6LU1fT3U1bzRocHFFVnpRSUhxWERQMlZRaFN2YTNwQnhld2tBY0FiY2gzRFp1aVczTk5WZnF3MHlUS0V0Z3M4WE9OYV9PSzhLaElTbi10aTdzVThwTFlIOA?oc=5",
       "pubDate": "Mon, 14 Sep 2026 03:05:38 GMT",
       "source": "GoogleNews ミツカン",
@@ -88,19 +118,9 @@
       ]
     },
     {
-      "title": "佐川急便、袋状の包装資材「エクスプレスバッグ」のG-LとG-Sを値上げへ（ネットショップ担当者フォーラム） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoQzJhbFdJU3g5MnlXT3BheU5tX2ZlUjF0WG05WWZka0VTbVY0R0hGakcxYXFicFBHcGJCcU5Ncjc4ZENXYU45RlhrMzFUVEpsUlRhMHlHcHBjbEh0WUpLc1NDZmdNbjlZV2FGVENVbzRKUks3b0RyYk80Mk9iNFk?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 22:16:00 GMT",
-      "source": "GoogleNews 包装資材",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
       "title": "パン酵母を値上げ 中東情勢の影響で11月から オリエンタル酵母工業（食品新聞） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85OEN1TjNZRnc0YU4yZnJKMWthYUYzVGltdjZ0WFQ0Tk5JU01ZTmk2SkFWUXJkb01NNkhiSmZPTzhvblg0TllfUmFsSXpKQlJGNG9YNWtSYldRekVDbGJpVjFPTzRIU2hDaWlVTXJ1enBRRk5kNTRsZzdQaTJ5aEE?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 10:59:00 GMT",
+      "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
       "source": "GoogleNews 中東 食品",
       "categories": [
         "bread"
@@ -110,15 +130,13 @@
       ]
     },
     {
-      "title": "６月から食品容器２０％以上値上げ エフピコ、中東情勢で原材料高騰 - sanyonews.jp",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PeU5JbG14UTR0QVFGV05QaWVheWNjOU1hakNpM01YUjNsZy1mRTBZMjdaSXQ5blF6X3A4TDNGRXkyTXhLOWY4Xzc0WThqaG1jUVY3NzRxeVJMOThPZkpkVUY5ZEZFZ0E?oc=5",
+      "title": "佐川急便、袋状の包装資材「エクスプレスバッグ」のG-LとG-Sを値上げへ - ネットショップ担当者フォーラム",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5R2ZNcHZPMkM3a21TSG1VR081SjJFck5hNWdCX1Q3NGxyVFVwcE4zRTNpRk91NHJDTzFwZ1JfNHZmZWh3RmNtTXVaWWNSSndpRUhWZ0FnRmlHSlBE?oc=5",
       "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
-      "source": "GoogleNews 中東 食品",
+      "source": "GoogleNews 包装資材",
       "categories": [],
       "priceKeywords": [
-        "値上げ",
-        "高騰",
-        "原材料高"
+        "値上げ"
       ]
     },
     {
@@ -133,9 +151,19 @@
       ]
     },
     {
+      "title": "明治HD株高値圏 食品値上げ・販売数量増のおいしい関係 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oN2U0LUJiN0xxZUdtLWdSdFZKX0dERVd1UUE0LVdKa2xPeDd0WDdXYm9nSnJ0U2cxeWMtTzI2SzVLTXdKMEhIb2UxYnBPZzBDSWhfRjF6eDBGVlpncjhwRlQtZngzOHFfRHlRMk5aS1ZwUklQNG1feXVMZC1RUQ?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 07:00:00 GMT",
+      "source": "GoogleNews 明治",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
       "title": "粉ミルクの賞味期限延長 雪印メグミルク、10月値上げ - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vU09MU2lvS29iSVhSeThsMTRDdHhwYjNMY01EUmgycGFKOHo3SVVVLUNvZXBqNGNHZDVRQjdCVUoxakdPYTB1MzQySVJxZE1LcDVxbGJlaS02N3Btd0lka1RUWkFqdXNqdFZuUw?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 07:00:00 GMT",
+      "pubDate": "Mon, 07 Sep 2026 05:30:00 GMT",
       "source": "GoogleNews 雪印メグミルク",
       "categories": [],
       "priceKeywords": [
