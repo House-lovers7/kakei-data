@@ -1,19 +1,18 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-09-18T22:00:32.309Z",
+  "fetchedAt": "2026-09-19T22:00:31.141Z",
   "periodDays": 14,
-  "totalArticles": 16,
+  "totalArticles": 15,
   "categoryBreakdown": {
     "snack": 1,
     "legume": 1,
-    "noodle": 1,
-    "bread": 2
+    "bread": 1
   },
   "articles": [
     {
       "title": "日銀 どう物価安定図るか 今後の利上げも難しい判断",
       "link": "https://news.web.nhk/newsweb/na/nd-20260919de51165",
-      "pubDate": "Sat, 19 Sep 2026 05:45:25 +0900",
+      "pubDate": "Sat, 19 Sep 2026 05:45:00 +0900",
       "source": "NHK 経済",
       "categories": [],
       "priceKeywords": [
@@ -105,19 +104,6 @@
       ]
     },
     {
-      "title": "日清製粉ウェルナ 8月1日から値上げ パスタなど家庭用製品200品以上 - 食品新聞 WEB版",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE52bW1mTS1pS2VyRW1Id3N4bXRMQ0FxdkdiaWVhX0ZOb2tPbXNQQVBTWmh6b3dkWXdubi1IVFQyVGpYV2M?oc=5",
-      "pubDate": "Fri, 11 Sep 2026 15:06:02 GMT",
-      "source": "GoogleNews 日清製粉",
-      "categories": [
-        "noodle"
-      ],
-      "priceKeywords": [
-        "値上げ",
-        "家庭用"
-      ]
-    },
-    {
       "title": "パン酵母を値上げ 中東情勢の影響で11月から オリエンタル酵母工業（食品新聞） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85OEN1TjNZRnc0YU4yZnJKMWthYUYzVGltdjZ0WFQ0Tk5JU01ZTmk2SkFWUXJkb01NNkhiSmZPTzhvblg0TllfUmFsSXpKQlJGNG9YNWtSYldRekVDbGJpVjFPTzRIU2hDaWlVTXJ1enBRRk5kNTRsZzdQaTJ5aEE?oc=5",
       "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
@@ -127,6 +113,18 @@
       ],
       "priceKeywords": [
         "値上げ"
+      ]
+    },
+    {
+      "title": "６月から食品容器２０％以上値上げ エフピコ、中東情勢で原材料高騰 - 山陽新聞",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PeU5JbG14UTR0QVFGV05QaWVheWNjOU1hakNpM01YUjNsZy1mRTBZMjdaSXQ5blF6X3A4TDNGRXkyTXhLOWY4Xzc0WThqaG1jUVY3NzRxeVJMOThPZkpkVUY5ZEZFZ0E?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
+      "source": "GoogleNews 中東 食品",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ",
+        "高騰",
+        "原材料高"
       ]
     },
     {
@@ -163,24 +161,11 @@
     {
       "title": "粉ミルクの賞味期限延長 雪印メグミルク、10月値上げ - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vU09MU2lvS29iSVhSeThsMTRDdHhwYjNMY01EUmgycGFKOHo3SVVVLUNvZXBqNGNHZDVRQjdCVUoxakdPYTB1MzQySVJxZE1LcDVxbGJlaS02N3Btd0lka1RUWkFqdXNqdFZuUw?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 05:30:00 GMT",
+      "pubDate": "Mon, 07 Sep 2026 07:00:00 GMT",
       "source": "GoogleNews 雪印メグミルク",
       "categories": [],
       "priceKeywords": [
         "値上げ"
-      ]
-    },
-    {
-      "title": "パン酵母を11月値上げ 日清製粉G系、原料高騰で - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nVGItcmVpRTMzZGVCOGlPbm1tSW1MRjdGMG1mcVBPVlZTTEhYQTRFVGpOejdCRFpKa2xMZEdFVUZlWlVya1JwYUJPc2Q3dEMxcE5vNW9GV2lablQzNDBsaU5QZ0oybjFpSmFkOA?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 07:00:00 GMT",
-      "source": "GoogleNews 日清製粉",
-      "categories": [
-        "bread"
-      ],
-      "priceKeywords": [
-        "値上げ",
-        "高騰"
       ]
     }
   ]
