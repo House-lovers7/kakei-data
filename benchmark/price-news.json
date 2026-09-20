@@ -1,14 +1,26 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-09-19T22:00:31.141Z",
+  "fetchedAt": "2026-09-20T22:00:35.364Z",
   "periodDays": 14,
-  "totalArticles": 15,
+  "totalArticles": 14,
   "categoryBreakdown": {
-    "snack": 1,
     "legume": 1,
+    "snack": 1,
     "bread": 1
   },
   "articles": [
+    {
+      "title": "中東情勢悪化で納豆値上げ ミツカン、最大２０％ - 山陽新聞",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wazVmRkNGVlk0dDlQUThxUHdfd2RXSi1nbWxISGRaX2FYbXZxbE5uQ0cyeXJPbmVBM0JnV1JSSlFOOERaN0NUcXhRNXhSbG04V1NxbGZ6VXVKcEJOX2dpOGxLdk0xNXBmREZLNU9pRQ?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 05:04:02 GMT",
+      "source": "GoogleNews ミツカン",
+      "categories": [
+        "legume"
+      ],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
     {
       "title": "日銀 どう物価安定図るか 今後の利上げも難しい判断",
       "link": "https://news.web.nhk/newsweb/na/nd-20260919de51165",
@@ -92,18 +104,6 @@
       ]
     },
     {
-      "title": "中東情勢悪化で納豆値上げ ミツカン、最大２０％ - 山陽新聞",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xNlRta1ZjVkU3OFduR1d6LU1fT3U1bzRocHFFVnpRSUhxWERQMlZRaFN2YTNwQnhld2tBY0FiY2gzRFp1aVczTk5WZnF3MHlUS0V0Z3M4WE9OYV9PSzhLaElTbi10aTdzVThwTFlIOA?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 03:05:38 GMT",
-      "source": "GoogleNews ミツカン",
-      "categories": [
-        "legume"
-      ],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
       "title": "パン酵母を値上げ 中東情勢の影響で11月から オリエンタル酵母工業（食品新聞） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85OEN1TjNZRnc0YU4yZnJKMWthYUYzVGltdjZ0WFQ0Tk5JU01ZTmk2SkFWUXJkb01NNkhiSmZPTzhvblg0TllfUmFsSXpKQlJGNG9YNWtSYldRekVDbGJpVjFPTzRIU2hDaWlVTXJ1enBRRk5kNTRsZzdQaTJ5aEE?oc=5",
       "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
@@ -113,18 +113,6 @@
       ],
       "priceKeywords": [
         "値上げ"
-      ]
-    },
-    {
-      "title": "６月から食品容器２０％以上値上げ エフピコ、中東情勢で原材料高騰 - 山陽新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PeU5JbG14UTR0QVFGV05QaWVheWNjOU1hakNpM01YUjNsZy1mRTBZMjdaSXQ5blF6X3A4TDNGRXkyTXhLOWY4Xzc0WThqaG1jUVY3NzRxeVJMOThPZkpkVUY5ZEZFZ0E?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ",
-        "高騰",
-        "原材料高"
       ]
     },
     {
