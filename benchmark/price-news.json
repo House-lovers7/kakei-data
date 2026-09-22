@@ -1,8 +1,8 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-09-21T22:00:28.651Z",
+  "fetchedAt": "2026-09-22T22:00:32.452Z",
   "periodDays": 14,
-  "totalArticles": 13,
+  "totalArticles": 10,
   "categoryBreakdown": {
     "snack": 1,
     "legume": 1,
@@ -30,6 +30,17 @@
       ]
     },
     {
+      "title": "～日用品を中心に値上げ広がる。秋以降は物価上振れの可能性大～ - 第一ライフ資産運用経済研究所",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EUlUzWDNWOTBLS2EwNDcySU9LWktaMDdrVFZ6MFFaZTFEdzlobkx1aWlUeFNYYjhJMWpoZmxubXFzc2M0Yk1BWGx5ODJ4SDN5dFZrMkN6NGhnSHc?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 01:49:21 GMT",
+      "source": "GoogleNews 包装資材",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ",
+        "物価"
+      ]
+    },
+    {
       "title": "8月消費者物価指数 前年同月比+1.7％",
       "link": "https://news.web.nhk/newsweb/na/nd-20260918de50959",
       "pubDate": "Fri, 18 Sep 2026 09:05:00 +0900",
@@ -47,26 +58,6 @@
       "categories": [],
       "priceKeywords": [
         "値上げ"
-      ]
-    },
-    {
-      "title": "日経平均株価 値上がり 午後に半導体関連銘柄などに買い注文",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260916de50526",
-      "pubDate": "Wed, 16 Sep 2026 16:18:00 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "値上がり"
-      ]
-    },
-    {
-      "title": "アメリカ長期金利が19年ぶりの高水準 インフレ懸念背景に",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260916de50462",
-      "pubDate": "Wed, 16 Sep 2026 07:28:41 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "インフレ"
       ]
     },
     {
@@ -120,27 +111,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5R2ZNcHZPMkM3a21TSG1VR081SjJFck5hNWdCX1Q3NGxyVFVwcE4zRTNpRk91NHJDTzFwZ1JfNHZmZWh3RmNtTXVaWWNSSndpRUhWZ0FnRmlHSlBE?oc=5",
       "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
       "source": "GoogleNews 包装資材",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "キユーピー 家庭用、業務用商品 11月から値上げ（食品新聞） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yd0dpZnpjWHFkOGd1cGVpNHpTd09WRWdKRlh3azdPZnZCRktrY2ZzZ2dkOExMWk5QemIzbkhwX2VCdXV3dVBIbTgtZzJ0WUVMUkJSUzg1QWoxaFg3WVpWUDdweHZzTTlJMkxlMVgtSDVvd2RqcjBvTFEzcEFucE0?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 07:00:00 GMT",
-      "source": "GoogleNews キユーピー",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ",
-        "家庭用"
-      ]
-    },
-    {
-      "title": "明治HD株高値圏 食品値上げ・販売数量増のおいしい関係 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oN2U0LUJiN0xxZUdtLWdSdFZKX0dERVd1UUE0LVdKa2xPeDd0WDdXYm9nSnJ0U2cxeWMtTzI2SzVLTXdKMEhIb2UxYnBPZzBDSWhfRjF6eDBGVlpncjhwRlQtZngzOHFfRHlRMk5aS1ZwUklQNG1feXVMZC1RUQ?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 07:00:00 GMT",
-      "source": "GoogleNews 明治",
       "categories": [],
       "priceKeywords": [
         "値上げ"
