@@ -1,14 +1,22 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-09-22T22:00:32.452Z",
+  "fetchedAt": "2026-09-23T22:01:51.921Z",
   "periodDays": 14,
-  "totalArticles": 10,
+  "totalArticles": 8,
   "categoryBreakdown": {
-    "snack": 1,
-    "legume": 1,
-    "bread": 1
+    "snack": 1
   },
   "articles": [
+    {
+      "title": "維持費高騰 減る「ご当地遊園地」",
+      "link": "https://news.yahoo.co.jp/pickup/6596298?source=rss",
+      "pubDate": "Wed, 23 Sep 2026 12:12:22 GMT",
+      "source": "Yahoo!ニュース 経済",
+      "categories": [],
+      "priceKeywords": [
+        "高騰"
+      ]
+    },
     {
       "title": "日銀 どう物価安定図るか 今後の利上げも難しい判断",
       "link": "https://news.web.nhk/newsweb/na/nd-20260919de51165",
@@ -63,7 +71,7 @@
     {
       "title": "ホルムズ封鎖から半年 物流コスト増が秋の食品値上げに影響 - ウェザーニュース",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uTXppckFXTUhRTUFTbnFsQWhZc3ZRemE5MHlTNkoxSnJYc3MwTXpXeGY4NXhabWkycG5OSHN1U2cyNHZZMWlEcnQzLXZrUzN3WkdkRg?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 00:30:00 GMT",
+      "pubDate": "Tue, 15 Sep 2026 07:00:00 GMT",
       "source": "GoogleNews 中東 食品",
       "categories": [],
       "priceKeywords": [
@@ -78,40 +86,6 @@
       "categories": [
         "snack"
       ],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "中東情勢悪化で納豆値上げ ミツカン、最大２０％ - 山陽新聞",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xNlRta1ZjVkU3OFduR1d6LU1fT3U1bzRocHFFVnpRSUhxWERQMlZRaFN2YTNwQnhld2tBY0FiY2gzRFp1aVczTk5WZnF3MHlUS0V0Z3M4WE9OYV9PSzhLaElTbi10aTdzVThwTFlIOA?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 03:05:38 GMT",
-      "source": "GoogleNews ミツカン",
-      "categories": [
-        "legume"
-      ],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "パン酵母を値上げ 中東情勢の影響で11月から オリエンタル酵母工業（食品新聞） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85OEN1TjNZRnc0YU4yZnJKMWthYUYzVGltdjZ0WFQ0Tk5JU01ZTmk2SkFWUXJkb01NNkhiSmZPTzhvblg0TllfUmFsSXpKQlJGNG9YNWtSYldRekVDbGJpVjFPTzRIU2hDaWlVTXJ1enBRRk5kNTRsZzdQaTJ5aEE?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [
-        "bread"
-      ],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "佐川急便、袋状の包装資材「エクスプレスバッグ」のG-LとG-Sを値上げへ - ネットショップ担当者フォーラム",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5R2ZNcHZPMkM3a21TSG1VR081SjJFck5hNWdCX1Q3NGxyVFVwcE4zRTNpRk91NHJDTzFwZ1JfNHZmZWh3RmNtTXVaWWNSSndpRUhWZ0FnRmlHSlBE?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
-      "source": "GoogleNews 包装資材",
-      "categories": [],
       "priceKeywords": [
         "値上げ"
       ]
