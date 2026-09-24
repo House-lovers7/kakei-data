@@ -1,6 +1,6 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-09-23T22:01:51.921Z",
+  "fetchedAt": "2026-09-24T22:00:30.990Z",
   "periodDays": 14,
   "totalArticles": 8,
   "categoryBreakdown": {
@@ -8,13 +8,36 @@
   },
   "articles": [
     {
-      "title": "維持費高騰 減る「ご当地遊園地」",
-      "link": "https://news.yahoo.co.jp/pickup/6596298?source=rss",
-      "pubDate": "Wed, 23 Sep 2026 12:12:22 GMT",
-      "source": "Yahoo!ニュース 経済",
+      "title": "株価 値上がり 半導体関連の銘柄に買い注文",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260924de52130",
+      "pubDate": "Thu, 24 Sep 2026 16:01:45 +0900",
+      "source": "NHK 経済",
       "categories": [],
       "priceKeywords": [
-        "高騰"
+        "値上がり"
+      ]
+    },
+    {
+      "title": "OECD 物価上昇率予測 来年3.6％に引き上げ エネルギー高騰受け",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260924de52090",
+      "pubDate": "Thu, 24 Sep 2026 08:50:00 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "高騰",
+        "物価"
+      ]
+    },
+    {
+      "title": "６月から食品容器２０％以上値上げ エフピコ、中東情勢で原材料高騰 - 山陽新聞",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrbTAxRHctc0E3Vk9hWnVKS1QyazY3M25jdnRBZWFLQWpNd1Y2dGFaeHBfd0V5NEYxeUlsWFVlc0VDUGYxM0VTNTdrZVp5U29HaDlYRnEzMHg?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 07:00:00 GMT",
+      "source": "GoogleNews 中東 食品",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ",
+        "高騰",
+        "原材料高"
       ]
     },
     {
@@ -28,16 +51,6 @@
       ]
     },
     {
-      "title": "株価 値上がり 日銀利上げ決定後に上昇幅拡大",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260918de51005",
-      "pubDate": "Fri, 18 Sep 2026 16:00:00 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "値上がり"
-      ]
-    },
-    {
       "title": "～日用品を中心に値上げ広がる。秋以降は物価上振れの可能性大～ - 第一ライフ資産運用経済研究所",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EUlUzWDNWOTBLS2EwNDcySU9LWktaMDdrVFZ6MFFaZTFEdzlobkx1aWlUeFNYYjhJMWpoZmxubXFzc2M0Yk1BWGx5ODJ4SDN5dFZrMkN6NGhnSHc?oc=5",
       "pubDate": "Fri, 18 Sep 2026 01:49:21 GMT",
@@ -45,16 +58,6 @@
       "categories": [],
       "priceKeywords": [
         "値上げ",
-        "物価"
-      ]
-    },
-    {
-      "title": "8月消費者物価指数 前年同月比+1.7％",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260918de50959",
-      "pubDate": "Fri, 18 Sep 2026 09:05:00 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
         "物価"
       ]
     },
