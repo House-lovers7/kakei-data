@@ -1,12 +1,43 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-09-24T22:00:30.990Z",
+  "fetchedAt": "2026-09-25T22:00:31.715Z",
   "periodDays": 14,
   "totalArticles": 8,
   "categoryBreakdown": {
     "snack": 1
   },
   "articles": [
+    {
+      "title": "NTTドコモも料金プラン値上げ 物価高や設備投資増などで",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260925de52440",
+      "pubDate": "Fri, 25 Sep 2026 19:34:17 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ",
+        "物価"
+      ]
+    },
+    {
+      "title": "円相場 一時1ドル＝157円台まで値上がり",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260925de52455",
+      "pubDate": "Fri, 25 Sep 2026 19:07:39 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上がり"
+      ]
+    },
+    {
+      "title": "株価 値上がり 金利上昇で銀行銘柄など上昇",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260925de52326",
+      "pubDate": "Fri, 25 Sep 2026 16:17:38 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上がり"
+      ]
+    },
     {
       "title": "株価 値上がり 半導体関連の銘柄に買い注文",
       "link": "https://news.web.nhk/newsweb/na/nd-20260924de52130",
@@ -29,42 +60,9 @@
       ]
     },
     {
-      "title": "６月から食品容器２０％以上値上げ エフピコ、中東情勢で原材料高騰 - 山陽新聞",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrbTAxRHctc0E3Vk9hWnVKS1QyazY3M25jdnRBZWFLQWpNd1Y2dGFaeHBfd0V5NEYxeUlsWFVlc0VDUGYxM0VTNTdrZVp5U29HaDlYRnEzMHg?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 07:00:00 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ",
-        "高騰",
-        "原材料高"
-      ]
-    },
-    {
-      "title": "日銀 どう物価安定図るか 今後の利上げも難しい判断",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51165",
-      "pubDate": "Sat, 19 Sep 2026 05:45:00 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "物価"
-      ]
-    },
-    {
-      "title": "～日用品を中心に値上げ広がる。秋以降は物価上振れの可能性大～ - 第一ライフ資産運用経済研究所",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EUlUzWDNWOTBLS2EwNDcySU9LWktaMDdrVFZ6MFFaZTFEdzlobkx1aWlUeFNYYjhJMWpoZmxubXFzc2M0Yk1BWGx5ODJ4SDN5dFZrMkN6NGhnSHc?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 01:49:21 GMT",
-      "source": "GoogleNews 包装資材",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ",
-        "物価"
-      ]
-    },
-    {
       "title": "明治、武内製薬、第一三共…プロテイン値上げが相次ぐ背景 “痩せ薬”の急速普及も一因に - 日刊ゲンダイDIGITAL",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WYlphX2FoemVoZHJyaG1OUmRSd21VaFJ6ZVVSeUJqR0Nuck5hRzAtbXBaRFlmSE5ERlRZTDJPNUJEMURqZnlWV0taZmVEMmV0aDBXckFQTjBkTmcxZGhTVTd3MjVvX0U?oc=5",
-      "pubDate": "Wed, 16 Sep 2026 21:00:00 GMT",
+      "pubDate": "Thu, 17 Sep 2026 07:00:00 GMT",
       "source": "GoogleNews 明治",
       "categories": [],
       "priceKeywords": [
