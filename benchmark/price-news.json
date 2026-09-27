@@ -1,22 +1,12 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-09-26T22:00:29.986Z",
+  "fetchedAt": "2026-09-27T22:00:31.089Z",
   "periodDays": 14,
-  "totalArticles": 9,
+  "totalArticles": 8,
   "categoryBreakdown": {
     "snack": 1
   },
   "articles": [
-    {
-      "title": "10月値上げラッシュ 家計負担重く",
-      "link": "https://news.yahoo.co.jp/pickup/6596639?source=rss",
-      "pubDate": "Sat, 26 Sep 2026 09:54:34 GMT",
-      "source": "Yahoo!ニュース 経済",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
     {
       "title": "NTTドコモも料金プラン値上げ 物価高や設備投資増などで",
       "link": "https://news.web.nhk/newsweb/na/nd-20260925de52440",
@@ -80,7 +70,7 @@
       ]
     },
     {
-      "title": "ホルムズ封鎖から半年 物流コスト増が秋の食品値上げに影響 - ウェザーニュース",
+      "title": "ホルムズ封鎖から半年 物流コスト増が秋の食品値上げに影響 - weathernews.jp",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uTXppckFXTUhRTUFTbnFsQWhZc3ZRemE5MHlTNkoxSnJYc3MwTXpXeGY4NXhabWkycG5OSHN1U2cyNHZZMWlEcnQzLXZrUzN3WkdkRg?oc=5",
       "pubDate": "Tue, 15 Sep 2026 07:00:00 GMT",
       "source": "GoogleNews 中東 食品",
