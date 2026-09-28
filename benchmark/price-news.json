@@ -1,12 +1,34 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-09-27T22:00:31.089Z",
+  "fetchedAt": "2026-09-28T22:00:31.637Z",
   "periodDays": 14,
-  "totalArticles": 8,
+  "totalArticles": 9,
   "categoryBreakdown": {
-    "snack": 1
+    "legume": 1
   },
   "articles": [
+    {
+      "title": "円相場 値上がり 日米当局が協調対応の可能性を意識",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260928de52897",
+      "pubDate": "Mon, 28 Sep 2026 18:18:16 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上がり"
+      ]
+    },
+    {
+      "title": "中東情勢悪化で納豆値上げ ミツカン、最大２０％ - 山陽新聞",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16aF9LQVB6Qm9zVnNwRW1HbUdHVUxPRUNjVFU5NnJCVUJfZmdhX01PNHZDQmdlSEowa2ZZWFFNR2xGclBuRVZwZkRyVWJ1SHRvQW1KQ3Y3OVg5eW8?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 02:02:52 GMT",
+      "source": "GoogleNews ミツカン",
+      "categories": [
+        "legume"
+      ],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
     {
       "title": "NTTドコモも料金プラン値上げ 物価高や設備投資増などで",
       "link": "https://news.web.nhk/newsweb/na/nd-20260925de52440",
@@ -70,23 +92,11 @@
       ]
     },
     {
-      "title": "ホルムズ封鎖から半年 物流コスト増が秋の食品値上げに影響 - weathernews.jp",
+      "title": "ホルムズ封鎖から半年 物流コスト増が秋の食品値上げに影響 - ウェザーニュース",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uTXppckFXTUhRTUFTbnFsQWhZc3ZRemE5MHlTNkoxSnJYc3MwTXpXeGY4NXhabWkycG5OSHN1U2cyNHZZMWlEcnQzLXZrUzN3WkdkRg?oc=5",
       "pubDate": "Tue, 15 Sep 2026 07:00:00 GMT",
       "source": "GoogleNews 中東 食品",
       "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "明治、「きのこの山」「たけのこの里」など14品の値上げ発表 チョコレート・スナックは11・1出荷分より 約3％～8％ - 福井新聞社",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45U1NMQlowU0VBcmhDcGZJN2N5YUZyWTVUMXZ3d0pQeVVpWEE1TDBobHlFWFZ1QmNQODVHYmlIb1RtSmFEV0NlOWZLY2U0STd4LUhoR1dkS0J6T2FGVlJaREZwTmlqbDFZZm91eA?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 03:08:06 GMT",
-      "source": "GoogleNews 明治",
-      "categories": [
-        "snack"
-      ],
       "priceKeywords": [
         "値上げ"
       ]
