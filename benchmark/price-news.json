@@ -1,12 +1,35 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-09-28T22:00:31.637Z",
+  "fetchedAt": "2026-09-29T22:00:30.067Z",
   "periodDays": 14,
-  "totalArticles": 9,
+  "totalArticles": 10,
   "categoryBreakdown": {
+    "oil": 1,
     "legume": 1
   },
   "articles": [
+    {
+      "title": "10月の電気ガス 全国的に値上がり",
+      "link": "https://news.yahoo.co.jp/pickup/6596960?source=rss",
+      "pubDate": "Tue, 29 Sep 2026 07:37:45 GMT",
+      "source": "Yahoo!ニュース 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上がり"
+      ]
+    },
+    {
+      "title": "株価 値下がり 原油先物価格の上昇を背景に幅広い銘柄で",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260929de53027",
+      "pubDate": "Tue, 29 Sep 2026 16:23:27 +0900",
+      "source": "NHK 経済",
+      "categories": [
+        "oil"
+      ],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
     {
       "title": "円相場 値上がり 日米当局が協調対応の可能性を意識",
       "link": "https://news.web.nhk/newsweb/na/nd-20260928de52897",
@@ -86,16 +109,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WYlphX2FoemVoZHJyaG1OUmRSd21VaFJ6ZVVSeUJqR0Nuck5hRzAtbXBaRFlmSE5ERlRZTDJPNUJEMURqZnlWV0taZmVEMmV0aDBXckFQTjBkTmcxZGhTVTd3MjVvX0U?oc=5",
       "pubDate": "Thu, 17 Sep 2026 07:00:00 GMT",
       "source": "GoogleNews 明治",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "ホルムズ封鎖から半年 物流コスト増が秋の食品値上げに影響 - ウェザーニュース",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uTXppckFXTUhRTUFTbnFsQWhZc3ZRemE5MHlTNkoxSnJYc3MwTXpXeGY4NXhabWkycG5OSHN1U2cyNHZZMWlEcnQzLXZrUzN3WkdkRg?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 07:00:00 GMT",
-      "source": "GoogleNews 中東 食品",
       "categories": [],
       "priceKeywords": [
         "値上げ"
