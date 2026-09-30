@@ -1,21 +1,102 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-09-29T22:00:30.067Z",
+  "fetchedAt": "2026-09-30T22:00:33.465Z",
   "periodDays": 14,
-  "totalArticles": 10,
+  "totalArticles": 15,
   "categoryBreakdown": {
-    "oil": 1,
+    "oil": 3,
     "legume": 1
   },
   "articles": [
     {
-      "title": "10月の電気ガス 全国的に値上がり",
-      "link": "https://news.yahoo.co.jp/pickup/6596960?source=rss",
-      "pubDate": "Tue, 29 Sep 2026 07:37:45 GMT",
+      "title": "飲食料品値上げ３０００品目超 １０月、包装資材高、円安響く - 日本農業新聞",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qN3pQbXZLZHYxdXM3dS1GVDhsRG1Sc2huRHN5WXFoMTZJdXlpNWdZTjRBQXlnSF8xdERXN0tKRFBHam1DUFFLSjIxY3pjTlF0dGlIdzZ1a1g?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 20:01:29 GMT",
+      "source": "GoogleNews 包装資材",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ",
+        "品目"
+      ]
+    },
+    {
+      "title": "金利や物価の動き踏まえ 民間議員が経済政策運営で提案",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260930de53446",
+      "pubDate": "Wed, 30 Sep 2026 21:12:52 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
+    {
+      "title": "来月の食品値上げ 3153品目 原油高・円安で2か月連続3000品目超 - news.infoseek.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfRUo5UENVQVpNbjMxNHhldHB1c3I0Xzh3ZHRyRU9lN1g4MmNxOTJtTjhmT0JfQkpDSUt2am96ekdjY0hfLXc0ZGNZekZNbVFNT3dOT1MzOVJVeWxN?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 10:58:22 GMT",
+      "source": "GoogleNews 中東 食品",
+      "categories": [
+        "oil"
+      ],
+      "priceKeywords": [
+        "値上げ",
+        "品目"
+      ]
+    },
+    {
+      "title": "10月の食品値上げ 3153品目 ことし2番目の多さ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260930de53264",
+      "pubDate": "Wed, 30 Sep 2026 18:58:00 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ",
+        "品目"
+      ]
+    },
+    {
+      "title": "株価 値上がり 原油先物価格が下落傾向で企業収益の懸念和らぐ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260930de53398",
+      "pubDate": "Wed, 30 Sep 2026 16:21:27 +0900",
+      "source": "NHK 経済",
+      "categories": [
+        "oil"
+      ],
+      "priceKeywords": [
+        "値上がり",
+        "物価"
+      ]
+    },
+    {
+      "title": "10月値上げ、飲食料品は3000品目以上に 中東情勢や円安で - news.infoseek.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MX3dGYUFlbTVKeDFXM3R1cTlSUHgteUxtcUN6bENsWTBGTElzdGoxVV9NbnhnWjh5R3J2U0lUYVExNU1YRDhxLXZjRHN5QnhiSDFiYVYxVWJ1RmlQRkRLZnpFUnhyNmlt?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 06:30:00 GMT",
+      "source": "GoogleNews 中東 食品",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ",
+        "品目"
+      ]
+    },
+    {
+      "title": "飲食料品値上げ 10月は3153品目",
+      "link": "https://news.yahoo.co.jp/pickup/6597045?source=rss",
+      "pubDate": "Wed, 30 Sep 2026 02:59:15 GMT",
       "source": "Yahoo!ニュース 経済",
       "categories": [],
       "priceKeywords": [
-        "値上がり"
+        "値上げ",
+        "品目"
+      ]
+    },
+    {
+      "title": "食品値上げ、年間２万品目超＝２年連続、１０月は３１５３品―帝国データ - news.infoseek.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sVklrNWtuc2hJTlhELTVMeS1XdEI2RFlRQTAzUnIxM1FlbmoycER3UzlfSXYzcW9fT241U3BsOFN0c0VYb3ZuNXlZQm1vdGdMOFBmN3RWTWhJQjN4cnNhSFFZM2hYd9IBa0FVX3lxTE83N25MWl92S1o1T0NBVWFEb3prdUVfbjdaRUpXcnV5SmI0dkZJOW5JdzJxT0VRUDV1T1dyVnN6OU1WRXM0M3dqRU5sTFlZV1lDYmRUeG52OTNCakpfY1hvVnlmZ3Z0TWJIVkhn?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 00:41:08 GMT",
+      "source": "GoogleNews 中東 食品",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ",
+        "品目"
       ]
     },
     {
@@ -84,28 +165,7 @@
       ]
     },
     {
-      "title": "株価 値上がり 半導体関連の銘柄に買い注文",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260924de52130",
-      "pubDate": "Thu, 24 Sep 2026 16:01:45 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "値上がり"
-      ]
-    },
-    {
-      "title": "OECD 物価上昇率予測 来年3.6％に引き上げ エネルギー高騰受け",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260924de52090",
-      "pubDate": "Thu, 24 Sep 2026 08:50:00 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "高騰",
-        "物価"
-      ]
-    },
-    {
-      "title": "明治、武内製薬、第一三共…プロテイン値上げが相次ぐ背景 “痩せ薬”の急速普及も一因に - 日刊ゲンダイDIGITAL",
+      "title": "明治、武内製薬、第一三共…プロテイン値上げが相次ぐ背景 “痩せ薬”の急速普及も一因に - nikkan-gendai.com",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WYlphX2FoemVoZHJyaG1OUmRSd21VaFJ6ZVVSeUJqR0Nuck5hRzAtbXBaRFlmSE5ERlRZTDJPNUJEMURqZnlWV0taZmVEMmV0aDBXckFQTjBkTmcxZGhTVTd3MjVvX0U?oc=5",
       "pubDate": "Thu, 17 Sep 2026 07:00:00 GMT",
       "source": "GoogleNews 明治",
