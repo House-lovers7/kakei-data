@@ -1,13 +1,24 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-09-30T22:00:33.465Z",
+  "fetchedAt": "2026-10-01T22:00:31.270Z",
   "periodDays": 14,
-  "totalArticles": 15,
+  "totalArticles": 12,
   "categoryBreakdown": {
     "oil": 3,
-    "legume": 1
+    "legume": 1,
+    "snack": 1
   },
   "articles": [
+    {
+      "title": "株価 2200円値上がり AI・半導体関連銘柄に買い注文が広がる　",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261001de53572",
+      "pubDate": "Thu, 01 Oct 2026 16:12:27 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上がり"
+      ]
+    },
     {
       "title": "飲食料品値上げ３０００品目超 １０月、包装資材高、円安響く - 日本農業新聞",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qN3pQbXZLZHYxdXM3dS1GVDhsRG1Sc2huRHN5WXFoMTZJdXlpNWdZTjRBQXlnSF8xdERXN0tKRFBHam1DUFFLSjIxY3pjTlF0dGlIdzZ1a1g?oc=5",
@@ -30,7 +41,7 @@
       ]
     },
     {
-      "title": "来月の食品値上げ 3153品目 原油高・円安で2か月連続3000品目超 - news.infoseek.co.jp",
+      "title": "来月の食品値上げ 3153品目 原油高・円安で2か月連続3000品目超 - Infoseek",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfRUo5UENVQVpNbjMxNHhldHB1c3I0Xzh3ZHRyRU9lN1g4MmNxOTJtTjhmT0JfQkpDSUt2am96ekdjY0hfLXc0ZGNZekZNbVFNT3dOT1MzOVJVeWxN?oc=5",
       "pubDate": "Wed, 30 Sep 2026 10:58:22 GMT",
       "source": "GoogleNews 中東 食品",
@@ -67,7 +78,7 @@
       ]
     },
     {
-      "title": "10月値上げ、飲食料品は3000品目以上に 中東情勢や円安で - news.infoseek.co.jp",
+      "title": "10月値上げ、飲食料品は3000品目以上に 中東情勢や円安で - Infoseek",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MX3dGYUFlbTVKeDFXM3R1cTlSUHgteUxtcUN6bENsWTBGTElzdGoxVV9NbnhnWjh5R3J2U0lUYVExNU1YRDhxLXZjRHN5QnhiSDFiYVYxVWJ1RmlQRkRLZnpFUnhyNmlt?oc=5",
       "pubDate": "Wed, 30 Sep 2026 06:30:00 GMT",
       "source": "GoogleNews 中東 食品",
@@ -78,18 +89,7 @@
       ]
     },
     {
-      "title": "飲食料品値上げ 10月は3153品目",
-      "link": "https://news.yahoo.co.jp/pickup/6597045?source=rss",
-      "pubDate": "Wed, 30 Sep 2026 02:59:15 GMT",
-      "source": "Yahoo!ニュース 経済",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ",
-        "品目"
-      ]
-    },
-    {
-      "title": "食品値上げ、年間２万品目超＝２年連続、１０月は３１５３品―帝国データ - news.infoseek.co.jp",
+      "title": "食品値上げ、年間２万品目超＝２年連続、１０月は３１５３品―帝国データ - Infoseek",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sVklrNWtuc2hJTlhELTVMeS1XdEI2RFlRQTAzUnIxM1FlbmoycER3UzlfSXYzcW9fT241U3BsOFN0c0VYb3ZuNXlZQm1vdGdMOFBmN3RWTWhJQjN4cnNhSFFZM2hYd9IBa0FVX3lxTE83N25MWl92S1o1T0NBVWFEb3prdUVfbjdaRUpXcnV5SmI0dkZJOW5JdzJxT0VRUDV1T1dyVnN6OU1WRXM0M3dqRU5sTFlZV1lDYmRUeG52OTNCakpfY1hvVnlmZ3Z0TWJIVkhn?oc=5",
       "pubDate": "Wed, 30 Sep 2026 00:41:08 GMT",
       "source": "GoogleNews 中東 食品",
@@ -134,42 +134,13 @@
       ]
     },
     {
-      "title": "NTTドコモも料金プラン値上げ 物価高や設備投資増などで",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260925de52440",
-      "pubDate": "Fri, 25 Sep 2026 19:34:17 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ",
-        "物価"
-      ]
-    },
-    {
-      "title": "円相場 一時1ドル＝157円台まで値上がり",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260925de52455",
-      "pubDate": "Fri, 25 Sep 2026 19:07:39 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "値上がり"
-      ]
-    },
-    {
-      "title": "株価 値上がり 金利上昇で銀行銘柄など上昇",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260925de52326",
-      "pubDate": "Fri, 25 Sep 2026 16:17:38 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "値上がり"
-      ]
-    },
-    {
-      "title": "明治、武内製薬、第一三共…プロテイン値上げが相次ぐ背景 “痩せ薬”の急速普及も一因に - nikkan-gendai.com",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WYlphX2FoemVoZHJyaG1OUmRSd21VaFJ6ZVVSeUJqR0Nuck5hRzAtbXBaRFlmSE5ERlRZTDJPNUJEMURqZnlWV0taZmVEMmV0aDBXckFQTjBkTmcxZGhTVTd3MjVvX0U?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 07:00:00 GMT",
+      "title": "明治、「きのこの山」「たけのこの里」など1 4 品の値上げ発表 チョコレート・スナックは11・1出荷分より 約3％～8％ - 山陽新聞",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42MVk5TG1WN1lqOGZwc3NSdnUzNVdjcTRBWmVMaHVWSEQ4R24xRldDREJFNUxJUlpfSEFOTUhVLVI1bXJsV3ZCMnk2Unp0RzlTUFI4ZXFqODk?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 08:33:56 GMT",
       "source": "GoogleNews 明治",
-      "categories": [],
+      "categories": [
+        "snack"
+      ],
       "priceKeywords": [
         "値上げ"
       ]
