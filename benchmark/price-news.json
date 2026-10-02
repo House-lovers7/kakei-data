@@ -1,14 +1,82 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-10-01T22:00:31.270Z",
+  "fetchedAt": "2026-10-02T22:00:33.701Z",
   "periodDays": 14,
-  "totalArticles": 12,
+  "totalArticles": 17,
   "categoryBreakdown": {
-    "oil": 3,
+    "oil": 4,
+    "seasoning": 1,
     "legume": 1,
     "snack": 1
   },
   "articles": [
+    {
+      "title": "ユーロ圏 消費者物価9月は3.8％上昇 3年ぶりの高水準",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53985",
+      "pubDate": "Fri, 02 Oct 2026 22:56:03 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
+    {
+      "title": "円相場 値上がり 原油先物価格の下落でドル売られる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53961",
+      "pubDate": "Fri, 02 Oct 2026 20:48:38 +0900",
+      "source": "NHK 経済",
+      "categories": [
+        "oil"
+      ],
+      "priceKeywords": [
+        "値上がり",
+        "物価"
+      ]
+    },
+    {
+      "title": "佐川急便 宅配便平均13%値上げへ",
+      "link": "https://news.yahoo.co.jp/pickup/6597309?source=rss",
+      "pubDate": "Fri, 02 Oct 2026 09:49:13 GMT",
+      "source": "Yahoo!ニュース 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "ピエトロがドレッシング１０品目を最大１０％値上げ…来年１月出荷分から、原材料や包装資材など高騰で（読売新聞オンライン） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1Z0hyVHFwV3BqNHljZjJmZ2dCODYxN0RaTmt2bS01cng0cEFKd0FXSWJVMTlNbW9SV0p6TUJtUkEwQUdfdWpkT010aEVzRUZkclBPNDRQekFHb3ZiOHozbFdrNEVXSlpWUmtBaDBQTElib1ZJZ2VqLXhieVFwMGc?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 05:39:22 GMT",
+      "source": "GoogleNews 包装資材",
+      "categories": [
+        "seasoning"
+      ],
+      "priceKeywords": [
+        "値上げ",
+        "高騰",
+        "品目"
+      ]
+    },
+    {
+      "title": "東京23区の9月の消費者物価指数 前年同月比2.7％上昇",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53786",
+      "pubDate": "Fri, 02 Oct 2026 13:45:00 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
+    {
+      "title": "株価 値下がり アメリカ雇用統計発表前に値上がり銘柄売る動き",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53831",
+      "pubDate": "Fri, 02 Oct 2026 12:06:00 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上がり"
+      ]
+    },
     {
       "title": "株価 2200円値上がり AI・半導体関連銘柄に買い注文が広がる　",
       "link": "https://news.web.nhk/newsweb/na/nd-20261001de53572",
@@ -41,7 +109,7 @@
       ]
     },
     {
-      "title": "来月の食品値上げ 3153品目 原油高・円安で2か月連続3000品目超 - Infoseek",
+      "title": "来月の食品値上げ 3153品目 原油高・円安で2か月連続3000品目超 - news.infoseek.co.jp",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfRUo5UENVQVpNbjMxNHhldHB1c3I0Xzh3ZHRyRU9lN1g4MmNxOTJtTjhmT0JfQkpDSUt2am96ekdjY0hfLXc0ZGNZekZNbVFNT3dOT1MzOVJVeWxN?oc=5",
       "pubDate": "Wed, 30 Sep 2026 10:58:22 GMT",
       "source": "GoogleNews 中東 食品",
@@ -78,20 +146,9 @@
       ]
     },
     {
-      "title": "10月値上げ、飲食料品は3000品目以上に 中東情勢や円安で - Infoseek",
+      "title": "10月値上げ、飲食料品は3000品目以上に 中東情勢や円安で - news.infoseek.co.jp",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MX3dGYUFlbTVKeDFXM3R1cTlSUHgteUxtcUN6bENsWTBGTElzdGoxVV9NbnhnWjh5R3J2U0lUYVExNU1YRDhxLXZjRHN5QnhiSDFiYVYxVWJ1RmlQRkRLZnpFUnhyNmlt?oc=5",
       "pubDate": "Wed, 30 Sep 2026 06:30:00 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ",
-        "品目"
-      ]
-    },
-    {
-      "title": "食品値上げ、年間２万品目超＝２年連続、１０月は３１５３品―帝国データ - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sVklrNWtuc2hJTlhELTVMeS1XdEI2RFlRQTAzUnIxM1FlbmoycER3UzlfSXYzcW9fT241U3BsOFN0c0VYb3ZuNXlZQm1vdGdMOFBmN3RWTWhJQjN4cnNhSFFZM2hYd9IBa0FVX3lxTE83N25MWl92S1o1T0NBVWFEb3prdUVfbjdaRUpXcnV5SmI0dkZJOW5JdzJxT0VRUDV1T1dyVnN6OU1WRXM0M3dqRU5sTFlZV1lDYmRUeG52OTNCakpfY1hvVnlmZ3Z0TWJIVkhn?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 00:41:08 GMT",
       "source": "GoogleNews 中東 食品",
       "categories": [],
       "priceKeywords": [
