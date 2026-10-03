@@ -1,8 +1,8 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-10-02T22:00:33.701Z",
+  "fetchedAt": "2026-10-03T22:00:32.705Z",
   "periodDays": 14,
-  "totalArticles": 17,
+  "totalArticles": 16,
   "categoryBreakdown": {
     "oil": 4,
     "seasoning": 1,
@@ -31,16 +31,6 @@
       "priceKeywords": [
         "値上がり",
         "物価"
-      ]
-    },
-    {
-      "title": "佐川急便 宅配便平均13%値上げへ",
-      "link": "https://news.yahoo.co.jp/pickup/6597309?source=rss",
-      "pubDate": "Fri, 02 Oct 2026 09:49:13 GMT",
-      "source": "Yahoo!ニュース 経済",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
       ]
     },
     {
@@ -109,7 +99,7 @@
       ]
     },
     {
-      "title": "来月の食品値上げ 3153品目 原油高・円安で2か月連続3000品目超 - news.infoseek.co.jp",
+      "title": "来月の食品値上げ 3153品目 原油高・円安で2か月連続3000品目超 - Infoseek",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfRUo5UENVQVpNbjMxNHhldHB1c3I0Xzh3ZHRyRU9lN1g4MmNxOTJtTjhmT0JfQkpDSUt2am96ekdjY0hfLXc0ZGNZekZNbVFNT3dOT1MzOVJVeWxN?oc=5",
       "pubDate": "Wed, 30 Sep 2026 10:58:22 GMT",
       "source": "GoogleNews 中東 食品",
@@ -146,7 +136,7 @@
       ]
     },
     {
-      "title": "10月値上げ、飲食料品は3000品目以上に 中東情勢や円安で - news.infoseek.co.jp",
+      "title": "10月値上げ、飲食料品は3000品目以上に 中東情勢や円安で - Infoseek",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MX3dGYUFlbTVKeDFXM3R1cTlSUHgteUxtcUN6bENsWTBGTElzdGoxVV9NbnhnWjh5R3J2U0lUYVExNU1YRDhxLXZjRHN5QnhiSDFiYVYxVWJ1RmlQRkRLZnpFUnhyNmlt?oc=5",
       "pubDate": "Wed, 30 Sep 2026 06:30:00 GMT",
       "source": "GoogleNews 中東 食品",
