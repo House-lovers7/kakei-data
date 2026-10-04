@@ -1,13 +1,12 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-10-03T22:00:32.705Z",
+  "fetchedAt": "2026-10-04T22:00:30.597Z",
   "periodDays": 14,
-  "totalArticles": 16,
+  "totalArticles": 14,
   "categoryBreakdown": {
     "oil": 4,
     "seasoning": 1,
-    "legume": 1,
-    "snack": 1
+    "legume": 1
   },
   "articles": [
     {
@@ -159,34 +158,12 @@
       ]
     },
     {
-      "title": "円相場 値上がり 日米当局が協調対応の可能性を意識",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260928de52897",
-      "pubDate": "Mon, 28 Sep 2026 18:18:16 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "値上がり"
-      ]
-    },
-    {
       "title": "中東情勢悪化で納豆値上げ ミツカン、最大２０％ - 山陽新聞",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16aF9LQVB6Qm9zVnNwRW1HbUdHVUxPRUNjVFU5NnJCVUJfZmdhX01PNHZDQmdlSEowa2ZZWFFNR2xGclBuRVZwZkRyVWJ1SHRvQW1KQ3Y3OVg5eW8?oc=5",
       "pubDate": "Mon, 28 Sep 2026 02:02:52 GMT",
       "source": "GoogleNews ミツカン",
       "categories": [
         "legume"
-      ],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "明治、「きのこの山」「たけのこの里」など1 4 品の値上げ発表 チョコレート・スナックは11・1出荷分より 約3％～8％ - 山陽新聞",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42MVk5TG1WN1lqOGZwc3NSdnUzNVdjcTRBWmVMaHVWSEQ4R24xRldDREJFNUxJUlpfSEFOTUhVLVI1bXJsV3ZCMnk2Unp0RzlTUFI4ZXFqODk?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 08:33:56 GMT",
-      "source": "GoogleNews 明治",
-      "categories": [
-        "snack"
       ],
       "priceKeywords": [
         "値上げ"
