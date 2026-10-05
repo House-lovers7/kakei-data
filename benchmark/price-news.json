@@ -1,14 +1,23 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-10-04T22:00:30.597Z",
+  "fetchedAt": "2026-10-05T22:00:33.577Z",
   "periodDays": 14,
-  "totalArticles": 14,
+  "totalArticles": 13,
   "categoryBreakdown": {
-    "oil": 4,
-    "seasoning": 1,
-    "legume": 1
+    "oil": 3,
+    "seasoning": 1
   },
   "articles": [
+    {
+      "title": "シャウエッセン 実質値上げ発表",
+      "link": "https://news.yahoo.co.jp/pickup/6597628?source=rss",
+      "pubDate": "Mon, 05 Oct 2026 07:10:45 GMT",
+      "source": "Yahoo!ニュース 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
     {
       "title": "ユーロ圏 消費者物価9月は3.8％上昇 3年ぶりの高水準",
       "link": "https://news.web.nhk/newsweb/na/nd-20261002de53985",
@@ -143,30 +152,6 @@
       "priceKeywords": [
         "値上げ",
         "品目"
-      ]
-    },
-    {
-      "title": "株価 値下がり 原油先物価格の上昇を背景に幅広い銘柄で",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260929de53027",
-      "pubDate": "Tue, 29 Sep 2026 16:23:27 +0900",
-      "source": "NHK 経済",
-      "categories": [
-        "oil"
-      ],
-      "priceKeywords": [
-        "物価"
-      ]
-    },
-    {
-      "title": "中東情勢悪化で納豆値上げ ミツカン、最大２０％ - 山陽新聞",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16aF9LQVB6Qm9zVnNwRW1HbUdHVUxPRUNjVFU5NnJCVUJfZmdhX01PNHZDQmdlSEowa2ZZWFFNR2xGclBuRVZwZkRyVWJ1SHRvQW1KQ3Y3OVg5eW8?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 02:02:52 GMT",
-      "source": "GoogleNews ミツカン",
-      "categories": [
-        "legume"
-      ],
-      "priceKeywords": [
-        "値上げ"
       ]
     }
   ]
