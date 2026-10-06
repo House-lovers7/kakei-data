@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-03T21:09:33.976Z",
+  "fetchedAt": "2026-10-06T21:11:54.548Z",
   "sales": [
     {
       "id": "mandai-20260924-87819952817014-0-新米こしひかり",
@@ -988,6 +988,310 @@
       "category": "vegetable",
       "validFrom": "2026-10-03T15:00:00.000Z",
       "validTo": "2026-10-07T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261001-30189752992998-0-土付れんこん",
+      "chainId": "mandai",
+      "productName": "土付れんこん",
+      "salePrice": 78,
+      "category": "vegetable",
+      "validFrom": "2026-10-06T15:00:00.000Z",
+      "validTo": "2026-10-10T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261001-30189752992998-1-北海道産メークイン",
+      "chainId": "mandai",
+      "productName": "北海道産 メークイン・馬鈴薯・玉ねぎ",
+      "salePrice": 98,
+      "category": "vegetable",
+      "validFrom": "2026-10-06T15:00:00.000Z",
+      "validTo": "2026-10-10T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261001-30189752992998-2-きゅうり",
+      "chainId": "mandai",
+      "productName": "きゅうり",
+      "salePrice": 68,
+      "category": "vegetable",
+      "validFrom": "2026-10-06T15:00:00.000Z",
+      "validTo": "2026-10-10T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261001-30189752992998-3-ぶなしめじ",
+      "chainId": "mandai",
+      "productName": "ぶなしめじ",
+      "salePrice": 98,
+      "category": "vegetable",
+      "validFrom": "2026-10-06T15:00:00.000Z",
+      "validTo": "2026-10-10T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261001-30189752992998-4-トマト",
+      "chainId": "mandai",
+      "productName": "トマト",
+      "salePrice": 398,
+      "category": "vegetable",
+      "validFrom": "2026-10-06T15:00:00.000Z",
+      "validTo": "2026-10-10T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261001-30189752992998-5-種なし柿",
+      "chainId": "mandai",
+      "productName": "種なし柿",
+      "salePrice": 88,
+      "category": "fruit",
+      "validFrom": "2026-10-06T15:00:00.000Z",
+      "validTo": "2026-10-10T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261001-30189752992998-6-ゼスプリサンゴール",
+      "chainId": "mandai",
+      "productName": "ゼスプリ サンゴールドキウイ",
+      "salePrice": 108,
+      "category": "fruit",
+      "validFrom": "2026-10-06T15:00:00.000Z",
+      "validTo": "2026-10-10T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261001-30189752992998-7-シャインマスカット",
+      "chainId": "mandai",
+      "productName": "シャインマスカット",
+      "salePrice": 980,
+      "category": "fruit",
+      "validFrom": "2026-10-06T15:00:00.000Z",
+      "validTo": "2026-10-10T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261001-30189752992998-8-カラスかれい切身解",
+      "chainId": "mandai",
+      "productName": "カラスかれい切身(解凍)",
+      "salePrice": 198,
+      "category": "fish",
+      "validFrom": "2026-10-06T15:00:00.000Z",
+      "validTo": "2026-10-10T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261001-30189752992998-9-炭火焼かつおたたき",
+      "chainId": "mandai",
+      "productName": "炭火焼 かつおたたきお造り用",
+      "salePrice": 178,
+      "category": "fish",
+      "validFrom": "2026-10-06T15:00:00.000Z",
+      "validTo": "2026-10-10T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261001-30189752992998-10-トラウトサーモンお造",
+      "chainId": "mandai",
+      "productName": "トラウトサーモンお造り用",
+      "salePrice": 358,
+      "category": "fish",
+      "validFrom": "2026-10-06T15:00:00.000Z",
+      "validTo": "2026-10-10T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261001-30189752992998-11-銀鮭切身",
+      "chainId": "mandai",
+      "productName": "銀鮭切身",
+      "salePrice": 598,
+      "category": "fish",
+      "validFrom": "2026-10-06T15:00:00.000Z",
+      "validTo": "2026-10-10T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261001-30189752992998-12-牛肉バラ切り落とし",
+      "chainId": "mandai",
+      "productName": "牛肉バラ切り落とし(カレー・シチュー用)",
+      "salePrice": 278,
+      "category": "meat",
+      "validFrom": "2026-10-06T15:00:00.000Z",
+      "validTo": "2026-10-10T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261001-30189752992998-13-三元豚ロース各種",
+      "chainId": "mandai",
+      "productName": "三元豚ロース各種",
+      "salePrice": 98,
+      "category": "meat",
+      "validFrom": "2026-10-06T15:00:00.000Z",
+      "validTo": "2026-10-10T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261001-30189752992998-14-三元豚かたロースしゃ",
+      "chainId": "mandai",
+      "productName": "三元豚かたロースしゃぶしゃぶ用",
+      "salePrice": 148,
+      "category": "meat",
+      "validFrom": "2026-10-06T15:00:00.000Z",
+      "validTo": "2026-10-10T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261001-30189752992998-15-牛豚合挽ミンチ",
+      "chainId": "mandai",
+      "productName": "牛豚合挽ミンチ",
+      "salePrice": 128,
+      "category": "meat",
+      "validFrom": "2026-10-06T15:00:00.000Z",
+      "validTo": "2026-10-10T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261001-30189752992998-16-貴ちくわ",
+      "chainId": "mandai",
+      "productName": "貴ちくわ",
+      "salePrice": 78,
+      "category": "fish",
+      "validFrom": "2026-10-06T15:00:00.000Z",
+      "validTo": "2026-10-10T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261001-30189752992998-17-おいしく果実ヨーグ",
+      "chainId": "mandai",
+      "productName": "おいしく果実 ヨーグルト各種",
+      "salePrice": 250,
+      "category": "dairy",
+      "validFrom": "2026-10-06T15:00:00.000Z",
+      "validTo": "2026-10-10T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261001-30189752992998-18-花王ニュービーズ",
+      "chainId": "mandai",
+      "productName": "花王 ニュービーズ 特大",
+      "salePrice": 398,
+      "validFrom": "2026-10-06T15:00:00.000Z",
+      "validTo": "2026-10-10T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261001-30189752992998-19-ジョンソンパイプユ",
+      "chainId": "mandai",
+      "productName": "ジョンソン パイプユニッシュ",
+      "salePrice": 178,
+      "validFrom": "2026-10-06T15:00:00.000Z",
+      "validTo": "2026-10-10T14:59:59.999Z"
+    },
+    {
+      "id": "life-20260928-40448952888142-0-BIORAL長期",
+      "chainId": "life",
+      "productName": "BIO-RAL 長期熟成有機みそ",
+      "salePrice": 548,
+      "category": "seasoning",
+      "validFrom": "2026-10-01T00:00:00.000Z",
+      "validTo": "2026-10-31T14:59:59.999Z"
+    },
+    {
+      "id": "life-20260928-40448952888142-1-BIORALグル",
+      "chainId": "life",
+      "productName": "BIO-RAL グルテンフリーパンケーキミックス",
+      "salePrice": 328,
+      "category": "bread",
+      "validFrom": "2026-10-01T00:00:00.000Z",
+      "validTo": "2026-10-31T14:59:59.999Z"
+    },
+    {
+      "id": "life-20260928-40448952888142-2-BIORALしぼ",
+      "chainId": "life",
+      "productName": "BIO-RAL しぼりたてミルクバー いちご",
+      "salePrice": 438,
+      "category": "frozen",
+      "validFrom": "2026-10-01T00:00:00.000Z",
+      "validTo": "2026-10-31T14:59:59.999Z"
+    },
+    {
+      "id": "life-20260928-40448952888142-3-BIORALお好",
+      "chainId": "life",
+      "productName": "BIO-RAL お好み焼き いかえび玉",
+      "salePrice": 398,
+      "category": "frozen",
+      "validFrom": "2026-10-01T00:00:00.000Z",
+      "validTo": "2026-10-31T14:59:59.999Z"
+    },
+    {
+      "id": "life-20260928-40448952888142-4-BIORALお好",
+      "chainId": "life",
+      "productName": "BIO-RAL お好み焼き ふんわり食感の豚玉",
+      "salePrice": 398,
+      "category": "frozen",
+      "validFrom": "2026-10-01T00:00:00.000Z",
+      "validTo": "2026-10-31T14:59:59.999Z"
+    },
+    {
+      "id": "life-20260928-40448952888142-5-BIORAL鳥取",
+      "chainId": "life",
+      "productName": "BIO-RAL 鳥取県産砂丘らっきょう ピリ辛",
+      "salePrice": 328,
+      "category": "vegetable",
+      "validFrom": "2026-10-01T00:00:00.000Z",
+      "validTo": "2026-10-31T14:59:59.999Z"
+    },
+    {
+      "id": "life-20260928-40448952888142-6-BIORAL1日",
+      "chainId": "life",
+      "productName": "BIO-RAL 1日分のカルシウムが摂れるフィッシュソーセージ",
+      "salePrice": 278,
+      "category": "fish",
+      "validFrom": "2026-10-01T00:00:00.000Z",
+      "validTo": "2026-10-31T14:59:59.999Z"
+    },
+    {
+      "id": "life-20260928-40448952888142-7-ライフプレミアムと",
+      "chainId": "life",
+      "productName": "ライフプレミアム とろける牛肉の具だくさんビーフシチュー",
+      "salePrice": 398,
+      "category": "canned",
+      "validFrom": "2026-10-01T00:00:00.000Z",
+      "validTo": "2026-10-31T14:59:59.999Z"
+    },
+    {
+      "id": "life-20260928-40448952888142-8-ライフプレミアム国",
+      "chainId": "life",
+      "productName": "ライフプレミアム 国産黒毛和牛がたっぷり入ったボロネーゼ",
+      "salePrice": 298,
+      "category": "noodle",
+      "validFrom": "2026-10-01T00:00:00.000Z",
+      "validTo": "2026-10-31T14:59:59.999Z"
+    },
+    {
+      "id": "life-20260928-40448952888142-9-ライフプレミアムカ",
+      "chainId": "life",
+      "productName": "ライフプレミアム カレーうどんの素",
+      "salePrice": 328,
+      "category": "noodle",
+      "validFrom": "2026-10-01T00:00:00.000Z",
+      "validTo": "2026-10-31T14:59:59.999Z"
+    },
+    {
+      "id": "life-20260928-40448952888142-10-ライフプレミアムご",
+      "chainId": "life",
+      "productName": "ライフプレミアム ごま油の風味が香る焼肉のたれ",
+      "salePrice": 358,
+      "category": "seasoning",
+      "validFrom": "2026-10-01T00:00:00.000Z",
+      "validTo": "2026-10-31T14:59:59.999Z"
+    },
+    {
+      "id": "life-20260928-40448952888142-11-LIFEオリジナル",
+      "chainId": "life",
+      "productName": "LIFEオリジナル 熟成さわら西京漬",
+      "salePrice": 498,
+      "category": "fish",
+      "validFrom": "2026-10-01T00:00:00.000Z",
+      "validTo": "2026-10-31T14:59:59.999Z"
+    },
+    {
+      "id": "life-20260928-40448952888142-12-スマイルライフお徳",
+      "chainId": "life",
+      "productName": "スマイルライフ お徳用あたりめ",
+      "salePrice": 518,
+      "category": "fish",
+      "validFrom": "2026-10-01T00:00:00.000Z",
+      "validTo": "2026-10-31T14:59:59.999Z"
+    },
+    {
+      "id": "life-20260928-40448952888142-13-スマイルライフチー",
+      "chainId": "life",
+      "productName": "スマイルライフ チーズ鱈",
+      "salePrice": 338,
+      "category": "dairy",
+      "validFrom": "2026-10-01T00:00:00.000Z",
+      "validTo": "2026-10-31T14:59:59.999Z"
     }
   ],
   "fallbackToRules": false

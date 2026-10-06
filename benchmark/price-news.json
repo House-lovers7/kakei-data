@@ -1,21 +1,41 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-10-05T22:00:33.577Z",
+  "fetchedAt": "2026-10-06T22:00:32.462Z",
   "periodDays": 14,
-  "totalArticles": 13,
+  "totalArticles": 12,
   "categoryBreakdown": {
-    "oil": 3,
+    "oil": 2,
     "seasoning": 1
   },
   "articles": [
     {
-      "title": "シャウエッセン 実質値上げ発表",
-      "link": "https://news.yahoo.co.jp/pickup/6597628?source=rss",
-      "pubDate": "Mon, 05 Oct 2026 07:10:45 GMT",
+      "title": "株価 値上がり 終値約3か月ぶりに7万円台回復",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261006de55526",
+      "pubDate": "Tue, 06 Oct 2026 20:48:39 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上がり"
+      ]
+    },
+    {
+      "title": "レタス5割高 9月下旬の価格高騰",
+      "link": "https://news.yahoo.co.jp/pickup/6597786?source=rss",
+      "pubDate": "Tue, 06 Oct 2026 11:07:22 GMT",
       "source": "Yahoo!ニュース 経済",
       "categories": [],
       "priceKeywords": [
-        "値上げ"
+        "高騰"
+      ]
+    },
+    {
+      "title": "日銀植田総裁　物価上振れリスク警戒しながら利上げ進める考え",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261006de55495",
+      "pubDate": "Tue, 06 Oct 2026 19:55:47 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "物価"
       ]
     },
     {
@@ -97,16 +117,6 @@
       ]
     },
     {
-      "title": "金利や物価の動き踏まえ 民間議員が経済政策運営で提案",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260930de53446",
-      "pubDate": "Wed, 30 Sep 2026 21:12:52 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "物価"
-      ]
-    },
-    {
       "title": "来月の食品値上げ 3153品目 原油高・円安で2か月連続3000品目超 - Infoseek",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfRUo5UENVQVpNbjMxNHhldHB1c3I0Xzh3ZHRyRU9lN1g4MmNxOTJtTjhmT0JfQkpDSUt2am96ekdjY0hfLXc0ZGNZekZNbVFNT3dOT1MzOVJVeWxN?oc=5",
       "pubDate": "Wed, 30 Sep 2026 10:58:22 GMT",
@@ -117,30 +127,6 @@
       "priceKeywords": [
         "値上げ",
         "品目"
-      ]
-    },
-    {
-      "title": "10月の食品値上げ 3153品目 ことし2番目の多さ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260930de53264",
-      "pubDate": "Wed, 30 Sep 2026 18:58:00 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ",
-        "品目"
-      ]
-    },
-    {
-      "title": "株価 値上がり 原油先物価格が下落傾向で企業収益の懸念和らぐ",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260930de53398",
-      "pubDate": "Wed, 30 Sep 2026 16:21:27 +0900",
-      "source": "NHK 経済",
-      "categories": [
-        "oil"
-      ],
-      "priceKeywords": [
-        "値上がり",
-        "物価"
       ]
     },
     {
