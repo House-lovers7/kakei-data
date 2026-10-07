@@ -1,8 +1,8 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-10-06T22:00:32.462Z",
+  "fetchedAt": "2026-10-07T22:00:32.971Z",
   "periodDays": 14,
-  "totalArticles": 12,
+  "totalArticles": 10,
   "categoryBreakdown": {
     "oil": 2,
     "seasoning": 1
@@ -16,16 +16,6 @@
       "categories": [],
       "priceKeywords": [
         "値上がり"
-      ]
-    },
-    {
-      "title": "レタス5割高 9月下旬の価格高騰",
-      "link": "https://news.yahoo.co.jp/pickup/6597786?source=rss",
-      "pubDate": "Tue, 06 Oct 2026 11:07:22 GMT",
-      "source": "Yahoo!ニュース 経済",
-      "categories": [],
-      "priceKeywords": [
-        "高騰"
       ]
     },
     {
@@ -89,16 +79,6 @@
       "title": "株価 値下がり アメリカ雇用統計発表前に値上がり銘柄売る動き",
       "link": "https://news.web.nhk/newsweb/na/nd-20261002de53831",
       "pubDate": "Fri, 02 Oct 2026 12:06:00 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "値上がり"
-      ]
-    },
-    {
-      "title": "株価 2200円値上がり AI・半導体関連銘柄に買い注文が広がる　",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261001de53572",
-      "pubDate": "Thu, 01 Oct 2026 16:12:27 +0900",
       "source": "NHK 経済",
       "categories": [],
       "priceKeywords": [
