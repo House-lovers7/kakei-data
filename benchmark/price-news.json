@@ -1,13 +1,71 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-10-07T22:00:32.971Z",
+  "fetchedAt": "2026-10-08T22:00:37.918Z",
   "periodDays": 14,
-  "totalArticles": 10,
+  "totalArticles": 11,
   "categoryBreakdown": {
+    "bread": 2,
     "oil": 2,
     "seasoning": 1
   },
   "articles": [
+    {
+      "title": "円相場 小幅に値下がり インフレ懸念で円が売られる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56768",
+      "pubDate": "Thu, 08 Oct 2026 18:14:23 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "インフレ"
+      ]
+    },
+    {
+      "title": "日清製粉、業務用小麦粉12月値上げ 政府売り渡し価格改定 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40VmVhclV2ekxvVGNlTjZZU1I1TlI3cnlRSDBfaU51QkFmZE5uUjB4N1JXUVJkWTM0aXdqd2Z6RHc2SWQ1WkRvRFhfNUp1cTFwTldVZS1lXzNkc25qamt2bVc2cGNoVzB5R3UwcA?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 09:06:24 GMT",
+      "source": "GoogleNews 日清製粉",
+      "categories": [
+        "bread"
+      ],
+      "priceKeywords": [
+        "値上げ",
+        "価格改定"
+      ]
+    },
+    {
+      "title": "日清製粉 12月から業務用小麦粉を値上げ - 食品新聞 WEB版",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zNGhHZkxSOHRRM2RkSWQ1c2NRcFY0SGFxcnVGV2RBb0NTU2VBWjVBME1EcmxnN0FnTmhlOV96UGdQelI5ZmlTS2VMT29GMEM3emZ2T2FPdGdBZFpqdE1welRR?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 07:34:22 GMT",
+      "source": "GoogleNews 日清製粉",
+      "categories": [
+        "bread"
+      ],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "株価 値下がり 原油先物価格の上昇で売り注文広がる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56428",
+      "pubDate": "Thu, 08 Oct 2026 12:00:00 +0900",
+      "source": "NHK 経済",
+      "categories": [
+        "oil"
+      ],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
+    {
+      "title": "FRB利上げ インフレ上振れに警戒感 多くが追加利上げ支持",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56230",
+      "pubDate": "Thu, 08 Oct 2026 07:06:59 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "インフレ"
+      ]
+    },
     {
       "title": "株価 値上がり 終値約3か月ぶりに7万円台回復",
       "link": "https://news.web.nhk/newsweb/na/nd-20261006de55526",
@@ -29,29 +87,6 @@
       ]
     },
     {
-      "title": "ユーロ圏 消費者物価9月は3.8％上昇 3年ぶりの高水準",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53985",
-      "pubDate": "Fri, 02 Oct 2026 22:56:03 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "物価"
-      ]
-    },
-    {
-      "title": "円相場 値上がり 原油先物価格の下落でドル売られる",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53961",
-      "pubDate": "Fri, 02 Oct 2026 20:48:38 +0900",
-      "source": "NHK 経済",
-      "categories": [
-        "oil"
-      ],
-      "priceKeywords": [
-        "値上がり",
-        "物価"
-      ]
-    },
-    {
       "title": "ピエトロがドレッシング１０品目を最大１０％値上げ…来年１月出荷分から、原材料や包装資材など高騰で（読売新聞オンライン） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1Z0hyVHFwV3BqNHljZjJmZ2dCODYxN0RaTmt2bS01cng0cEFKd0FXSWJVMTlNbW9SV0p6TUJtUkEwQUdfdWpkT010aEVzRUZkclBPNDRQekFHb3ZiOHozbFdrNEVXSlpWUmtBaDBQTElib1ZJZ2VqLXhieVFwMGc?oc=5",
       "pubDate": "Fri, 02 Oct 2026 05:39:22 GMT",
@@ -66,29 +101,9 @@
       ]
     },
     {
-      "title": "東京23区の9月の消費者物価指数 前年同月比2.7％上昇",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53786",
-      "pubDate": "Fri, 02 Oct 2026 13:45:00 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "物価"
-      ]
-    },
-    {
-      "title": "株価 値下がり アメリカ雇用統計発表前に値上がり銘柄売る動き",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53831",
-      "pubDate": "Fri, 02 Oct 2026 12:06:00 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "値上がり"
-      ]
-    },
-    {
       "title": "飲食料品値上げ３０００品目超 １０月、包装資材高、円安響く - 日本農業新聞",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qN3pQbXZLZHYxdXM3dS1GVDhsRG1Sc2huRHN5WXFoMTZJdXlpNWdZTjRBQXlnSF8xdERXN0tKRFBHam1DUFFLSjIxY3pjTlF0dGlIdzZ1a1g?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 20:01:29 GMT",
+      "pubDate": "Fri, 02 Oct 2026 03:44:47 GMT",
       "source": "GoogleNews 包装資材",
       "categories": [],
       "priceKeywords": [
