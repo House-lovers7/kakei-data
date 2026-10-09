@@ -1,14 +1,71 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-10-08T22:00:37.918Z",
+  "fetchedAt": "2026-10-09T22:00:29.461Z",
   "periodDays": 14,
-  "totalArticles": 11,
+  "totalArticles": 16,
   "categoryBreakdown": {
-    "bread": 2,
+    "bread": 4,
     "oil": 2,
+    "legume": 1,
     "seasoning": 1
   },
   "articles": [
+    {
+      "title": "白菜高騰「鍋できない」と客困惑",
+      "link": "https://news.yahoo.co.jp/pickup/6598187?source=rss",
+      "pubDate": "Fri, 09 Oct 2026 13:29:23 GMT",
+      "source": "Yahoo!ニュース 経済",
+      "categories": [],
+      "priceKeywords": [
+        "高騰"
+      ]
+    },
+    {
+      "title": "松屋 牛めし全品を20円値上げへ",
+      "link": "https://news.yahoo.co.jp/pickup/6598178?source=rss",
+      "pubDate": "Fri, 09 Oct 2026 12:01:09 GMT",
+      "source": "Yahoo!ニュース 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "ニップン、12月から業務用小麦粉値上げ 政府売り渡し価格上昇受け - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10bGEzQjhCMmhWT1g4b2hLMjZ0aExYVWRqal90aE5INk5wNmpkaDFLdm82X25vczRmaXJTcnN6UlBJV0RNRHkwcWxpdUlKU01YR0hKTFJMWVVnTkhlWUQ0M0pmYnJtVjMzTU5HbA?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 03:20:04 GMT",
+      "source": "GoogleNews ニップン",
+      "categories": [
+        "bread"
+      ],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "日清製粉Ｇ－3日続伸 業務用小麦粉を値上げ 12月19日納品分から - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0OW5wZHpmX3EtWFpnaFN3RERIdldWU05uUzhyYURIVHo2Sl8zN0xndG1EUTg0TW5uZzUteGF4U3VJZXdTQmU0QW9ZTTk2aVAwUDNwLVBFdUxkMTBDX3VWZTdIemtqN0RDWV9xMHFGWQ?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 01:09:00 GMT",
+      "source": "GoogleNews 日清製粉",
+      "categories": [
+        "bread"
+      ],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "日清製粉 12月から業務用小麦粉を値上げ (食品新聞) - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTGppemNqaFFleENzYTZaTGxHblNUcjBDUlZMUjhLODVsRG1wZFdHcjZmdFJDWlFjUV9vMlg5U1pxUFBsczQ2YnZvdUp2V0JQckxvcTBLR0FaTlBDc3hjdTNVdnkyWTRBaDJsZzRBUjJaUHk5QktsbURVanlUeEliS01VQW1UZXAtWGxGeTVR?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 14:22:16 GMT",
+      "source": "GoogleNews 日清製粉",
+      "categories": [
+        "bread"
+      ],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
     {
       "title": "円相場 小幅に値下がり インフレ懸念で円が売られる",
       "link": "https://news.web.nhk/newsweb/na/nd-20261008de56768",
@@ -33,18 +90,6 @@
       ]
     },
     {
-      "title": "日清製粉 12月から業務用小麦粉を値上げ - 食品新聞 WEB版",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zNGhHZkxSOHRRM2RkSWQ1c2NRcFY0SGFxcnVGV2RBb0NTU2VBWjVBME1EcmxnN0FnTmhlOV96UGdQelI5ZmlTS2VMT29GMEM3emZ2T2FPdGdBZFpqdE1welRR?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 07:34:22 GMT",
-      "source": "GoogleNews 日清製粉",
-      "categories": [
-        "bread"
-      ],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
       "title": "株価 値下がり 原油先物価格の上昇で売り注文広がる",
       "link": "https://news.web.nhk/newsweb/na/nd-20261008de56428",
       "pubDate": "Thu, 08 Oct 2026 12:00:00 +0900",
@@ -64,6 +109,19 @@
       "categories": [],
       "priceKeywords": [
         "インフレ"
+      ]
+    },
+    {
+      "title": "｢ミツカン｣ 納豆“最大2割”の値上げへ パックや包装フィルムに使う｢ナフサ｣が高騰 きょうから販売休止商品も - TBS NEWS DIG",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMUWFwVW9hNkR2TXplX09Fdmc2ZzVhQXB0Q01KbExveTdpMmxDWURWRFZjd2s5Vkl3czBGV1hzTjdrRHViMld1TUtuMXYxTWQ3YWRLcW9GV3BoSGprdXc4?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 16:27:17 GMT",
+      "source": "GoogleNews ミツカン",
+      "categories": [
+        "legume"
+      ],
+      "priceKeywords": [
+        "値上げ",
+        "高騰"
       ]
     },
     {
