@@ -1,31 +1,33 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-10-10T22:00:28.789Z",
+  "fetchedAt": "2026-10-11T22:00:33.406Z",
   "periodDays": 14,
-  "totalArticles": 16,
+  "totalArticles": 14,
   "categoryBreakdown": {
+    "legume": 2,
     "bread": 4,
-    "oil": 2,
-    "legume": 1,
+    "oil": 1,
     "seasoning": 1
   },
   "articles": [
-    {
-      "title": "大破したテスラ車 米で高騰の理由",
-      "link": "https://news.yahoo.co.jp/pickup/6598286?source=rss",
-      "pubDate": "Sat, 10 Oct 2026 09:39:57 GMT",
-      "source": "Yahoo!ニュース 経済",
-      "categories": [],
-      "priceKeywords": [
-        "高騰"
-      ]
-    },
     {
       "title": "◎明治、プロテイン値上げ＝「ザバス」２１品、６月から - 時事通信ニュース",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BdmE5aWNFcG1zeFVFTm93ZHllZUtGaTdzc0lFX2RvWnBjQWpUUl9PZllHYngtaGJ6cUc3ZXlab29nSFJZamlSYXNXbTFwNnp2WlZraDRhQ3ZDNzJQbGc?oc=5",
       "pubDate": "Fri, 09 Oct 2026 16:38:16 GMT",
       "source": "GoogleNews 明治",
       "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "ミツカン「納豆」一部商品を5・1から休売 全19商品を6・1から値上げ…「ナフサ価格」理由に【詳細】 - 山陽新聞",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KRy00bXBkZnpHM3o1eEo2cEJqNnhEUC14bFVmWWVQOGtpenVYWnJyR3pjVUlaaUJVeE42RV8waDZnTTduX3lzNzNYTDZCOWw5YUE?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "source": "GoogleNews ミツカン",
+      "categories": [
+        "legume"
+      ],
       "priceKeywords": [
         "値上げ"
       ]
@@ -163,30 +165,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qN3pQbXZLZHYxdXM3dS1GVDhsRG1Sc2huRHN5WXFoMTZJdXlpNWdZTjRBQXlnSF8xdERXN0tKRFBHam1DUFFLSjIxY3pjTlF0dGlIdzZ1a1g?oc=5",
       "pubDate": "Fri, 02 Oct 2026 03:44:47 GMT",
       "source": "GoogleNews 包装資材",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ",
-        "品目"
-      ]
-    },
-    {
-      "title": "来月の食品値上げ 3153品目 原油高・円安で2か月連続3000品目超 - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfRUo5UENVQVpNbjMxNHhldHB1c3I0Xzh3ZHRyRU9lN1g4MmNxOTJtTjhmT0JfQkpDSUt2am96ekdjY0hfLXc0ZGNZekZNbVFNT3dOT1MzOVJVeWxN?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 10:58:22 GMT",
-      "source": "GoogleNews 中東 食品",
-      "categories": [
-        "oil"
-      ],
-      "priceKeywords": [
-        "値上げ",
-        "品目"
-      ]
-    },
-    {
-      "title": "10月値上げ、飲食料品は3000品目以上に 中東情勢や円安で - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MX3dGYUFlbTVKeDFXM3R1cTlSUHgteUxtcUN6bENsWTBGTElzdGoxVV9NbnhnWjh5R3J2U0lUYVExNU1YRDhxLXZjRHN5QnhiSDFiYVYxVWJ1RmlQRkRLZnpFUnhyNmlt?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 06:30:00 GMT",
-      "source": "GoogleNews 中東 食品",
       "categories": [],
       "priceKeywords": [
         "値上げ",
