@@ -1,8 +1,8 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-10-11T22:00:33.406Z",
+  "fetchedAt": "2026-10-12T22:00:30.099Z",
   "periodDays": 14,
-  "totalArticles": 14,
+  "totalArticles": 12,
   "categoryBreakdown": {
     "legume": 2,
     "bread": 4,
@@ -11,19 +11,19 @@
   },
   "articles": [
     {
-      "title": "◎明治、プロテイン値上げ＝「ザバス」２１品、６月から - 時事通信ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BdmE5aWNFcG1zeFVFTm93ZHllZUtGaTdzc0lFX2RvWnBjQWpUUl9PZllHYngtaGJ6cUc3ZXlab29nSFJZamlSYXNXbTFwNnp2WlZraDRhQ3ZDNzJQbGc?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 16:38:16 GMT",
-      "source": "GoogleNews 明治",
+      "title": "マンション高騰 売れ残り値下げも",
+      "link": "https://news.yahoo.co.jp/pickup/6598560?source=rss",
+      "pubDate": "Mon, 12 Oct 2026 14:00:00 GMT",
+      "source": "Yahoo!ニュース 経済",
       "categories": [],
       "priceKeywords": [
-        "値上げ"
+        "高騰"
       ]
     },
     {
       "title": "ミツカン「納豆」一部商品を5・1から休売 全19商品を6・1から値上げ…「ナフサ価格」理由に【詳細】 - 山陽新聞",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KRy00bXBkZnpHM3o1eEo2cEJqNnhEUC14bFVmWWVQOGtpenVYWnJyR3pjVUlaaUJVeE42RV8waDZnTTduX3lzNzNYTDZCOWw5YUE?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "pubDate": "Sat, 10 Oct 2026 07:00:00 GMT",
       "source": "GoogleNews ミツカン",
       "categories": [
         "legume"
@@ -124,26 +124,6 @@
       "priceKeywords": [
         "値上げ",
         "高騰"
-      ]
-    },
-    {
-      "title": "株価 値上がり 終値約3か月ぶりに7万円台回復",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261006de55526",
-      "pubDate": "Tue, 06 Oct 2026 20:48:39 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "値上がり"
-      ]
-    },
-    {
-      "title": "日銀植田総裁　物価上振れリスク警戒しながら利上げ進める考え",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261006de55495",
-      "pubDate": "Tue, 06 Oct 2026 19:55:47 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "物価"
       ]
     },
     {
