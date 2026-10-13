@@ -1,19 +1,129 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-10-12T22:00:30.099Z",
+  "fetchedAt": "2026-10-13T22:00:26.554Z",
   "periodDays": 14,
-  "totalArticles": 12,
+  "totalArticles": 22,
   "categoryBreakdown": {
-    "legume": 2,
+    "beverage": 4,
     "bread": 4,
     "oil": 1,
-    "seasoning": 1
+    "legume": 1,
+    "snack": 1
   },
   "articles": [
     {
-      "title": "マンション高騰 売れ残り値下げも",
-      "link": "https://news.yahoo.co.jp/pickup/6598560?source=rss",
-      "pubDate": "Mon, 12 Oct 2026 14:00:00 GMT",
+      "title": "明治、プロテイン「ザバス」値上げ - 佐賀経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wcjc4Y0VSODVvQmhGV1RGM21adVBMVkw2SGYydGFqS3VOcklhVFhubHpLVUlLYVhBbERDWWZaQ2pETDdqcUpsTEhnVTZNb2Y0?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 12:59:47 GMT",
+      "source": "GoogleNews 明治",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "◎明治、プロテイン「ザバス」値上げ - 時事通信ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4RWM3OU9WWTBGTk44WWNTZGhmbm1xa1IyVUNYdFlnR2xpS3phVm9jZnpkT1ZJOUZNRXJWblgzdElUejdfOXA5UjcxcHJQOGdFRDR5bw?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 11:24:00 GMT",
+      "source": "GoogleNews 明治",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "明治、プロテイン「ザバス」値上げ＝１２月から６～１１％【時事通信速報】 - 日本食糧新聞・電子版",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SbDhlMmJHZ3M0NnBIa204dTBDWUpta291VDU4SUNXenJsVXNkM3dpWUtlVnNtanU1S2VSWUl6cE0yWmF3dk44TUFLZzF5c3FKLThR?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 11:21:46 GMT",
+      "source": "GoogleNews 明治",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "明治、プロテイン「ザバス」値上げ １２月から６～１１％：時事ドットコム - 時事ドットコム",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95N2QydnNrNjYzY1BRaEp0TXRScFM2VmI5MGpXTkVvbDlYc2o5T1NMM28wOWZqSUhfcWp6c09qRFZYZ0ctMlNpNS1hbTNtcDJwck9NMEhZdjNqSDMwSlk4LTVxTQ?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 09:35:00 GMT",
+      "source": "GoogleNews 明治",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "画像・写真：明治、プロテイン「ザバス」値上げ １２月から６～１１％：時事ドットコム - 時事ドットコム",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa0FBaFZzRWs0bDhiaFFNVVlmVzJkTWZJc19XZEhEWU5JeUNzQWczVllQVjJ4Mml4Z1JMbGhpOXQxWDRiZThwY1JOa0I5anNjanN3ak84cEZESlNmZXQ4dFFTbEJWZVk1bTFxNUo3bHdyWnJIeEdlQnBXbl9rR2pkdWFB?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 09:35:00 GMT",
+      "source": "GoogleNews 明治",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "明治、プロテイン「ザバス」値上げ＝１２月から６〜１１％ - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SV085dlhmWHhwV2pJcmNDZG45Um95RFAzd0hHY2gtVkZicF9xVzZ3aW95eFhRUG9CZDgwMWVzWURKYXZRdWZqal9BNE12bkl1djBpbmxFbEt4X3plRlNwUkFlakZEWW9GT19aYVh3Q3c2Sm81bEtsYzczbW3SAYIBQVVfeXFMUGwyQW5MOVQtSFlXSVdqYm1WNUVuc0tCbkY0OFRGRHNZVFdFVXlFcm52bTVGdjVDMU43SWFRZC04amZpVG9lMndOckVyWWxlZGF6VHpIbW4tbVY3QWhlVTkwZlZQbkI4eVJYbWV1NXpPUEZqcUhUVUZuQXJXelNya2hSdw?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 09:35:00 GMT",
+      "source": "GoogleNews 明治",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "明治、タンパク原料高騰でザバス飲料値上げ - 酪農乳業速報",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fX2VPclFoRUx6VWx4TzhQdmxxYkNWV0xHZlRtVVBNa1VQTU1aYnJoZ3hjU0NJWi0wTVBvclFydDExcDZGT05nTU1vT04?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT",
+      "source": "GoogleNews 明治",
+      "categories": [
+        "beverage"
+      ],
+      "priceKeywords": [
+        "値上げ",
+        "高騰"
+      ]
+    },
+    {
+      "title": "明治 プロテイン飲料22品値上げ 12月出荷分から6～11％ - 食品新聞 WEB版",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92YXh5bUlYbl9QblJKVDJXbjl4djhZejcxcE16SDZ0eUJ5Q0Q2UlhTZFdBNGhxaDJvZ2xiZE9VVngxdXBxNWlaSU1hMEF0cS1HUUZnTlRpOWVrVE53TlllSlY2aEZNbWstZkREaA?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 04:23:37 GMT",
+      "source": "GoogleNews 明治",
+      "categories": [
+        "beverage"
+      ],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "明治 プロテイン飲料22品値上げ 12月出荷分から6～11％｜Infoseekニュース - Infoseek",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16dHFyNkl0YlVzRnpfUVZNOHdJQ1RrZVdPN09NVjBsWG94bkdrX3IzMkNIaHNnSWhhbTJBOUswU3ZuUGp4X3FoUXBnZUNoaEpfYU1odG5VWE93VFpIOTczamhB?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 04:23:37 GMT",
+      "source": "GoogleNews 明治",
+      "categories": [
+        "beverage"
+      ],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "明治、プロテイン飲料を価格改定 「ザバス」など22品対象 - モデルプレス",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTdGYyd1VwenpvWEIxWkxMSmUwQWVTQWw3WXJZRUxqaTg2d2hpRWF3bktWV1BEbHY2ZDlpc21SOTRidnAyb1ZWWFprV3J0VzjSAUtBVV95cUxQY3JubjRTeEdISVRqZ0toRU10N3BnR3FMbGZ1RV80S3hlekkxZnRZcXh5TWZHMGdCWk5TZ0l6Z19KWjlTel9PSGFXelk?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 02:32:51 GMT",
+      "source": "GoogleNews 明治",
+      "categories": [
+        "beverage"
+      ],
+      "priceKeywords": [
+        "価格改定"
+      ]
+    },
+    {
+      "title": "家が買えない なぜ高騰している",
+      "link": "https://news.yahoo.co.jp/pickup/6598588?source=rss",
+      "pubDate": "Tue, 13 Oct 2026 02:19:22 GMT",
       "source": "Yahoo!ニュース 経済",
       "categories": [],
       "priceKeywords": [
@@ -21,15 +131,13 @@
       ]
     },
     {
-      "title": "ミツカン「納豆」一部商品を5・1から休売 全19商品を6・1から値上げ…「ナフサ価格」理由に【詳細】 - 山陽新聞",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KRy00bXBkZnpHM3o1eEo2cEJqNnhEUC14bFVmWWVQOGtpenVYWnJyR3pjVUlaaUJVeE42RV8waDZnTTduX3lzNzNYTDZCOWw5YUE?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 07:00:00 GMT",
-      "source": "GoogleNews ミツカン",
-      "categories": [
-        "legume"
-      ],
+      "title": "9月 企業物価指数 昨年同月比6.8%上昇 上昇率鈍化も高水準続く",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261013de58340",
+      "pubDate": "Tue, 13 Oct 2026 11:16:00 +0900",
+      "source": "NHK 経済",
+      "categories": [],
       "priceKeywords": [
-        "値上げ"
+        "物価"
       ]
     },
     {
@@ -127,25 +235,24 @@
       ]
     },
     {
-      "title": "ピエトロがドレッシング１０品目を最大１０％値上げ…来年１月出荷分から、原材料や包装資材など高騰で（読売新聞オンライン） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1Z0hyVHFwV3BqNHljZjJmZ2dCODYxN0RaTmt2bS01cng0cEFKd0FXSWJVMTlNbW9SV0p6TUJtUkEwQUdfdWpkT010aEVzRUZkclBPNDRQekFHb3ZiOHozbFdrNEVXSlpWUmtBaDBQTElib1ZJZ2VqLXhieVFwMGc?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 05:39:22 GMT",
+      "title": "飲食料品値上げ３０００品目超 １０月、包装資材高、円安響く - 日本農業新聞",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qN3pQbXZLZHYxdXM3dS1GVDhsRG1Sc2huRHN5WXFoMTZJdXlpNWdZTjRBQXlnSF8xdERXN0tKRFBHam1DUFFLSjIxY3pjTlF0dGlIdzZ1a1g?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 07:00:00 GMT",
       "source": "GoogleNews 包装資材",
-      "categories": [
-        "seasoning"
-      ],
+      "categories": [],
       "priceKeywords": [
         "値上げ",
-        "高騰",
         "品目"
       ]
     },
     {
-      "title": "飲食料品値上げ３０００品目超 １０月、包装資材高、円安響く - 日本農業新聞",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qN3pQbXZLZHYxdXM3dS1GVDhsRG1Sc2huRHN5WXFoMTZJdXlpNWdZTjRBQXlnSF8xdERXN0tKRFBHam1DUFFLSjIxY3pjTlF0dGlIdzZ1a1g?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 03:44:47 GMT",
+      "title": "多くの商品が10～20円値上げ･･･6月から約900品目の食料品、菓子店でも影響が【新潟】 - UX新潟テレビ21",
+      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPNDhFWFN5V3FCeHFhbHRlYlFVMTAyX2NXSDJpUVFQVDFLREZEMzNsRWlTQnNUelphOFlwVFZ6WmJ6ZzExdGo1NjhlZWRVNW9zVUhvbmxidEJ4ZkU3RlNvZ0JvMjRZUkRiLTZDYUFVanlWOUw5UXFkSVBUR2QwdkdNMW9FcnN6UW04cC1TVDdwYjJmSHZsUWVtcnBCUU5VcVQ5QkllQ04yOV9lMGJYd3BYNkczWnRfSUtuUzBqb0pCSmw2RkFhelZNY3FMNlBOVU9SZ1lsN01SRC1wZDk1NnFUdmZIVVNjczNBT1AwZFVsdHFyLWkxY0F0ZG0tcnAzZklVemtEbVBuOHFfOHFVZXF0aUdBc2NnampJNTl2ZTFOd3gtSVZEN1lBaENGOXYyLVpMekY3Z3p1aEZ2cnNhQmh6OXNPb0VpZU9yMmN5VFVn?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 19:05:14 GMT",
       "source": "GoogleNews 包装資材",
-      "categories": [],
+      "categories": [
+        "snack"
+      ],
       "priceKeywords": [
         "値上げ",
         "品目"

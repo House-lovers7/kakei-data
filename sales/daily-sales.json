@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-10T21:26:13.246Z",
+  "fetchedAt": "2026-10-13T21:35:05.725Z",
   "sales": [
     {
       "id": "life-20260928-40448952888142-0-BIORAL長期",
@@ -803,129 +803,6 @@
       "validTo": "2026-10-14T14:59:59.999Z"
     },
     {
-      "id": "life-20261007-12463253221257-0-贅沢海鮮太巻贅沢海",
-      "chainId": "life",
-      "productName": "贅沢海鮮太巻/贅沢海鮮サラダ太巻",
-      "salePrice": 599,
-      "category": "fish",
-      "validFrom": "2026-10-10T00:00:00.000Z",
-      "validTo": "2026-10-12T14:59:59.999Z"
-    },
-    {
-      "id": "life-20261007-12463253221257-1-北海道産銘柄鶏と具だ",
-      "chainId": "life",
-      "productName": "北海道産銘柄鶏と具だくさんスープカレー",
-      "salePrice": 278,
-      "category": "meat",
-      "validFrom": "2026-10-10T00:00:00.000Z",
-      "validTo": "2026-10-12T14:59:59.999Z"
-    },
-    {
-      "id": "life-20261007-12463253221257-2-国産豚肉生姜焼用",
-      "chainId": "life",
-      "productName": "国産豚肉生姜焼用",
-      "salePrice": 298,
-      "category": "meat",
-      "validFrom": "2026-10-10T00:00:00.000Z",
-      "validTo": "2026-10-12T14:59:59.999Z"
-    },
-    {
-      "id": "life-20261007-12463253221257-3-宮崎県産サーモンはみ",
-      "chainId": "life",
-      "productName": "宮崎県産サーモンはみ出し巻",
-      "salePrice": 599,
-      "category": "fish",
-      "validFrom": "2026-10-10T00:00:00.000Z",
-      "validTo": "2026-10-12T14:59:59.999Z"
-    },
-    {
-      "id": "life-20261007-12463253221257-4-チーズオムレット",
-      "chainId": "life",
-      "productName": "チーズオムレット",
-      "salePrice": 1800,
-      "validFrom": "2026-10-10T00:00:00.000Z",
-      "validTo": "2026-10-12T14:59:59.999Z"
-    },
-    {
-      "id": "life-20261007-12463253221257-5-純生バターかすてら",
-      "chainId": "life",
-      "productName": "純生バターかすてら",
-      "salePrice": 680,
-      "validFrom": "2026-10-10T00:00:00.000Z",
-      "validTo": "2026-10-12T14:59:59.999Z"
-    },
-    {
-      "id": "life-20261007-12463253221257-6-北海道産赤肉メロン",
-      "chainId": "life",
-      "productName": "北海道産赤肉メロン",
-      "salePrice": 750,
-      "category": "fruit",
-      "validFrom": "2026-10-10T00:00:00.000Z",
-      "validTo": "2026-10-12T14:59:59.999Z"
-    },
-    {
-      "id": "life-20261007-12463253221257-7-北海道産赤肉メロン",
-      "chainId": "life",
-      "productName": "北海道産赤肉メロン",
-      "salePrice": 1380,
-      "category": "fruit",
-      "validFrom": "2026-10-10T00:00:00.000Z",
-      "validTo": "2026-10-12T14:59:59.999Z"
-    },
-    {
-      "id": "life-20261007-12463253221257-8-かにしゅうまいほた",
-      "chainId": "life",
-      "productName": "かにしゅうまい/ほたてしゅうまい",
-      "salePrice": 548,
-      "validFrom": "2026-10-10T00:00:00.000Z",
-      "validTo": "2026-10-12T14:59:59.999Z"
-    },
-    {
-      "id": "life-20261007-12463253221257-9-北海道産玉ねぎ・じゃ",
-      "chainId": "life",
-      "productName": "北海道産玉ねぎ・じゃがいも",
-      "salePrice": 358,
-      "category": "vegetable",
-      "validFrom": "2026-10-10T00:00:00.000Z",
-      "validTo": "2026-10-12T14:59:59.999Z"
-    },
-    {
-      "id": "life-20261007-12463253221257-10-長ねぎ",
-      "chainId": "life",
-      "productName": "長ねぎ",
-      "salePrice": 198,
-      "category": "vegetable",
-      "validFrom": "2026-10-10T00:00:00.000Z",
-      "validTo": "2026-10-12T14:59:59.999Z"
-    },
-    {
-      "id": "life-20261007-12463253221257-11-函館ラーメン・札幌ラ",
-      "chainId": "life",
-      "productName": "函館ラーメン・札幌ラーメン",
-      "salePrice": 698,
-      "category": "noodle",
-      "validFrom": "2026-10-10T00:00:00.000Z",
-      "validTo": "2026-10-12T14:59:59.999Z"
-    },
-    {
-      "id": "life-20261007-12463253221257-12-北海道とわだ生乳ヨー",
-      "chainId": "life",
-      "productName": "北海道とわだ生乳ヨーグルト",
-      "salePrice": 179,
-      "category": "dairy",
-      "validFrom": "2026-10-10T00:00:00.000Z",
-      "validTo": "2026-10-12T14:59:59.999Z"
-    },
-    {
-      "id": "life-20261007-12463253221257-13-ソフトカツゲン",
-      "chainId": "life",
-      "productName": "ソフトカツゲン",
-      "salePrice": 89,
-      "category": "beverage",
-      "validFrom": "2026-10-10T00:00:00.000Z",
-      "validTo": "2026-10-12T14:59:59.999Z"
-    },
-    {
       "id": "life-20261007-41076053221017-0-トマト",
       "chainId": "life",
       "productName": "トマト",
@@ -1486,6 +1363,364 @@
       "category": "vegetable",
       "validFrom": "2026-10-10T15:00:00.000Z",
       "validTo": "2026-10-14T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261011-45991353349738-0-スタイルワン牛乳",
+      "chainId": "life",
+      "productName": "スタイルワン 牛乳",
+      "salePrice": 218,
+      "category": "dairy",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261011-45991353349738-1-みかん小粒",
+      "chainId": "life",
+      "productName": "みかん (小粒)",
+      "salePrice": 298,
+      "category": "fruit",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261011-45991353349738-2-シャインマスカット",
+      "chainId": "life",
+      "productName": "シャインマスカット",
+      "salePrice": 798,
+      "category": "fruit",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261011-45991353349738-3-国内産若どりもも肉",
+      "chainId": "life",
+      "productName": "国内産 若どりもも肉",
+      "salePrice": 108,
+      "category": "meat",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261011-45991353349738-4-牛肉肩ロースステーキ",
+      "chainId": "life",
+      "productName": "牛肉肩ロースステーキ",
+      "salePrice": 880,
+      "category": "meat",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261011-45991353349738-5-ミニトマト",
+      "chainId": "life",
+      "productName": "ミニトマト",
+      "salePrice": 258,
+      "category": "vegetable",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261011-45991353349738-6-きゅうり",
+      "chainId": "life",
+      "productName": "きゅうり",
+      "salePrice": 69,
+      "category": "vegetable",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261011-45991353349738-7-トマト",
+      "chainId": "life",
+      "productName": "トマト",
+      "salePrice": 398,
+      "category": "vegetable",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261011-45991353349738-8-玉ねぎ・にんじん・ば",
+      "chainId": "life",
+      "productName": "玉ねぎ・にんじん・ばれいしょ",
+      "salePrice": 39,
+      "category": "vegetable",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261011-45991353349738-9-国内産若どりむね肉",
+      "chainId": "life",
+      "productName": "国内産 若どりむね肉",
+      "salePrice": 78,
+      "category": "meat",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261011-45991353349738-10-白ねぎ",
+      "chainId": "life",
+      "productName": "白ねぎ",
+      "salePrice": 79,
+      "category": "vegetable",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261011-45991353349738-11-えのき茸",
+      "chainId": "life",
+      "productName": "えのき茸",
+      "salePrice": 99,
+      "category": "vegetable",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261011-45991353349738-12-カルピスウォーター",
+      "chainId": "life",
+      "productName": "カルピスウォーター / 三ツ矢サイダー",
+      "salePrice": 129,
+      "category": "beverage",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261011-45991353349738-13-ネスカフェエクセラ",
+      "chainId": "life",
+      "productName": "ネスカフェ エクセラ",
+      "salePrice": 598,
+      "category": "beverage",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261011-45991353349738-14-日清キャノーラ油",
+      "chainId": "life",
+      "productName": "日清 キャノーラ油",
+      "salePrice": 159,
+      "category": "seasoning",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261011-45991353349738-15-ネオソフトバター風",
+      "chainId": "life",
+      "productName": "ネオソフト バター風味",
+      "salePrice": 149,
+      "category": "dairy",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261011-45991353349738-16-クノールスープ各種",
+      "chainId": "life",
+      "productName": "クノール スープ各種",
+      "salePrice": 119,
+      "category": "canned",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261011-45991353349738-17-国内産豚肉小間切れ",
+      "chainId": "life",
+      "productName": "国内産 豚肉小間切れ",
+      "salePrice": 108,
+      "category": "meat",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261011-45991353349738-18-よりどりセール3点",
+      "chainId": "life",
+      "productName": "よりどりセール 3点",
+      "salePrice": 500,
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261011-45991353349738-19-よりどりセール2点",
+      "chainId": "life",
+      "productName": "よりどりセール 2点",
+      "salePrice": 218,
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261005-34537753145977-0-カトキチさぬきうど",
+      "chainId": "life",
+      "productName": "カトキチ さぬきうどん",
+      "salePrice": 258,
+      "category": "frozen",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261005-34537753145977-1-ヤマサ蒲鉾サラダマ",
+      "chainId": "life",
+      "productName": "ヤマサ蒲鉾 サラダマリアージュ",
+      "salePrice": 218,
+      "category": "fish",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261005-34537753145977-2-イシイミートボール",
+      "chainId": "life",
+      "productName": "イシイ ミートボール",
+      "salePrice": 398,
+      "category": "meat",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261005-34537753145977-3-東海漬物こくうま",
+      "chainId": "life",
+      "productName": "東海漬物 こくうま 熟うま辛キムチ",
+      "salePrice": 328,
+      "category": "vegetable",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261005-34537753145977-4-名城中華楼",
+      "chainId": "life",
+      "productName": "名城 中華楼",
+      "salePrice": 139,
+      "category": "noodle",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261005-34537753145977-5-キリクリーミーポー",
+      "chainId": "life",
+      "productName": "キリ クリーミーポーション",
+      "salePrice": 428,
+      "category": "dairy",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261005-34537753145977-6-明治チューブでバタ",
+      "chainId": "life",
+      "productName": "明治 チューブでバター1/3",
+      "salePrice": 258,
+      "category": "dairy",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261005-34537753145977-7-オハヨーカスタード",
+      "chainId": "life",
+      "productName": "オハヨー カスタードプリン",
+      "salePrice": 179,
+      "category": "dairy",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261005-34537753145977-8-雪印メグミルク雪印",
+      "chainId": "life",
+      "productName": "雪印メグミルク 雪印コーヒー",
+      "salePrice": 159,
+      "category": "beverage",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261005-34537753145977-9-井村屋あずきバー",
+      "chainId": "life",
+      "productName": "井村屋 あずきバー",
+      "salePrice": 238,
+      "category": "frozen",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261005-86993753145960-0-カトキチさぬきうど",
+      "chainId": "life",
+      "productName": "カトキチ さぬきうどん",
+      "salePrice": 258,
+      "category": "frozen",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261005-86993753145960-1-ヤマサ蒲鉾サラダマ",
+      "chainId": "life",
+      "productName": "ヤマサ蒲鉾 サラダマリアージュ",
+      "salePrice": 218,
+      "category": "fish",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261005-86993753145960-2-イシイミートボール",
+      "chainId": "life",
+      "productName": "イシイ ミートボール",
+      "salePrice": 398,
+      "category": "meat",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261005-86993753145960-3-東海漬物こくうま",
+      "chainId": "life",
+      "productName": "東海漬物 こくうま 熟うま辛キムチ",
+      "salePrice": 328,
+      "category": "vegetable",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261005-86993753145960-4-名城中華楼",
+      "chainId": "life",
+      "productName": "名城 中華楼",
+      "salePrice": 139,
+      "category": "noodle",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261005-86993753145960-5-キリクリーミーポー",
+      "chainId": "life",
+      "productName": "キリ クリーミーポーション",
+      "salePrice": 428,
+      "category": "dairy",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261005-86993753145960-6-明治チューブでバタ",
+      "chainId": "life",
+      "productName": "明治 チューブでバター1/3",
+      "salePrice": 258,
+      "category": "dairy",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261005-86993753145960-7-オハヨーカスタード",
+      "chainId": "life",
+      "productName": "オハヨー カスタードプリン",
+      "salePrice": 179,
+      "category": "dairy",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261005-86993753145960-8-雪印メグミルク雪印",
+      "chainId": "life",
+      "productName": "雪印メグミルク 雪印コーヒー",
+      "salePrice": 159,
+      "category": "beverage",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
+    },
+    {
+      "id": "life-20261005-86993753145960-9-井村屋あずきバー",
+      "chainId": "life",
+      "productName": "井村屋 あずきバー",
+      "salePrice": 238,
+      "category": "frozen",
+      "validFrom": "2026-10-13T15:00:00.000Z",
+      "validTo": "2026-10-17T14:59:59.999Z"
     }
   ],
   "fallbackToRules": false
