@@ -1,20 +1,38 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-10-13T22:00:26.554Z",
+  "fetchedAt": "2026-10-14T22:00:37.288Z",
   "periodDays": 14,
-  "totalArticles": 22,
+  "totalArticles": 19,
   "categoryBreakdown": {
     "beverage": 4,
     "bread": 4,
-    "oil": 1,
-    "legume": 1,
-    "snack": 1
+    "legume": 1
   },
   "articles": [
     {
-      "title": "明治、プロテイン「ザバス」値上げ - 佐賀経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wcjc4Y0VSODVvQmhGV1RGM21adVBMVkw2SGYydGFqS3VOcklhVFhubHpLVUlLYVhBbERDWWZaQ2pETDdqcUpsTEhnVTZNb2Y0?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 12:59:47 GMT",
+      "title": "FRB経済報告“物価上昇ペース加速地区も” 追加利上げ時期焦点",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261015de59538",
+      "pubDate": "Thu, 15 Oct 2026 06:13:52 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
+    {
+      "title": "米 9月の消費者物価 3.7％上昇 早期利上げ観測いくぶん高まる",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261014de59486",
+      "pubDate": "Thu, 15 Oct 2026 00:40:43 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
+    {
+      "title": "明治、プロテイン「ザバス」値上げ - 八王子経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WbkxjYXVmR0ZBb1RtZnpFM3ZEdTBKNWlFV2puMFMtd21DUmZaYWtNUXIyVVB2dFNJRUZ1T2V4aGczeEQtS0JTU3c4Y1R4VFY5bERGX3pB?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 13:24:17 GMT",
       "source": "GoogleNews 明治",
       "categories": [],
       "priceKeywords": [
@@ -63,7 +81,7 @@
     },
     {
       "title": "明治、プロテイン「ザバス」値上げ＝１２月から６〜１１％ - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SV085dlhmWHhwV2pJcmNDZG45Um95RFAzd0hHY2gtVkZicF9xVzZ3aW95eFhRUG9CZDgwMWVzWURKYXZRdWZqal9BNE12bkl1djBpbmxFbEt4X3plRlNwUkFlakZEWW9GT19aYVh3Q3c2Sm81bEtsYzczbW3SAYIBQVVfeXFMUGwyQW5MOVQtSFlXSVdqYm1WNUVuc0tCbkY0OFRGRHNZVFdFVXlFcm52bTVGdjVDMU43SWFRZC04amZpVG9lMndOckVyWWxlZGF6VHpIbW4tbVY3QWhlVTkwZlZQbkI4eVJYbWV1NXpPUEZqcUhUVUZuQXJXelNya2hSdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbDJBbkw5VC1IWVdJV2pibVY1RW5zS0JuRjQ4VEZEc1lUV0VVeUVybnZtNUZ2NUMxTjdJYVFkLThqZmlUb2Uyd05yRXJZbGVkYXpUekhtbi1tVjdBaGVVOTBmVlBuQjh5UlhtZXU1ek9QRmpxSFRVRm5Bcld6U3JraFJ30gGCAUFVX3lxTFBsMkFuTDlULUhZV0lXamJtVjVFbnNLQm5GNDhURkRzWVRXRVV5RXJudm01RnY1QzFON0lhUWQtOGpmaVRvZTJ3TnJFcllsZWRhelR6SG1uLW1WN0FoZVU5MGZWUG5COHlSWG1ldTV6T1BGanFIVFVGbkFyV3pTcmtoUnc?oc=5",
       "pubDate": "Tue, 13 Oct 2026 09:35:00 GMT",
       "source": "GoogleNews 明治",
       "categories": [],
@@ -121,16 +139,6 @@
       ]
     },
     {
-      "title": "家が買えない なぜ高騰している",
-      "link": "https://news.yahoo.co.jp/pickup/6598588?source=rss",
-      "pubDate": "Tue, 13 Oct 2026 02:19:22 GMT",
-      "source": "Yahoo!ニュース 経済",
-      "categories": [],
-      "priceKeywords": [
-        "高騰"
-      ]
-    },
-    {
       "title": "9月 企業物価指数 昨年同月比6.8%上昇 上昇率鈍化も高水準続く",
       "link": "https://news.web.nhk/newsweb/na/nd-20261013de58340",
       "pubDate": "Tue, 13 Oct 2026 11:16:00 +0900",
@@ -177,16 +185,6 @@
       ]
     },
     {
-      "title": "円相場 小幅に値下がり インフレ懸念で円が売られる",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56768",
-      "pubDate": "Thu, 08 Oct 2026 18:14:23 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "インフレ"
-      ]
-    },
-    {
       "title": "日清製粉、業務用小麦粉12月値上げ 政府売り渡し価格改定 - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40VmVhclV2ekxvVGNlTjZZU1I1TlI3cnlRSDBfaU51QkFmZE5uUjB4N1JXUVJkWTM0aXdqd2Z6RHc2SWQ1WkRvRFhfNUp1cTFwTldVZS1lXzNkc25qamt2bVc2cGNoVzB5R3UwcA?oc=5",
       "pubDate": "Thu, 08 Oct 2026 09:06:24 GMT",
@@ -197,28 +195,6 @@
       "priceKeywords": [
         "値上げ",
         "価格改定"
-      ]
-    },
-    {
-      "title": "株価 値下がり 原油先物価格の上昇で売り注文広がる",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56428",
-      "pubDate": "Thu, 08 Oct 2026 12:00:00 +0900",
-      "source": "NHK 経済",
-      "categories": [
-        "oil"
-      ],
-      "priceKeywords": [
-        "物価"
-      ]
-    },
-    {
-      "title": "FRB利上げ インフレ上振れに警戒感 多くが追加利上げ支持",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261008de56230",
-      "pubDate": "Thu, 08 Oct 2026 07:06:59 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "インフレ"
       ]
     },
     {
@@ -240,19 +216,6 @@
       "pubDate": "Thu, 01 Oct 2026 07:00:00 GMT",
       "source": "GoogleNews 包装資材",
       "categories": [],
-      "priceKeywords": [
-        "値上げ",
-        "品目"
-      ]
-    },
-    {
-      "title": "多くの商品が10～20円値上げ･･･6月から約900品目の食料品、菓子店でも影響が【新潟】 - UX新潟テレビ21",
-      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPNDhFWFN5V3FCeHFhbHRlYlFVMTAyX2NXSDJpUVFQVDFLREZEMzNsRWlTQnNUelphOFlwVFZ6WmJ6ZzExdGo1NjhlZWRVNW9zVUhvbmxidEJ4ZkU3RlNvZ0JvMjRZUkRiLTZDYUFVanlWOUw5UXFkSVBUR2QwdkdNMW9FcnN6UW04cC1TVDdwYjJmSHZsUWVtcnBCUU5VcVQ5QkllQ04yOV9lMGJYd3BYNkczWnRfSUtuUzBqb0pCSmw2RkFhelZNY3FMNlBOVU9SZ1lsN01SRC1wZDk1NnFUdmZIVVNjczNBT1AwZFVsdHFyLWkxY0F0ZG0tcnAzZklVemtEbVBuOHFfOHFVZXF0aUdBc2NnampJNTl2ZTFOd3gtSVZEN1lBaENGOXYyLVpMekY3Z3p1aEZ2cnNhQmh6OXNPb0VpZU9yMmN5VFVn?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 19:05:14 GMT",
-      "source": "GoogleNews 包装資材",
-      "categories": [
-        "snack"
-      ],
       "priceKeywords": [
         "値上げ",
         "品目"
