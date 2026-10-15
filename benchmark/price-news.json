@@ -1,14 +1,56 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-10-14T22:00:37.288Z",
+  "fetchedAt": "2026-10-15T22:00:31.617Z",
   "periodDays": 14,
-  "totalArticles": 19,
+  "totalArticles": 22,
   "categoryBreakdown": {
     "beverage": 4,
     "bread": 4,
     "legume": 1
   },
   "articles": [
+    {
+      "title": "アメリカ年末商戦売り上げ予測は4％増 インフレで節約志向も",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261016de60164",
+      "pubDate": "Fri, 16 Oct 2026 05:48:06 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "インフレ"
+      ]
+    },
+    {
+      "title": "円相場 値上がり 日銀委員の発言など受け",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261015de59986",
+      "pubDate": "Thu, 15 Oct 2026 18:36:42 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上がり"
+      ]
+    },
+    {
+      "title": "きょうのおはBiz 10月15日(木) 米消費者物価指数 高い伸び続く",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261015de59578",
+      "pubDate": "Thu, 15 Oct 2026 14:54:04 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
+    {
+      "title": "サイゼリヤ 原材料高騰などで10月29日から平均6％値上げ",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261015de59550",
+      "pubDate": "Thu, 15 Oct 2026 08:02:00 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ",
+        "高騰",
+        "原材料高"
+      ]
+    },
     {
       "title": "FRB経済報告“物価上昇ペース加速地区も” 追加利上げ時期焦点",
       "link": "https://news.web.nhk/newsweb/na/nd-20261015de59538",
@@ -22,7 +64,7 @@
     {
       "title": "米 9月の消費者物価 3.7％上昇 早期利上げ観測いくぶん高まる",
       "link": "https://news.web.nhk/newsweb/na/nd-20261014de59486",
-      "pubDate": "Thu, 15 Oct 2026 00:40:43 +0900",
+      "pubDate": "Thu, 15 Oct 2026 00:40:00 +0900",
       "source": "NHK 経済",
       "categories": [],
       "priceKeywords": [
@@ -30,9 +72,9 @@
       ]
     },
     {
-      "title": "明治、プロテイン「ザバス」値上げ - 八王子経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WbkxjYXVmR0ZBb1RtZnpFM3ZEdTBKNWlFV2puMFMtd21DUmZaYWtNUXIyVVB2dFNJRUZ1T2V4aGczeEQtS0JTU3c4Y1R4VFY5bERGX3pB?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 13:24:17 GMT",
+      "title": "明治、プロテイン「ザバス」値上げ (時事通信) - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVGE0LXVOY2duTHZRTlR2NElwRHpXV1RPRDV0UGZ5TEVfQWdudjhQTnJLcjgzeHd0cHYzRll2UzdzNGI5dFJ6Z1A3b2tNbXZ3RElNSkVhTmdLdWFub05qUnJ2a3RNZXZkZ1pvTENnNEEzNEpVTWw3MmQ2N0JUalFhVmVjMTl3a2xTYjdLRzJn?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 11:24:35 GMT",
       "source": "GoogleNews 明治",
       "categories": [],
       "priceKeywords": [
@@ -50,16 +92,6 @@
       ]
     },
     {
-      "title": "明治、プロテイン「ザバス」値上げ＝１２月から６～１１％【時事通信速報】 - 日本食糧新聞・電子版",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SbDhlMmJHZ3M0NnBIa204dTBDWUpta291VDU4SUNXenJsVXNkM3dpWUtlVnNtanU1S2VSWUl6cE0yWmF3dk44TUFLZzF5c3FKLThR?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 11:21:46 GMT",
-      "source": "GoogleNews 明治",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
       "title": "明治、プロテイン「ザバス」値上げ １２月から６～１１％：時事ドットコム - 時事ドットコム",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95N2QydnNrNjYzY1BRaEp0TXRScFM2VmI5MGpXTkVvbDlYc2o5T1NMM28wOWZqSUhfcWp6c09qRFZYZ0ctMlNpNS1hbTNtcDJwck9NMEhZdjNqSDMwSlk4LTVxTQ?oc=5",
       "pubDate": "Tue, 13 Oct 2026 09:35:00 GMT",
@@ -70,8 +102,8 @@
       ]
     },
     {
-      "title": "画像・写真：明治、プロテイン「ザバス」値上げ １２月から６～１１％：時事ドットコム - 時事ドットコム",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa0FBaFZzRWs0bDhiaFFNVVlmVzJkTWZJc19XZEhEWU5JeUNzQWczVllQVjJ4Mml4Z1JMbGhpOXQxWDRiZThwY1JOa0I5anNjanN3ak84cEZESlNmZXQ4dFFTbEJWZVk1bTFxNUo3bHdyWnJIeEdlQnBXbl9rR2pkdWFB?oc=5",
+      "title": "明治、プロテイン「ザバス」値上げ＝１２月から６～１１％ - 時事通信ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kY1gtYTdKRE11OFRvRHBnaUpOR1JVblNabUlpbTZMYkdLUExWWC12dmF5UkVQM0hSUnE4MXpuOW1Mc0JzZ1p5S1QyUkYwNU1Oa3ZBVg?oc=5",
       "pubDate": "Tue, 13 Oct 2026 09:35:00 GMT",
       "source": "GoogleNews 明治",
       "categories": [],
@@ -80,9 +112,19 @@
       ]
     },
     {
-      "title": "明治、プロテイン「ザバス」値上げ＝１２月から６〜１１％ - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbDJBbkw5VC1IWVdJV2pibVY1RW5zS0JuRjQ4VEZEc1lUV0VVeUVybnZtNUZ2NUMxTjdJYVFkLThqZmlUb2Uyd05yRXJZbGVkYXpUekhtbi1tVjdBaGVVOTBmVlBuQjh5UlhtZXU1ek9QRmpxSFRVRm5Bcld6U3JraFJ30gGCAUFVX3lxTFBsMkFuTDlULUhZV0lXamJtVjVFbnNLQm5GNDhURkRzWVRXRVV5RXJudm01RnY1QzFON0lhUWQtOGpmaVRvZTJ3TnJFcllsZWRhelR6SG1uLW1WN0FoZVU5MGZWUG5COHlSWG1ldTV6T1BGanFIVFVGbkFyV3pTcmtoUnc?oc=5",
+      "title": "画像・写真：明治、プロテイン「ザバス」値上げ １２月から６～１１％：時事ドットコム - 時事ドットコム",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWkFxSkpqV2lVd2QtSjVJeDF6dERZcUpORGdzSnUxOVlHN3V1VnkweHVwRGh4cXd3SEpzOXgzMkZpeTNpajlRdnhQYS1IVnZnc3dqcHhSTDVxRkJ5LS1rSkQ5WVoyVGZ0OW9hUzJkWWZ3NjdlOHhYNDJhb0RYdzVodk1B?oc=5",
       "pubDate": "Tue, 13 Oct 2026 09:35:00 GMT",
+      "source": "GoogleNews 明治",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "明治、ザバスのミルクプロテインなど22品を12月から値上げ - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pMm1TVWx0UFZfaE5IV1l4U3VDNHlxQWdlUFpiR0ZsYnBNRW10b3dmX0lqY0NvRkNHLXcydWFDNzFxSHRQQWdkSGZXX2drQjl1UGR0d2ZhWWl5cmlaczRvS3Z6VENpdXF3SnRxag?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 07:17:55 GMT",
       "source": "GoogleNews 明治",
       "categories": [],
       "priceKeywords": [
@@ -208,17 +250,6 @@
       "priceKeywords": [
         "値上げ",
         "高騰"
-      ]
-    },
-    {
-      "title": "飲食料品値上げ３０００品目超 １０月、包装資材高、円安響く - 日本農業新聞",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qN3pQbXZLZHYxdXM3dS1GVDhsRG1Sc2huRHN5WXFoMTZJdXlpNWdZTjRBQXlnSF8xdERXN0tKRFBHam1DUFFLSjIxY3pjTlF0dGlIdzZ1a1g?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 07:00:00 GMT",
-      "source": "GoogleNews 包装資材",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ",
-        "品目"
       ]
     }
   ]
