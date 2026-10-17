@@ -1,8 +1,8 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-10-16T22:00:30.937Z",
+  "fetchedAt": "2026-10-17T22:00:31.299Z",
   "periodDays": 14,
-  "totalArticles": 27,
+  "totalArticles": 24,
   "categoryBreakdown": {
     "beverage": 4,
     "bread": 4,
@@ -37,16 +37,6 @@
       "categories": [],
       "priceKeywords": [
         "値上がり"
-      ]
-    },
-    {
-      "title": "東海道新幹線のぞみ 来年値上げへ",
-      "link": "https://news.yahoo.co.jp/pickup/6598992?source=rss",
-      "pubDate": "Fri, 16 Oct 2026 06:31:21 GMT",
-      "source": "Yahoo!ニュース 経済",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
       ]
     },
     {
@@ -122,16 +112,6 @@
       ]
     },
     {
-      "title": "◎明治、プロテイン「ザバス」値上げ - 時事通信ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4RWM3OU9WWTBGTk44WWNTZGhmbm1xa1IyVUNYdFlnR2xpS3phVm9jZnpkT1ZJOUZNRXJWblgzdElUejdfOXA5UjcxcHJQOGdFRDR5bw?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 11:24:00 GMT",
-      "source": "GoogleNews 明治",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
       "title": "明治、プロテイン「ザバス」値上げ １２月から６～１１％：時事ドットコム - 時事ドットコム",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95N2QydnNrNjYzY1BRaEp0TXRScFM2VmI5MGpXTkVvbDlYc2o5T1NMM28wOWZqSUhfcWp6c09qRFZYZ0ctMlNpNS1hbTNtcDJwck9NMEhZdjNqSDMwSlk4LTVxTQ?oc=5",
       "pubDate": "Tue, 13 Oct 2026 09:35:00 GMT",
@@ -154,16 +134,6 @@
     {
       "title": "画像・写真：明治、プロテイン「ザバス」値上げ １２月から６～１１％：時事ドットコム - 時事ドットコム",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWkFxSkpqV2lVd2QtSjVJeDF6dERZcUpORGdzSnUxOVlHN3V1VnkweHVwRGh4cXd3SEpzOXgzMkZpeTNpajlRdnhQYS1IVnZnc3dqcHhSTDVxRkJ5LS1rSkQ5WVoyVGZ0OW9hUzJkWWZ3NjdlOHhYNDJhb0RYdzVodk1B?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 09:35:00 GMT",
-      "source": "GoogleNews 明治",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "明治、プロテイン「ザバス」値上げ＝１２月から６〜１１％ - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbDJBbkw5VC1IWVdJV2pibVY1RW5zS0JuRjQ4VEZEc1lUV0VVeUVybnZtNUZ2NUMxTjdJYVFkLThqZmlUb2Uyd05yRXJZbGVkYXpUekhtbi1tVjdBaGVVOTBmVlBuQjh5UlhtZXU1ek9QRmpxSFRVRm5Bcld6U3JraFJ30gGCAUFVX3lxTFBsMkFuTDlULUhZV0lXamJtVjVFbnNLQm5GNDhURkRzWVRXRVV5RXJudm01RnY1QzFON0lhUWQtOGpmaVRvZTJ3TnJFcllsZWRhelR6SG1uLW1WN0FoZVU5MGZWUG5COHlSWG1ldTV6T1BGanFIVFVGbkFyV3pTcmtoUnc?oc=5",
       "pubDate": "Tue, 13 Oct 2026 09:35:00 GMT",
       "source": "GoogleNews 明治",
       "categories": [],
@@ -265,18 +235,6 @@
       ]
     },
     {
-      "title": "日清製粉 12月から業務用小麦粉を値上げ（食品新聞） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45OUtUTldHeTNENlBycGJqNnZXbHdIS19YWlFQVGtXempXVDBBRDgzQkN6b1k4cVJwY1VKNHdEeEcxVkxwTmhHQXpfNlVjSnU3X1pNU2J6T0pMSXREZ01wVk84UTRfUjN0c0M4RWE4UXowbS1ROEdjRm4wVkFuOVU?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 14:22:16 GMT",
-      "source": "GoogleNews 日清製粉",
-      "categories": [
-        "bread"
-      ],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
       "title": "日清製粉、業務用小麦粉12月値上げ 政府売り渡し価格改定 - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40VmVhclV2ekxvVGNlTjZZU1I1TlI3cnlRSDBfaU51QkFmZE5uUjB4N1JXUVJkWTM0aXdqd2Z6RHc2SWQ1WkRvRFhfNUp1cTFwTldVZS1lXzNkc25qamt2bVc2cGNoVzB5R3UwcA?oc=5",
       "pubDate": "Thu, 08 Oct 2026 07:00:00 GMT",
@@ -287,6 +245,18 @@
       "priceKeywords": [
         "値上げ",
         "価格改定"
+      ]
+    },
+    {
+      "title": "日清製粉 12月から業務用小麦粉を値上げ（食品新聞） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45OUtUTldHeTNENlBycGJqNnZXbHdIS19YWlFQVGtXempXVDBBRDgzQkN6b1k4cVJwY1VKNHdEeEcxVkxwTmhHQXpfNlVjSnU3X1pNU2J6T0pMSXREZ01wVk84UTRfUjN0c0M4RWE4UXowbS1ROEdjRm4wVkFuOVU?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 07:00:00 GMT",
+      "source": "GoogleNews 日清製粉",
+      "categories": [
+        "bread"
+      ],
+      "priceKeywords": [
+        "値上げ"
       ]
     },
     {
