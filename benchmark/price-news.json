@@ -1,8 +1,8 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-10-17T22:00:31.299Z",
+  "fetchedAt": "2026-10-18T22:00:33.495Z",
   "periodDays": 14,
-  "totalArticles": 24,
+  "totalArticles": 25,
   "categoryBreakdown": {
     "beverage": 4,
     "bread": 4,
@@ -102,9 +102,19 @@
       ]
     },
     {
-      "title": "明治、プロテイン「ザバス」値上げ (時事通信) - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVGE0LXVOY2duTHZRTlR2NElwRHpXV1RPRDV0UGZ5TEVfQWdudjhQTnJLcjgzeHd0cHYzRll2UzdzNGI5dFJ6Z1A3b2tNbXZ3RElNSkVhTmdLdWFub05qUnJ2a3RNZXZkZ1pvTENnNEEzNEpVTWw3MmQ2N0JUalFhVmVjMTl3a2xTYjdLRzJn?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 11:24:35 GMT",
+      "title": "明治、プロテイン「ザバス」値上げ - 豊田経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TZUhWYktGTS1LUVkyeGJNRkZIYXlUSW1YWnhGTUlUNDZvNENtTlF5MGRoeDhnejROV3NRb2l1RG5YaGw1LWhmaEU0ZllJZTlYZzEw?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 13:19:25 GMT",
+      "source": "GoogleNews 明治",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "◎明治、プロテイン「ザバス」値上げ - 時事通信ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4RWM3OU9WWTBGTk44WWNTZGhmbm1xa1IyVUNYdFlnR2xpS3phVm9jZnpkT1ZJOUZNRXJWblgzdElUejdfOXA5UjcxcHJQOGdFRDR5bw?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 11:24:00 GMT",
       "source": "GoogleNews 明治",
       "categories": [],
       "priceKeywords": [
@@ -213,7 +223,7 @@
     {
       "title": "ニップン、12月から業務用小麦粉値上げ 政府売り渡し価格上昇受け - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10bGEzQjhCMmhWT1g4b2hLMjZ0aExYVWRqal90aE5INk5wNmpkaDFLdm82X25vczRmaXJTcnN6UlBJV0RNRHkwcWxpdUlKU01YR0hKTFJMWVVnTkhlWUQ0M0pmYnJtVjMzTU5HbA?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 03:20:04 GMT",
+      "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
       "source": "GoogleNews ニップン",
       "categories": [
         "bread"
