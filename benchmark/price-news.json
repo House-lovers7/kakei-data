@@ -1,14 +1,37 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-10-18T22:00:33.495Z",
+  "fetchedAt": "2026-10-19T22:00:31.236Z",
   "periodDays": 14,
-  "totalArticles": 25,
+  "totalArticles": 26,
   "categoryBreakdown": {
+    "oil": 1,
     "beverage": 4,
     "bread": 4,
     "legume": 1
   },
   "articles": [
+    {
+      "title": "ユニクロが値上げ 11商品を11月に",
+      "link": "https://news.yahoo.co.jp/pickup/6599401?source=rss",
+      "pubDate": "Mon, 19 Oct 2026 13:41:25 GMT",
+      "source": "Yahoo!ニュース 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "円相場 対ドルで小幅に値下がり 原油先物価格上昇傾向を背景に",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261019de61777",
+      "pubDate": "Mon, 19 Oct 2026 18:23:02 +0900",
+      "source": "NHK 経済",
+      "categories": [
+        "oil"
+      ],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
     {
       "title": "日銀植田総裁“物価2％超の上昇容認せず” 今後も利上げ進める",
       "link": "https://news.web.nhk/newsweb/na/nd-20261017de60794",
@@ -102,9 +125,9 @@
       ]
     },
     {
-      "title": "明治、プロテイン「ザバス」値上げ - 豊田経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TZUhWYktGTS1LUVkyeGJNRkZIYXlUSW1YWnhGTUlUNDZvNENtTlF5MGRoeDhnejROV3NRb2l1RG5YaGw1LWhmaEU0ZllJZTlYZzEw?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 13:19:25 GMT",
+      "title": "明治、プロテイン「ザバス」値上げ - 弘前経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QdGxSUkJTVE5HUzUyZFVlTFd6ZVZTMzJPYUEwUFlrY1NoRU9mWGl3eGVxbENZSWxRMnpzWnZfLThfSDBMS3oxVklXOU00MGluN1Q3TjFn?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 00:58:09 GMT",
       "source": "GoogleNews 明治",
       "categories": [],
       "priceKeywords": [
@@ -211,16 +234,6 @@
       ]
     },
     {
-      "title": "9月 企業物価指数 昨年同月比6.8%上昇 上昇率鈍化も高水準続く",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261013de58340",
-      "pubDate": "Tue, 13 Oct 2026 11:16:00 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "物価"
-      ]
-    },
-    {
       "title": "ニップン、12月から業務用小麦粉値上げ 政府売り渡し価格上昇受け - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10bGEzQjhCMmhWT1g4b2hLMjZ0aExYVWRqal90aE5INk5wNmpkaDFLdm82X25vczRmaXJTcnN6UlBJV0RNRHkwcWxpdUlKU01YR0hKTFJMWVVnTkhlWUQ0M0pmYnJtVjMzTU5HbA?oc=5",
       "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
@@ -272,7 +285,7 @@
     {
       "title": "｢ミツカン｣ 納豆“最大2割”の値上げへ パックや包装フィルムに使う｢ナフサ｣が高騰 きょうから販売休止商品も - TBS NEWS DIG",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMUWFwVW9hNkR2TXplX09Fdmc2ZzVhQXB0Q01KbExveTdpMmxDWURWRFZjd2s5Vkl3czBGV1hzTjdrRHViMld1TUtuMXYxTWQ3YWRLcW9GV3BoSGprdXc4?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 16:27:17 GMT",
+      "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT",
       "source": "GoogleNews ミツカン",
       "categories": [
         "legume"
