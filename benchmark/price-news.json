@@ -1,23 +1,24 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-10-19T22:00:31.236Z",
+  "fetchedAt": "2026-10-20T22:00:30.874Z",
   "periodDays": 14,
-  "totalArticles": 26,
+  "totalArticles": 21,
   "categoryBreakdown": {
-    "oil": 1,
+    "oil": 2,
     "beverage": 4,
-    "bread": 4,
-    "legume": 1
+    "bread": 1
   },
   "articles": [
     {
-      "title": "ユニクロが値上げ 11商品を11月に",
-      "link": "https://news.yahoo.co.jp/pickup/6599401?source=rss",
-      "pubDate": "Mon, 19 Oct 2026 13:41:25 GMT",
-      "source": "Yahoo!ニュース 経済",
-      "categories": [],
+      "title": "株価 一時1100円超値下がり 原油先物価格の上昇で",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261020de62200",
+      "pubDate": "Tue, 20 Oct 2026 16:14:12 +0900",
+      "source": "NHK 経済",
+      "categories": [
+        "oil"
+      ],
       "priceKeywords": [
-        "値上げ"
+        "物価"
       ]
     },
     {
@@ -125,19 +126,9 @@
       ]
     },
     {
-      "title": "明治、プロテイン「ザバス」値上げ - 弘前経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QdGxSUkJTVE5HUzUyZFVlTFd6ZVZTMzJPYUEwUFlrY1NoRU9mWGl3eGVxbENZSWxRMnpzWnZfLThfSDBMS3oxVklXOU00MGluN1Q3TjFn?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 00:58:09 GMT",
-      "source": "GoogleNews 明治",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "◎明治、プロテイン「ザバス」値上げ - 時事通信ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4RWM3OU9WWTBGTk44WWNTZGhmbm1xa1IyVUNYdFlnR2xpS3phVm9jZnpkT1ZJOUZNRXJWblgzdElUejdfOXA5UjcxcHJQOGdFRDR5bw?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 11:24:00 GMT",
+      "title": "明治、プロテイン「ザバス」値上げ - 豊田経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TZUhWYktGTS1LUVkyeGJNRkZIYXlUSW1YWnhGTUlUNDZvNENtTlF5MGRoeDhnejROV3NRb2l1RG5YaGw1LWhmaEU0ZllJZTlYZzEw?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 13:19:25 GMT",
       "source": "GoogleNews 明治",
       "categories": [],
       "priceKeywords": [
@@ -243,56 +234,6 @@
       ],
       "priceKeywords": [
         "値上げ"
-      ]
-    },
-    {
-      "title": "日清製粉Ｇ－3日続伸 業務用小麦粉を値上げ 12月19日納品分から - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QM182RHRFb0hXNWUydWRQUlZXRDVQZjJjbzdDQzFFd1pMM2wzRm5Kai0zVjhiS1FEaXlVZWJEYkYwS21BaGNCZnZSOTRqQUt6V2hnZ01sdmVCNUduMFUwRzQxZVVCMHBhaU5GZkdfWQ?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 18:09:00 GMT",
-      "source": "GoogleNews 日清製粉",
-      "categories": [
-        "bread"
-      ],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "日清製粉、業務用小麦粉12月値上げ 政府売り渡し価格改定 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40VmVhclV2ekxvVGNlTjZZU1I1TlI3cnlRSDBfaU51QkFmZE5uUjB4N1JXUVJkWTM0aXdqd2Z6RHc2SWQ1WkRvRFhfNUp1cTFwTldVZS1lXzNkc25qamt2bVc2cGNoVzB5R3UwcA?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 07:00:00 GMT",
-      "source": "GoogleNews 日清製粉",
-      "categories": [
-        "bread"
-      ],
-      "priceKeywords": [
-        "値上げ",
-        "価格改定"
-      ]
-    },
-    {
-      "title": "日清製粉 12月から業務用小麦粉を値上げ（食品新聞） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45OUtUTldHeTNENlBycGJqNnZXbHdIS19YWlFQVGtXempXVDBBRDgzQkN6b1k4cVJwY1VKNHdEeEcxVkxwTmhHQXpfNlVjSnU3X1pNU2J6T0pMSXREZ01wVk84UTRfUjN0c0M4RWE4UXowbS1ROEdjRm4wVkFuOVU?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 07:00:00 GMT",
-      "source": "GoogleNews 日清製粉",
-      "categories": [
-        "bread"
-      ],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "｢ミツカン｣ 納豆“最大2割”の値上げへ パックや包装フィルムに使う｢ナフサ｣が高騰 きょうから販売休止商品も - TBS NEWS DIG",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMUWFwVW9hNkR2TXplX09Fdmc2ZzVhQXB0Q01KbExveTdpMmxDWURWRFZjd2s5Vkl3czBGV1hzTjdrRHViMld1TUtuMXYxTWQ3YWRLcW9GV3BoSGprdXc4?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT",
-      "source": "GoogleNews ミツカン",
-      "categories": [
-        "legume"
-      ],
-      "priceKeywords": [
-        "値上げ",
-        "高騰"
       ]
     }
   ]
