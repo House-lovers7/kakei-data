@@ -1,15 +1,45 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-10-22T22:00:30.623Z",
+  "fetchedAt": "2026-10-23T22:00:29.198Z",
   "periodDays": 14,
-  "totalArticles": 25,
+  "totalArticles": 24,
   "categoryBreakdown": {
     "snack": 1,
-    "bread": 12,
+    "bread": 10,
     "oil": 3,
     "beverage": 1
   },
   "articles": [
+    {
+      "title": "9月消費者物価 前年同月比＋2.1％ 上昇幅2％超えは9か月ぶり",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de63991",
+      "pubDate": "Fri, 23 Oct 2026 19:48:10 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
+    {
+      "title": "円相場 値上がり",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64474",
+      "pubDate": "Fri, 23 Oct 2026 18:43:39 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上がり"
+      ]
+    },
+    {
+      "title": "物価上昇2%到達判断の公算大 日銀",
+      "link": "https://news.yahoo.co.jp/pickup/6599845?source=rss",
+      "pubDate": "Fri, 23 Oct 2026 09:37:44 GMT",
+      "source": "Yahoo!ニュース 経済",
+      "categories": [],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
     {
       "title": "値上げラッシュのお菓子業界で分かれる明暗。ブルボンは最高益、グリコ・不二家は苦戦…明治も減益に陥るワケ（SPA!） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VUWVTM0pnMTNHUGZrclRuQkNmZnBTdkRnQUxpX2Z2OGVSWlNOcHFxak5QUEx1UWljc1RoZGQ4NDdqODY1WmdLN1BsVlc3LXlWaXpDX21PbmdGOThabjVTRU9IaDJUWnZLb0JESnhoQ0VTR2ZwSHJRWU4zU194dXc?oc=5",
@@ -23,9 +53,9 @@
       ]
     },
     {
-      "title": "日清製粉ウェルナが来年1月に小麦粉や天ぷら粉など値上げ 政府の売渡価格引き上げ受けて - FNNプライムオンライン",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2S1Vjd2FHMkFSTUdWbTZOQ2doNlZKRzY2bUlLcklTeF9KNU9JUEZhbkxMenFrVkVERUlvaDNxbWJ5cXB3V0pLQ2ZBOUEtUQ?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 18:02:00 GMT",
+      "title": "日清製粉ウェルナが来年1月に小麦粉や天ぷら粉など値上げ 政府の売渡価格引き上げ受けて - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2MUVmY3Z3TzA0WG5rSlB3Y2UzYzRhdjVQY1VDT1RYQWkzMjFsbHJRY3l6RmpKZF9fTE1QMFpVV0M5Mk5uUXFqV3dQVllTNW5veDQzYVZ5TGlmdDFERmJvM3BVc0xRZC1vbmJzcG51d3JkQ0cwdGRPMVBEZ0VRNW8?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 18:04:19 GMT",
       "source": "GoogleNews 日清製粉",
       "categories": [
         "bread"
@@ -141,8 +171,8 @@
       ]
     },
     {
-      "title": "日清製粉ウェルナ、小麦粉製品1～9%値上げへ 来年1月納品分から - 朝日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrRE1nSmlOcGdYMkZqeHhYQ1E4anJZdmVEb3FHbTRfQ3pzak1hMVN5aDRmUGlJdWc0Q2JJMlJiYzJHWVZ1V3pnN0N0TjNhajdNdC1CZU43OGYwajhYZ1RnQWZlVFVwOWs?oc=5",
+      "title": "日清製粉ウェルナ、小麦粉製品1～9%値上げへ 来年1月納品分から（朝日新聞） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuUlM2VXZrWGFLWVBYZEc0enU4ZHp5UU5VaFRYS2xmYjl4WHVCdXE2LS1RU25ZeENtRC1rczZHMVd3NVRaZXI3X2lTNURJOVBCRzRQNnUwZmpyUTlCMXB5T3QxaElGSGpmU2hzRm9tT0U0NDJrUFlFRjhubXB3MzA?oc=5",
       "pubDate": "Wed, 21 Oct 2026 07:47:19 GMT",
       "source": "GoogleNews 日清製粉",
       "categories": [
@@ -185,26 +215,6 @@
       "categories": [
         "oil"
       ],
-      "priceKeywords": [
-        "物価"
-      ]
-    },
-    {
-      "title": "日銀植田総裁“物価2％超の上昇容認せず” 今後も利上げ進める",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261017de60794",
-      "pubDate": "Sat, 17 Oct 2026 05:01:00 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "物価"
-      ]
-    },
-    {
-      "title": "日銀植田総裁 今後も利上げ進める 2％の物価安定がより重要",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261017de60782",
-      "pubDate": "Sat, 17 Oct 2026 01:30:39 +0900",
-      "source": "NHK 経済",
-      "categories": [],
       "priceKeywords": [
         "物価"
       ]
@@ -277,30 +287,6 @@
       "pubDate": "Mon, 12 Oct 2026 12:29:03 GMT",
       "source": "GoogleNews 雪印メグミルク",
       "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "日清製粉Ｇ－3日続伸 業務用小麦粉を値上げ 12月19日納品分から(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS0YzOTE0U0p3M2k0UnJCOFNMZmhudWRfSnN0X3hTUkVlMFI4NzhqbDlwRllGVVBBdW11bXVrY2xIZ29NaWJIYnhwS2dDMXNFVndiVEVGY04ydEVKQ2NkWU1QMzIwb0dCdTdwQTFEMnJsdWNQc3E1TWp3VnVBbl8xa01VQV8xOGc?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "source": "GoogleNews 日清製粉",
-      "categories": [
-        "bread"
-      ],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "ニップン、12月から業務用小麦粉値上げ 政府売り渡し価格上昇受け - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10bGEzQjhCMmhWT1g4b2hLMjZ0aExYVWRqal90aE5INk5wNmpkaDFLdm82X25vczRmaXJTcnN6UlBJV0RNRHkwcWxpdUlKU01YR0hKTFJMWVVnTkhlWUQ0M0pmYnJtVjMzTU5HbA?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "source": "GoogleNews ニップン",
-      "categories": [
-        "bread"
-      ],
       "priceKeywords": [
         "値上げ"
       ]
