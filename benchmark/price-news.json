@@ -1,15 +1,25 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-10-24T22:00:30.012Z",
+  "fetchedAt": "2026-10-25T22:00:37.910Z",
   "periodDays": 14,
   "totalArticles": 26,
   "categoryBreakdown": {
     "snack": 1,
     "bread": 9,
-    "oil": 3,
+    "oil": 2,
     "beverage": 5
   },
   "articles": [
+    {
+      "title": "日銀10月会合 政策を維持する見通し 2%物価到達が焦点",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261025de65328",
+      "pubDate": "Mon, 26 Oct 2026 06:03:35 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
     {
       "title": "9月消費者物価 前年同月比＋2.1％ 上昇幅2％超えは9か月ぶり",
       "link": "https://news.web.nhk/newsweb/na/nd-20261023de63991",
@@ -82,8 +92,8 @@
       ]
     },
     {
-      "title": "家庭用小麦粉など値上げ＝来年１月から―日清製粉ウェルナ - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tYzZBY3NXOEdsY05RTFpZNFhiQ3BKOVdlVmhrdG1IeG9URlVhVE1OcklaRmd2cGdzLWxhT01IWV8wWnZMQjkxZTJ3NkZtOWhHZElZckpkMURYTldjaFZSNGJTYmwzYVlRRUozNDY2WWxFbUVjSTQzM3FYZkbSAYIBQVVfeXFMUEt3WmdXeGJjbWZZTUV0a2pjQ1RSaHJSaWdSS2ZldUxqTUZMLXcwVWh6X3RNUzV5bjlHeTVobmtFS3JidGNBb1dFWnBUbkZEX2haTmk5THFnN2EzVkpYR3M5b2xXUlZKMklwS3BDcnh1WkZsMGVWSjVmUC1ZZFZKOGsxdw?oc=5",
+      "title": "家庭用小麦粉など値上げ＝来年１月から―日清製粉ウェルナ - 時事通信ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRnlVdmx0UnRrcko5aktwQ25DSEx5aTFQbzV6REp3OHFzbE9BTDFWTzNkcE4waXEyWUhkbU1OUkQ2NW9PRzluRldVMjJmeEYwMUtMaQ?oc=5",
       "pubDate": "Wed, 21 Oct 2026 10:59:00 GMT",
       "source": "GoogleNews 日清製粉",
       "categories": [
@@ -176,18 +186,6 @@
       "title": "株価 一時1100円超値下がり 原油先物価格の上昇で",
       "link": "https://news.web.nhk/newsweb/na/nd-20261020de62200",
       "pubDate": "Tue, 20 Oct 2026 16:14:12 +0900",
-      "source": "NHK 経済",
-      "categories": [
-        "oil"
-      ],
-      "priceKeywords": [
-        "物価"
-      ]
-    },
-    {
-      "title": "円相場 対ドルで小幅に値下がり 原油先物価格上昇傾向を背景に",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261019de61777",
-      "pubDate": "Mon, 19 Oct 2026 18:23:02 +0900",
       "source": "NHK 経済",
       "categories": [
         "oil"
