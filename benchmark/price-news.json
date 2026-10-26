@@ -1,12 +1,12 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-10-25T22:00:37.910Z",
+  "fetchedAt": "2026-10-26T22:00:34.210Z",
   "periodDays": 14,
-  "totalArticles": 26,
+  "totalArticles": 25,
   "categoryBreakdown": {
     "snack": 1,
     "bread": 9,
-    "oil": 2,
+    "oil": 1,
     "beverage": 5
   },
   "articles": [
@@ -92,9 +92,9 @@
       ]
     },
     {
-      "title": "家庭用小麦粉など値上げ＝来年１月から―日清製粉ウェルナ - 時事通信ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRnlVdmx0UnRrcko5aktwQ25DSEx5aTFQbzV6REp3OHFzbE9BTDFWTzNkcE4waXEyWUhkbU1OUkQ2NW9PRzluRldVMjJmeEYwMUtMaQ?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 10:59:00 GMT",
+      "title": "日清製粉ウェルナ、家庭用小麦粉など値上げ（時事通信） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tMmhvUUN6OXNma1QxZTU0U0FoaDAwaTdYQzJTVkcycjZaRlRiZW1Xejdra3BHUUZmX3o3R2VtMEczZkQwZm96YzE4U0lrUVc2cTBib1NON3FQWmp0VHNGcnZKODAtVlpIangxOTl2Q3ZuOUVCS1hjX29JZk9RX0E?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 11:00:51 GMT",
       "source": "GoogleNews 日清製粉",
       "categories": [
         "bread"
@@ -106,7 +106,7 @@
     },
     {
       "title": "家庭用小麦粉など値上げ 来年１月から―日清製粉ウェルナ - 時事ドットコム",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV1BONE9ib3hZLTA2RFlnWVhqTXVRY0ZUSVMwLWUxMkdfU1A2UjRZYzNVZy11UHNSZ01ORVpRYjU1OWpYODFrX1ZMRjdZdEJINmRPZ3V1bm52SkIzRDhtZlFVNThFY0F1aENjR1pEYVN6NDdwWDdGSW1LcXNLZHhESnB3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WZXFVcGktVmRhMlhWYlVGRVJRanNNWEhnV3duU09WbUJsQktCZWxPTHBMUW54Z3V4NVR4QjM0ZTZkUDdsRWdWR1FZOXBiUVZ3S3R3LUlPV0RRaVVkRFhmekFaSQ?oc=5",
       "pubDate": "Wed, 21 Oct 2026 10:59:00 GMT",
       "source": "GoogleNews 日清製粉",
       "categories": [
@@ -118,8 +118,8 @@
       ]
     },
     {
-      "title": "日清製粉ウェルナ、家庭用小麦粉など値上げ - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTM09hMDVUbW92dlFEYmVmRm4wa0lZSzlTNHBKaUpoTTh2bnBuVnhuYzBuY0pOQ0k1aDYtUzNid21Td184ci1ZUGx6QkJWc0JOYWt2Z3YzRnhDWmphbjNrZXdSOU1RU2o1SE5vMzJhUXdrVkUwMkh4bkwxb9IBgAFBVV95cUxNU3MzZHVyVHptWC1acTMxMTZZQVF0a2R2aGxUR3poSHc0MndDVDRyYWNxTHh3c3E0by1aS0RmSC1MSEk3MFFKczI3eE1fTXNKOUNpMXhWZUZnN3BRcUhxTGhyVHZZOTJyY2hjb1ZwSE1rc19jNmZpQ09kZko4U1ozYQ?oc=5",
+      "title": "家庭用小麦粉など値上げ＝来年１月から―日清製粉ウェルナ - Excite エキサイト",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NS211Q00zZXZiRUQ1aWF3YzhNTFJIMG0wX3UtNng1bjdRdWxWNGZDMjBJX1JETUhpZEJiZTBSM09ObHo5NFMwVUNURTFESjczeUZwV1Y3NVk5aU1oRDFV?oc=5",
       "pubDate": "Wed, 21 Oct 2026 10:59:00 GMT",
       "source": "GoogleNews 日清製粉",
       "categories": [
@@ -183,21 +183,9 @@
       ]
     },
     {
-      "title": "株価 一時1100円超値下がり 原油先物価格の上昇で",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261020de62200",
-      "pubDate": "Tue, 20 Oct 2026 16:14:12 +0900",
-      "source": "NHK 経済",
-      "categories": [
-        "oil"
-      ],
-      "priceKeywords": [
-        "物価"
-      ]
-    },
-    {
-      "title": "明治、プロテイン「ザバス」値上げ - 八王子経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WbkxjYXVmR0ZBb1RtZnpFM3ZEdTBKNWlFV2puMFMtd21DUmZaYWtNUXIyVVB2dFNJRUZ1T2V4aGczeEQtS0JTU3c4Y1R4VFY5bERGX3pB?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 13:24:17 GMT",
+      "title": "明治、プロテイン「ザバス」値上げ - 福井経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80QzJ4X3NWb0N1aWpFUWpfeVBBTF9WX1lyM09LUDJrWTNHb3ZNUm1hd2ZuQUZydUp3czVnNFJqZGRvZnpfWEZzVFA4bllEX01RUXc?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 16:41:53 GMT",
       "source": "GoogleNews 明治",
       "categories": [],
       "priceKeywords": [
@@ -272,6 +260,16 @@
       ]
     },
     {
+      "title": "明治、プロテイン「ザバス」値上げ 12月から6～11％（時事通信） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xYi1SUUhRTFRMSzVtemxaOWUtd25WYXVyd1FOZmctLXoyUV9wdll4V0MxdFlHb3VjNmRGektzVk5oSVV3YTM4Rzk0YXNJT004OG40dkpNaDVlTXNTY21ram9JOFRlYm5ldjhqY2piUmZQNXNmY2JETjJJeTRSdUk?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT",
+      "source": "GoogleNews 明治",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
       "title": "明治、プロテイン飲料を価格改定 「ザバス」など22品対象 - モデルプレス",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTdGYyd1VwenpvWEIxWkxMSmUwQWVTQWw3WXJZRUxqaTg2d2hpRWF3bktWV1BEbHY2ZDlpc21SOTRidnAyb1ZWWFprV3J0VzjSAUtBVV95cUxQY3JubjRTeEdISVRqZ0toRU10N3BnR3FMbGZ1RV80S3hlekkxZnRZcXh5TWZHMGdCWk5TZ0l6Z19KWjlTel9PSGFXelk?oc=5",
       "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT",
@@ -301,16 +299,6 @@
       "categories": [
         "beverage"
       ],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "雪印メグ、育児用粉ミルク3年ぶりに値上げ - 酪農乳業速報",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9iQlNUb2g1bmpNb1A3MUlURE5GTFZYWVRsdFZ2M0ozaUNyNWpOYk9YSml5S3hLcW1RVGVTcHVTV3ZPd2syYkRoc1JZaw?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 12:29:03 GMT",
-      "source": "GoogleNews 雪印メグミルク",
-      "categories": [],
       "priceKeywords": [
         "値上げ"
       ]
