@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-24T21:22:06.319Z",
+  "fetchedAt": "2026-10-27T21:17:45.559Z",
   "sales": [
     {
       "id": "life-20260928-40448952888142-0-BIORAL長期",
@@ -1193,6 +1193,141 @@
       "category": "beverage",
       "validFrom": "2026-10-24T15:00:00.000Z",
       "validTo": "2026-10-28T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261022-77286753613724-0-白たまご",
+      "chainId": "mandai",
+      "productName": "白たまご",
+      "salePrice": 198,
+      "category": "egg",
+      "validFrom": "2026-10-27T15:00:00.000Z",
+      "validTo": "2026-10-31T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261022-77286753613724-1-三元豚小切れ",
+      "chainId": "mandai",
+      "productName": "三元豚小切れ",
+      "salePrice": 98,
+      "category": "meat",
+      "validFrom": "2026-10-27T15:00:00.000Z",
+      "validTo": "2026-10-31T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261022-77286753613724-2-じゃがいも",
+      "chainId": "mandai",
+      "productName": "じゃがいも",
+      "salePrice": 98,
+      "category": "vegetable",
+      "validFrom": "2026-10-27T15:00:00.000Z",
+      "validTo": "2026-10-31T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261022-77286753613724-3-玉ねぎ",
+      "chainId": "mandai",
+      "productName": "玉ねぎ",
+      "salePrice": 98,
+      "category": "vegetable",
+      "validFrom": "2026-10-27T15:00:00.000Z",
+      "validTo": "2026-10-31T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261022-77286753613724-4-人参",
+      "chainId": "mandai",
+      "productName": "人参",
+      "salePrice": 158,
+      "category": "vegetable",
+      "validFrom": "2026-10-27T15:00:00.000Z",
+      "validTo": "2026-10-31T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261022-77286753613724-5-トマト",
+      "chainId": "mandai",
+      "productName": "トマト",
+      "salePrice": 398,
+      "category": "vegetable",
+      "validFrom": "2026-10-27T15:00:00.000Z",
+      "validTo": "2026-10-31T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261022-77286753613724-6-シャインマスカット",
+      "chainId": "mandai",
+      "productName": "シャインマスカット",
+      "salePrice": 798,
+      "category": "fruit",
+      "validFrom": "2026-10-27T15:00:00.000Z",
+      "validTo": "2026-10-31T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261022-77286753613724-7-アトランティックサー",
+      "chainId": "mandai",
+      "productName": "アトランティックサーモン お造り用",
+      "salePrice": 358,
+      "category": "fish",
+      "validFrom": "2026-10-27T15:00:00.000Z",
+      "validTo": "2026-10-31T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261022-77286753613724-8-お造り用生真だこ",
+      "chainId": "mandai",
+      "productName": "お造り用 生真だこ",
+      "salePrice": 258,
+      "category": "fish",
+      "validFrom": "2026-10-27T15:00:00.000Z",
+      "validTo": "2026-10-31T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261022-77286753613724-9-日本ハムシャウエッ",
+      "chainId": "mandai",
+      "productName": "日本ハム シャウエッセン",
+      "salePrice": 258,
+      "category": "meat",
+      "validFrom": "2026-10-27T15:00:00.000Z",
+      "validTo": "2026-10-31T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261022-77286753613724-10-伊藤ハムグランドア",
+      "chainId": "mandai",
+      "productName": "伊藤ハム グランドアルトバイエルン",
+      "salePrice": 328,
+      "category": "meat",
+      "validFrom": "2026-10-27T15:00:00.000Z",
+      "validTo": "2026-10-31T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261022-77286753613724-11-キャベツ",
+      "chainId": "mandai",
+      "productName": "キャベツ",
+      "salePrice": 158,
+      "category": "vegetable",
+      "validFrom": "2026-10-27T15:00:00.000Z",
+      "validTo": "2026-10-31T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261022-77286753613724-12-ブロッコリー",
+      "chainId": "mandai",
+      "productName": "ブロッコリー",
+      "salePrice": 108,
+      "category": "vegetable",
+      "validFrom": "2026-10-27T15:00:00.000Z",
+      "validTo": "2026-10-31T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261022-77286753613724-13-日清オイリオヘルシ",
+      "chainId": "mandai",
+      "productName": "日清オイリオ ヘルシーオフ",
+      "salePrice": 258,
+      "category": "seasoning",
+      "validFrom": "2026-10-27T15:00:00.000Z",
+      "validTo": "2026-10-31T14:59:59.999Z"
+    },
+    {
+      "id": "mandai-20261022-77286753613724-14-キューピーマヨネー",
+      "chainId": "mandai",
+      "productName": "キューピー マヨネーズ",
+      "salePrice": 278,
+      "category": "seasoning",
+      "validFrom": "2026-10-27T15:00:00.000Z",
+      "validTo": "2026-10-31T14:59:59.999Z"
     }
   ],
   "fallbackToRules": false

@@ -1,15 +1,55 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-10-26T22:00:34.210Z",
+  "fetchedAt": "2026-10-27T22:00:33.687Z",
   "periodDays": 14,
-  "totalArticles": 25,
+  "totalArticles": 17,
   "categoryBreakdown": {
-    "snack": 1,
-    "bread": 9,
-    "oil": 1,
-    "beverage": 5
+    "bread": 10,
+    "snack": 1
   },
   "articles": [
+    {
+      "title": "ユニクロ、ソックスの値上げ中止＝まとめ買いも継続 - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVFVSZndOb2RUbUtpbDV1S2xKSzNsVWZ1VmFXQ2dxSlBqb3F0VDNGVDlfdmxWbVZ3cThieGkzSllZUVpMbkYzNmRDNEpYV3VkYnVoMW1zTlJsZWlkcTc5UmNjQ29hVlhTc1lMTmRITV9CVXdJbXNVdVA5eFhxZi1kRTZn0gGCAUFVX3lxTE9UVVJmd05vZFRtS2lsNXVLbEpLM2xVZnVWYVdDZ3FKUGpvcXRUM0ZUOV92bFZtVndxOGJ4aTNKWVlRWkxuRjM2ZEM0SlhXdWRidWgxbXNOUmxlaWRxNzlSY2NDb2FWWFNzWUxOZEhNX0JVd0ltc1V1UDl4WHFmLWRFNmc?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 12:17:00 GMT",
+      "source": "GoogleNews 日清製粉",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "ユニクロ 50色ソックス値上げ撤回",
+      "link": "https://news.yahoo.co.jp/pickup/6600339?source=rss",
+      "pubDate": "Tue, 27 Oct 2026 11:42:48 GMT",
+      "source": "Yahoo!ニュース 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "山崎製パン、来年１月から２７６品値上げ - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObUdQRUtPVlFXcXNrajBuemVoZ1ZWRnBEblFnd2xJNXFiVTV5X2NKY1pfSlQyTjVaRnlTbVVfNnNlQ0JhanBNZ2s3VmcwMzhpd1pFOTBfaERrSWEwOTdzV1ZvTC1leUU0R2g4OFkxNU5nel9jaHFFWWFEd2xUWnkwS9IBgAFBVV95cUxObUdQRUtPVlFXcXNrajBuemVoZ1ZWRnBEblFnd2xJNXFiVTV5X2NKY1pfSlQyTjVaRnlTbVVfNnNlQ0JhanBNZ2s3VmcwMzhpd1pFOTBfaERrSWEwOTdzV1ZvTC1leUU0R2g4OFkxNU5nel9jaHFFWWFEd2xUWnkwSw?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 10:51:00 GMT",
+      "source": "GoogleNews 日清製粉",
+      "categories": [
+        "bread"
+      ],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "株価 値上がり 米AI企業上場向け書類の公開で",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66214",
+      "pubDate": "Tue, 27 Oct 2026 17:15:29 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上がり"
+      ]
+    },
     {
       "title": "日銀10月会合 政策を維持する見通し 2%物価到達が焦点",
       "link": "https://news.web.nhk/newsweb/na/nd-20261025de65328",
@@ -41,9 +81,9 @@
       ]
     },
     {
-      "title": "値上げラッシュのお菓子業界で分かれる明暗。ブルボンは最高益、グリコ・不二家は苦戦…明治も減益に陥るワケ（SPA!） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VUWVTM0pnMTNHUGZrclRuQkNmZnBTdkRnQUxpX2Z2OGVSWlNOcHFxak5QUEx1UWljc1RoZGQ4NDdqODY1WmdLN1BsVlc3LXlWaXpDX21PbmdGOThabjVTRU9IaDJUWnZLb0JESnhoQ0VTR2ZwSHJRWU4zU194dXc?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 23:53:02 GMT",
+      "title": "値上げラッシュのお菓子業界で分かれる明暗。ブルボンは最高益、グリコ・不二家は苦戦…明治も減益に陥るワケ - ニコニコニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VaElraUdXSG9tWGFYdzF0a2tXbkR5SlN5MDNJS1pwT1FadGE5dVkzcHkzY2pXeUpoVTE5TWtkY1NlX0I3SmJiLVlENlhzdnd1b1lvVg?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 00:12:07 GMT",
       "source": "GoogleNews 明治",
       "categories": [
         "snack"
@@ -164,140 +204,6 @@
       "source": "GoogleNews 日清製粉",
       "categories": [
         "bread"
-      ],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "株価 値上がり 原油先物価格の下落を受け",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261021de62714",
-      "pubDate": "Wed, 21 Oct 2026 12:12:00 +0900",
-      "source": "NHK 経済",
-      "categories": [
-        "oil"
-      ],
-      "priceKeywords": [
-        "値上がり",
-        "物価"
-      ]
-    },
-    {
-      "title": "明治、プロテイン「ザバス」値上げ - 福井経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80QzJ4X3NWb0N1aWpFUWpfeVBBTF9WX1lyM09LUDJrWTNHb3ZNUm1hd2ZuQUZydUp3czVnNFJqZGRvZnpfWEZzVFA4bllEX01RUXc?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 16:41:53 GMT",
-      "source": "GoogleNews 明治",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "明治、12月1日出荷分よりスポーツ栄養（プロテイン飲料）を値上げ - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JYjFKZHF0cFJraVBjY0JNeVQ5OFRkQlRYZmVEZGEzNGU5TTgzbFJkQ1FWc1ZLb3NKYjNFWGJUaDI2c1RGVVpRdXNpMVlDSS12VzE4WDl3S09JQVYtT2daOGhzZ2hOdXMyeGU1NA?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT",
-      "source": "GoogleNews 明治",
-      "categories": [
-        "beverage"
-      ],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "明治、プロテイン「ザバス」値上げ １２月から６～１１％：時事ドットコム - 時事ドットコム",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95N2QydnNrNjYzY1BRaEp0TXRScFM2VmI5MGpXTkVvbDlYc2o5T1NMM28wOWZqSUhfcWp6c09qRFZYZ0ctMlNpNS1hbTNtcDJwck9NMEhZdjNqSDMwSlk4LTVxTQ?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT",
-      "source": "GoogleNews 明治",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "明治 プロテイン飲料22品値上げ 12月出荷分から6～11％ - 食品新聞 WEB版",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92YXh5bUlYbl9QblJKVDJXbjl4djhZejcxcE16SDZ0eUJ5Q0Q2UlhTZFdBNGhxaDJvZ2xiZE9VVngxdXBxNWlaSU1hMEF0cS1HUUZnTlRpOWVrVE53TlllSlY2aEZNbWstZkREaA?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT",
-      "source": "GoogleNews 明治",
-      "categories": [
-        "beverage"
-      ],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "明治、タンパク原料高騰でザバス飲料値上げ - 酪農乳業速報",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fX2VPclFoRUx6VWx4TzhQdmxxYkNWV0xHZlRtVVBNa1VQTU1aYnJoZ3hjU0NJWi0wTVBvclFydDExcDZGT05nTU1vT04?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT",
-      "source": "GoogleNews 明治",
-      "categories": [
-        "beverage"
-      ],
-      "priceKeywords": [
-        "値上げ",
-        "高騰"
-      ]
-    },
-    {
-      "title": "明治、ザバスのミルクプロテインなど22品を12月から値上げ - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pMm1TVWx0UFZfaE5IV1l4U3VDNHlxQWdlUFpiR0ZsYnBNRW10b3dmX0lqY0NvRkNHLXcydWFDNzFxSHRQQWdkSGZXX2drQjl1UGR0d2ZhWWl5cmlaczRvS3Z6VENpdXF3SnRxag?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT",
-      "source": "GoogleNews 明治",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "画像・写真：明治、プロテイン「ザバス」値上げ １２月から６～１１％：時事ドットコム - 時事ドットコム",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWkFxSkpqV2lVd2QtSjVJeDF6dERZcUpORGdzSnUxOVlHN3V1VnkweHVwRGh4cXd3SEpzOXgzMkZpeTNpajlRdnhQYS1IVnZnc3dqcHhSTDVxRkJ5LS1rSkQ5WVoyVGZ0OW9hUzJkWWZ3NjdlOHhYNDJhb0RYdzVodk1B?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT",
-      "source": "GoogleNews 明治",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "明治、プロテイン「ザバス」値上げ 12月から6～11％（時事通信） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xYi1SUUhRTFRMSzVtemxaOWUtd25WYXVyd1FOZmctLXoyUV9wdll4V0MxdFlHb3VjNmRGektzVk5oSVV3YTM4Rzk0YXNJT004OG40dkpNaDVlTXNTY21ram9JOFRlYm5ldjhqY2piUmZQNXNmY2JETjJJeTRSdUk?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT",
-      "source": "GoogleNews 明治",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "明治、プロテイン飲料を価格改定 「ザバス」など22品対象 - モデルプレス",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTdGYyd1VwenpvWEIxWkxMSmUwQWVTQWw3WXJZRUxqaTg2d2hpRWF3bktWV1BEbHY2ZDlpc21SOTRidnAyb1ZWWFprV3J0VzjSAUtBVV95cUxQY3JubjRTeEdISVRqZ0toRU10N3BnR3FMbGZ1RV80S3hlekkxZnRZcXh5TWZHMGdCWk5TZ0l6Z19KWjlTel9PSGFXelk?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT",
-      "source": "GoogleNews 明治",
-      "categories": [
-        "beverage"
-      ],
-      "priceKeywords": [
-        "価格改定"
-      ]
-    },
-    {
-      "title": "明治、プロテイン「ザバス」値上げ＝１２月から６～１１％ - 時事通信ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44bXpRMXlOQ0xTWU1HRXdJd3J3cXZQNHIyRDh1bEV1eG05ZGpvSjZlM3RyUTZHc19ZcGUwbng4U3VNb3NnbEp0bk9pT0YzZktMZjVyRXE5VnBaX3B0OFE?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT",
-      "source": "GoogleNews 明治",
-      "categories": [],
-      "priceKeywords": [
-        "値上げ"
-      ]
-    },
-    {
-      "title": "明治 プロテイン飲料22品値上げ 12月出荷分から6～11％｜Infoseekニュース - Infoseek",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16dHFyNkl0YlVzRnpfUVZNOHdJQ1RrZVdPN09NVjBsWG94bkdrX3IzMkNIaHNnSWhhbTJBOUswU3ZuUGp4X3FoUXBnZUNoaEpfYU1odG5VWE93VFpIOTczamhB?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT",
-      "source": "GoogleNews 明治",
-      "categories": [
-        "beverage"
       ],
       "priceKeywords": [
         "値上げ"
