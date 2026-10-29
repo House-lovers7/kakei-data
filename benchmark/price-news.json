@@ -1,13 +1,23 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-10-28T22:00:46.138Z",
+  "fetchedAt": "2026-10-29T22:00:31.406Z",
   "periodDays": 14,
-  "totalArticles": 17,
+  "totalArticles": 14,
   "categoryBreakdown": {
     "snack": 1,
     "bread": 7
   },
   "articles": [
+    {
+      "title": "日銀 政策金利維持の見通し 2％物価目標 到達の判断が焦点",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261029de68131",
+      "pubDate": "Fri, 30 Oct 2026 05:05:14 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
     {
       "title": "円相場 1ドル＝157円台後半に一時値上がり FRB議長会見を受け",
       "link": "https://news.web.nhk/newsweb/na/nd-20261029de67462",
@@ -26,16 +36,6 @@
       "categories": [],
       "priceKeywords": [
         "値上がり"
-      ]
-    },
-    {
-      "title": "昆布・かつお節が高騰 飲食店悲鳴",
-      "link": "https://news.yahoo.co.jp/pickup/6600385?source=rss",
-      "pubDate": "Wed, 28 Oct 2026 01:00:43 GMT",
-      "source": "Yahoo!ニュース 経済",
-      "categories": [],
-      "priceKeywords": [
-        "高騰"
       ]
     },
     {
@@ -69,26 +69,6 @@
       ]
     },
     {
-      "title": "9月消費者物価 前年同月比＋2.1％ 上昇幅2％超えは9か月ぶり",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261023de63991",
-      "pubDate": "Fri, 23 Oct 2026 19:48:10 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "物価"
-      ]
-    },
-    {
-      "title": "円相場 値上がり",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64474",
-      "pubDate": "Fri, 23 Oct 2026 18:43:39 +0900",
-      "source": "NHK 経済",
-      "categories": [],
-      "priceKeywords": [
-        "値上がり"
-      ]
-    },
-    {
       "title": "値上げラッシュのお菓子業界で分かれる明暗。ブルボンは最高益、グリコ・不二家は苦戦…明治も減益に陥るワケ - ニコニコニュース",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VaElraUdXSG9tWGFYdzF0a2tXbkR5SlN5MDNJS1pwT1FadGE5dVkzcHkzY2pXeUpoVTE5TWtkY1NlX0I3SmJiLVlENlhzdnd1b1lvVg?oc=5",
       "pubDate": "Thu, 22 Oct 2026 00:12:07 GMT",
@@ -101,9 +81,9 @@
       ]
     },
     {
-      "title": "日清製粉ウェルナが来年1月に小麦粉や天ぷら粉など値上げ 政府の売渡価格引き上げ受けて - FNNプライムオンライン",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2S1Vjd2FHMkFSTUdWbTZOQ2doNlZKRzY2bUlLcklTeF9KNU9JUEZhbkxMenFrVkVERUlvaDNxbWJ5cXB3V0pLQ2ZBOUEtUQ?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 18:02:00 GMT",
+      "title": "日清製粉ウェルナが来年1月に小麦粉や天ぷら粉など値上げ 政府の売渡価格引き上げ受けて（FNNプライムオンライン） - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4TEZsb01LejJrZVZKSVRkRjVPbmdvNFRvTHZ2UXkyYWxyUWx2cmxDQlFMN1U4Q3U3VkFpZVhyOTFvbFpUSXRHc0RWYS1ZQlloQVNkYTVpclNJYXMtMXdQZjdseUFWZkoxS1BGZjJfZzJ0Zw?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 18:09:55 GMT",
       "source": "GoogleNews 日清製粉",
       "categories": [
         "bread"
@@ -127,9 +107,9 @@
       ]
     },
     {
-      "title": "日清製粉ウェルナ、家庭用小麦粉など値上げ（時事通信） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tMmhvUUN6OXNma1QxZTU0U0FoaDAwaTdYQzJTVkcycjZaRlRiZW1Xejdra3BHUUZmX3o3R2VtMEczZkQwZm96YzE4U0lrUVc2cTBib1NON3FQWmp0VHNGcnZKODAtVlpIangxOTl2Q3ZuOUVCS1hjX29JZk9RX0E?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 11:00:51 GMT",
+      "title": "家庭用小麦粉など値上げ＝来年１月から―日清製粉ウェルナ【時事通信速報】 - 日本食糧新聞・電子版",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xNE5XUXAwOHZXd3g1bXh1dFljUTMyOGNKQUE4UzYwWjg0bzVMT3dJM1NpUVdIZ0s5UjhsUUhEeWNhc1RoR09Dd0hzSmZWNnRWTmZv?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 11:17:33 GMT",
       "source": "GoogleNews 日清製粉",
       "categories": [
         "bread"
@@ -140,8 +120,8 @@
       ]
     },
     {
-      "title": "家庭用小麦粉など値上げ 来年１月から―日清製粉ウェルナ - 時事ドットコム",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WZXFVcGktVmRhMlhWYlVGRVJRanNNWEhnV3duU09WbUJsQktCZWxPTHBMUW54Z3V4NVR4QjM0ZTZkUDdsRWdWR1FZOXBiUVZ3S3R3LUlPV0RRaVVkRFhmekFaSQ?oc=5",
+      "title": "◎日清製粉ウェルナ、家庭用小麦粉など値上げ - 時事通信ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YOWFVREdZYURHX3JGeEpXQlJheEhVUkQ2LU9SejJGR3JfRnJKUkt0MHJ5cWEyZXVtcEZIbmFabmxsZVFUZHhFVUVwYl9yZGNMaVdFcg?oc=5",
       "pubDate": "Wed, 21 Oct 2026 10:59:00 GMT",
       "source": "GoogleNews 日清製粉",
       "categories": [
@@ -149,20 +129,6 @@
       ],
       "priceKeywords": [
         "値上げ",
-        "家庭用"
-      ]
-    },
-    {
-      "title": "日清製粉ウェルナ、家庭用小麦粉など71品目を最大14%値上げ 27年1月納品分から - BigGo ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42NkFveHlaNXROSVdES2hUamJlQUNHMDdwQXE1TjJMMXpEVW1LT3VmZTZjNnZoNFVZbEh3SUdUeVRSRTRSdVdsZ00ya2U2TEE0bXBmSXl1aU9nN25xYWlqN2NZZGVabTVSTU82VmhaTU1UdDJ5?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 09:25:00 GMT",
-      "source": "GoogleNews 日清製粉",
-      "categories": [
-        "bread"
-      ],
-      "priceKeywords": [
-        "値上げ",
-        "品目",
         "家庭用"
       ]
     },
@@ -192,13 +158,17 @@
       ]
     },
     {
-      "title": "EC事業者にも影響大？ ダンボール最大手レンゴーが板紙・紙加工品の値上げを発表 - ネットショップ担当者フォーラム",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QMDZrZVpaelRyWGZxc3lhZXk3cXRXdjRGWHhBX3czNWdwXzREWFNhU2FMQW9WelZhREpFZ0VpUXhlaVRSVUt3cExaOFdDLXJiNXIwQWdWVXFjTFVH?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT",
-      "source": "GoogleNews 包装資材",
-      "categories": [],
+      "title": "日清製粉ウェルナ、家庭用小麦粉など71品目を最大14%値上げ 27年1月納品分から - BigGo ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42NkFveHlaNXROSVdES2hUamJlQUNHMDdwQXE1TjJMMXpEVW1LT3VmZTZjNnZoNFVZbEh3SUdUeVRSRTRSdVdsZ00ya2U2TEE0bXBmSXl1aU9nN25xYWlqN2NZZGVabTVSTU82VmhaTU1UdDJ5?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "source": "GoogleNews 日清製粉",
+      "categories": [
+        "bread"
+      ],
       "priceKeywords": [
-        "値上げ"
+        "値上げ",
+        "品目",
+        "家庭用"
       ]
     }
   ]
