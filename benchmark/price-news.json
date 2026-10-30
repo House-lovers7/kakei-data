@@ -1,17 +1,92 @@
 {
   "source": "news-aggregator",
-  "fetchedAt": "2026-10-29T22:00:31.406Z",
+  "fetchedAt": "2026-10-30T22:00:27.301Z",
   "periodDays": 14,
-  "totalArticles": 14,
+  "totalArticles": 22,
   "categoryBreakdown": {
+    "seasoning": 1,
     "snack": 1,
-    "bread": 7
+    "bread": 8
   },
   "articles": [
     {
+      "title": "日銀 物価2％到達で定着に軸足移す 利上げどう進めるか焦点",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261031de68799",
+      "pubDate": "Sat, 31 Oct 2026 05:01:25 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
+    {
+      "title": "東京メトロ 2029年3月に運賃値上げへ “値上げ幅は今後検討”",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68726",
+      "pubDate": "Fri, 30 Oct 2026 19:49:26 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ"
+      ]
+    },
+    {
+      "title": "日銀 政策金利据え置き 物価2％「ひとつの節目」 利上げは継続",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68221",
+      "pubDate": "Fri, 30 Oct 2026 19:31:00 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
+    {
+      "title": "11月の食品値上げ1400品目 高水準続く だいこんなども高値予想",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68255",
+      "pubDate": "Fri, 30 Oct 2026 18:11:09 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "値上げ",
+        "品目"
+      ]
+    },
+    {
+      "title": "11月の食品値上げ品目は前年の10倍 キユーピーマヨネーズ、たけのこの里、伊右衛門など1477品目 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SNUNmMnpBcl9ybE53b2RTYlpFRVNteDRxSDNweDRxWEdCbnFsUW9LVkMxd1ZZSEVhRVJnd0k4UXFUTGh2TkkxX0RhVXhBLWZpMHpiaWlvMEY2LVJlcXJyS0JSNk9YMTZTdHRuWFlmaE9uckF3eXRhS2JMQnlVUUU?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 05:00:41 GMT",
+      "source": "GoogleNews キユーピー",
+      "categories": [
+        "seasoning"
+      ],
+      "priceKeywords": [
+        "値上げ",
+        "品目"
+      ]
+    },
+    {
+      "title": "物価上昇目標2%に到達 日銀見解",
+      "link": "https://news.yahoo.co.jp/pickup/6600672?source=rss",
+      "pubDate": "Fri, 30 Oct 2026 04:03:56 GMT",
+      "source": "Yahoo!ニュース 経済",
+      "categories": [],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
+    {
+      "title": "東京23区の10月の消費者物価指数 前年同月比2.6％上昇",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68190",
+      "pubDate": "Fri, 30 Oct 2026 10:57:50 +0900",
+      "source": "NHK 経済",
+      "categories": [],
+      "priceKeywords": [
+        "物価"
+      ]
+    },
+    {
       "title": "日銀 政策金利維持の見通し 2％物価目標 到達の判断が焦点",
       "link": "https://news.web.nhk/newsweb/na/nd-20261029de68131",
-      "pubDate": "Fri, 30 Oct 2026 05:05:14 +0900",
+      "pubDate": "Fri, 30 Oct 2026 05:05:00 +0900",
       "source": "NHK 経済",
       "categories": [],
       "priceKeywords": [
@@ -81,9 +156,9 @@
       ]
     },
     {
-      "title": "日清製粉ウェルナが来年1月に小麦粉や天ぷら粉など値上げ 政府の売渡価格引き上げ受けて（FNNプライムオンライン） - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4TEZsb01LejJrZVZKSVRkRjVPbmdvNFRvTHZ2UXkyYWxyUWx2cmxDQlFMN1U4Q3U3VkFpZVhyOTFvbFpUSXRHc0RWYS1ZQlloQVNkYTVpclNJYXMtMXdQZjdseUFWZkoxS1BGZjJfZzJ0Zw?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 18:09:55 GMT",
+      "title": "日清製粉ウェルナが来年1月に小麦粉や天ぷら粉など値上げ 政府の売渡価格引き上げ受けて - FNNプライムオンライン",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2S1Vjd2FHMkFSTUdWbTZOQ2doNlZKRzY2bUlLcklTeF9KNU9JUEZhbkxMenFrVkVERUlvaDNxbWJ5cXB3V0pLQ2ZBOUEtUQ?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 18:02:00 GMT",
       "source": "GoogleNews 日清製粉",
       "categories": [
         "bread"
@@ -120,22 +195,9 @@
       ]
     },
     {
-      "title": "◎日清製粉ウェルナ、家庭用小麦粉など値上げ - 時事通信ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YOWFVREdZYURHX3JGeEpXQlJheEhVUkQ2LU9SejJGR3JfRnJKUkt0MHJ5cWEyZXVtcEZIbmFabmxsZVFUZHhFVUVwYl9yZGNMaVdFcg?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 10:59:00 GMT",
-      "source": "GoogleNews 日清製粉",
-      "categories": [
-        "bread"
-      ],
-      "priceKeywords": [
-        "値上げ",
-        "家庭用"
-      ]
-    },
-    {
-      "title": "日清製粉ウェルナ、家庭用小麦粉など71品値上げへ 27年1月から - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQWHBOd3JiUV9ubmY5NGtGYjZ4c2pxRUFwQk5Ea2hGMWJ6WV82VkVBSUxZRko0eDNBN3JlR3doTDN0UVdYZE45bG5OUENvUEV4cVFXX3FWaUcyWFJqVUVQN19jSlFROEdtRVM5YQ?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 08:55:02 GMT",
+      "title": "日清製粉ウェルナ、家庭用小麦粉など値上げ（時事通信） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tMmhvUUN6OXNma1QxZTU0U0FoaDAwaTdYQzJTVkcycjZaRlRiZW1Xejdra3BHUUZmX3o3R2VtMEczZkQwZm96YzE4U0lrUVc2cTBib1NON3FQWmp0VHNGcnZKODAtVlpIangxOTl2Q3ZuOUVCS1hjX29JZk9RX0E?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 11:00:51 GMT",
       "source": "GoogleNews 日清製粉",
       "categories": [
         "bread"
@@ -148,13 +210,39 @@
     {
       "title": "日清製粉ウェルナ、小麦粉製品1～9%値上げへ 来年1月納品分から - 朝日新聞",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrRE1nSmlOcGdYMkZqeHhYQ1E4anJZdmVEb3FHbTRfQ3pzak1hMVN5aDRmUGlJdWc0Q2JJMlJiYzJHWVZ1V3pnN0N0TjNhajdNdC1CZU43OGYwajhYZ1RnQWZlVFVwOWs?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 07:47:19 GMT",
+      "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
       "source": "GoogleNews 日清製粉",
       "categories": [
         "bread"
       ],
       "priceKeywords": [
         "値上げ"
+      ]
+    },
+    {
+      "title": "日清製粉ウェルナ、家庭用小麦粉など71品値上げへ 27年1月から - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQWHBOd3JiUV9ubmY5NGtGYjZ4c2pxRUFwQk5Ea2hGMWJ6WV82VkVBSUxZRko0eDNBN3JlR3doTDN0UVdYZE45bG5OUENvUEV4cVFXX3FWaUcyWFJqVUVQN19jSlFROEdtRVM5YQ?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "source": "GoogleNews 日清製粉",
+      "categories": [
+        "bread"
+      ],
+      "priceKeywords": [
+        "値上げ",
+        "家庭用"
+      ]
+    },
+    {
+      "title": "家庭用小麦粉など値上げ 来年１月から―日清製粉ウェルナ - 時事ドットコム",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV1BONE9ib3hZLTA2RFlnWVhqTXVRY0ZUSVMwLWUxMkdfU1A2UjRZYzNVZy11UHNSZ01ORVpRYjU1OWpYODFrX1ZMRjdZdEJINmRPZ3V1bm52SkIzRDhtZlFVNThFY0F1aENjR1pEYVN6NDdwWDdGSW1LcXNLZHhESnB3?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "source": "GoogleNews 日清製粉",
+      "categories": [
+        "bread"
+      ],
+      "priceKeywords": [
+        "値上げ",
+        "家庭用"
       ]
     },
     {
