@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T22:00:27.912Z",
+  "generatedAt": "2026-10-31T22:00:30.977Z",
   "season": {
     "declaredFrom": "2026-04-22",
     "declaredTo": "2026-10-21",
     "inService": false,
-    "note": "提供期間外のため暑さ指数の提供はありません"
+    "note": "オフシーズンのため暑さ指数の提供はありません"
   },
   "sources": {
     "wbgt": {
